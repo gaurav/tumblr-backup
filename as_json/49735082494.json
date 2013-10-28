@@ -1,0 +1,45 @@
+{
+   "conversation-text" : "person: she--\r\nme: it's he.\r\nperson: *condescending smile* well, on your birth certificate--\r\nme: yeah, it also says ' 8lbs, 6 oz ' -- a lot has changed over the years",
+   "conversation-title" : null,
+   "date" : "Sun, 05 May 2013 18:53:10",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/49735082494/person-she-me-its-he-person",
+   "date-gmt" : "2013-05-06 00:53:10 GMT",
+   "mobile" : 0,
+   "conversation" : [
+      {
+         "name" : "person",
+         "label" : "person:",
+         "phrase" : "she--\r"
+      },
+      {
+         "name" : "me",
+         "label" : "me:",
+         "phrase" : "it's he.\r"
+      },
+      {
+         "name" : "person",
+         "label" : "person:",
+         "phrase" : "*condescending smile* well, on your birth certificate--\r"
+      },
+      {
+         "name" : "me",
+         "label" : "me:",
+         "phrase" : "yeah, it also says ' 8lbs, 6 oz ' -- a lot has changed over the years"
+      }
+   ],
+   "slug" : "person-she-me-its-he-person",
+   "url" : "http://tumblr.ggvaidya.com/post/49735082494",
+   "id" : "49735082494",
+   "from-feed-id" : 0,
+   "bookmarklet" : 0,
+   "feed-item" : "",
+   "reblog-key" : "GyUCUNvR",
+   "tags" : [
+      "haha",
+      "lgbt"
+   ],
+   "format" : "html",
+   "type" : "conversation",
+   "unix-timestamp" : 1367801590
+}
+
