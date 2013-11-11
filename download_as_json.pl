@@ -9,6 +9,8 @@ use Data::Dumper;
 use LWP::UserAgent;
 use JSON;
 
+use Try::Tiny;
+
 # SETTINGS
 our $NUM_PER_REQUEST = 50;
 our $JSON_DIR = "as_json";
@@ -46,7 +48,13 @@ while(1) {
     $content =~ s/^__callback__\((.*)\);$/$1/g;
 
     # Parse as JSON.
-    my $json = from_json($content);
+    my $json;
+    try {
+        $json = from_json($content);
+    } catch {
+        warn "Error '$_' while processing post: <<$content>>";
+        continue;
+    };
     $total_posts = $json->{'posts-total'};
 
     my @posts = @{$json->{'posts'}};
