@@ -4,10 +4,10 @@
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/66540634863/orions-up",
    "reblog-key" : "IvIRcdqR",
    "feed-item" : "",
-   "bookmarklet" : null,
+   "bookmarklet" : 0,
    "date-gmt" : "2013-11-10 05:20:35 GMT",
    "regular-title" : null,
-   "mobile" : null,
+   "mobile" : 0,
    "tags" : [
       "life",
       "orion",
@@ -20,7 +20,7 @@
    "format" : "html",
    "slug" : "orions-up",
    "url" : "http://tumblr.ggvaidya.com/post/66540634863",
-   "id" : 66540634863,
+   "id" : "66540634863",
    "type" : "regular",
    "regular-body" : "<p>Orion&#8217;s up.</p>",
    "unix-timestamp" : 1384060835

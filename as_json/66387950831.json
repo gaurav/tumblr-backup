@@ -4,7 +4,7 @@
    "date" : "Fri, 08 Nov 2013 11:57:10",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/66387950831/my-tardis",
    "date-gmt" : "2013-11-08 18:57:10 GMT",
-   "mobile" : null,
+   "mobile" : 0,
    "conversation" : [
       {
          "name" : "DOCTOR",
@@ -134,9 +134,9 @@
    ],
    "slug" : "my-tardis",
    "url" : "http://tumblr.ggvaidya.com/post/66387950831",
-   "id" : 66387950831,
+   "id" : "66387950831",
    "from-feed-id" : 0,
-   "bookmarklet" : null,
+   "bookmarklet" : 0,
    "feed-item" : "",
    "reblog-key" : "tpMmzVpJ",
    "tags" : [
