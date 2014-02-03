@@ -8,9 +8,9 @@
    "slug" : "a-gorgeous-poem-beautifully-read-and-about-a",
    "url" : "http://tumblr.ggvaidya.com/post/61831054624",
    "id" : "61831054624",
-   "audio-player" : "<iframe src=\"https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F86296352&amp;liking=false&amp;sharing=false&origin=tumblr\" frameborder=\"0\" allowtransparency=\"true\" class=\"soundcloud_audio_player\" width=\"500\" height=\"116\"></iframe>",
+   "audio-player" : "<iframe src=\"https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F86296352&amp;visual=true&amp;liking=false&amp;sharing=false&amp;auto_play=false&amp;show_comments=false&amp;continuous_play=false&amp;origin=tumblr\" frameborder=\"0\" allowtransparency=\"true\" class=\"soundcloud_audio_player\" width=\"500\" height=\"500\"></iframe>",
    "from-feed-id" : 0,
-   "audio-embed" : "<iframe src=\"https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F86296352&amp;liking=false&amp;sharing=false&origin=tumblr\" frameborder=\"0\" allowtransparency=\"true\" class=\"soundcloud_audio_player\" width=\"500\" height=\"116\"></iframe>",
+   "audio-embed" : "<iframe src=\"https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F86296352&amp;visual=true&amp;liking=false&amp;sharing=false&amp;auto_play=false&amp;show_comments=false&amp;continuous_play=false&amp;origin=tumblr\" frameborder=\"0\" allowtransparency=\"true\" class=\"soundcloud_audio_player\" width=\"500\" height=\"500\"></iframe>",
    "bookmarklet" : 1,
    "feed-item" : "",
    "reblog-key" : "U136Mts3",
@@ -22,7 +22,7 @@
    ],
    "format" : "html",
    "type" : "audio",
-   "audio-plays" : 0,
+   "audio-plays" : 456,
    "unix-timestamp" : 1379747685
 }
 
