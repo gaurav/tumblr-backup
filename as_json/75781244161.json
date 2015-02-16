@@ -1,27 +1,27 @@
 {
-   "date" : "Thu, 06 Feb 2014 00:59:00",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/75781244161/weirdly-enough-i-dont-actually-get-this-song",
-   "video-player" : false,
-   "date-gmt" : "2014-02-06 07:59:00 GMT",
-   "mobile" : 0,
-   "video-player-500" : false,
-   "slug" : "weirdly-enough-i-dont-actually-get-this-song",
-   "url" : "http://tumblr.ggvaidya.com/post/75781244161",
-   "id" : "75781244161",
-   "video-player-250" : false,
-   "from-feed-id" : 0,
+   "type" : "video",
    "bookmarklet" : 0,
-   "feed-item" : "",
+   "video-caption" : "<p>Weirdly enough, I don&#8217;t actually get this song stuck in my head when I&#8217;m actually blue. Just when I&#8217;m kind of tired and mellow, like right now.</p>",
+   "video-player-250" : false,
+   "date-gmt" : "2014-02-06 07:59:00 GMT",
+   "url" : "http://tumblr.ggvaidya.com/post/75781244161",
+   "mobile" : 0,
    "reblog-key" : "JR0pdXuy",
+   "video-source" : "http://www.youtube.com/watch?v=09OyUHugdFc",
+   "date" : "Thu, 06 Feb 2014 00:59:00",
+   "id" : "75781244161",
+   "from-feed-id" : 0,
+   "unix-timestamp" : 1391673540,
+   "slug" : "weirdly-enough-i-dont-actually-get-this-song",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/75781244161/weirdly-enough-i-dont-actually-get-this-song",
    "tags" : [
       "me",
       "sita sings the blues",
       "am i blue"
    ],
-   "video-source" : "http://www.youtube.com/watch?v=09OyUHugdFc",
    "format" : "html",
-   "video-caption" : "<p>Weirdly enough, I don&#8217;t actually get this song stuck in my head when I&#8217;m actually blue. Just when I&#8217;m kind of tired and mellow, like right now.</p>",
-   "type" : "video",
-   "unix-timestamp" : 1391673540
+   "video-player" : false,
+   "feed-item" : "",
+   "video-player-500" : false
 }
 

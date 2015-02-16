@@ -1,25 +1,25 @@
 {
-   "date" : "Thu, 14 Mar 2013 11:15:33",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/45351922215/goodmorningvelma-okay-but-we-need-to-talk-about",
-   "video-player" : false,
-   "date-gmt" : "2013-03-14 17:15:33 GMT",
-   "mobile" : 0,
-   "video-player-500" : false,
-   "slug" : "goodmorningvelma-okay-but-we-need-to-talk-about",
-   "url" : "http://tumblr.ggvaidya.com/post/45351922215",
-   "id" : "45351922215",
-   "video-player-250" : false,
-   "from-feed-id" : 0,
+   "type" : "video",
    "bookmarklet" : 0,
-   "feed-item" : "",
+   "date-gmt" : "2013-03-14 17:15:33 GMT",
+   "video-player-250" : false,
+   "video-caption" : "<p><a href=\"http://goodmorningvelma.tumblr.com/post/45259263072/okay-but-we-need-to-talk-about-how-great-this\" class=\"tumblr_blog\">goodmorningvelma</a>:</p>\n\n<blockquote><p>Okay but we need to talk about how great this video is. Itâs the Japanese Coast Guard Band playing âA Cruel Angelâs Thesis,â AKA the Evangelion theme, and it is SO GREAT.</p>\n<p>(Probably everyone in the world who cares has seen this already, but Iâm only just watching Eva now [I know! IÂ <em>know!</em>], so.)</p></blockquote>",
    "reblog-key" : "GszL4ibj",
+   "mobile" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/45351922215",
+   "date" : "Thu, 14 Mar 2013 11:15:33",
+   "video-source" : "http://www.youtube.com/watch?v=rGSCzGWws3Q",
    "tags" : [
       "neon genesis evangelion"
    ],
-   "video-source" : "http://www.youtube.com/watch?v=rGSCzGWws3Q",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/45351922215/goodmorningvelma-okay-but-we-need-to-talk-about",
+   "slug" : "goodmorningvelma-okay-but-we-need-to-talk-about",
+   "from-feed-id" : 0,
+   "unix-timestamp" : 1363281333,
+   "id" : "45351922215",
+   "feed-item" : "",
+   "video-player" : false,
    "format" : "html",
-   "video-caption" : "<p><a href=\"http://goodmorningvelma.tumblr.com/post/45259263072/okay-but-we-need-to-talk-about-how-great-this\" class=\"tumblr_blog\">goodmorningvelma</a>:</p>\n\n<blockquote><p>Okay but we need to talk about how great this video is. Itâs the Japanese Coast Guard Band playing âA Cruel Angelâs Thesis,â AKA the Evangelion theme, and it is SO GREAT.</p>\n<p>(Probably everyone in the world who cares has seen this already, but Iâm only just watching Eva now [I know! IÂ <em>know!</em>], so.)</p></blockquote>",
-   "type" : "video",
-   "unix-timestamp" : 1363281333
+   "video-player-500" : false
 }
 

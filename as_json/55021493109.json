@@ -1,26 +1,26 @@
 {
-   "date" : "Tue, 09 Jul 2013 13:45:51",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/55021493109/google-amazon-platforms-accessibility",
-   "date-gmt" : "2013-07-09 19:45:51 GMT",
-   "mobile" : 0,
-   "slug" : "google-amazon-platforms-accessibility",
-   "url" : "http://tumblr.ggvaidya.com/post/55021493109",
-   "id" : "55021493109",
+   "link-url" : "https://gist.github.com/chitchcock/1281611",
    "link-description" : "<p>Some day I&#8217;ll get around to actually quoting nice bits out of this article and sharing it properly &amp;c., but I just came across this (a year and a half after it was published, I know), and it is <em>brilliant</em> IMO. If you haven&#8217;t read it yet, but have anything to do with software engineering, building, or any interest in computers at all really, please read it. I might change my mind later but for right now, it seems brilliant to me.</p>",
-   "from-feed-id" : 0,
-   "bookmarklet" : 0,
-   "feed-item" : "",
+   "date-gmt" : "2013-07-09 19:45:51 GMT",
+   "url" : "http://tumblr.ggvaidya.com/post/55021493109",
    "reblog-key" : "qzdsSn4z",
+   "mobile" : 0,
+   "type" : "link",
+   "bookmarklet" : 0,
+   "link-text" : "Google, Amazon, platforms, Accessibility",
+   "format" : "html",
+   "feed-item" : "",
+   "date" : "Tue, 09 Jul 2013 13:45:51",
+   "id" : "55021493109",
+   "from-feed-id" : 0,
+   "unix-timestamp" : 1373399151,
+   "slug" : "google-amazon-platforms-accessibility",
    "tags" : [
       "software engineering",
       "building software",
       "software",
       "computers"
    ],
-   "link-text" : "Google, Amazon, platforms, Accessibility",
-   "format" : "html",
-   "link-url" : "https://gist.github.com/chitchcock/1281611",
-   "type" : "link",
-   "unix-timestamp" : 1373399151
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/55021493109/google-amazon-platforms-accessibility"
 }
 

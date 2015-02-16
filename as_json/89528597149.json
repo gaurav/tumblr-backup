@@ -1,15 +1,11 @@
 {
-   "conversation-text" : "Frank: Itâs that kind of talk that will spur me to make you a drink, as a reward for marrying well!\r\nSadie: I did marry well, didnât I?\r\nFrank: Not as well as I did, but very nearly.",
    "conversation-title" : null,
-   "date" : "Sat, 21 Jun 2014 23:58:30",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/89528597149/frank-its-that-kind-of-talk-that-will-spur-me-to",
-   "date-gmt" : "2014-06-22 05:58:30 GMT",
-   "mobile" : 0,
+   "bookmarklet" : 0,
    "conversation" : [
       {
-         "name" : "Frank",
+         "phrase" : "Itâs that kind of talk that will spur me to make you a drink, as a reward for marrying well!\r",
          "label" : "Frank:",
-         "phrase" : "Itâs that kind of talk that will spur me to make you a drink, as a reward for marrying well!\r"
+         "name" : "Frank"
       },
       {
          "name" : "Sadie",
@@ -17,24 +13,28 @@
          "phrase" : "I did marry well, didnât I?\r"
       },
       {
-         "name" : "Frank",
          "label" : "Frank:",
+         "name" : "Frank",
          "phrase" : "Not as well as I did, but very nearly."
       }
    ],
-   "slug" : "frank-its-that-kind-of-talk-that-will-spur-me-to",
-   "url" : "http://tumblr.ggvaidya.com/post/89528597149",
-   "id" : "89528597149",
-   "from-feed-id" : 0,
-   "bookmarklet" : 0,
-   "feed-item" : "",
+   "type" : "conversation",
+   "date-gmt" : "2014-06-22 05:58:30 GMT",
+   "mobile" : 0,
    "reblog-key" : "hNbD6DXr",
+   "url" : "http://tumblr.ggvaidya.com/post/89528597149",
+   "date" : "Sat, 21 Jun 2014 23:58:30",
+   "conversation-text" : "Frank: Itâs that kind of talk that will spur me to make you a drink, as a reward for marrying well!\r\nSadie: I did marry well, didnât I?\r\nFrank: Not as well as I did, but very nearly.",
+   "slug" : "frank-its-that-kind-of-talk-that-will-spur-me-to",
    "tags" : [
       "aww",
       "relationships"
    ],
-   "format" : "html",
-   "type" : "conversation",
-   "unix-timestamp" : 1403416710
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/89528597149/frank-its-that-kind-of-talk-that-will-spur-me-to",
+   "id" : "89528597149",
+   "from-feed-id" : 0,
+   "unix-timestamp" : 1403416710,
+   "feed-item" : "",
+   "format" : "html"
 }
 

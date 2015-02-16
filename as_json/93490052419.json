@@ -1,17 +1,11 @@
 {
-   "date" : "Fri, 01 Aug 2014 04:55:42",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/93490052419/the-waters-always-near-you-say-and-so-are-you",
-   "date-gmt" : "2014-08-01 10:55:42 GMT",
-   "mobile" : 0,
-   "quote-text" : "The waterâs always near,<br/>\nyou say. And so are you,<br/>\nfor now. It has to do.<br/>\nThereâs little left to fear.",
-   "slug" : "the-waters-always-near-you-say-and-so-are-you",
-   "url" : "http://tumblr.ggvaidya.com/post/93490052419",
-   "id" : "93490052419",
-   "from-feed-id" : 0,
-   "quote-source" : "Randall Mann, <em><a href=\"http://www.poetryfoundation.org/poetrymagazine/poem/146726\">Bernal Hill</a></em>, Poetry Magazine, January 2005 (via <a href=\"http://tumblr.ggvaidya.com/\" class=\"tumblr_blog\">mrvaidya</a>)",
+   "type" : "quote",
    "bookmarklet" : 0,
-   "feed-item" : "",
+   "mobile" : 0,
    "reblog-key" : "lhtSzRjG",
+   "quote-text" : "The waterâs always near,<br/>\nyou say. And so are you,<br/>\nfor now. It has to do.<br/>\nThereâs little left to fear.",
+   "url" : "http://tumblr.ggvaidya.com/post/93490052419",
+   "date-gmt" : "2014-08-01 10:55:42 GMT",
    "tags" : [
       "just",
       "poetry",
@@ -19,8 +13,14 @@
       "me",
       "life"
    ],
-   "format" : "html",
-   "type" : "quote",
-   "unix-timestamp" : 1406890542
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/93490052419/the-waters-always-near-you-say-and-so-are-you",
+   "slug" : "the-waters-always-near-you-say-and-so-are-you",
+   "unix-timestamp" : 1406890542,
+   "from-feed-id" : 0,
+   "id" : "93490052419",
+   "date" : "Fri, 01 Aug 2014 04:55:42",
+   "quote-source" : "Randall Mann, <em><a href=\"http://www.poetryfoundation.org/poetrymagazine/poem/146726\">Bernal Hill</a></em>, Poetry Magazine, January 2005 (via <a href=\"http://tumblr.ggvaidya.com/\" class=\"tumblr_blog\">mrvaidya</a>)",
+   "feed-item" : "",
+   "format" : "html"
 }
 

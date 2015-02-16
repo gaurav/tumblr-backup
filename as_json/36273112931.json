@@ -1,22 +1,22 @@
 {
-   "date" : "Thu, 22 Nov 2012 01:05:13",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/36273112931/my-dad-was-one-of-those-people-who-was-immediately",
-   "date-gmt" : "2012-11-22 08:05:13 GMT",
-   "mobile" : 0,
-   "quote-text" : "My Dad was one of those people who was immediately likeable and approachable, and always had time to listen to whatever it was that you had to say (within reason, of course). Whether you&#8217;re a scientist or not, I think that&#8217;s a hugely important trait to have, but I feel it&#8217;s something that&#8217;s all too easy to lose as a researcher. We like to ask questions, we don&#8217;t always give enough time to the bits that come after that.",
-   "slug" : "my-dad-was-one-of-those-people-who-was-immediately",
-   "url" : "http://tumblr.ggvaidya.com/post/36273112931",
-   "id" : "36273112931",
-   "from-feed-id" : 0,
-   "quote-source" : "Pete Etchells, <em><a href=\"http://www.scilogs.com/counterbalanced/why-i-hate-neurons/\">Why I hate neurons</a></em>, SciLogs: Counterbalanced",
    "bookmarklet" : 0,
-   "feed-item" : "",
+   "type" : "quote",
+   "mobile" : 0,
    "reblog-key" : "7DUMRO6R",
+   "quote-text" : "My Dad was one of those people who was immediately likeable and approachable, and always had time to listen to whatever it was that you had to say (within reason, of course). Whether you&#8217;re a scientist or not, I think that&#8217;s a hugely important trait to have, but I feel it&#8217;s something that&#8217;s all too easy to lose as a researcher. We like to ask questions, we don&#8217;t always give enough time to the bits that come after that.",
+   "url" : "http://tumblr.ggvaidya.com/post/36273112931",
+   "date-gmt" : "2012-11-22 08:05:13 GMT",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/36273112931/my-dad-was-one-of-those-people-who-was-immediately",
    "tags" : [
       "inspiration"
    ],
-   "format" : "html",
-   "type" : "quote",
-   "unix-timestamp" : 1353571513
+   "slug" : "my-dad-was-one-of-those-people-who-was-immediately",
+   "from-feed-id" : 0,
+   "unix-timestamp" : 1353571513,
+   "id" : "36273112931",
+   "date" : "Thu, 22 Nov 2012 01:05:13",
+   "quote-source" : "Pete Etchells, <em><a href=\"http://www.scilogs.com/counterbalanced/why-i-hate-neurons/\">Why I hate neurons</a></em>, SciLogs: Counterbalanced",
+   "feed-item" : "",
+   "format" : "html"
 }
 

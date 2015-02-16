@@ -1,40 +1,39 @@
 {
-   "conversation-text" : "Tsubaki: [attacking various students] Sousuke? Sousuke? Sousuke? Sousuke?!\r\nSousuke: Wear your glasses first, Tsubaki.\r\nTsubaki: Shut up. Why didn't you answer my challenge?\r\nSousuke: What are you talking about?\r\nTsubaki: Don't act like you don't know? I put a challenge letter in your shoe box!\r\nChidoi: So it was a challenge letter?\r\nSousuke: I just knew about it just now.\r\nTsubaki: You didn't read it?\r\nSousuke: I COULDN'T read it.\r\nSousuke: Because I blew it up.\r\nTsubaki: You blew it up? How dare you! I'll kill you!",
-   "conversation-title" : "Mixed messages",
-   "date" : "Sat, 17 May 2014 16:06:35",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/86046473004/mixed-messages",
-   "date-gmt" : "2014-05-17 22:06:35 GMT",
+   "url" : "http://tumblr.ggvaidya.com/post/86046473004",
+   "reblog-key" : "vR8dcTht",
    "mobile" : 0,
+   "date-gmt" : "2014-05-17 22:06:35 GMT",
+   "bookmarklet" : 0,
    "conversation" : [
       {
+         "phrase" : "[attacking various students] Sousuke? Sousuke? Sousuke? Sousuke?!\r",
          "name" : "Tsubaki",
-         "label" : "Tsubaki:",
-         "phrase" : "[attacking various students] Sousuke? Sousuke? Sousuke? Sousuke?!\r"
+         "label" : "Tsubaki:"
       },
       {
-         "name" : "Sousuke",
          "label" : "Sousuke:",
+         "name" : "Sousuke",
          "phrase" : "Wear your glasses first, Tsubaki.\r"
       },
       {
-         "name" : "Tsubaki",
+         "phrase" : "Shut up. Why didn't you answer my challenge?\r",
          "label" : "Tsubaki:",
-         "phrase" : "Shut up. Why didn't you answer my challenge?\r"
+         "name" : "Tsubaki"
       },
       {
-         "name" : "Sousuke",
          "label" : "Sousuke:",
+         "name" : "Sousuke",
          "phrase" : "What are you talking about?\r"
       },
       {
-         "name" : "Tsubaki",
+         "phrase" : "Don't act like you don't know? I put a challenge letter in your shoe box!\r",
          "label" : "Tsubaki:",
-         "phrase" : "Don't act like you don't know? I put a challenge letter in your shoe box!\r"
+         "name" : "Tsubaki"
       },
       {
+         "phrase" : "So it was a challenge letter?\r",
          "name" : "Chidoi",
-         "label" : "Chidoi:",
-         "phrase" : "So it was a challenge letter?\r"
+         "label" : "Chidoi:"
       },
       {
          "name" : "Sousuke",
@@ -42,19 +41,19 @@
          "phrase" : "I just knew about it just now.\r"
       },
       {
-         "name" : "Tsubaki",
          "label" : "Tsubaki:",
+         "name" : "Tsubaki",
          "phrase" : "You didn't read it?\r"
       },
       {
-         "name" : "Sousuke",
          "label" : "Sousuke:",
+         "name" : "Sousuke",
          "phrase" : "I COULDN'T read it.\r"
       },
       {
-         "name" : "Sousuke",
+         "phrase" : "Because I blew it up.\r",
          "label" : "Sousuke:",
-         "phrase" : "Because I blew it up.\r"
+         "name" : "Sousuke"
       },
       {
          "name" : "Tsubaki",
@@ -62,19 +61,20 @@
          "phrase" : "You blew it up? How dare you! I'll kill you!"
       }
    ],
-   "slug" : "mixed-messages",
-   "url" : "http://tumblr.ggvaidya.com/post/86046473004",
-   "id" : "86046473004",
-   "from-feed-id" : 0,
-   "bookmarklet" : 0,
+   "type" : "conversation",
+   "conversation-title" : "Mixed messages",
+   "format" : "html",
    "feed-item" : "",
-   "reblog-key" : "vR8dcTht",
+   "unix-timestamp" : 1400364395,
+   "from-feed-id" : 0,
+   "id" : "86046473004",
    "tags" : [
       "full metal panic",
       "of shoeboxes and glasses"
    ],
-   "format" : "html",
-   "type" : "conversation",
-   "unix-timestamp" : 1400364395
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/86046473004/mixed-messages",
+   "slug" : "mixed-messages",
+   "conversation-text" : "Tsubaki: [attacking various students] Sousuke? Sousuke? Sousuke? Sousuke?!\r\nSousuke: Wear your glasses first, Tsubaki.\r\nTsubaki: Shut up. Why didn't you answer my challenge?\r\nSousuke: What are you talking about?\r\nTsubaki: Don't act like you don't know? I put a challenge letter in your shoe box!\r\nChidoi: So it was a challenge letter?\r\nSousuke: I just knew about it just now.\r\nTsubaki: You didn't read it?\r\nSousuke: I COULDN'T read it.\r\nSousuke: Because I blew it up.\r\nTsubaki: You blew it up? How dare you! I'll kill you!",
+   "date" : "Sat, 17 May 2014 16:06:35"
 }
 

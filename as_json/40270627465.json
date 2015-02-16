@@ -1,20 +1,16 @@
 {
-   "conversation-text" : "Interview: Be honest... did you steal a Tribble once the shoot wrapped? \r\nNichelle Nichols: I didn't wait until the end. I got mine the first day!\r\nWalter Koenig: I didn't steal a Tribble. I did, however, have several of them burned in what can only be described as a heretical cult ceremony.",
    "conversation-title" : null,
-   "date" : "Fri, 11 Jan 2013 12:40:27",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/40270627465/interview-be-honest-did-you-steal-a-tribble",
-   "date-gmt" : "2013-01-11 19:40:27 GMT",
-   "mobile" : 0,
+   "type" : "conversation",
    "conversation" : [
       {
-         "name" : "Interview",
+         "phrase" : "Be honest... did you steal a Tribble once the shoot wrapped? \r",
          "label" : "Interview:",
-         "phrase" : "Be honest... did you steal a Tribble once the shoot wrapped? \r"
+         "name" : "Interview"
       },
       {
-         "name" : "Nichelle Nichols",
+         "phrase" : "I didn't wait until the end. I got mine the first day!\r",
          "label" : "Nichelle Nichols:",
-         "phrase" : "I didn't wait until the end. I got mine the first day!\r"
+         "name" : "Nichelle Nichols"
       },
       {
          "name" : "Walter Koenig",
@@ -22,15 +18,19 @@
          "phrase" : "I didn't steal a Tribble. I did, however, have several of them burned in what can only be described as a heretical cult ceremony."
       }
    ],
-   "slug" : "interview-be-honest-did-you-steal-a-tribble",
+   "bookmarklet" : 0,
+   "date-gmt" : "2013-01-11 19:40:27 GMT",
    "url" : "http://tumblr.ggvaidya.com/post/40270627465",
+   "mobile" : 0,
+   "reblog-key" : "OxdCbhcO",
+   "conversation-text" : "Interview: Be honest... did you steal a Tribble once the shoot wrapped? \r\nNichelle Nichols: I didn't wait until the end. I got mine the first day!\r\nWalter Koenig: I didn't steal a Tribble. I did, however, have several of them burned in what can only be described as a heretical cult ceremony.",
+   "date" : "Fri, 11 Jan 2013 12:40:27",
    "id" : "40270627465",
    "from-feed-id" : 0,
-   "bookmarklet" : 0,
-   "feed-item" : "",
-   "reblog-key" : "OxdCbhcO",
+   "unix-timestamp" : 1357933227,
+   "slug" : "interview-be-honest-did-you-steal-a-tribble",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/40270627465/interview-be-honest-did-you-steal-a-tribble",
    "format" : "html",
-   "type" : "conversation",
-   "unix-timestamp" : 1357933227
+   "feed-item" : ""
 }
 
