@@ -1,16 +1,4 @@
 {
-   "bookmarklet" : 0,
-   "type" : "quote",
-   "quote-text" : "Find yourself a cup; the teapot is behind you. Now tell me about hundreds of things.",
-   "url" : "http://tumblr.ggvaidya.com/post/62927550981",
-   "reblog-key" : "dD0hu7lf",
-   "mobile" : 0,
-   "date-gmt" : "2013-10-02 20:40:36 GMT",
-   "id" : "62927550981",
-   "from-feed-id" : 0,
-   "unix-timestamp" : 1380746436,
-   "slug" : "find-yourself-a-cup-the-teapot-is-behind-you-now",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/62927550981/find-yourself-a-cup-the-teapot-is-behind-you-now",
    "tags" : [
       "saki",
       "tea",
@@ -18,9 +6,21 @@
       "conversation",
       "relationships"
    ],
-   "date" : "Wed, 02 Oct 2013 14:40:36",
-   "quote-source" : "Saki, <a href=\"http://www.eastoftheweb.com/short-stories/UBooks/Tea.shtml#3\"><em>Tea</em></a>",
+   "bookmarklet" : 0,
+   "unix-timestamp" : 1380746436,
    "format" : "html",
-   "feed-item" : ""
+   "quote-source" : "Saki, <a href=\"http://www.eastoftheweb.com/short-stories/UBooks/Tea.shtml#3\"><em>Tea</em></a>",
+   "reblog-key" : "dD0hu7lf",
+   "type" : "quote",
+   "feed-item" : "",
+   "date-gmt" : "2013-10-02 20:40:36 GMT",
+   "from-feed-id" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/62927550981",
+   "date" : "Wed, 02 Oct 2013 14:40:36",
+   "mobile" : 0,
+   "quote-text" : "Find yourself a cup; the teapot is behind you. Now tell me about hundreds of things.",
+   "slug" : "find-yourself-a-cup-the-teapot-is-behind-you-now",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/62927550981/find-yourself-a-cup-the-teapot-is-behind-you-now",
+   "id" : "62927550981"
 }
 

@@ -1,23 +1,23 @@
 {
-   "bookmarklet" : 0,
-   "type" : "quote",
-   "quote-text" : "You are now the amulet of silence.",
-   "url" : "http://tumblr.ggvaidya.com/post/96386599071",
-   "reblog-key" : "zYSqAIeF",
-   "mobile" : 0,
-   "date-gmt" : "2014-09-01 20:20:13 GMT",
-   "unix-timestamp" : 1409602813,
-   "from-feed-id" : 0,
    "id" : "96386599071",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/96386599071/you-are-now-the-amulet-of-silence",
+   "quote-text" : "You are now the amulet of silence.",
+   "slug" : "you-are-now-the-amulet-of-silence",
+   "date" : "Mon, 01 Sep 2014 14:20:13",
+   "mobile" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/96386599071",
+   "from-feed-id" : 0,
+   "date-gmt" : "2014-09-01 20:20:13 GMT",
+   "feed-item" : "",
+   "reblog-key" : "zYSqAIeF",
+   "type" : "quote",
+   "format" : "html",
+   "quote-source" : "Well, crap. <a href=\"http://www.prequeladventure.com/2011/05/amulet-overload/\"><em>Prequel</em>, May 31, 2011</a>",
+   "unix-timestamp" : 1409602813,
    "tags" : [
       "oh dear",
       "prequel adventure"
    ],
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/96386599071/you-are-now-the-amulet-of-silence",
-   "slug" : "you-are-now-the-amulet-of-silence",
-   "date" : "Mon, 01 Sep 2014 14:20:13",
-   "quote-source" : "Well, crap. <a href=\"http://www.prequeladventure.com/2011/05/amulet-overload/\"><em>Prequel</em>, May 31, 2011</a>",
-   "format" : "html",
-   "feed-item" : ""
+   "bookmarklet" : 0
 }
 

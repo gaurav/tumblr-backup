@@ -1,9 +1,17 @@
 {
+   "slug" : "persistence",
+   "date" : "Fri, 30 Mar 2012 00:15:40",
+   "mobile" : 0,
+   "id" : "20160692272",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/20160692272/persistence",
+   "url" : "http://tumblr.ggvaidya.com/post/20160692272",
+   "from-feed-id" : 0,
+   "reblog-key" : "ZJ2k2SGK",
    "conversation" : [
       {
-         "phrase" : "Oleg. I am sorry. I am so sorry. I wouldn't be your alibi but I can, now.\r",
          "name" : "Delia Chase",
-         "label" : "Delia Chase:"
+         "label" : "Delia Chase:",
+         "phrase" : "Oleg. I am sorry. I am so sorry. I wouldn't be your alibi but I can, now.\r"
       },
       {
          "phrase" : "Now it's too late.\r",
@@ -11,13 +19,13 @@
          "label" : "Arkady Balagan:"
       },
       {
+         "phrase" : "No, no.\r",
          "name" : "Oleg Olesky",
-         "label" : "Oleg Olesky:",
-         "phrase" : "No, no.\r"
+         "label" : "Oleg Olesky:"
       },
       {
-         "name" : "Arkady Balagan",
          "label" : "Arkady Balagan:",
+         "name" : "Arkady Balagan",
          "phrase" : "Yes, yes.\r"
       },
       {
@@ -26,8 +34,8 @@
          "label" : "Oleg Olesky:"
       },
       {
-         "name" : "Arkady Balagan",
          "label" : "Arkady Balagan:",
+         "name" : "Arkady Balagan",
          "phrase" : "Yes. \r"
       },
       {
@@ -42,26 +50,18 @@
       }
    ],
    "type" : "conversation",
-   "bookmarklet" : 0,
-   "conversation-title" : "Persistence",
    "date-gmt" : "2012-03-30 06:15:40 GMT",
-   "reblog-key" : "ZJ2k2SGK",
-   "mobile" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/20160692272",
-   "date" : "Fri, 30 Mar 2012 00:15:40",
+   "feed-item" : "",
    "conversation-text" : "Delia Chase: Oleg. I am sorry. I am so sorry. I wouldn't be your alibi but I can, now.\r\nArkady Balagan: Now it's too late.\r\nOleg Olesky: No, no.\r\nArkady Balagan: Yes, yes.\r\nOleg Olesky: It's not too late.\r\nArkady Balagan: Yes. \r\nOleg Olesky: It's never too late.\r\nArkady Balagan: Yes. ",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/20160692272/persistence",
    "tags" : [
       "persistence",
       "endgame",
       "television",
       "quotes"
    ],
-   "slug" : "persistence",
-   "from-feed-id" : 0,
-   "unix-timestamp" : 1333088140,
-   "id" : "20160692272",
-   "feed-item" : "",
-   "format" : "html"
+   "bookmarklet" : 0,
+   "conversation-title" : "Persistence",
+   "format" : "html",
+   "unix-timestamp" : 1333088140
 }
 

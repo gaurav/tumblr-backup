@@ -1,10 +1,15 @@
 {
-   "date-gmt" : "2013-07-30 04:58:56 GMT",
-   "url" : "http://tumblr.ggvaidya.com/post/56851059901",
+   "id" : "56851059901",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/56851059901/me-at-home-ive-been-wearing-the-same-jeans-and",
+   "slug" : "me-at-home-ive-been-wearing-the-same-jeans-and",
+   "date" : "Mon, 29 Jul 2013 22:58:56",
    "mobile" : 0,
+   "from-feed-id" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/56851059901",
+   "date-gmt" : "2013-07-30 04:58:56 GMT",
+   "feed-item" : "",
    "reblog-key" : "c6Sf384f",
-   "conversation-title" : null,
-   "bookmarklet" : 0,
+   "type" : "conversation",
    "conversation" : [
       {
          "phrase" : "i've been wearing the same jeans and band shirt for the last three weeks but it still smells alright so i'll keep wearing it \r",
@@ -12,25 +17,20 @@
          "label" : "me at home:"
       },
       {
-         "phrase" : "I NEED ONE SHIRT FOR EACH DAY AND EXTRA IN CASE IT GETS DIRTY AND THE SAME AMOUNT OF JEANS AND SOCKS ACTUALLY NO I'LL NEED EXTRA SOCKS IN CASE IT FLOODS AND DOUBLE THE UNDERWEAR IN CASE OF DISASTER AND ONE NICE OUTFIT IN CASE I GET INVITED TO TEA WITH THE QUEEN",
          "name" : "me going away",
-         "label" : "me going away:"
+         "label" : "me going away:",
+         "phrase" : "I NEED ONE SHIRT FOR EACH DAY AND EXTRA IN CASE IT GETS DIRTY AND THE SAME AMOUNT OF JEANS AND SOCKS ACTUALLY NO I'LL NEED EXTRA SOCKS IN CASE IT FLOODS AND DOUBLE THE UNDERWEAR IN CASE OF DISASTER AND ONE NICE OUTFIT IN CASE I GET INVITED TO TEA WITH THE QUEEN"
       }
    ],
-   "type" : "conversation",
+   "conversation-title" : null,
    "format" : "html",
-   "feed-item" : "",
-   "conversation-text" : "me at home: i've been wearing the same jeans and band shirt for the last three weeks but it still smells alright so i'll keep wearing it \r\nme going away: I NEED ONE SHIRT FOR EACH DAY AND EXTRA IN CASE IT GETS DIRTY AND THE SAME AMOUNT OF JEANS AND SOCKS ACTUALLY NO I'LL NEED EXTRA SOCKS IN CASE IT FLOODS AND DOUBLE THE UNDERWEAR IN CASE OF DISASTER AND ONE NICE OUTFIT IN CASE I GET INVITED TO TEA WITH THE QUEEN ",
-   "date" : "Mon, 29 Jul 2013 22:58:56",
-   "id" : "56851059901",
-   "from-feed-id" : 0,
    "unix-timestamp" : 1375160336,
-   "slug" : "me-at-home-ive-been-wearing-the-same-jeans-and",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/56851059901/me-at-home-ive-been-wearing-the-same-jeans-and",
+   "conversation-text" : "me at home: i've been wearing the same jeans and band shirt for the last three weeks but it still smells alright so i'll keep wearing it \r\nme going away: I NEED ONE SHIRT FOR EACH DAY AND EXTRA IN CASE IT GETS DIRTY AND THE SAME AMOUNT OF JEANS AND SOCKS ACTUALLY NO I'LL NEED EXTRA SOCKS IN CASE IT FLOODS AND DOUBLE THE UNDERWEAR IN CASE OF DISASTER AND ONE NICE OUTFIT IN CASE I GET INVITED TO TEA WITH THE QUEEN ",
    "tags" : [
       "gpom",
       "traveling",
       "travel"
-   ]
+   ],
+   "bookmarklet" : 0
 }
 

@@ -1,25 +1,25 @@
 {
-   "type" : "quote",
-   "bookmarklet" : 0,
-   "reblog-key" : "1CvclO74",
-   "mobile" : 0,
+   "from-feed-id" : 0,
    "url" : "http://tumblr.ggvaidya.com/post/64904666796",
-   "quote-text" : "For each person there is a sentenceâa series of wordsâwhich has the power to destroy them.",
-   "date-gmt" : "2013-10-23 23:08:00 GMT",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/64904666796/for-each-person-there-is-a-sentence-a-series-of",
+   "id" : "64904666796",
+   "mobile" : 0,
+   "date" : "Wed, 23 Oct 2013 17:08:00",
    "slug" : "for-each-person-there-is-a-sentence-a-series-of",
+   "quote-text" : "For each person there is a sentenceâa series of wordsâwhich has the power to destroy them.",
+   "unix-timestamp" : 1382569680,
+   "quote-source" : "Philip K. DickÂ  (via <a class=\"tumblr_blog\" href=\"http://kidsfolly.tumblr.com/\">kidsfolly</a>)",
+   "format" : "html",
+   "bookmarklet" : 0,
    "tags" : [
       "yes",
       "shh",
       "people",
       "life"
    ],
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/64904666796/for-each-person-there-is-a-sentence-a-series-of",
-   "id" : "64904666796",
-   "unix-timestamp" : 1382569680,
-   "from-feed-id" : 0,
-   "date" : "Wed, 23 Oct 2013 17:08:00",
-   "quote-source" : "Philip K. DickÂ  (via <a class=\"tumblr_blog\" href=\"http://kidsfolly.tumblr.com/\">kidsfolly</a>)",
    "feed-item" : "",
-   "format" : "html"
+   "date-gmt" : "2013-10-23 23:08:00 GMT",
+   "type" : "quote",
+   "reblog-key" : "1CvclO74"
 }
 

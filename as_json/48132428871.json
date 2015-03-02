@@ -1,22 +1,22 @@
 {
-   "feed-item" : "",
    "format" : "html",
    "quote-source" : "Douglas Adams, <em> The Restaurant at the End of the Universe </em> (via <a class=\"tumblr_blog\" href=\"http://lastdaysofmagic.tumblr.com/\">lastdaysofmagic</a>)",
-   "date" : "Tue, 16 Apr 2013 12:04:50",
+   "unix-timestamp" : 1366135490,
    "tags" : [
       "the only possible explanation"
    ],
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/48132428871/there-is-a-theory-which-states-that-if-ever-anyone",
-   "slug" : "there-is-a-theory-which-states-that-if-ever-anyone",
-   "unix-timestamp" : 1366135490,
+   "bookmarklet" : 0,
+   "date-gmt" : "2013-04-16 18:04:50 GMT",
+   "feed-item" : "",
+   "reblog-key" : "LTPzwFAh",
+   "type" : "quote",
+   "url" : "http://tumblr.ggvaidya.com/post/48132428871",
    "from-feed-id" : 0,
    "id" : "48132428871",
-   "date-gmt" : "2013-04-16 18:04:50 GMT",
-   "mobile" : 0,
-   "reblog-key" : "LTPzwFAh",
-   "url" : "http://tumblr.ggvaidya.com/post/48132428871",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/48132428871/there-is-a-theory-which-states-that-if-ever-anyone",
    "quote-text" : "There is a theory which states that if ever anyone discovers exactly what the Universe is for and why it is here, it will instantly disappear and be replaced by something even more bizarre and inexplicable. There is another theory which states that this has already happened.",
-   "type" : "quote",
-   "bookmarklet" : 0
+   "slug" : "there-is-a-theory-which-states-that-if-ever-anyone",
+   "date" : "Tue, 16 Apr 2013 12:04:50",
+   "mobile" : 0
 }
 

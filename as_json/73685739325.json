@@ -1,23 +1,23 @@
 {
-   "date-gmt" : "2014-01-18 04:44:13 GMT",
-   "regular-title" : "Robots are stupid and I just spent the last year & a half trying to teach one how to recognize corners in a box so it can go dig up dirt on the moon",
-   "url" : "http://tumblr.ggvaidya.com/post/73685739325",
-   "reblog-key" : "AraauwQK",
+   "slug" : "robots-are-stupid-and-i-just-spent-the-last-year",
    "mobile" : 0,
-   "bookmarklet" : 0,
-   "type" : "regular",
-   "format" : "html",
-   "feed-item" : "",
-   "regular-body" : "<p><a class=\"tumblr_blog\" href=\"http://lolmythesis.com/post/73630337437/robots-are-stupid-and-i-just-spent-the-last-year-a\">lolmythesis</a>:</p>\n<blockquote>\n<p>Autonomous and Unmanned Vehicle Systems Engineering</p>\n<p><em>\"Adapting a SLAM Based Navigation Algorithm for Autonomous Robots in a GPS-Denied Lunar Environment.\"</em></p>\n</blockquote>",
    "date" : "Fri, 17 Jan 2014 21:44:13",
-   "unix-timestamp" : 1390020253,
-   "from-feed-id" : 0,
    "id" : "73685739325",
+   "regular-title" : "Robots are stupid and I just spent the last year & a half trying to teach one how to recognize corners in a box so it can go dig up dirt on the moon",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/73685739325/robots-are-stupid-and-i-just-spent-the-last-year",
+   "url" : "http://tumblr.ggvaidya.com/post/73685739325",
+   "from-feed-id" : 0,
+   "type" : "regular",
+   "reblog-key" : "AraauwQK",
+   "date-gmt" : "2014-01-18 04:44:13 GMT",
+   "feed-item" : "",
+   "bookmarklet" : 0,
    "tags" : [
       "robots",
       "huh"
    ],
-   "slug" : "robots-are-stupid-and-i-just-spent-the-last-year"
+   "format" : "html",
+   "regular-body" : "<p><a class=\"tumblr_blog\" href=\"http://lolmythesis.com/post/73630337437/robots-are-stupid-and-i-just-spent-the-last-year-a\">lolmythesis</a>:</p>\n<blockquote>\n<p>Autonomous and Unmanned Vehicle Systems Engineering</p>\n<p><em>\"Adapting a SLAM Based Navigation Algorithm for Autonomous Robots in a GPS-Denied Lunar Environment.\"</em></p>\n</blockquote>",
+   "unix-timestamp" : 1390020253
 }
 

@@ -1,24 +1,24 @@
 {
-   "type" : "regular",
-   "bookmarklet" : 0,
-   "regular-title" : null,
-   "date-gmt" : "2015-02-05 21:40:14 GMT",
-   "url" : "http://tumblr.ggvaidya.com/post/110189951936",
-   "mobile" : 0,
-   "reblog-key" : "93nSehvV",
-   "regular-body" : "<p><a class=\"tumblr_blog\" href=\"http://rendzina.tumblr.com/post/96266036166/over-coffee-with-my-mom-this-morning-sometimes\">rendzina</a>:</p>\n<blockquote>\n<p>over coffee with my mom this morning: âsometimes we hesitate to invite people into our life because we feel like our space isnât good enough yet. things are a little messy, or our place settings donât match, or our situation isnât quite what we want it to be. donât let that stop you. invite people in anyway.â</p>\n</blockquote>",
-   "date" : "Thu, 05 Feb 2015 14:40:14",
-   "id" : "110189951936",
    "from-feed-id" : 0,
-   "unix-timestamp" : 1423172414,
+   "url" : "http://tumblr.ggvaidya.com/post/110189951936",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/110189951936/rendzina-over-coffee-with-my-mom-this-morning",
+   "regular-title" : null,
+   "id" : "110189951936",
+   "date" : "Thu, 05 Feb 2015 14:40:14",
+   "mobile" : 0,
    "slug" : "rendzina-over-coffee-with-my-mom-this-morning",
+   "unix-timestamp" : 1423172414,
+   "format" : "html",
+   "regular-body" : "<p><a class=\"tumblr_blog\" href=\"http://rendzina.tumblr.com/post/96266036166/over-coffee-with-my-mom-this-morning-sometimes\">rendzina</a>:</p>\n<blockquote>\n<p>over coffee with my mom this morning: âsometimes we hesitate to invite people into our life because we feel like our space isnât good enough yet. things are a little messy, or our place settings donât match, or our situation isnât quite what we want it to be. donât let that stop you. invite people in anyway.â</p>\n</blockquote>",
    "tags" : [
       "advice",
       "yes",
       "true"
    ],
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/110189951936/rendzina-over-coffee-with-my-mom-this-morning",
-   "format" : "html",
-   "feed-item" : ""
+   "bookmarklet" : 0,
+   "feed-item" : "",
+   "date-gmt" : "2015-02-05 21:40:14 GMT",
+   "reblog-key" : "93nSehvV",
+   "type" : "regular"
 }
 

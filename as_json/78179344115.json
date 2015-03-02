@@ -1,35 +1,35 @@
 {
-   "format" : "html",
-   "feed-item" : "",
    "id" : "78179344115",
-   "from-feed-id" : 0,
-   "unix-timestamp" : 1393649872,
-   "slug" : "words-to-live-by",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/78179344115/words-to-live-by",
+   "slug" : "words-to-live-by",
+   "date" : "Fri, 28 Feb 2014 21:57:52",
+   "mobile" : 0,
+   "from-feed-id" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/78179344115",
+   "date-gmt" : "2014-03-01 04:57:52 GMT",
+   "feed-item" : "",
+   "reblog-key" : "8gF39SIw",
+   "type" : "conversation",
+   "conversation" : [
+      {
+         "phrase" : "Do you mean to tell me, that when the chips are down, you're on MY side, not Humphrey's?\r",
+         "name" : "Hacker",
+         "label" : "Hacker:"
+      },
+      {
+         "phrase" : "Minister, it's my job to see the chips stay up.",
+         "name" : "Bernard",
+         "label" : "Bernard:"
+      }
+   ],
+   "conversation-title" : "Words to live by",
+   "format" : "html",
+   "unix-timestamp" : 1393649872,
+   "conversation-text" : "Hacker: Do you mean to tell me, that when the chips are down, you're on MY side, not Humphrey's?\r\nBernard: Minister, it's my job to see the chips stay up.",
    "tags" : [
       "yes minister",
       "S1E6"
    ],
-   "conversation-text" : "Hacker: Do you mean to tell me, that when the chips are down, you're on MY side, not Humphrey's?\r\nBernard: Minister, it's my job to see the chips stay up.",
-   "date" : "Fri, 28 Feb 2014 21:57:52",
-   "url" : "http://tumblr.ggvaidya.com/post/78179344115",
-   "reblog-key" : "8gF39SIw",
-   "mobile" : 0,
-   "date-gmt" : "2014-03-01 04:57:52 GMT",
-   "conversation-title" : "Words to live by",
-   "bookmarklet" : 0,
-   "conversation" : [
-      {
-         "name" : "Hacker",
-         "label" : "Hacker:",
-         "phrase" : "Do you mean to tell me, that when the chips are down, you're on MY side, not Humphrey's?\r"
-      },
-      {
-         "label" : "Bernard:",
-         "name" : "Bernard",
-         "phrase" : "Minister, it's my job to see the chips stay up."
-      }
-   ],
-   "type" : "conversation"
+   "bookmarklet" : 0
 }
 

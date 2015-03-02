@@ -1,23 +1,23 @@
 {
-   "bookmarklet" : 0,
-   "type" : "quote",
-   "date-gmt" : "2014-06-25 02:10:31 GMT",
-   "url" : "http://tumblr.ggvaidya.com/post/89817456499",
-   "quote-text" : "How do I get started in something?<br/>\nDO IT.<br/>\nHow do I get better at something?<br/>\nDO MORE.",
-   "reblog-key" : "4JxeK9ii",
-   "mobile" : 0,
-   "date" : "Tue, 24 Jun 2014 20:10:31",
-   "unix-timestamp" : 1403662231,
-   "from-feed-id" : 0,
    "id" : "89817456499",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/89817456499/how-do-i-get-started-in-something-do-it-how-do",
+   "slug" : "how-do-i-get-started-in-something-do-it-how-do",
+   "quote-text" : "How do I get started in something?<br/>\nDO IT.<br/>\nHow do I get better at something?<br/>\nDO MORE.",
+   "mobile" : 0,
+   "date" : "Tue, 24 Jun 2014 20:10:31",
+   "from-feed-id" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/89817456499",
+   "date-gmt" : "2014-06-25 02:10:31 GMT",
+   "feed-item" : "",
+   "type" : "quote",
+   "reblog-key" : "4JxeK9ii",
+   "quote-source" : "(Seriously, if there was a shortcut weâd all be using it)",
+   "format" : "html",
+   "unix-timestamp" : 1403662231,
+   "bookmarklet" : 0,
    "tags" : [
       "life",
       "advice"
-   ],
-   "slug" : "how-do-i-get-started-in-something-do-it-how-do",
-   "format" : "html",
-   "feed-item" : "",
-   "quote-source" : "(Seriously, if there was a shortcut weâd all be using it)"
+   ]
 }
 

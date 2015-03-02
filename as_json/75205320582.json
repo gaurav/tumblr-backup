@@ -1,24 +1,24 @@
 {
+   "from-feed-id" : 0,
    "url" : "http://tumblr.ggvaidya.com/post/75205320582",
-   "quote-text" : "[University of California, Berkeley, neuroscientist Robert] Knight has now convinced the Nature Publishing Group (NPG) to launch an online research journal called <a href=\"http://kids.frontiersin.org/\"><em>Frontiers for Young Minds</em></a> which is not only geared toward kids, but edited by them. [&#8230;] More than a dozen articles have already been published and, Knight says, &#8220;not one scientist has complained about something the kids wanted to fix.&#8221; That&#8217;s in spite of some pretty tough criticism. &#8220;I can see that it shows something about how the brain works,&#8221; wrote one uncompromising young editor, &#8220;but it is not obvious how this knowledge will help with anything.&#8221;",
-   "reblog-key" : "ClCMuA9i",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/75205320582/university-of-california-berkeley",
+   "id" : "75205320582",
    "mobile" : 0,
-   "date-gmt" : "2014-02-01 01:32:06 GMT",
-   "type" : "quote",
-   "bookmarklet" : 0,
+   "date" : "Fri, 31 Jan 2014 18:32:06",
+   "slug" : "university-of-california-berkeley",
+   "quote-text" : "[University of California, Berkeley, neuroscientist Robert] Knight has now convinced the Nature Publishing Group (NPG) to launch an online research journal called <a href=\"http://kids.frontiersin.org/\"><em>Frontiers for Young Minds</em></a> which is not only geared toward kids, but edited by them. [&#8230;] More than a dozen articles have already been published and, Knight says, &#8220;not one scientist has complained about something the kids wanted to fix.&#8221; That&#8217;s in spite of some pretty tough criticism. &#8220;I can see that it shows something about how the brain works,&#8221; wrote one uncompromising young editor, &#8220;but it is not obvious how this knowledge will help with anything.&#8221;",
+   "unix-timestamp" : 1391218326,
    "quote-source" : "Science, <em><a href=\"http://www.sciencemag.org/content/343/6169/355.full\">News of the Week: Random Sample: Young Editors Ask Neuroscientists: &#8216;Why Should I Care?&#8217;</a></em>, January 24, 2014. doi:<a href=\"http://dx.doi.org/10.1126/science.343.6169.355\">10.1126/science.343.6169.355</a>",
    "format" : "html",
-   "feed-item" : "",
-   "unix-timestamp" : 1391218326,
-   "from-feed-id" : 0,
-   "id" : "75205320582",
+   "bookmarklet" : 0,
    "tags" : [
       "brilliant",
       "science",
       "frontiers for young minds"
    ],
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/75205320582/university-of-california-berkeley",
-   "slug" : "university-of-california-berkeley",
-   "date" : "Fri, 31 Jan 2014 18:32:06"
+   "feed-item" : "",
+   "date-gmt" : "2014-02-01 01:32:06 GMT",
+   "type" : "quote",
+   "reblog-key" : "ClCMuA9i"
 }
 

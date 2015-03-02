@@ -1,24 +1,24 @@
 {
-   "bookmarklet" : 0,
-   "type" : "quote",
-   "quote-text" : "<p>Perhaps the most valuable lessons revolve around trust. Having entered into the project uncertain of what to expect from public participation, we have found ourselves in an evolving, creative partnership. Our users have defined what the scrapbook is and have taken an active role in improving and developing the resource. Our trust has been repaid many times over, helping us build something that in many ways has exceeded our expectations.</p>\n\n<p>Trust is also necessary in the support of new ideas. <em>Mapping our Anzacs</em> was a very different type of project for the National Archives, challenging ideas both of access and user engagement. By taking the risk we have not only gained valuable publicity and user support, we have opened up the realm of possibilities for future development.</p>\n\n<p>In terms of technology, the project demonstrated the power of the mashup and the efficiencies that can be gained by using existing web services. Tumblr, Google Maps and their associated APIs gave us a kickstart that enabled us to do a lot with a little.</p>",
-   "url" : "http://tumblr.ggvaidya.com/post/23027428771",
    "mobile" : 0,
-   "reblog-key" : "9MBNgcO3",
-   "date-gmt" : "2012-05-14 06:37:17 GMT",
-   "id" : "23027428771",
-   "unix-timestamp" : 1336977437,
-   "from-feed-id" : 0,
+   "date" : "Mon, 14 May 2012 00:37:17",
    "slug" : "perhaps-the-most-valuable-lessons-revolve-around",
+   "quote-text" : "<p>Perhaps the most valuable lessons revolve around trust. Having entered into the project uncertain of what to expect from public participation, we have found ourselves in an evolving, creative partnership. Our users have defined what the scrapbook is and have taken an active role in improving and developing the resource. Our trust has been repaid many times over, helping us build something that in many ways has exceeded our expectations.</p>\n\n<p>Trust is also necessary in the support of new ideas. <em>Mapping our Anzacs</em> was a very different type of project for the National Archives, challenging ideas both of access and user engagement. By taking the risk we have not only gained valuable publicity and user support, we have opened up the realm of possibilities for future development.</p>\n\n<p>In terms of technology, the project demonstrated the power of the mashup and the efficiencies that can be gained by using existing web services. Tumblr, Google Maps and their associated APIs gave us a kickstart that enabled us to do a lot with a little.</p>",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/23027428771/perhaps-the-most-valuable-lessons-revolve-around",
+   "id" : "23027428771",
+   "url" : "http://tumblr.ggvaidya.com/post/23027428771",
+   "from-feed-id" : 0,
+   "type" : "quote",
+   "reblog-key" : "9MBNgcO3",
+   "feed-item" : "",
+   "date-gmt" : "2012-05-14 06:37:17 GMT",
+   "bookmarklet" : 0,
    "tags" : [
       "tumblr",
       "museum",
       "musetech"
    ],
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/23027428771/perhaps-the-most-valuable-lessons-revolve-around",
-   "date" : "Mon, 14 May 2012 00:37:17",
+   "unix-timestamp" : 1336977437,
    "quote-source" : "Tim Sherratt, <a href=\"http://discontents.com.au/words/articles/local-heroes\">Local Heroes</a>, on sharing archive material and engaging the public through Tumblr.",
-   "format" : "html",
-   "feed-item" : ""
+   "format" : "html"
 }
 
