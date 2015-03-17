@@ -1,23 +1,23 @@
 {
-   "date-gmt" : "2012-11-27 21:40:17 GMT",
+   "bookmarklet" : 0,
+   "from-feed-id" : 0,
+   "format" : "html",
    "feed-item" : "",
    "reblog-key" : "Hlndvis9",
-   "type" : "quote",
-   "format" : "html",
+   "date-gmt" : "2012-11-27 21:40:17 GMT",
    "quote-source" : "Michael Smethurst, <em><a href=\"http://smethur.st/a-late-answer-to-a-question-from-the-digital\">A late answer to a question from the digital humanities conference</a></em>, fantasticlife&#8217;s posterous.",
+   "date" : "Tue, 27 Nov 2012 14:40:17",
    "unix-timestamp" : 1354052417,
+   "slug" : "it-also-reminds-me-of-a-trip-to-a-music",
+   "quote-text" : "<p>It also reminds me of a trip to a Music Information Retrieval conference a couple of years back. Every other session was accompanied by a click track and seemed to be another attempt to improve &#8220;onset beat detection&#8221; in some exotic music genre by two or three percent. I&#8217;m no musicologist but it felt like a strange approach to determining meaning from music. If you were ever asked to describe punk or hip-hop or acid house I doubt you&#8217;d start with chord sequences or rhythm patterns. For at least some genres the context of the culture and the politics (and the narcotics) feels like a better starting point.</p>\n\n<p>So I think when we throw machines at the analysis part there&#8217;s a tendency to reduce down the ineffable to a meaningless set of atoms. Or a pile of salt. Machines have their place but it&#8217;s their usual place: boring, repetitive tasks at speed.</p>\n\n<p>Getting back to the diagram: once archive items are digitised, contextualised, findable and in the web they become social objects. People can link to them, share them, &#8220;curate&#8221; them, annotate them, analyse them, celebrate them, debunk them, take them, repurpose them, &#8220;remix&#8221; them and make new things from them.</p>",
+   "type" : "quote",
+   "id" : "36687468075",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/36687468075/it-also-reminds-me-of-a-trip-to-a-music",
    "tags" : [
       "digitization",
       "social objects"
    ],
-   "bookmarklet" : 0,
-   "id" : "36687468075",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/36687468075/it-also-reminds-me-of-a-trip-to-a-music",
-   "quote-text" : "<p>It also reminds me of a trip to a Music Information Retrieval conference a couple of years back. Every other session was accompanied by a click track and seemed to be another attempt to improve &#8220;onset beat detection&#8221; in some exotic music genre by two or three percent. I&#8217;m no musicologist but it felt like a strange approach to determining meaning from music. If you were ever asked to describe punk or hip-hop or acid house I doubt you&#8217;d start with chord sequences or rhythm patterns. For at least some genres the context of the culture and the politics (and the narcotics) feels like a better starting point.</p>\n\n<p>So I think when we throw machines at the analysis part there&#8217;s a tendency to reduce down the ineffable to a meaningless set of atoms. Or a pile of salt. Machines have their place but it&#8217;s their usual place: boring, repetitive tasks at speed.</p>\n\n<p>Getting back to the diagram: once archive items are digitised, contextualised, findable and in the web they become social objects. People can link to them, share them, &#8220;curate&#8221; them, annotate them, analyse them, celebrate them, debunk them, take them, repurpose them, &#8220;remix&#8221; them and make new things from them.</p>",
-   "slug" : "it-also-reminds-me-of-a-trip-to-a-music",
-   "date" : "Tue, 27 Nov 2012 14:40:17",
-   "mobile" : 0,
-   "from-feed-id" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/36687468075"
+   "url" : "http://tumblr.ggvaidya.com/post/36687468075",
+   "mobile" : 0
 }
 

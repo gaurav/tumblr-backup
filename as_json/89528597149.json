@@ -1,19 +1,21 @@
 {
+   "type" : "conversation",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/89528597149/frank-its-that-kind-of-talk-that-will-spur-me-to",
    "id" : "89528597149",
+   "tags" : [
+      "aww",
+      "relationships"
+   ],
    "mobile" : 0,
-   "date" : "Sat, 21 Jun 2014 23:58:30",
-   "slug" : "frank-its-that-kind-of-talk-that-will-spur-me-to",
    "url" : "http://tumblr.ggvaidya.com/post/89528597149",
-   "from-feed-id" : 0,
-   "feed-item" : "",
-   "date-gmt" : "2014-06-22 05:58:30 GMT",
-   "type" : "conversation",
+   "unix-timestamp" : 1403416710,
+   "conversation-text" : "Frank: Itâs that kind of talk that will spur me to make you a drink, as a reward for marrying well!\r\nSadie: I did marry well, didnât I?\r\nFrank: Not as well as I did, but very nearly.",
+   "slug" : "frank-its-that-kind-of-talk-that-will-spur-me-to",
    "conversation" : [
       {
-         "phrase" : "Itâs that kind of talk that will spur me to make you a drink, as a reward for marrying well!\r",
          "label" : "Frank:",
-         "name" : "Frank"
+         "name" : "Frank",
+         "phrase" : "Itâs that kind of talk that will spur me to make you a drink, as a reward for marrying well!\r"
       },
       {
          "name" : "Sadie",
@@ -21,20 +23,18 @@
          "phrase" : "I did marry well, didnât I?\r"
       },
       {
-         "label" : "Frank:",
+         "phrase" : "Not as well as I did, but very nearly.",
          "name" : "Frank",
-         "phrase" : "Not as well as I did, but very nearly."
+         "label" : "Frank:"
       }
    ],
+   "date-gmt" : "2014-06-22 05:58:30 GMT",
    "reblog-key" : "hNbD6DXr",
-   "unix-timestamp" : 1403416710,
    "format" : "html",
-   "conversation-title" : null,
+   "feed-item" : "",
+   "date" : "Sat, 21 Jun 2014 23:58:30",
+   "from-feed-id" : 0,
    "bookmarklet" : 0,
-   "tags" : [
-      "aww",
-      "relationships"
-   ],
-   "conversation-text" : "Frank: Itâs that kind of talk that will spur me to make you a drink, as a reward for marrying well!\r\nSadie: I did marry well, didnât I?\r\nFrank: Not as well as I did, but very nearly."
+   "conversation-title" : null
 }
 

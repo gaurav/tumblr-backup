@@ -1,12 +1,6 @@
 {
-   "date-gmt" : "2014-09-11 22:09:04 GMT",
-   "feed-item" : "",
-   "type" : "quote",
-   "reblog-key" : "Xw48vXcI",
-   "quote-source" : "Elliott Coues, <a href=\"https://sora.unm.edu/node/6540\"><em>The Most General Fault of the A. O. U. Check-List</em></a>, <em>Auk</em> 14(2): 229-231.",
-   "format" : "html",
-   "unix-timestamp" : 1410473344,
-   "bookmarklet" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/97250228754",
+   "mobile" : 0,
    "tags" : [
       "elliott coues",
       "aou",
@@ -15,11 +9,17 @@
    ],
    "id" : "97250228754",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/97250228754/this-is-a-serious-matter-which-i-have-hitherto",
-   "slug" : "this-is-a-serious-matter-which-i-have-hitherto",
    "quote-text" : "This is a serious matter which I have hitherto refrained from bringing up, partly on account of its hopelessness, in the present arrangement and numbering of the species, partly because it is to some extent a question of ornithological expertness regarding which opinions may reasonbly [sic] differ. But now, having occasion to retraverse the whole ground of North American ornithology, in the preparation of the Fifth Edition of my &#8216;Key,&#8217; the blemish I shall point out obtrudes itself continually upon my attention; I cannot longer maintain the reticence I have hitherto preserved without seeming to condone the impropriety by tacit acquiescence; and I desire to put myself upon record in the matter, lest my silence be imputed to unrighteousness. This is the first general protest I make public on certain subjects concerning which I was often found in a more or less respectable minority of two or one, when various questions were put to vote for the official decision of the Committee over which I had for many years the honor to preside.",
-   "mobile" : 0,
+   "type" : "quote",
+   "slug" : "this-is-a-serious-matter-which-i-have-hitherto",
+   "unix-timestamp" : 1410473344,
    "date" : "Thu, 11 Sep 2014 16:09:04",
-   "from-feed-id" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/97250228754"
+   "quote-source" : "Elliott Coues, <a href=\"https://sora.unm.edu/node/6540\"><em>The Most General Fault of the A. O. U. Check-List</em></a>, <em>Auk</em> 14(2): 229-231.",
+   "feed-item" : "",
+   "format" : "html",
+   "reblog-key" : "Xw48vXcI",
+   "date-gmt" : "2014-09-11 22:09:04 GMT",
+   "bookmarklet" : 0,
+   "from-feed-id" : 0
 }
 

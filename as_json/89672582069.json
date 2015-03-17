@@ -1,23 +1,23 @@
 {
-   "date-gmt" : "2014-06-23 17:55:07 GMT",
+   "format" : "html",
    "feed-item" : "",
    "reblog-key" : "wXovX31g",
-   "type" : "quote",
-   "format" : "html",
+   "date-gmt" : "2014-06-23 17:55:07 GMT",
    "quote-source" : "<strong>Jonathan Gottschall</strong>, fromÂ <em>The Storytelling Animal: How Stories Make Us Human</em>Â  (via <a class=\"tumblr_blog\" href=\"http://ohhhkat.tumblr.com/\">ohhhkat</a>)",
-   "unix-timestamp" : 1403546107,
+   "date" : "Mon, 23 Jun 2014 11:55:07",
+   "bookmarklet" : 0,
+   "from-feed-id" : 0,
    "tags" : [
       "stories",
       "writing"
    ],
-   "bookmarklet" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/89672582069",
+   "mobile" : 0,
+   "quote-text" : "We are, as a species, addicted to story. Even when the body goes to sleep, the mind stays up all night, telling itself stories.",
+   "type" : "quote",
    "id" : "89672582069",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/89672582069/we-are-as-a-species-addicted-to-story-even-when",
-   "quote-text" : "We are, as a species, addicted to story. Even when the body goes to sleep, the mind stays up all night, telling itself stories.",
    "slug" : "we-are-as-a-species-addicted-to-story-even-when",
-   "date" : "Mon, 23 Jun 2014 11:55:07",
-   "mobile" : 0,
-   "from-feed-id" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/89672582069"
+   "unix-timestamp" : 1403546107
 }
 

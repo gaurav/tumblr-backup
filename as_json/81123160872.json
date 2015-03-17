@@ -1,21 +1,12 @@
 {
-   "slug" : "edit-this-turns-out-to-be-a-reference-from-their",
-   "mobile" : 0,
-   "video-player-250" : "<iframe width=\"250\" height=\"140\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/gz1MwhjTWIw?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "date" : "Sat, 29 Mar 2014 17:37:00",
-   "id" : "81123160872",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/81123160872/edit-this-turns-out-to-be-a-reference-from-their",
-   "from-feed-id" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/81123160872",
-   "video-source" : "https://www.youtube.com/watch?v=gz1MwhjTWIw",
-   "video-caption" : "<p>Edit: this turns out to be a reference from <a href=\"https://www.youtube.com/watch?v=EhXsJjVdj1E\">their appearance on the Megan Mullally Show in 2006</a>.</p>",
-   "video-player" : "<iframe width=\"400\" height=\"225\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/gz1MwhjTWIw?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "video-player-500" : "<iframe width=\"500\" height=\"281\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/gz1MwhjTWIw?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "type" : "video",
+   "feed-item" : "",
+   "format" : "html",
    "reblog-key" : "HQetEvSR",
    "date-gmt" : "2014-03-29 23:37:00 GMT",
-   "feed-item" : "",
+   "date" : "Sat, 29 Mar 2014 17:37:00",
    "bookmarklet" : 0,
+   "from-feed-id" : 0,
+   "video-source" : "https://www.youtube.com/watch?v=gz1MwhjTWIw",
    "tags" : [
       "les mis",
       "the confrontation",
@@ -27,7 +18,16 @@
       "Neil Patrick Harris",
       "Les Miserables"
    ],
-   "format" : "html",
-   "unix-timestamp" : 1396136220
+   "video-player" : false,
+   "video-caption" : "<p>Edit: this turns out to be a reference from <a href=\"https://www.youtube.com/watch?v=EhXsJjVdj1E\">their appearance on the Megan Mullally Show in 2006</a>.</p>",
+   "url" : "http://tumblr.ggvaidya.com/post/81123160872",
+   "mobile" : 0,
+   "type" : "video",
+   "id" : "81123160872",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/81123160872/edit-this-turns-out-to-be-a-reference-from-their",
+   "slug" : "edit-this-turns-out-to-be-a-reference-from-their",
+   "video-player-250" : false,
+   "unix-timestamp" : 1396136220,
+   "video-player-500" : false
 }
 

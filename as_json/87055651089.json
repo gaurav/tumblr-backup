@@ -1,12 +1,6 @@
 {
-   "from-feed-id" : 0,
    "url" : "http://tumblr.ggvaidya.com/post/87055651089",
-   "date" : "Tue, 27 May 2014 19:15:04",
    "mobile" : 0,
-   "quote-text" : "All societies that maintain armies maintain the belief that some things are more valuable than life itself. Just what is so valued varies.",
-   "slug" : "all-societies-that-maintain-armies-maintain-the",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/87055651089/all-societies-that-maintain-armies-maintain-the",
-   "id" : "87055651089",
    "tags" : [
       "memorial day",
       "a day late",
@@ -14,13 +8,19 @@
       "nationalism",
       "army"
    ],
-   "bookmarklet" : 0,
-   "unix-timestamp" : 1401239704,
-   "format" : "html",
-   "quote-source" : "Michael Billig, <em><a href=\"http://www.goodreads.com/book/show/1601570.Banal_Nationalism\">Banal Nationalism</a></em>, page 1.",
-   "reblog-key" : "kAWOlYKC",
+   "id" : "87055651089",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/87055651089/all-societies-that-maintain-armies-maintain-the",
+   "quote-text" : "All societies that maintain armies maintain the belief that some things are more valuable than life itself. Just what is so valued varies.",
    "type" : "quote",
+   "slug" : "all-societies-that-maintain-armies-maintain-the",
+   "unix-timestamp" : 1401239704,
+   "quote-source" : "Michael Billig, <em><a href=\"http://www.goodreads.com/book/show/1601570.Banal_Nationalism\">Banal Nationalism</a></em>, page 1.",
+   "date" : "Tue, 27 May 2014 19:15:04",
    "feed-item" : "",
-   "date-gmt" : "2014-05-28 01:15:04 GMT"
+   "format" : "html",
+   "reblog-key" : "kAWOlYKC",
+   "date-gmt" : "2014-05-28 01:15:04 GMT",
+   "bookmarklet" : 0,
+   "from-feed-id" : 0
 }
 

@@ -1,22 +1,22 @@
 {
-   "date-gmt" : "2012-03-06 09:13:00 GMT",
-   "feed-item" : "",
-   "reblog-key" : "GOuJkDPj",
-   "type" : "quote",
-   "format" : "html",
+   "date" : "Tue, 06 Mar 2012 02:13:00",
    "quote-source" : "Michael Suileabhain-Wilson, <a href=\"http://www.plausiblydeniable.com/opinion/gsf.html\"><em>Five Geek Social Fallacies</em></a>",
-   "unix-timestamp" : 1331025180,
+   "date-gmt" : "2012-03-06 09:13:00 GMT",
+   "reblog-key" : "GOuJkDPj",
+   "format" : "html",
+   "feed-item" : "",
+   "from-feed-id" : 0,
+   "bookmarklet" : 0,
+   "mobile" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/18841493253",
    "tags" : [
       "geek"
    ],
-   "bookmarklet" : 0,
-   "id" : "18841493253",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/18841493253/geek-social-fallacy-1-ostracizers-are-evil",
+   "id" : "18841493253",
+   "type" : "quote",
    "quote-text" : "<p>Geek Social Fallacy #1: Ostracizers Are Evil</p>\n\n<p>GSF1 is one of the most common fallacies, and one of the most deeply held. Many geeks have had horrible, humiliating, and formative experiences with ostracism, and the notion of being on the other side of the transaction is repugnant to them.</p>\n\n<p>In its non-pathological form, GSF1 is benign, and even commendable: it is long past time we all grew up and stopped with the junior high popularity games. However, in its pathological form, GSF1 prevents its carrier from participating in &#8212; or tolerating &#8212; the exclusion of anyone from anything, be it a party, a comic book store, or a web forum, and no matter how obnoxious, offensive, or aromatic the prospective excludee may be.</p>",
    "slug" : "geek-social-fallacy-1-ostracizers-are-evil",
-   "date" : "Tue, 06 Mar 2012 02:13:00",
-   "mobile" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/18841493253",
-   "from-feed-id" : 0
+   "unix-timestamp" : 1331025180
 }
 

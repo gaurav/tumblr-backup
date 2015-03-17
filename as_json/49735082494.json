@@ -1,28 +1,20 @@
 {
-   "date" : "Sun, 05 May 2013 18:53:10",
-   "mobile" : 0,
    "slug" : "person-she-me-its-he-person",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/49735082494/person-she-me-its-he-person",
-   "id" : "49735082494",
-   "url" : "http://tumblr.ggvaidya.com/post/49735082494",
-   "from-feed-id" : 0,
-   "reblog-key" : "GyUCUNvR",
-   "type" : "conversation",
    "conversation" : [
-      {
-         "phrase" : "she--\r",
-         "label" : "person:",
-         "name" : "person"
-      },
-      {
-         "phrase" : "it's he.\r",
-         "name" : "me",
-         "label" : "me:"
-      },
       {
          "name" : "person",
          "label" : "person:",
-         "phrase" : "*condescending smile* well, on your birth certificate--\r"
+         "phrase" : "she--\r"
+      },
+      {
+         "label" : "me:",
+         "name" : "me",
+         "phrase" : "it's he.\r"
+      },
+      {
+         "phrase" : "*condescending smile* well, on your birth certificate--\r",
+         "name" : "person",
+         "label" : "person:"
       },
       {
          "phrase" : "yeah, it also says ' 8lbs, 6 oz ' -- a lot has changed over the years",
@@ -30,16 +22,24 @@
          "name" : "me"
       }
    ],
-   "feed-item" : "",
-   "date-gmt" : "2013-05-06 00:53:10 GMT",
+   "conversation-text" : "person: she--\r\nme: it's he.\r\nperson: *condescending smile* well, on your birth certificate--\r\nme: yeah, it also says ' 8lbs, 6 oz ' -- a lot has changed over the years",
+   "unix-timestamp" : 1367801590,
+   "url" : "http://tumblr.ggvaidya.com/post/49735082494",
+   "mobile" : 0,
    "tags" : [
       "haha",
       "lgbt"
    ],
-   "bookmarklet" : 0,
-   "conversation-text" : "person: she--\r\nme: it's he.\r\nperson: *condescending smile* well, on your birth certificate--\r\nme: yeah, it also says ' 8lbs, 6 oz ' -- a lot has changed over the years",
-   "unix-timestamp" : 1367801590,
+   "id" : "49735082494",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/49735082494/person-she-me-its-he-person",
+   "type" : "conversation",
    "conversation-title" : null,
-   "format" : "html"
+   "bookmarklet" : 0,
+   "from-feed-id" : 0,
+   "date" : "Sun, 05 May 2013 18:53:10",
+   "feed-item" : "",
+   "format" : "html",
+   "date-gmt" : "2013-05-06 00:53:10 GMT",
+   "reblog-key" : "GyUCUNvR"
 }
 

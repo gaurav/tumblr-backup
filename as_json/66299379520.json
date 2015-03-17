@@ -1,25 +1,25 @@
 {
-   "from-feed-id" : 0,
    "url" : "http://tumblr.ggvaidya.com/post/66299379520",
-   "regular-title" : null,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/66299379520/lobsterhateblog-so-if-you-watch-the-star-trek",
-   "id" : "66299379520",
    "mobile" : 0,
-   "date" : "Thu, 07 Nov 2013 12:54:33",
-   "slug" : "lobsterhateblog-so-if-you-watch-the-star-trek",
-   "unix-timestamp" : 1383854073,
-   "regular-body" : "<p><a class=\"tumblr_blog\" href=\"http://lobsterhateblog.tumblr.com/post/57930326881/so-if-you-watch-the-star-trek-episode-space\">lobsterhateblog</a>:</p>\n<blockquote>\n<p>so if you watch the star trek episode âspace seed.â</p>\n<p>you, in 2013, are watching an episode that aired in 1967, that takes place in the 23rd century, about people frozen since the 1990s, which was the future to people in the sixties, but canonically the past to the characters in TOS, and now the past to you.</p>\n<p>so youâre watching a show from the past about the future about the past which was then the future but is now the past again.</p>\n</blockquote>",
-   "format" : "html",
-   "bookmarklet" : 0,
    "tags" : [
       "o.0",
       "time",
       "writing",
       "star trek"
    ],
-   "feed-item" : "",
-   "date-gmt" : "2013-11-07 19:54:33 GMT",
+   "id" : "66299379520",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/66299379520/lobsterhateblog-so-if-you-watch-the-star-trek",
    "type" : "regular",
-   "reblog-key" : "bLG2JOix"
+   "slug" : "lobsterhateblog-so-if-you-watch-the-star-trek",
+   "regular-body" : "<p><a class=\"tumblr_blog\" href=\"http://lobsterhateblog.tumblr.com/post/57930326881/so-if-you-watch-the-star-trek-episode-space\">lobsterhateblog</a>:</p>\n<blockquote>\n<p>so if you watch the star trek episode âspace seed.â</p>\n<p>you, in 2013, are watching an episode that aired in 1967, that takes place in the 23rd century, about people frozen since the 1990s, which was the future to people in the sixties, but canonically the past to the characters in TOS, and now the past to you.</p>\n<p>so youâre watching a show from the past about the future about the past which was then the future but is now the past again.</p>\n</blockquote>",
+   "unix-timestamp" : 1383854073,
+   "regular-title" : null,
+   "date" : "Thu, 07 Nov 2013 12:54:33",
+   "format" : "html",
+   "feed-item" : "",
+   "reblog-key" : "bLG2JOix",
+   "date-gmt" : "2013-11-07 19:54:33 GMT",
+   "bookmarklet" : 0,
+   "from-feed-id" : 0
 }
 

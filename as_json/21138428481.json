@@ -1,26 +1,26 @@
 {
-   "video-caption" : "<p>George C. Scott, you are ten types of awesome.</p>",
    "video-source" : "http://www.youtube.com/watch?v=UxLe8MWdWe0",
-   "url" : "http://tumblr.ggvaidya.com/post/21138428481",
+   "bookmarklet" : 0,
    "from-feed-id" : 0,
+   "date" : "Sun, 15 Apr 2012 03:23:24",
+   "feed-item" : "",
+   "format" : "html",
+   "reblog-key" : "iSPG4nY2",
+   "date-gmt" : "2012-04-15 09:23:24 GMT",
+   "video-player-250" : "<iframe width=\"250\" height=\"187\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/UxLe8MWdWe0?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "unix-timestamp" : 1334481804,
+   "video-player-500" : "<iframe width=\"500\" height=\"374\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/UxLe8MWdWe0?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "slug" : "george-c-scott-you-are-ten-types-of-awesome",
    "id" : "21138428481",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/21138428481/george-c-scott-you-are-ten-types-of-awesome",
-   "slug" : "george-c-scott-you-are-ten-types-of-awesome",
-   "video-player-250" : "<iframe width=\"250\" height=\"187\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/UxLe8MWdWe0?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "date" : "Sun, 15 Apr 2012 03:23:24",
+   "type" : "video",
+   "url" : "http://tumblr.ggvaidya.com/post/21138428481",
+   "video-player" : "<iframe width=\"400\" height=\"299\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/UxLe8MWdWe0?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-caption" : "<p>George C. Scott, you are ten types of awesome.</p>",
    "mobile" : 0,
-   "format" : "html",
-   "unix-timestamp" : 1334481804,
    "tags" : [
       "strangelove",
       "video"
-   ],
-   "bookmarklet" : 0,
-   "date-gmt" : "2012-04-15 09:23:24 GMT",
-   "feed-item" : "",
-   "video-player-500" : "<iframe width=\"500\" height=\"374\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/UxLe8MWdWe0?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "video-player" : "<iframe width=\"400\" height=\"299\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/UxLe8MWdWe0?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "reblog-key" : "iSPG4nY2",
-   "type" : "video"
+   ]
 }
 

@@ -1,5 +1,7 @@
 {
-   "type" : "conversation",
+   "conversation-text" : "DOCTOR: How did you know about the boxes? You said they'd make me angry -- how did you know?\r\nTARDIS: Ah. It's my thief.\r\nDOCTOR: Who are you?\r\nTARDIS: Hmm. It's about time.\r\n...\r\nDOCTOR: I don't understand, who are you?\r\nTARDIS: Do you really not know me? Just because they put me in here?\r\nDOCTOR: They said you were dangerous.\r\nTARDIS: Not the cage, stupid.  In here. [indicates face] They put me. In here. [beat] I'm the â¦ oh, what do you call me, uh -- we travel. I go, [makes TARDIS take off noise]\r\nDOCTOR: [incredulous] The TARDIS?\r\nTARDIS: Time and Relative Dimension In Space.  Yes, that's it. Names _are_ funny. It's me. [stands up] I'm the TARDIS.\r\nDOCTOR: No, you're not! You're a bitey mad lady. The TARDIS â¦ is â¦ up-and-down-y stuff in a big blue box.\r\nTARDIS: Yes, that's me. A Type-40 TARDIS. I was already a museum piece when you were young. And the first time you touched my console, you sâ¦\r\nDOCTOR: I said you were the most beautiful thing I'd ever known.\r\nTARDIS: Then you stole me. And I stole you.\r\nDOCTOR: [long pause, then] I borrowed you.\r\nTARDIS: Borrowing implies the eventual intention to return the thing that was taken. What makes you think I would ever give you back?\r\nDOCTOR: [turns around slowly] You're the TARDIS?\r\nTARDIS: Yes.\r\nDOCTOR: [incredulous, loudly] MY TARDIS?!\r\nTARDIS: MY Doctor. [beat] Oh! We have now reached the point in the conversation where you open the lock.\r\nDOCTOR: [unlocks the cage with the Sonic Screwdriver]\r\nTARDIS: [steps out and up to the DOCTOR; she stares at his face, then] Are all people like this?\r\nDOCTOR: Like what?\r\nTARDIS: So much bigger on the inside.",
+   "unix-timestamp" : 1383937030,
+   "slug" : "my-tardis",
    "conversation" : [
       {
          "name" : "DOCTOR",
@@ -13,8 +15,8 @@
       },
       {
          "phrase" : "Who are you?\r",
-         "name" : "DOCTOR",
-         "label" : "DOCTOR:"
+         "label" : "DOCTOR:",
+         "name" : "DOCTOR"
       },
       {
          "phrase" : "Hmm. It's about time.\r",
@@ -38,38 +40,38 @@
       },
       {
          "phrase" : "They said you were dangerous.\r",
-         "name" : "DOCTOR",
-         "label" : "DOCTOR:"
-      },
-      {
-         "phrase" : "Not the cage, stupid.  In here. [indicates face] They put me. In here. [beat] I'm the â¦ oh, what do you call me, uh -- we travel. I go, [makes TARDIS take off noise]\r",
-         "label" : "TARDIS:",
-         "name" : "TARDIS"
-      },
-      {
-         "phrase" : "[incredulous] The TARDIS?\r",
          "label" : "DOCTOR:",
          "name" : "DOCTOR"
       },
       {
+         "phrase" : "Not the cage, stupid.  In here. [indicates face] They put me. In here. [beat] I'm the â¦ oh, what do you call me, uh -- we travel. I go, [makes TARDIS take off noise]\r",
+         "name" : "TARDIS",
+         "label" : "TARDIS:"
+      },
+      {
+         "name" : "DOCTOR",
+         "label" : "DOCTOR:",
+         "phrase" : "[incredulous] The TARDIS?\r"
+      },
+      {
          "phrase" : "Time and Relative Dimension In Space.  Yes, that's it. Names _are_ funny. It's me. [stands up] I'm the TARDIS.\r",
-         "label" : "TARDIS:",
-         "name" : "TARDIS"
+         "name" : "TARDIS",
+         "label" : "TARDIS:"
       },
       {
-         "name" : "DOCTOR",
+         "phrase" : "No, you're not! You're a bitey mad lady. The TARDIS â¦ is â¦ up-and-down-y stuff in a big blue box.\r",
          "label" : "DOCTOR:",
-         "phrase" : "No, you're not! You're a bitey mad lady. The TARDIS â¦ is â¦ up-and-down-y stuff in a big blue box.\r"
+         "name" : "DOCTOR"
       },
       {
-         "phrase" : "Yes, that's me. A Type-40 TARDIS. I was already a museum piece when you were young. And the first time you touched my console, you sâ¦\r",
          "label" : "TARDIS:",
-         "name" : "TARDIS"
+         "name" : "TARDIS",
+         "phrase" : "Yes, that's me. A Type-40 TARDIS. I was already a museum piece when you were young. And the first time you touched my console, you sâ¦\r"
       },
       {
-         "name" : "DOCTOR",
+         "phrase" : "I said you were the most beautiful thing I'd ever known.\r",
          "label" : "DOCTOR:",
-         "phrase" : "I said you were the most beautiful thing I'd ever known.\r"
+         "name" : "DOCTOR"
       },
       {
          "phrase" : "Then you stole me. And I stole you.\r",
@@ -77,13 +79,13 @@
          "label" : "TARDIS:"
       },
       {
-         "label" : "DOCTOR:",
+         "phrase" : "[long pause, then] I borrowed you.\r",
          "name" : "DOCTOR",
-         "phrase" : "[long pause, then] I borrowed you.\r"
+         "label" : "DOCTOR:"
       },
       {
-         "label" : "TARDIS:",
          "name" : "TARDIS",
+         "label" : "TARDIS:",
          "phrase" : "Borrowing implies the eventual intention to return the thing that was taken. What makes you think I would ever give you back?\r"
       },
       {
@@ -93,28 +95,28 @@
       },
       {
          "phrase" : "Yes.\r",
+         "label" : "TARDIS:",
+         "name" : "TARDIS"
+      },
+      {
+         "label" : "DOCTOR:",
+         "name" : "DOCTOR",
+         "phrase" : "[incredulous, loudly] MY TARDIS?!\r"
+      },
+      {
+         "phrase" : "MY Doctor. [beat] Oh! We have now reached the point in the conversation where you open the lock.\r",
          "name" : "TARDIS",
          "label" : "TARDIS:"
       },
       {
-         "phrase" : "[incredulous, loudly] MY TARDIS?!\r",
+         "phrase" : "[unlocks the cage with the Sonic Screwdriver]\r",
          "name" : "DOCTOR",
          "label" : "DOCTOR:"
       },
       {
+         "label" : "TARDIS:",
          "name" : "TARDIS",
-         "label" : "TARDIS:",
-         "phrase" : "MY Doctor. [beat] Oh! We have now reached the point in the conversation where you open the lock.\r"
-      },
-      {
-         "name" : "DOCTOR",
-         "label" : "DOCTOR:",
-         "phrase" : "[unlocks the cage with the Sonic Screwdriver]\r"
-      },
-      {
-         "phrase" : "[steps out and up to the DOCTOR; she stares at his face, then] Are all people like this?\r",
-         "label" : "TARDIS:",
-         "name" : "TARDIS"
+         "phrase" : "[steps out and up to the DOCTOR; she stares at his face, then] Are all people like this?\r"
       },
       {
          "phrase" : "Like what?\r",
@@ -122,15 +124,16 @@
          "name" : "DOCTOR"
       },
       {
-         "phrase" : "So much bigger on the inside.",
+         "label" : "TARDIS:",
          "name" : "TARDIS",
-         "label" : "TARDIS:"
+         "phrase" : "So much bigger on the inside."
       }
    ],
-   "reblog-key" : "tpMmzVpJ",
-   "feed-item" : "",
-   "date-gmt" : "2013-11-08 18:57:10 GMT",
-   "bookmarklet" : 0,
+   "id" : "66387950831",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/66387950831/my-tardis",
+   "type" : "conversation",
+   "url" : "http://tumblr.ggvaidya.com/post/66387950831",
+   "mobile" : 0,
    "tags" : [
       "doctor who",
       "spoilers",
@@ -138,16 +141,13 @@
       "the doctor's wife",
       "TARDIS"
    ],
-   "conversation-text" : "DOCTOR: How did you know about the boxes? You said they'd make me angry -- how did you know?\r\nTARDIS: Ah. It's my thief.\r\nDOCTOR: Who are you?\r\nTARDIS: Hmm. It's about time.\r\n...\r\nDOCTOR: I don't understand, who are you?\r\nTARDIS: Do you really not know me? Just because they put me in here?\r\nDOCTOR: They said you were dangerous.\r\nTARDIS: Not the cage, stupid.  In here. [indicates face] They put me. In here. [beat] I'm the â¦ oh, what do you call me, uh -- we travel. I go, [makes TARDIS take off noise]\r\nDOCTOR: [incredulous] The TARDIS?\r\nTARDIS: Time and Relative Dimension In Space.  Yes, that's it. Names _are_ funny. It's me. [stands up] I'm the TARDIS.\r\nDOCTOR: No, you're not! You're a bitey mad lady. The TARDIS â¦ is â¦ up-and-down-y stuff in a big blue box.\r\nTARDIS: Yes, that's me. A Type-40 TARDIS. I was already a museum piece when you were young. And the first time you touched my console, you sâ¦\r\nDOCTOR: I said you were the most beautiful thing I'd ever known.\r\nTARDIS: Then you stole me. And I stole you.\r\nDOCTOR: [long pause, then] I borrowed you.\r\nTARDIS: Borrowing implies the eventual intention to return the thing that was taken. What makes you think I would ever give you back?\r\nDOCTOR: [turns around slowly] You're the TARDIS?\r\nTARDIS: Yes.\r\nDOCTOR: [incredulous, loudly] MY TARDIS?!\r\nTARDIS: MY Doctor. [beat] Oh! We have now reached the point in the conversation where you open the lock.\r\nDOCTOR: [unlocks the cage with the Sonic Screwdriver]\r\nTARDIS: [steps out and up to the DOCTOR; she stares at his face, then] Are all people like this?\r\nDOCTOR: Like what?\r\nTARDIS: So much bigger on the inside.",
-   "unix-timestamp" : 1383937030,
-   "conversation-title" : "My TARDIS",
-   "format" : "html",
-   "mobile" : 0,
-   "date" : "Fri, 08 Nov 2013 11:57:10",
-   "slug" : "my-tardis",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/66387950831/my-tardis",
-   "id" : "66387950831",
+   "bookmarklet" : 0,
    "from-feed-id" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/66387950831"
+   "conversation-title" : "My TARDIS",
+   "date" : "Fri, 08 Nov 2013 11:57:10",
+   "format" : "html",
+   "feed-item" : "",
+   "date-gmt" : "2013-11-08 18:57:10 GMT",
+   "reblog-key" : "tpMmzVpJ"
 }
 

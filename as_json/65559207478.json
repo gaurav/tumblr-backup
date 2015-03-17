@@ -1,23 +1,23 @@
 {
-   "date-gmt" : "2013-10-30 22:38:15 GMT",
-   "feed-item" : "",
-   "reblog-key" : "Zk8KNilD",
-   "type" : "quote",
-   "format" : "html",
-   "quote-source" : "<p>Some <a href=\"https://github.com/robrix/Postmodern-Programming/blob/master/Postmodern%20Programming.md\">articles</a> are infinitely quotable.</p>\n<p>Iâl have to try real hard not to flood you with one-liners from this one.</p>\n<p>(via <a class=\"tumblr_blog\" href=\"http://slashnull.tumblr.com/\">slashnull</a>)</p>",
-   "unix-timestamp" : 1383172695,
+   "url" : "http://tumblr.ggvaidya.com/post/65559207478",
+   "mobile" : 0,
    "tags" : [
       "hee hee",
       "programmer jokes"
    ],
-   "bookmarklet" : 0,
    "id" : "65559207478",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/65559207478/its-famously-said-that-there-are-only-two-hard",
    "quote-text" : "Itâs famously said that there are only two hard problems in computer science: cache invalidation, naming things, and off-by-one errors.",
+   "type" : "quote",
    "slug" : "its-famously-said-that-there-are-only-two-hard",
+   "unix-timestamp" : 1383172695,
+   "quote-source" : "<p>Some <a href=\"https://github.com/robrix/Postmodern-Programming/blob/master/Postmodern%20Programming.md\">articles</a> are infinitely quotable.</p>\n<p>Iâl have to try real hard not to flood you with one-liners from this one.</p>\n<p>(via <a class=\"tumblr_blog\" href=\"http://slashnull.tumblr.com/\">slashnull</a>)</p>",
    "date" : "Wed, 30 Oct 2013 16:38:15",
-   "mobile" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/65559207478",
+   "format" : "html",
+   "feed-item" : "",
+   "date-gmt" : "2013-10-30 22:38:15 GMT",
+   "reblog-key" : "Zk8KNilD",
+   "bookmarklet" : 0,
    "from-feed-id" : 0
 }
 

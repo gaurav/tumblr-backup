@@ -1,23 +1,23 @@
 {
-   "unix-timestamp" : 1398889227,
    "format" : "html",
+   "feed-item" : "",
+   "date-gmt" : "2014-04-30 20:20:27 GMT",
+   "reblog-key" : "pSknUfIz",
    "quote-source" : "Friedrich Nietzsche, Thus Spoke Zarathustra (via <a href=\"http://setbabiesonfire.tumblr.com/\" class=\"tumblr_blog\">setbabiesonfire</a>)",
+   "date" : "Wed, 30 Apr 2014 14:20:27",
+   "bookmarklet" : 0,
+   "from-feed-id" : 0,
    "tags" : [
       "hmm",
       "life"
    ],
-   "bookmarklet" : 0,
-   "feed-item" : "",
-   "date-gmt" : "2014-04-30 20:20:27 GMT",
-   "reblog-key" : "pSknUfIz",
-   "type" : "quote",
    "url" : "http://tumblr.ggvaidya.com/post/84348707302",
-   "from-feed-id" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/84348707302/you-must-be-ready-to-burn-yourself-in-your-own",
-   "id" : "84348707302",
-   "date" : "Wed, 30 Apr 2014 14:20:27",
    "mobile" : 0,
    "quote-text" : "You must be ready to burn yourself in your own flame;<br/>\nhow could you rise anew if you have not first become ashes?",
-   "slug" : "you-must-be-ready-to-burn-yourself-in-your-own"
+   "type" : "quote",
+   "id" : "84348707302",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/84348707302/you-must-be-ready-to-burn-yourself-in-your-own",
+   "slug" : "you-must-be-ready-to-burn-yourself-in-your-own",
+   "unix-timestamp" : 1398889227
 }
 

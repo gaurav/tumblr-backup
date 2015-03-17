@@ -1,11 +1,17 @@
 {
-   "slug" : "i-love-dr-fishman-truly-madly-deeply",
-   "mobile" : 0,
-   "date" : "Wed, 23 May 2012 22:22:05",
-   "id" : "23655940933",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/23655940933/i-love-dr-fishman-truly-madly-deeply",
-   "from-feed-id" : 0,
+   "id" : "23655940933",
+   "type" : "conversation",
+   "mobile" : 0,
    "url" : "http://tumblr.ggvaidya.com/post/23655940933",
+   "tags" : [
+      "dr fishman",
+      "the literal doctor",
+      "arrested development"
+   ],
+   "conversation-text" : "Michael: How is he, doctor?\r\nDr. Fishman: It looks like heâs dead.\r\nLucille: Oh my god!\r\nG.O.B.: Oh little guy. The tears arenât coming. The tears just arenât coming.\r\nMichael: Just to be clear. Looks like heâs dead, or he is dead?\r\nDr. Fishman: It just looks like heâs dead. Heâs got like blue paint on him or something. But heâs going to be fine.\r\nG.O.B.: What is wrong with you?\r\nMaeby: This bleeping doctor!\r\nDr. Fishman: Iâll let you celebrate privately.\r\nLucille: We want this comped!",
+   "unix-timestamp" : 1337833325,
+   "slug" : "i-love-dr-fishman-truly-madly-deeply",
    "conversation" : [
       {
          "name" : "Michael",
@@ -33,9 +39,9 @@
          "phrase" : "Just to be clear. Looks like heâs dead, or he is dead?\r"
       },
       {
-         "phrase" : "It just looks like heâs dead. Heâs got like blue paint on him or something. But heâs going to be fine.\r",
+         "label" : "Dr. Fishman:",
          "name" : "Dr. Fishman",
-         "label" : "Dr. Fishman:"
+         "phrase" : "It just looks like heâs dead. Heâs got like blue paint on him or something. But heâs going to be fine.\r"
       },
       {
          "phrase" : "What is wrong with you?\r",
@@ -58,19 +64,13 @@
          "label" : "Lucille:"
       }
    ],
-   "type" : "conversation",
-   "reblog-key" : "LcMdVrf2",
+   "date" : "Wed, 23 May 2012 22:22:05",
    "date-gmt" : "2012-05-24 04:22:05 GMT",
+   "reblog-key" : "LcMdVrf2",
    "feed-item" : "",
-   "conversation-text" : "Michael: How is he, doctor?\r\nDr. Fishman: It looks like heâs dead.\r\nLucille: Oh my god!\r\nG.O.B.: Oh little guy. The tears arenât coming. The tears just arenât coming.\r\nMichael: Just to be clear. Looks like heâs dead, or he is dead?\r\nDr. Fishman: It just looks like heâs dead. Heâs got like blue paint on him or something. But heâs going to be fine.\r\nG.O.B.: What is wrong with you?\r\nMaeby: This bleeping doctor!\r\nDr. Fishman: Iâll let you celebrate privately.\r\nLucille: We want this comped!",
-   "bookmarklet" : 0,
-   "tags" : [
-      "dr fishman",
-      "the literal doctor",
-      "arrested development"
-   ],
-   "conversation-title" : "I love Dr. Fishman truly, madly, deeply",
    "format" : "html",
-   "unix-timestamp" : 1337833325
+   "from-feed-id" : 0,
+   "bookmarklet" : 0,
+   "conversation-title" : "I love Dr. Fishman truly, madly, deeply"
 }
 

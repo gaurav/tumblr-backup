@@ -1,12 +1,9 @@
 {
-   "from-feed-id" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/55930982014",
-   "date" : "Fri, 19 Jul 2013 22:03:51",
-   "mobile" : 0,
+   "regular-body" : "<p><a class=\"tumblr_blog\" href=\"http://cardboardmoose.tumblr.com/post/52404775057/please-dont-feel-bad-for-not-being-able-to-love\">cardboardmoose</a>:</p>\n<blockquote>\n<p>please donât feel bad for not being able to love yourself!</p>\n<p>loving yourself is a long and difficult process and it involves a lot of deprogramming yourself from the harmful bullshit that society and people have told you. you shouldnât be made to feel weak or a failure for struggling with that.</p>\n<p>take your time, and when you do feel able to love yourself, itâll be wonderful and genuine and not a rushed fake thing</p>\n<p>in the mean time, please take care of yourself!</p>\n</blockquote>",
    "slug" : "cardboardmoose-please-dont-feel-bad-for-not",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/55930982014/cardboardmoose-please-dont-feel-bad-for-not",
-   "regular-title" : null,
-   "id" : "55930982014",
+   "unix-timestamp" : 1374293031,
+   "mobile" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/55930982014",
    "tags" : [
       "yes please",
       "you're growing as fast as you can",
@@ -18,13 +15,16 @@
       "advice",
       "important"
    ],
-   "bookmarklet" : 0,
-   "unix-timestamp" : 1374293031,
-   "format" : "html",
-   "regular-body" : "<p><a class=\"tumblr_blog\" href=\"http://cardboardmoose.tumblr.com/post/52404775057/please-dont-feel-bad-for-not-being-able-to-love\">cardboardmoose</a>:</p>\n<blockquote>\n<p>please donât feel bad for not being able to love yourself!</p>\n<p>loving yourself is a long and difficult process and it involves a lot of deprogramming yourself from the harmful bullshit that society and people have told you. you shouldnât be made to feel weak or a failure for struggling with that.</p>\n<p>take your time, and when you do feel able to love yourself, itâll be wonderful and genuine and not a rushed fake thing</p>\n<p>in the mean time, please take care of yourself!</p>\n</blockquote>",
-   "reblog-key" : "W49bA937",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/55930982014/cardboardmoose-please-dont-feel-bad-for-not",
+   "id" : "55930982014",
    "type" : "regular",
+   "from-feed-id" : 0,
+   "bookmarklet" : 0,
+   "date" : "Fri, 19 Jul 2013 22:03:51",
+   "regular-title" : null,
+   "date-gmt" : "2013-07-20 04:03:51 GMT",
+   "reblog-key" : "W49bA937",
    "feed-item" : "",
-   "date-gmt" : "2013-07-20 04:03:51 GMT"
+   "format" : "html"
 }
 

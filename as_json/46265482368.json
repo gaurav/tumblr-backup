@@ -1,23 +1,23 @@
 {
-   "bookmarklet" : 0,
+   "unix-timestamp" : 1364235905,
+   "slug" : "what-is-mind-doesnt-matter",
+   "regular-body" : "<p>My Tumblr queue is now either long enough (or my memory short enough) that I keep trying to reblog interesting quotes from my dashboard, only to realize that I posted them there in the first place. My thirties, here I come.</p>",
+   "type" : "regular",
+   "id" : "46265482368",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/46265482368/what-is-mind-doesnt-matter",
    "tags" : [
       "memory",
       "me"
    ],
-   "format" : "html",
-   "regular-body" : "<p>My Tumblr queue is now either long enough (or my memory short enough) that I keep trying to reblog interesting quotes from my dashboard, only to realize that I posted them there in the first place. My thirties, here I come.</p>",
-   "unix-timestamp" : 1364235905,
-   "type" : "regular",
-   "reblog-key" : "elPLe6Zg",
-   "date-gmt" : "2013-03-25 18:25:05 GMT",
-   "feed-item" : "",
    "url" : "http://tumblr.ggvaidya.com/post/46265482368",
-   "from-feed-id" : 0,
-   "slug" : "what-is-mind-doesnt-matter",
    "mobile" : 0,
-   "date" : "Mon, 25 Mar 2013 12:25:05",
-   "id" : "46265482368",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/46265482368/what-is-mind-doesnt-matter",
-   "regular-title" : "What is mind? Doesn't matter."
+   "bookmarklet" : 0,
+   "from-feed-id" : 0,
+   "format" : "html",
+   "feed-item" : "",
+   "date-gmt" : "2013-03-25 18:25:05 GMT",
+   "reblog-key" : "elPLe6Zg",
+   "regular-title" : "What is mind? Doesn't matter.",
+   "date" : "Mon, 25 Mar 2013 12:25:05"
 }
 

@@ -1,22 +1,22 @@
 {
-   "from-feed-id" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/19282068869",
+   "unix-timestamp" : 1331708460,
+   "slug" : "willow-yeah-youre-the-slayer-and-were-like",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/19282068869/willow-yeah-youre-the-slayer-and-were-like",
    "id" : "19282068869",
-   "date" : "Wed, 14 Mar 2012 01:01:00",
-   "mobile" : 0,
+   "type" : "quote",
    "quote-text" : "Willow: Yeah, you&#8217;re the Slayer, and we&#8217;re, like, the Slayerettes.<br/>\nBuffy: I just .. don&#8217;t like putting you guys in danger.<br/>\nXander: I laugh in the face of danger. Then I hide until it goes away.<br/>\n&#8212;&#8212;&#8212;<br/>\nGiles: Someone doesn&#8217;t like cheerleading.<br/>\nBuffy: Or maybe likes it too much.<br/>\nWillow: Amy!<br/>\nBuffy: Amy.<br/>\nXander: So you guys are leaning towards Amy.<br/>\n&#8212;&#8212;&#8212;<br/>\nWillow: Amy!<br/>\nAmy: Get out of my way.<br/>\nWillow: Wait! I &#8230; I need to talk to you, I can help you.<br/>\nAmy: Help me? With what?<br/>\nWillow: Well, well, you know, all your witchcraft? I &#8230; I know this really good cauldron. Do you actually ride a broom?",
-   "slug" : "willow-yeah-youre-the-slayer-and-were-like",
-   "unix-timestamp" : 1331708460,
-   "format" : "html",
-   "quote-source" : "<em>Buffy the Vampire Slayer</em>, season 1, episode 3: <em>The Witch</em>",
+   "mobile" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/19282068869",
    "tags" : [
       "buffy the vampire slayer"
    ],
+   "from-feed-id" : 0,
    "bookmarklet" : 0,
-   "feed-item" : "",
+   "quote-source" : "<em>Buffy the Vampire Slayer</em>, season 1, episode 3: <em>The Witch</em>",
+   "date" : "Wed, 14 Mar 2012 01:01:00",
    "date-gmt" : "2012-03-14 07:01:00 GMT",
    "reblog-key" : "cv5VwH9t",
-   "type" : "quote"
+   "format" : "html",
+   "feed-item" : ""
 }
 

@@ -1,26 +1,26 @@
 {
-   "feed-item" : "",
+   "from-feed-id" : 0,
+   "bookmarklet" : 0,
+   "video-source" : "http://www.youtube.com/watch?v=kLU2DiMLYUE",
    "date-gmt" : "2012-03-16 09:14:53 GMT",
-   "type" : "video",
    "reblog-key" : "LHVSETdZ",
-   "video-player" : "<iframe width=\"400\" height=\"225\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/kLU2DiMLYUE?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "format" : "html",
+   "feed-item" : "",
+   "date" : "Fri, 16 Mar 2012 03:14:53",
+   "slug" : "in-the-future-all-geopolitics-will-be-conveyed-by",
    "video-player-500" : "<iframe width=\"500\" height=\"281\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/kLU2DiMLYUE?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
    "unix-timestamp" : 1331889293,
-   "format" : "html",
-   "bookmarklet" : 0,
+   "video-player-250" : "<iframe width=\"250\" height=\"140\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/kLU2DiMLYUE?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
    "tags" : [
       "the daily show",
       "dog"
    ],
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/19391438469/in-the-future-all-geopolitics-will-be-conveyed-by",
-   "id" : "19391438469",
    "mobile" : 0,
-   "date" : "Fri, 16 Mar 2012 03:14:53",
-   "video-player-250" : "<iframe width=\"250\" height=\"140\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/kLU2DiMLYUE?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "slug" : "in-the-future-all-geopolitics-will-be-conveyed-by",
-   "video-source" : "http://www.youtube.com/watch?v=kLU2DiMLYUE",
    "video-caption" : "<p>In the future, all geopolitics will be conveyed by dog.</p>\n\n<p>(From the Daily Show, Mar 12, 2012, for as long as it stays up. Search for &#8220;syria 2012 dog&#8221; if the link no longer works).</p>",
-   "from-feed-id" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/19391438469"
+   "video-player" : "<iframe width=\"400\" height=\"225\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/kLU2DiMLYUE?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "url" : "http://tumblr.ggvaidya.com/post/19391438469",
+   "type" : "video",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/19391438469/in-the-future-all-geopolitics-will-be-conveyed-by",
+   "id" : "19391438469"
 }
 

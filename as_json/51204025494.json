@@ -1,16 +1,11 @@
 {
-   "video-caption" : "<p>Here is your monthly reminder that Charlie Chaplin was magic.</p>",
-   "video-source" : "https://www.youtube.com/watch?v=U9BinpcqWGM",
-   "url" : "http://tumblr.ggvaidya.com/post/51204025494",
-   "from-feed-id" : 0,
+   "video-player-250" : "<iframe width=\"250\" height=\"187\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/U9BinpcqWGM?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "unix-timestamp" : 1369369341,
+   "video-player-500" : "<iframe width=\"500\" height=\"374\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/U9BinpcqWGM?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "slug" : "here-is-your-monthly-reminder-that-charlie-chaplin",
+   "type" : "video",
    "id" : "51204025494",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/51204025494/here-is-your-monthly-reminder-that-charlie-chaplin",
-   "slug" : "here-is-your-monthly-reminder-that-charlie-chaplin",
-   "video-player-250" : "<iframe width=\"250\" height=\"187\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/U9BinpcqWGM?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "date" : "Thu, 23 May 2013 22:22:21",
-   "mobile" : 0,
-   "format" : "html",
-   "unix-timestamp" : 1369369341,
    "tags" : [
       "genius",
       "poise",
@@ -18,12 +13,17 @@
       "Charlie Chaplin",
       "the circus"
    ],
-   "bookmarklet" : 0,
-   "date-gmt" : "2013-05-24 04:22:21 GMT",
-   "feed-item" : "",
+   "url" : "http://tumblr.ggvaidya.com/post/51204025494",
    "video-player" : "<iframe width=\"400\" height=\"299\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/U9BinpcqWGM?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "video-player-500" : "<iframe width=\"500\" height=\"374\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/U9BinpcqWGM?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-caption" : "<p>Here is your monthly reminder that Charlie Chaplin was magic.</p>",
+   "mobile" : 0,
+   "bookmarklet" : 0,
+   "from-feed-id" : 0,
+   "video-source" : "https://www.youtube.com/watch?v=U9BinpcqWGM",
+   "feed-item" : "",
+   "format" : "html",
+   "date-gmt" : "2013-05-24 04:22:21 GMT",
    "reblog-key" : "ytAkwKB0",
-   "type" : "video"
+   "date" : "Thu, 23 May 2013 22:22:21"
 }
 
