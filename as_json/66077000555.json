@@ -1,24 +1,24 @@
 {
    "bookmarklet" : 0,
-   "from-feed-id" : 0,
-   "format" : "html",
-   "feed-item" : "",
-   "date-gmt" : "2013-11-05 07:46:04 GMT",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/66077000555/wikipedia-loves-libraries-boulder-edition",
    "reblog-key" : "YQDwN1ri",
-   "regular-title" : "Wikipedia Loves Libraries, Boulder edition",
-   "date" : "Tue, 05 Nov 2013 00:46:04",
    "slug" : "wikipedia-loves-libraries-boulder-edition",
-   "regular-body" : "<p>If you are in the Boulder area, it might interest you to know that a bunch of Wikipedians <a href=\"http://en.wikipedia.org/wiki/WP:Meetup/Boulder/November_2013\">will be meeting at the Boulder Public Library next week</a>. Expect more/better ads shortly.</p>",
+   "date" : "Tue, 05 Nov 2013 00:46:04",
+   "format" : "html",
+   "url" : "http://tumblr.ggvaidya.com/post/66077000555",
+   "from-feed-id" : 0,
    "unix-timestamp" : 1383637564,
+   "regular-body" : "<p>If you are in the Boulder area, it might interest you to know that a bunch of Wikipedians <a href=\"http://en.wikipedia.org/wiki/WP:Meetup/Boulder/November_2013\">will be meeting at the Boulder Public Library next week</a>. Expect more/better ads shortly.</p>",
+   "date-gmt" : "2013-11-05 07:46:04 GMT",
+   "regular-title" : "Wikipedia Loves Libraries, Boulder edition",
+   "type" : "regular",
    "tags" : [
       "boulder colorado",
       "wikipedia loves libraries",
       "wikipedia"
    ],
-   "url" : "http://tumblr.ggvaidya.com/post/66077000555",
    "mobile" : 0,
-   "type" : "regular",
    "id" : "66077000555",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/66077000555/wikipedia-loves-libraries-boulder-edition"
+   "feed-item" : ""
 }
 

@@ -1,22 +1,22 @@
 {
    "from-feed-id" : 0,
-   "bookmarklet" : 0,
-   "reblog-key" : "2h1iNX5A",
-   "date-gmt" : "2013-04-24 16:44:53 GMT",
-   "feed-item" : "",
-   "format" : "html",
-   "regular-title" : null,
-   "date" : "Wed, 24 Apr 2013 10:44:53",
-   "regular-body" : "<p><a href=\"http://blog.dghost.net/post/48779150239/reuben-thomas-its-kind-of-common-to-be-taught\" class=\"tumblr_blog\">dghost</a>:</p>\n\n<blockquote>\n<p><a class=\"tumblr_blog\" href=\"http://reuben-thomas.tumblr.com/post/48767960868/its-kind-of-common-to-be-taught-about-recursion\" target=\"_blank\">reuben-thomas</a>:</p>\n<blockquote>\n<p>Itâs kind of common to be taught about recursion using the example of a function that recursively computes the factorial of a number.Â Itâs cool, because the code is really simple, and looks quite a lot like actual magic.</p>\n<p>However, if youâre trying to quickly come to grips with what the function does, it can take a bit longer to grok than a loop based solution. On top of this, the recursive solution is significantly (around 40%) slower than the equivalent looping solution. (The code I used to find this value is attached.) Iâm guessing this is because of the overhead caused by repeatedly pushing parameters onto the stack. Maybe someone can confirm this for me, or tell me the actual reason. Please?</p>\n<p>I guess the point Iâd like to make is this: Teaching recursion using examples that could just as easily be written iteratively is just going to lead to students (such as myself) who think theyâre being code wizards but end up writing a lot of slow, confusing code.</p>\n<p>Iâd also be interested to see some examples of non-trivial recursion, or cases where the recursive option is undeniably superior to the iterative.</p>\n<p><a href=\"http://reuben-thomas.tumblr.com/post/48767960868/its-kind-of-common-to-be-taught-about-recursion\" target=\"_blank\">Read More</a></p>\n</blockquote>\n<p>So, performance with recursive functions is highly compiler and platform dependent. With optimizations enabled (-O3 for g++, /O2 for the MS compiler) itÂ <em>should</em> be about as fast as the iterative version because x86 has dedicated instructions for stack setup/teardown.<em><br/></em></p>\n\n<p><a href=\"http://blog.dghost.net/post/48779150239/reuben-thomas-its-kind-of-common-to-be-taught\">Read More</a></p></blockquote>\n\n<p>I like this idea of finding problems where &#8220;the recursive option is undeniably superior to the iterative&#8221;. What about going through files in directories? You have no idea how many directories-in-directories you might encounter, so either you&#8217;re going to have to use recursion or reinvent a call-stack yourself.</p>",
-   "slug" : "dghost-reuben-thomas-its-kind-of-common-to",
    "unix-timestamp" : 1366821893,
+   "url" : "http://tumblr.ggvaidya.com/post/48781546150",
+   "reblog-key" : "2h1iNX5A",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/48781546150/dghost-reuben-thomas-its-kind-of-common-to",
+   "bookmarklet" : 0,
+   "date" : "Wed, 24 Apr 2013 10:44:53",
+   "format" : "html",
+   "slug" : "dghost-reuben-thomas-its-kind-of-common-to",
+   "feed-item" : "",
+   "id" : "48781546150",
+   "mobile" : 0,
    "tags" : [
       "recursion"
    ],
-   "mobile" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/48781546150",
-   "type" : "regular",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/48781546150/dghost-reuben-thomas-its-kind-of-common-to",
-   "id" : "48781546150"
+   "regular-body" : "<p><a href=\"http://blog.dghost.net/post/48779150239/reuben-thomas-its-kind-of-common-to-be-taught\" class=\"tumblr_blog\">dghost</a>:</p>\n\n<blockquote>\n<p><a class=\"tumblr_blog\" href=\"http://reuben-thomas.tumblr.com/post/48767960868/its-kind-of-common-to-be-taught-about-recursion\" target=\"_blank\">reuben-thomas</a>:</p>\n<blockquote>\n<p>Itâs kind of common to be taught about recursion using the example of a function that recursively computes the factorial of a number.Â Itâs cool, because the code is really simple, and looks quite a lot like actual magic.</p>\n<p>However, if youâre trying to quickly come to grips with what the function does, it can take a bit longer to grok than a loop based solution. On top of this, the recursive solution is significantly (around 40%) slower than the equivalent looping solution. (The code I used to find this value is attached.) Iâm guessing this is because of the overhead caused by repeatedly pushing parameters onto the stack. Maybe someone can confirm this for me, or tell me the actual reason. Please?</p>\n<p>I guess the point Iâd like to make is this: Teaching recursion using examples that could just as easily be written iteratively is just going to lead to students (such as myself) who think theyâre being code wizards but end up writing a lot of slow, confusing code.</p>\n<p>Iâd also be interested to see some examples of non-trivial recursion, or cases where the recursive option is undeniably superior to the iterative.</p>\n<p><a href=\"http://reuben-thomas.tumblr.com/post/48767960868/its-kind-of-common-to-be-taught-about-recursion\" target=\"_blank\">Read More</a></p>\n</blockquote>\n<p>So, performance with recursive functions is highly compiler and platform dependent. With optimizations enabled (-O3 for g++, /O2 for the MS compiler) itÂ <em>should</em> be about as fast as the iterative version because x86 has dedicated instructions for stack setup/teardown.<em><br/></em></p>\n\n<p><a href=\"http://blog.dghost.net/post/48779150239/reuben-thomas-its-kind-of-common-to-be-taught\">Read More</a></p></blockquote>\n\n<p>I like this idea of finding problems where &#8220;the recursive option is undeniably superior to the iterative&#8221;. What about going through files in directories? You have no idea how many directories-in-directories you might encounter, so either you&#8217;re going to have to use recursion or reinvent a call-stack yourself.</p>",
+   "date-gmt" : "2013-04-24 16:44:53 GMT",
+   "regular-title" : null,
+   "type" : "regular"
 }
 

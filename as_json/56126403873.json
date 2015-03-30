@@ -1,23 +1,19 @@
 {
    "conversation-title" : "You provide the food, I'll provide the perspective",
    "bookmarklet" : 0,
-   "from-feed-id" : 0,
-   "date" : "Mon, 22 Jul 2013 00:45:43",
-   "format" : "html",
-   "feed-item" : "",
-   "date-gmt" : "2013-07-22 06:45:43 GMT",
+   "conversation-text" : "Mustafa: [taking Ego's order] Do you know what you'd like this evening, sir? \r\nAnton Ego: Yes, I think I do. After reading a lot of overheated puffery about your new cook, you know what I'm craving? A little perspective. That's it. I'd like some fresh, clear, well seasoned perspective. Can you suggest a good wine to go with that? \r\nMustafa: With what, sir? \r\nAnton Ego: Perspective. Fresh out, I take it? \r\nMustafa: I am, uh ...\r\nAnton Ego: Very well. Since you're all out of perspective and no one else seems to have it in this BLOODY TOWN, I'll make you a deal. You provide the food, I'll provide the perspective, which would go nicely with a bottle of Cheval Blanc 1947. \r\nMustafa: I'm afraid ... your dinner selection? \r\nAnton Ego: [stands up angrily] Tell your chef Linguini that I want whatever he dares to serve me. Tell him to \"hit me with his best shot\".",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/56126403873/you-provide-the-food-ill-provide-the-perspective",
    "reblog-key" : "dCa521Xy",
-   "slug" : "you-provide-the-food-ill-provide-the-perspective",
    "conversation" : [
       {
-         "label" : "Mustafa:",
          "name" : "Mustafa",
+         "label" : "Mustafa:",
          "phrase" : "[taking Ego's order] Do you know what you'd like this evening, sir? \r"
       },
       {
          "phrase" : "Yes, I think I do. After reading a lot of overheated puffery about your new cook, you know what I'm craving? A little perspective. That's it. I'd like some fresh, clear, well seasoned perspective. Can you suggest a good wine to go with that? \r",
-         "name" : "Anton Ego",
-         "label" : "Anton Ego:"
+         "label" : "Anton Ego:",
+         "name" : "Anton Ego"
       },
       {
          "phrase" : "With what, sir? \r",
@@ -25,19 +21,19 @@
          "name" : "Mustafa"
       },
       {
+         "phrase" : "Perspective. Fresh out, I take it? \r",
+         "label" : "Anton Ego:",
+         "name" : "Anton Ego"
+      },
+      {
+         "label" : "Mustafa:",
+         "phrase" : "I am, uh ...\r",
+         "name" : "Mustafa"
+      },
+      {
          "name" : "Anton Ego",
          "label" : "Anton Ego:",
-         "phrase" : "Perspective. Fresh out, I take it? \r"
-      },
-      {
-         "phrase" : "I am, uh ...\r",
-         "name" : "Mustafa",
-         "label" : "Mustafa:"
-      },
-      {
-         "phrase" : "Very well. Since you're all out of perspective and no one else seems to have it in this BLOODY TOWN, I'll make you a deal. You provide the food, I'll provide the perspective, which would go nicely with a bottle of Cheval Blanc 1947. \r",
-         "name" : "Anton Ego",
-         "label" : "Anton Ego:"
+         "phrase" : "Very well. Since you're all out of perspective and no one else seems to have it in this BLOODY TOWN, I'll make you a deal. You provide the food, I'll provide the perspective, which would go nicely with a bottle of Cheval Blanc 1947. \r"
       },
       {
          "name" : "Mustafa",
@@ -45,22 +41,26 @@
          "phrase" : "I'm afraid ... your dinner selection? \r"
       },
       {
-         "label" : "Anton Ego:",
          "name" : "Anton Ego",
-         "phrase" : "[stands up angrily] Tell your chef Linguini that I want whatever he dares to serve me. Tell him to \"hit me with his best shot\"."
+         "phrase" : "[stands up angrily] Tell your chef Linguini that I want whatever he dares to serve me. Tell him to \"hit me with his best shot\".",
+         "label" : "Anton Ego:"
       }
    ],
-   "conversation-text" : "Mustafa: [taking Ego's order] Do you know what you'd like this evening, sir? \r\nAnton Ego: Yes, I think I do. After reading a lot of overheated puffery about your new cook, you know what I'm craving? A little perspective. That's it. I'd like some fresh, clear, well seasoned perspective. Can you suggest a good wine to go with that? \r\nMustafa: With what, sir? \r\nAnton Ego: Perspective. Fresh out, I take it? \r\nMustafa: I am, uh ...\r\nAnton Ego: Very well. Since you're all out of perspective and no one else seems to have it in this BLOODY TOWN, I'll make you a deal. You provide the food, I'll provide the perspective, which would go nicely with a bottle of Cheval Blanc 1947. \r\nMustafa: I'm afraid ... your dinner selection? \r\nAnton Ego: [stands up angrily] Tell your chef Linguini that I want whatever he dares to serve me. Tell him to \"hit me with his best shot\".",
-   "unix-timestamp" : 1374475543,
+   "slug" : "you-provide-the-food-ill-provide-the-perspective",
+   "format" : "html",
+   "date" : "Mon, 22 Jul 2013 00:45:43",
    "url" : "http://tumblr.ggvaidya.com/post/56126403873",
-   "mobile" : 0,
+   "from-feed-id" : 0,
+   "unix-timestamp" : 1374475543,
+   "date-gmt" : "2013-07-22 06:45:43 GMT",
+   "type" : "conversation",
    "tags" : [
       "Anton Ego",
       "my hero",
       "Ratatouille"
    ],
    "id" : "56126403873",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/56126403873/you-provide-the-food-ill-provide-the-perspective",
-   "type" : "conversation"
+   "mobile" : 0,
+   "feed-item" : ""
 }
 

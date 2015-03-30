@@ -1,38 +1,35 @@
 {
    "feed-item" : "",
-   "format" : "html",
-   "reblog-key" : "FR8cxT66",
-   "date-gmt" : "2013-10-06 05:39:00 GMT",
-   "date" : "Sat, 05 Oct 2013 23:39:00",
-   "conversation-title" : null,
-   "bookmarklet" : 0,
-   "from-feed-id" : 0,
+   "mobile" : 0,
+   "id" : "63245579279",
    "tags" : [
       "The West Wing",
       "S5E16",
       "relationships"
    ],
-   "url" : "http://tumblr.ggvaidya.com/post/63245579279",
-   "mobile" : 0,
    "type" : "conversation",
-   "id" : "63245579279",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/63245579279/toby-what-i-didnt-support-you-c-j-no-im",
+   "date-gmt" : "2013-10-06 05:39:00 GMT",
+   "unix-timestamp" : 1381037940,
+   "from-feed-id" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/63245579279",
+   "format" : "html",
+   "date" : "Sat, 05 Oct 2013 23:39:00",
    "slug" : "toby-what-i-didnt-support-you-c-j-no-im",
    "conversation" : [
       {
-         "label" : "Toby:",
          "name" : "Toby",
-         "phrase" : "What? I didn't support you?\r"
+         "phrase" : "What? I didn't support you?\r",
+         "label" : "Toby:"
       },
       {
          "name" : "C.J.",
-         "label" : "C.J.:",
-         "phrase" : "No, I'm just tired. I thought I'd have somewhere to go tonight other than my office. I wore perfume.\r"
+         "phrase" : "No, I'm just tired. I thought I'd have somewhere to go tonight other than my office. I wore perfume.\r",
+         "label" : "C.J.:"
       },
       {
          "name" : "Toby",
-         "label" : "Toby:",
-         "phrase" : "What happened with Ben?\r"
+         "phrase" : "What happened with Ben?\r",
+         "label" : "Toby:"
       },
       {
          "name" : "C.J.",
@@ -40,9 +37,9 @@
          "phrase" : "[sighs] I wrecked it.\r"
       },
       {
-         "phrase" : "Wow. [beat] Is that a record?\r",
          "name" : "Toby",
-         "label" : "Toby:"
+         "label" : "Toby:",
+         "phrase" : "Wow. [beat] Is that a record?\r"
       },
       {
          "name" : "C.J.",
@@ -50,13 +47,13 @@
          "phrase" : "Personal best. [turns to go]\r"
       },
       {
-         "phrase" : "Did you like him?\r",
          "label" : "Toby:",
+         "phrase" : "Did you like him?\r",
          "name" : "Toby"
       },
       {
-         "label" : "C.J.:",
          "name" : "C.J.",
+         "label" : "C.J.:",
          "phrase" : "[turns back] Yeah.\r"
       },
       {
@@ -71,21 +68,24 @@
       },
       {
          "label" : "Toby:",
-         "name" : "Toby",
-         "phrase" : "[shrugs] Go fix it. [turns to go]\r"
-      },
-      {
-         "label" : "C.J.:",
-         "name" : "C.J.",
-         "phrase" : "But ...\r"
-      },
-      {
-         "phrase" : "It's all I got.",
-         "label" : "Toby:",
+         "phrase" : "[shrugs] Go fix it. [turns to go]\r",
          "name" : "Toby"
+      },
+      {
+         "name" : "C.J.",
+         "phrase" : "But ...\r",
+         "label" : "C.J.:"
+      },
+      {
+         "name" : "Toby",
+         "label" : "Toby:",
+         "phrase" : "It's all I got."
       }
    ],
-   "unix-timestamp" : 1381037940,
+   "reblog-key" : "FR8cxT66",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/63245579279/toby-what-i-didnt-support-you-c-j-no-im",
+   "conversation-title" : null,
+   "bookmarklet" : 0,
    "conversation-text" : "Toby: What? I didn't support you?\r\nC.J.: No, I'm just tired. I thought I'd have somewhere to go tonight other than my office. I wore perfume.\r\nToby: What happened with Ben?\r\nC.J.: [sighs] I wrecked it.\r\nToby: Wow. [beat] Is that a record?\r\nC.J.: Personal best. [turns to go]\r\nToby: Did you like him?\r\nC.J.: [turns back] Yeah.\r\nToby: Really?\r\nC.J.: Yeah.\r\nToby: [shrugs] Go fix it. [turns to go]\r\nC.J.: But ...\r\nToby: It's all I got."
 }
 

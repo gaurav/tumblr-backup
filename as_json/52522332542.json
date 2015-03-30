@@ -1,24 +1,24 @@
 {
-   "from-feed-id" : 0,
-   "bookmarklet" : 0,
-   "date-gmt" : "2013-06-09 05:44:59 GMT",
-   "reblog-key" : "9FAi1WzG",
-   "feed-item" : "",
-   "format" : "html",
-   "date" : "Sat, 08 Jun 2013 23:44:59",
-   "quote-source" : "former_zyngite, <a href=\"http://www.reddit.com/r/IAmA/comments/1fpbv1/i_was_one_of_the_520_people_laid_off_by_zynga/cachfn9\">comment posted</a> on <a href=\"http://www.reddit.com/r/IAmA/comments/1fpbv1/i_was_one_of_the_520_people_laid_off_by_zynga/\">IAmA about the Zynga layoffs</a>, Reddit, June 5, 2013.",
-   "slug" : "and-a-serious-lack-of-foresight-over-all-too-many",
+   "url" : "http://tumblr.ggvaidya.com/post/52522332542",
    "unix-timestamp" : 1370756699,
+   "from-feed-id" : 0,
+   "date" : "Sat, 08 Jun 2013 23:44:59",
+   "format" : "html",
+   "slug" : "and-a-serious-lack-of-foresight-over-all-too-many",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/52522332542/and-a-serious-lack-of-foresight-over-all-too-many",
+   "reblog-key" : "9FAi1WzG",
+   "bookmarklet" : 0,
    "tags" : [
       "zynga",
       "gaming",
       "software engineering"
    ],
-   "mobile" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/52522332542",
-   "type" : "quote",
    "quote-text" : "And a serious lack of foresight over all. Too many major decisions are quick reactions to sudden changes in the market. If some games jumps to the top of the Top Grossing charts then everyone need to drop everything and change to follow it. Which wastes time, makes for bad design and ultimately puts projects behind schedule. It just means they&#8217;re always late to the party, and whatever game they&#8217;re trying to compete with has already faded away by the time their own version hits the market.",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/52522332542/and-a-serious-lack-of-foresight-over-all-too-many",
-   "id" : "52522332542"
+   "feed-item" : "",
+   "mobile" : 0,
+   "id" : "52522332542",
+   "type" : "quote",
+   "date-gmt" : "2013-06-09 05:44:59 GMT",
+   "quote-source" : "former_zyngite, <a href=\"http://www.reddit.com/r/IAmA/comments/1fpbv1/i_was_one_of_the_520_people_laid_off_by_zynga/cachfn9\">comment posted</a> on <a href=\"http://www.reddit.com/r/IAmA/comments/1fpbv1/i_was_one_of_the_520_people_laid_off_by_zynga/\">IAmA about the Zynga layoffs</a>, Reddit, June 5, 2013."
 }
 

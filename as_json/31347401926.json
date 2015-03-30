@@ -1,16 +1,9 @@
 {
-   "type" : "conversation",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/31347401926/kennedy-your-work-has-been-a-real-boon-to",
-   "id" : "31347401926",
-   "tags" : [
-      "gage skidmore",
-      "creative commons",
-      "wikimedia commons"
-   ],
-   "mobile" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/31347401926",
-   "unix-timestamp" : 1347391083,
+   "bookmarklet" : 0,
+   "conversation-title" : null,
    "conversation-text" : "Kennedy: Your work has been a real boon to bloggers. Why did you decide to take the Creative Commons route rather than focus on selling your work?\r\nSkidmore: My interest has always been to see my photos used as widely as possible. If someone wants to pay me to use my work, that is really only a bonus. But I find that attribution is sometimes more rewarding in getting your name out there among the crowd, which will continue to use your photos.",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/31347401926/kennedy-your-work-has-been-a-real-boon-to",
+   "reblog-key" : "S4ZMjFg2",
    "conversation" : [
       {
          "name" : "Kennedy",
@@ -18,19 +11,26 @@
          "phrase" : "Your work has been a real boon to bloggers. Why did you decide to take the Creative Commons route rather than focus on selling your work?\r"
       },
       {
+         "name" : "Skidmore",
          "phrase" : "My interest has always been to see my photos used as widely as possible. If someone wants to pay me to use my work, that is really only a bonus. But I find that attribution is sometimes more rewarding in getting your name out there among the crowd, which will continue to use your photos.",
-         "label" : "Skidmore:",
-         "name" : "Skidmore"
+         "label" : "Skidmore:"
       }
    ],
    "slug" : "kennedy-your-work-has-been-a-real-boon-to",
-   "reblog-key" : "S4ZMjFg2",
-   "date-gmt" : "2012-09-11 19:18:03 GMT",
    "format" : "html",
-   "feed-item" : "",
    "date" : "Tue, 11 Sep 2012 13:18:03",
+   "url" : "http://tumblr.ggvaidya.com/post/31347401926",
    "from-feed-id" : 0,
-   "bookmarklet" : 0,
-   "conversation-title" : null
+   "unix-timestamp" : 1347391083,
+   "date-gmt" : "2012-09-11 19:18:03 GMT",
+   "type" : "conversation",
+   "tags" : [
+      "gage skidmore",
+      "creative commons",
+      "wikimedia commons"
+   ],
+   "id" : "31347401926",
+   "mobile" : 0,
+   "feed-item" : ""
 }
 

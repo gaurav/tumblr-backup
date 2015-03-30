@@ -1,19 +1,10 @@
 {
-   "video-source" : "https://www.youtube.com/watch?v=XeFxdkaFzRA",
-   "bookmarklet" : 0,
-   "from-feed-id" : 0,
-   "date" : "Tue, 11 Nov 2014 02:21:10",
-   "format" : "html",
-   "feed-item" : "",
-   "reblog-key" : "NU62uB3P",
    "date-gmt" : "2014-11-11 09:21:10 GMT",
-   "slug" : "oh-look-this-ones-playing-with-his-friend-heh",
-   "video-player-250" : "<iframe width=\"250\" height=\"140\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/XeFxdkaFzRA?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "unix-timestamp" : 1415697670,
-   "video-player-500" : "<iframe width=\"500\" height=\"281\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/XeFxdkaFzRA?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "url" : "http://tumblr.ggvaidya.com/post/102351304449",
+   "type" : "video",
    "video-player" : "<iframe width=\"400\" height=\"225\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/XeFxdkaFzRA?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "video-caption" : "<p>\"Oh look, this one&#8217;s playing with his friend, heh heh &#8230; wait. What are you doing to that bird? Crap, you&#8217;re not playing with &#8212; don&#8217;t try to hide it! I already saw it.\"</p>",
+   "video-source" : "https://www.youtube.com/watch?v=XeFxdkaFzRA",
+   "feed-item" : "",
+   "id" : "102351304449",
    "mobile" : 0,
    "tags" : [
       "ze frank",
@@ -21,8 +12,17 @@
       "bird of prey",
       "apes of the hamburger"
    ],
-   "id" : "102351304449",
+   "video-caption" : "<p>\"Oh look, this one&#8217;s playing with his friend, heh heh &#8230; wait. What are you doing to that bird? Crap, you&#8217;re not playing with &#8212; don&#8217;t try to hide it! I already saw it.\"</p>",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/102351304449/oh-look-this-ones-playing-with-his-friend-heh",
-   "type" : "video"
+   "reblog-key" : "NU62uB3P",
+   "bookmarklet" : 0,
+   "date" : "Tue, 11 Nov 2014 02:21:10",
+   "format" : "html",
+   "video-player-500" : "<iframe width=\"500\" height=\"281\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/XeFxdkaFzRA?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "slug" : "oh-look-this-ones-playing-with-his-friend-heh",
+   "video-player-250" : "<iframe width=\"250\" height=\"140\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/XeFxdkaFzRA?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "from-feed-id" : 0,
+   "unix-timestamp" : 1415697670,
+   "url" : "http://tumblr.ggvaidya.com/post/102351304449"
 }
 

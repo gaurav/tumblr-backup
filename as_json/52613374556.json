@@ -1,24 +1,24 @@
 {
-   "bookmarklet" : 0,
-   "from-feed-id" : 0,
-   "feed-item" : "",
-   "format" : "html",
-   "date-gmt" : "2013-06-10 07:33:20 GMT",
    "reblog-key" : "gT6sS6YH",
-   "quote-source" : "Jonathan Amos, <a href=\"http://www.bbc.co.uk/news/science-environment-22832673\"><em>Old Opportunity Mars rover makes rock discovery</em></a>, June 10, 2013.",
-   "date" : "Mon, 10 Jun 2013 01:33:20",
-   "unix-timestamp" : 1370849600,
-   "slug" : "nasas-ageing-opportunity-rover-on-mars-has-just",
-   "quote-text" : "<p>Nasa&#8217;s ageing Opportunity rover on Mars has just made what may be one of its most significant discoveries to date. </p>\n\n<p>[..] </p>\n\n<p>It has an &#8220;arthritic&#8221; robotic arm, its solar panels are losing efficiency, and it drives backwards to save wear on its locomotion system.</p>\n\n<p>It is also now having to contend with glitchy flash memory. But the US space agency is determined to keep pushing the vehicle for as long as possible.</p>\n\n<p>\"Remember, the rover continues in a very hostile environment on Mars,\" said John Callas, Nasa&#8217;s Opportunity project manager.</p>\n\n<p>\"The rover could have a catastrophic failure at any moment. So, each day is a gift.\"</p>",
-   "type" : "quote",
-   "id" : "52613374556",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/52613374556/nasas-ageing-opportunity-rover-on-mars-has-just",
+   "bookmarklet" : 0,
+   "format" : "html",
+   "date" : "Mon, 10 Jun 2013 01:33:20",
+   "slug" : "nasas-ageing-opportunity-rover-on-mars-has-just",
+   "from-feed-id" : 0,
+   "unix-timestamp" : 1370849600,
+   "url" : "http://tumblr.ggvaidya.com/post/52613374556",
+   "quote-source" : "Jonathan Amos, <a href=\"http://www.bbc.co.uk/news/science-environment-22832673\"><em>Old Opportunity Mars rover makes rock discovery</em></a>, June 10, 2013.",
+   "date-gmt" : "2013-06-10 07:33:20 GMT",
+   "type" : "quote",
+   "feed-item" : "",
+   "id" : "52613374556",
+   "mobile" : 0,
    "tags" : [
       "opportunity",
       "engineering",
       "mars rover"
    ],
-   "url" : "http://tumblr.ggvaidya.com/post/52613374556",
-   "mobile" : 0
+   "quote-text" : "<p>Nasa&#8217;s ageing Opportunity rover on Mars has just made what may be one of its most significant discoveries to date. </p>\n\n<p>[..] </p>\n\n<p>It has an &#8220;arthritic&#8221; robotic arm, its solar panels are losing efficiency, and it drives backwards to save wear on its locomotion system.</p>\n\n<p>It is also now having to contend with glitchy flash memory. But the US space agency is determined to keep pushing the vehicle for as long as possible.</p>\n\n<p>\"Remember, the rover continues in a very hostile environment on Mars,\" said John Callas, Nasa&#8217;s Opportunity project manager.</p>\n\n<p>\"The rover could have a catastrophic failure at any moment. So, each day is a gift.\"</p>"
 }
 
