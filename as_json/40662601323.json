@@ -1,19 +1,19 @@
 {
-   "from-feed-id" : 0,
-   "unix-timestamp" : 1358313214,
-   "url" : "http://tumblr.ggvaidya.com/post/40662601323",
-   "reblog-key" : "qLVGXVI9",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/40662601323/i-cant-go-to-a-restaurant-and-order-food-because",
-   "bookmarklet" : 0,
    "date" : "Tue, 15 Jan 2013 22:13:34",
-   "format" : "html",
-   "slug" : "i-cant-go-to-a-restaurant-and-order-food-because",
-   "feed-item" : "",
-   "id" : "40662601323",
-   "mobile" : 0,
-   "quote-text" : "I canât go to a restaurant and order food because I keep looking at the fonts on the menu. Five minutes later I realize that itâs also talking about food.",
    "date-gmt" : "2013-01-16 05:13:34 GMT",
+   "id" : "40662601323",
    "quote-source" : "<p><a href=\"http://en.wikipedia.org/wiki/Donald_Knuth#Religious_beliefs_and_work\">Donald Knuth</a></p>\n<p><img height=\"477\" src=\"http://www.catonmat.net/blog/wp-content/uploads/2010/02/young-donald-knuth-ibm-650-1958.jpg\" width=\"399\"/></p> (via <a href=\"http://scienceisbeauty.tumblr.com/\" class=\"tumblr_blog\">scienceisbeauty</a>)\n\n<p>A Geek Hero.</p>",
-   "type" : "quote"
+   "slug" : "i-cant-go-to-a-restaurant-and-order-food-because",
+   "quote-text" : "I canât go to a restaurant and order food because I keep looking at the fonts on the menu. Five minutes later I realize that itâs also talking about food.",
+   "mobile" : 0,
+   "bookmarklet" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/40662601323",
+   "format" : "html",
+   "from-feed-id" : 0,
+   "type" : "quote",
+   "reblog-key" : "qLVGXVI9",
+   "feed-item" : "",
+   "unix-timestamp" : 1358313214
 }
 

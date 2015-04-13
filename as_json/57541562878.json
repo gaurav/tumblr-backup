@@ -1,11 +1,6 @@
 {
-   "date-gmt" : "2013-08-06 19:37:25 GMT",
-   "type" : "video",
-   "video-player" : "<iframe width=\"400\" height=\"225\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/QonUVLhxJMM?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "video-source" : "http://www.youtube.com/watch?feature=player_embedded&v=QonUVLhxJMM",
-   "feed-item" : "",
+   "bookmarklet" : 0,
    "mobile" : 0,
-   "id" : "57541562878",
    "tags" : [
       "Snapshot Serengeti",
       "crowdsourcing",
@@ -13,17 +8,22 @@
       "wildlife",
       "Serengeti"
    ],
-   "video-caption" : "<p>Help keep <a href=\"http://igg.me/at/serengeti/x/1213752\">Snapshot Serengeti</a> running &#8212; last three days of their current fundraising campaign!</p>",
+   "video-source" : "http://www.youtube.com/watch?feature=player_embedded&v=QonUVLhxJMM",
    "reblog-key" : "TlcSkoKo",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/57541562878/help-keep-snapshot-serengeti-running-last-three",
-   "bookmarklet" : 0,
-   "date" : "Tue, 06 Aug 2013 13:37:25",
-   "format" : "html",
-   "slug" : "help-keep-snapshot-serengeti-running-last-three",
-   "video-player-500" : "<iframe width=\"500\" height=\"281\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/QonUVLhxJMM?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "video-player-250" : "<iframe width=\"250\" height=\"140\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/QonUVLhxJMM?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "from-feed-id" : 0,
+   "feed-item" : "",
    "unix-timestamp" : 1375817845,
-   "url" : "http://tumblr.ggvaidya.com/post/57541562878"
+   "video-player-250" : "<iframe width=\"250\" height=\"140\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/QonUVLhxJMM?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "type" : "video",
+   "from-feed-id" : 0,
+   "video-caption" : "<p>Help keep <a href=\"http://igg.me/at/serengeti/x/1213752\">Snapshot Serengeti</a> running &ndash; last three days of their current fundraising campaign!</p>",
+   "video-player" : "<iframe width=\"400\" height=\"225\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/QonUVLhxJMM?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "url" : "http://tumblr.ggvaidya.com/post/57541562878",
+   "format" : "html",
+   "id" : "57541562878",
+   "date-gmt" : "2013-08-06 19:37:25 GMT",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/57541562878/help-keep-snapshot-serengeti-running-last-three",
+   "date" : "Tue, 06 Aug 2013 13:37:25",
+   "video-player-500" : "<iframe width=\"500\" height=\"281\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/QonUVLhxJMM?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "slug" : "help-keep-snapshot-serengeti-running-last-three"
 }
 

@@ -1,27 +1,27 @@
 {
-   "type" : "video",
+   "slug" : "you-can-talk-to-me-you-can-talk-to-me-you-can",
+   "video-player-500" : "<iframe width=\"500\" height=\"374\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/SMONf6TPEyw?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/19851253706/you-can-talk-to-me-you-can-talk-to-me-you-can",
+   "date" : "Sat, 24 Mar 2012 14:24:17",
    "date-gmt" : "2012-03-24 20:24:17 GMT",
-   "video-source" : "http://www.youtube.com/watch?v=SMONf6TPEyw",
-   "video-player" : "<iframe width=\"400\" height=\"299\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/SMONf6TPEyw?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "mobile" : 0,
    "id" : "19851253706",
+   "video-player" : "<iframe width=\"400\" height=\"299\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/SMONf6TPEyw?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-caption" : "<p>&ldquo;You can talk to me / You can talk to me / You can talk to me / If you&rsquo;re lonely you can talk to me&rdquo;</p>",
+   "url" : "http://tumblr.ggvaidya.com/post/19851253706",
+   "format" : "html",
+   "video-player-250" : "<iframe width=\"250\" height=\"187\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/SMONf6TPEyw?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "from-feed-id" : 0,
+   "type" : "video",
+   "reblog-key" : "KqPwPSeo",
    "feed-item" : "",
-   "video-caption" : "<p>\"You can talk to me / You can talk to me / You can talk to me / If you&#8217;re lonely you can talk to me\"</p>",
+   "unix-timestamp" : 1332620657,
+   "video-source" : "http://www.youtube.com/watch?v=SMONf6TPEyw",
    "tags" : [
       "the beatles",
       "music",
       "hey bulldog"
    ],
-   "video-player-500" : "<iframe width=\"500\" height=\"374\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/SMONf6TPEyw?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "slug" : "you-can-talk-to-me-you-can-talk-to-me-you-can",
-   "format" : "html",
-   "date" : "Sat, 24 Mar 2012 14:24:17",
-   "bookmarklet" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/19851253706/you-can-talk-to-me-you-can-talk-to-me-you-can",
-   "reblog-key" : "KqPwPSeo",
-   "video-player-250" : "<iframe width=\"250\" height=\"187\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/SMONf6TPEyw?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "unix-timestamp" : 1332620657,
-   "from-feed-id" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/19851253706"
+   "mobile" : 0,
+   "bookmarklet" : 0
 }
 

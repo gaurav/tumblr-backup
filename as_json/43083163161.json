@@ -1,19 +1,24 @@
 {
+   "mobile" : 0,
+   "bookmarklet" : 0,
+   "format" : "html",
+   "url" : "http://tumblr.ggvaidya.com/post/43083163161",
+   "conversation-text" : "Leon1das: How well does having a 1.5 year old son prepare you for dealing with Republicans?\r\njaredpolis: He sleeps more than the Republicans",
+   "type" : "conversation",
    "from-feed-id" : 0,
    "unix-timestamp" : 1360861548,
-   "url" : "http://tumblr.ggvaidya.com/post/43083163161",
+   "feed-item" : "",
    "reblog-key" : "suJHlknZ",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/43083163161/democrapublicaningans",
-   "bookmarklet" : 0,
-   "conversation-title" : "Democrapublicaningans",
-   "conversation-text" : "Leon1das: How well does having a 1.5 year old son prepare you for dealing with Republicans?\r\njaredpolis: He sleeps more than the Republicans",
    "date" : "Thu, 14 Feb 2013 10:05:48",
-   "format" : "html",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/43083163161/democrapublicaningans",
+   "date-gmt" : "2013-02-14 17:05:48 GMT",
+   "conversation-title" : "Democrapublicaningans",
+   "id" : "43083163161",
    "conversation" : [
       {
-         "name" : "Leon1das",
+         "label" : "Leon1das:",
          "phrase" : "How well does having a 1.5 year old son prepare you for dealing with Republicans?\r",
-         "label" : "Leon1das:"
+         "name" : "Leon1das"
       },
       {
          "label" : "jaredpolis:",
@@ -21,11 +26,6 @@
          "name" : "jaredpolis"
       }
    ],
-   "slug" : "democrapublicaningans",
-   "feed-item" : "",
-   "mobile" : 0,
-   "id" : "43083163161",
-   "date-gmt" : "2013-02-14 17:05:48 GMT",
-   "type" : "conversation"
+   "slug" : "democrapublicaningans"
 }
 

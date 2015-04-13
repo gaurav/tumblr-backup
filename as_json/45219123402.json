@@ -1,25 +1,25 @@
 {
-   "unix-timestamp" : 1363126989,
-   "link-url" : "http://pegmanm.tumblr.com/post/12614468967/the-500-mile-email",
+   "type" : "link",
    "from-feed-id" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/45219123402",
-   "slug" : "the-rantings-of-a-guy-in-internet-operations-the",
    "format" : "html",
-   "date" : "Tue, 12 Mar 2013 16:23:09",
-   "bookmarklet" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/45219123402/the-rantings-of-a-guy-in-internet-operations-the",
-   "reblog-key" : "kP0cNmkL",
-   "id" : "45219123402",
-   "mobile" : 0,
-   "link-text" : "The rantings of a guy in Internet Operations: The 500 mile email.",
-   "feed-item" : "",
+   "url" : "http://tumblr.ggvaidya.com/post/45219123402",
    "tags" : [
       "sysad",
       "smtp",
       "funny"
    ],
-   "link-description" : "<p><a href=\"http://pegmanm.tumblr.com/post/12614468967/the-500-mile-email\" class=\"tumblr_blog\">pegmanm</a>:</p>\n\n<blockquote>\n<p>Speaking with a colleague re appropriate ping times over distance this evening reminded me of this. So I thought I root around and share.</p>\n<p>The following is the 500-mile email story in the form it originally appeared, in a post to sage-members on Sun, 24 Nov 2002.:</p>\n<pre>From trey@sage.org Fri Nov 29...</pre>\n</blockquote>\n\n<p>I thought I&#8217;d take a moment to remember just how awesome SMTP is, and then I came across this awesome story of system administratoring.</p>",
-   "type" : "link",
-   "date-gmt" : "2013-03-12 22:23:09 GMT"
+   "unix-timestamp" : 1363126989,
+   "link-url" : "http://pegmanm.tumblr.com/post/12614468967/the-500-mile-email",
+   "reblog-key" : "kP0cNmkL",
+   "feed-item" : "",
+   "mobile" : 0,
+   "bookmarklet" : 0,
+   "link-description" : "<p><a href=\"http://pegmanm.tumblr.com/post/12614468967/the-500-mile-email\" class=\"tumblr_blog\">pegmanm</a>:</p>\n\n<blockquote>\n<p>Speaking with a colleague re appropriate ping times over distance this evening reminded me of this. So I thought I root around and share.</p>\n<p>The following is the 500-mile email story in the form it originally appeared, in a post to sage-members on Sun, 24 Nov 2002.:</p>\n<pre>From trey@sage.org Fri Nov 29...</pre>\n</blockquote>\n\n<p>I thought I&rsquo;d take a moment to remember just how awesome SMTP is, and then I came across this awesome story of system administratoring.</p>",
+   "slug" : "the-rantings-of-a-guy-in-internet-operations-the",
+   "date-gmt" : "2013-03-12 22:23:09 GMT",
+   "date" : "Tue, 12 Mar 2013 16:23:09",
+   "link-text" : "The rantings of a guy in Internet Operations: The 500 mile email.",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/45219123402/the-rantings-of-a-guy-in-internet-operations-the",
+   "id" : "45219123402"
 }
 

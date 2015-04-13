@@ -1,23 +1,23 @@
 {
-   "unix-timestamp" : 1402611828,
-   "from-feed-id" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/88609370834",
-   "format" : "html",
-   "date" : "Thu, 12 Jun 2014 16:23:48",
-   "slug" : "they-do-but-jest-poison-in-jest-no-offence-i",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/88609370834/they-do-but-jest-poison-in-jest-no-offence-i",
-   "reblog-key" : "1FxQrJXJ",
    "bookmarklet" : 0,
-   "feed-item" : "",
    "mobile" : 0,
-   "id" : "88609370834",
    "tags" : [
       "hamlet",
       "Shakespeare"
    ],
-   "quote-text" : "&#8230; they do but jest, poison in jest; no offence<br/>\ni&#8217; the world.",
+   "unix-timestamp" : 1402611828,
+   "reblog-key" : "1FxQrJXJ",
+   "feed-item" : "",
    "type" : "quote",
-   "quote-source" : "Hamlet, <a href=\"http://shakespeare.mit.edu/hamlet/hamlet.3.2.html\"><em>Hamlet</em>, Act 3, Scene 2</a>",
-   "date-gmt" : "2014-06-12 22:23:48 GMT"
+   "from-feed-id" : 0,
+   "format" : "html",
+   "url" : "http://tumblr.ggvaidya.com/post/88609370834",
+   "id" : "88609370834",
+   "date-gmt" : "2014-06-12 22:23:48 GMT",
+   "date" : "Thu, 12 Jun 2014 16:23:48",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/88609370834/they-do-but-jest-poison-in-jest-no-offence-i",
+   "quote-text" : "&hellip; they do but jest, poison in jest; no offence<br/>\ni&rsquo; the world.",
+   "slug" : "they-do-but-jest-poison-in-jest-no-offence-i",
+   "quote-source" : "Hamlet, <a href=\"http://shakespeare.mit.edu/hamlet/hamlet.3.2.html\"><em>Hamlet</em>, Act 3, Scene 2</a>"
 }
 

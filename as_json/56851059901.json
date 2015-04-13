@@ -1,13 +1,24 @@
 {
-   "bookmarklet" : 0,
-   "conversation-title" : null,
-   "conversation-text" : "me at home: i've been wearing the same jeans and band shirt for the last three weeks but it still smells alright so i'll keep wearing it \r\nme going away: I NEED ONE SHIRT FOR EACH DAY AND EXTRA IN CASE IT GETS DIRTY AND THE SAME AMOUNT OF JEANS AND SOCKS ACTUALLY NO I'LL NEED EXTRA SOCKS IN CASE IT FLOODS AND DOUBLE THE UNDERWEAR IN CASE OF DISASTER AND ONE NICE OUTFIT IN CASE I GET INVITED TO TEA WITH THE QUEEN ",
+   "tags" : [
+      "gpom",
+      "traveling",
+      "travel"
+   ],
+   "feed-item" : "",
    "reblog-key" : "c6Sf384f",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/56851059901/me-at-home-ive-been-wearing-the-same-jeans-and",
+   "unix-timestamp" : 1375160336,
+   "from-feed-id" : 0,
+   "type" : "conversation",
+   "conversation-text" : "me at home: i've been wearing the same jeans and band shirt for the last three weeks but it still smells alright so i'll keep wearing it \r\nme going away: I NEED ONE SHIRT FOR EACH DAY AND EXTRA IN CASE IT GETS DIRTY AND THE SAME AMOUNT OF JEANS AND SOCKS ACTUALLY NO I'LL NEED EXTRA SOCKS IN CASE IT FLOODS AND DOUBLE THE UNDERWEAR IN CASE OF DISASTER AND ONE NICE OUTFIT IN CASE I GET INVITED TO TEA WITH THE QUEEN ",
+   "url" : "http://tumblr.ggvaidya.com/post/56851059901",
+   "format" : "html",
+   "bookmarklet" : 0,
+   "mobile" : 0,
+   "slug" : "me-at-home-ive-been-wearing-the-same-jeans-and",
    "conversation" : [
       {
-         "name" : "me at home",
          "phrase" : "i've been wearing the same jeans and band shirt for the last three weeks but it still smells alright so i'll keep wearing it \r",
+         "name" : "me at home",
          "label" : "me at home:"
       },
       {
@@ -16,21 +27,10 @@
          "name" : "me going away"
       }
    ],
-   "slug" : "me-at-home-ive-been-wearing-the-same-jeans-and",
-   "format" : "html",
-   "date" : "Mon, 29 Jul 2013 22:58:56",
-   "url" : "http://tumblr.ggvaidya.com/post/56851059901",
-   "from-feed-id" : 0,
-   "unix-timestamp" : 1375160336,
-   "date-gmt" : "2013-07-30 04:58:56 GMT",
-   "type" : "conversation",
-   "tags" : [
-      "gpom",
-      "traveling",
-      "travel"
-   ],
+   "conversation-title" : null,
    "id" : "56851059901",
-   "mobile" : 0,
-   "feed-item" : ""
+   "date-gmt" : "2013-07-30 04:58:56 GMT",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/56851059901/me-at-home-ive-been-wearing-the-same-jeans-and",
+   "date" : "Mon, 29 Jul 2013 22:58:56"
 }
 

@@ -1,45 +1,45 @@
 {
-   "type" : "conversation",
-   "date-gmt" : "2013-05-06 00:53:10 GMT",
-   "feed-item" : "",
-   "mobile" : 0,
-   "id" : "49735082494",
-   "tags" : [
-      "haha",
-      "lgbt"
-   ],
-   "date" : "Sun, 05 May 2013 18:53:10",
-   "format" : "html",
    "slug" : "person-she-me-its-he-person",
    "conversation" : [
       {
          "phrase" : "she--\r",
-         "label" : "person:",
-         "name" : "person"
-      },
-      {
-         "name" : "me",
-         "phrase" : "it's he.\r",
-         "label" : "me:"
-      },
-      {
          "name" : "person",
-         "phrase" : "*condescending smile* well, on your birth certificate--\r",
          "label" : "person:"
       },
       {
-         "name" : "me",
+         "phrase" : "it's he.\r",
+         "label" : "me:",
+         "name" : "me"
+      },
+      {
+         "phrase" : "*condescending smile* well, on your birth certificate--\r",
+         "name" : "person",
+         "label" : "person:"
+      },
+      {
          "phrase" : "yeah, it also says ' 8lbs, 6 oz ' -- a lot has changed over the years",
+         "name" : "me",
          "label" : "me:"
       }
    ],
-   "reblog-key" : "GyUCUNvR",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/49735082494/person-she-me-its-he-person",
    "conversation-title" : null,
-   "conversation-text" : "person: she--\r\nme: it's he.\r\nperson: *condescending smile* well, on your birth certificate--\r\nme: yeah, it also says ' 8lbs, 6 oz ' -- a lot has changed over the years",
-   "bookmarklet" : 0,
+   "id" : "49735082494",
+   "date-gmt" : "2013-05-06 00:53:10 GMT",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/49735082494/person-she-me-its-he-person",
+   "date" : "Sun, 05 May 2013 18:53:10",
+   "tags" : [
+      "haha",
+      "lgbt"
+   ],
+   "reblog-key" : "GyUCUNvR",
+   "feed-item" : "",
    "unix-timestamp" : 1367801590,
+   "type" : "conversation",
    "from-feed-id" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/49735082494"
+   "conversation-text" : "person: she--\r\nme: it's he.\r\nperson: *condescending smile* well, on your birth certificate--\r\nme: yeah, it also says ' 8lbs, 6 oz ' -- a lot has changed over the years",
+   "url" : "http://tumblr.ggvaidya.com/post/49735082494",
+   "format" : "html",
+   "bookmarklet" : 0,
+   "mobile" : 0
 }
 

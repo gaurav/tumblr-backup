@@ -1,36 +1,36 @@
 {
-   "mobile" : 0,
-   "id" : "40270627465",
-   "feed-item" : "",
    "type" : "conversation",
-   "date-gmt" : "2013-01-11 19:40:27 GMT",
+   "from-feed-id" : 0,
+   "format" : "html",
+   "conversation-text" : "Interview: Be honest... did you steal a Tribble once the shoot wrapped? \r\nNichelle Nichols: I didn't wait until the end. I got mine the first day!\r\nWalter Koenig: I didn't steal a Tribble. I did, however, have several of them burned in what can only be described as a heretical cult ceremony.",
    "url" : "http://tumblr.ggvaidya.com/post/40270627465",
    "unix-timestamp" : 1357933227,
-   "from-feed-id" : 0,
+   "feed-item" : "",
+   "reblog-key" : "OxdCbhcO",
+   "mobile" : 0,
+   "bookmarklet" : 0,
    "conversation" : [
       {
-         "label" : "Interview:",
          "phrase" : "Be honest... did you steal a Tribble once the shoot wrapped? \r",
+         "label" : "Interview:",
          "name" : "Interview"
       },
       {
-         "name" : "Nichelle Nichols",
+         "phrase" : "I didn't wait until the end. I got mine the first day!\r",
          "label" : "Nichelle Nichols:",
-         "phrase" : "I didn't wait until the end. I got mine the first day!\r"
+         "name" : "Nichelle Nichols"
       },
       {
-         "label" : "Walter Koenig:",
          "phrase" : "I didn't steal a Tribble. I did, however, have several of them burned in what can only be described as a heretical cult ceremony.",
-         "name" : "Walter Koenig"
+         "name" : "Walter Koenig",
+         "label" : "Walter Koenig:"
       }
    ],
    "slug" : "interview-be-honest-did-you-steal-a-tribble",
+   "date-gmt" : "2013-01-11 19:40:27 GMT",
    "date" : "Fri, 11 Jan 2013 12:40:27",
-   "format" : "html",
-   "conversation-text" : "Interview: Be honest... did you steal a Tribble once the shoot wrapped? \r\nNichelle Nichols: I didn't wait until the end. I got mine the first day!\r\nWalter Koenig: I didn't steal a Tribble. I did, however, have several of them burned in what can only be described as a heretical cult ceremony.",
-   "bookmarklet" : 0,
-   "conversation-title" : null,
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/40270627465/interview-be-honest-did-you-steal-a-tribble",
-   "reblog-key" : "OxdCbhcO"
+   "conversation-title" : null,
+   "id" : "40270627465"
 }
 

@@ -1,25 +1,25 @@
 {
+   "format" : "html",
+   "url" : "http://tumblr.ggvaidya.com/post/89344571249",
+   "type" : "regular",
+   "from-feed-id" : 0,
+   "unix-timestamp" : 1403252320,
+   "reblog-key" : "YoxTICHF",
    "feed-item" : "",
-   "mobile" : 0,
-   "id" : "89344571249",
+   "regular-title" : "Urk",
    "tags" : [
       ":-(",
       "me",
       "at least the Friend Machine is still working",
       "if anything happens to it I shall sit down and cry"
    ],
-   "regular-title" : "Urk",
-   "type" : "regular",
-   "regular-body" : "<p>So right as one of my busiest summers in grad school really gets going, my laptopâs built-in wifi goes dead.</p>\n\n<p>Yay! Or, possibly, the other thing.</p>",
-   "date-gmt" : "2014-06-20 08:18:40 GMT",
-   "unix-timestamp" : 1403252320,
-   "from-feed-id" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/89344571249",
-   "date" : "Fri, 20 Jun 2014 02:18:40",
-   "format" : "html",
+   "mobile" : 0,
+   "bookmarklet" : 0,
    "slug" : "urk",
+   "date" : "Fri, 20 Jun 2014 02:18:40",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/89344571249/urk",
-   "reblog-key" : "YoxTICHF",
-   "bookmarklet" : 0
+   "date-gmt" : "2014-06-20 08:18:40 GMT",
+   "regular-body" : "<p>So right as one of my busiest summers in grad school really gets going, my laptopâs built-in wifi goes dead.</p>\n\n<p>Yay! Or, possibly, the other thing.</p>",
+   "id" : "89344571249"
 }
 

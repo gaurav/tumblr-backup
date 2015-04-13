@@ -1,42 +1,45 @@
 {
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/38093131463/ayn-rand-vs-jim-henson-part-3-oscar-the-grouch",
-   "reblog-key" : "LoVb8m2Z",
-   "bookmarklet" : 0,
-   "conversation-title" : "Ayn Rand vs Jim Henson, part 3: \"Oscar the Grouch\"",
    "conversation-text" : "Jim Henson: I think Ms. Rand and my character Oscar the Grouch would have a lot to talk about actually. I am laughing out loud at this idea. \r\nAyn Rand: Why would I want to talk to him. What has he achieved or trying to achieve. \r\nJim Henson: He has achieved what I think is the ultimate goal of your way of thinking.\r\n[...]\r\nJim Henson: Isolation. Contempt for others. A hard heart. Yet even he can muster a bit of empathy every now and then.\r\nSidney Nolan: When Ms. Rands idea of individualism is amplified to the extreme things like Vietnam happen. \r\nAyn Rand: I am not isolated. I have no contempt for others. Millions of people read my books and find my thoughts inspirational. I hardly spend my time on the sidelines in a trash can grumping. \r\nJim Henson: Not yet anyway.",
-   "date" : "Sun, 16 Dec 2012 14:40:28",
+   "url" : "http://tumblr.ggvaidya.com/post/38093131463",
    "format" : "html",
+   "from-feed-id" : 0,
+   "type" : "conversation",
+   "reblog-key" : "LoVb8m2Z",
+   "feed-item" : "",
+   "unix-timestamp" : 1355694028,
+   "mobile" : 0,
+   "bookmarklet" : 0,
    "slug" : "ayn-rand-vs-jim-henson-part-3-oscar-the-grouch",
    "conversation" : [
       {
-         "name" : "Jim Henson",
+         "phrase" : "I think Ms. Rand and my character Oscar the Grouch would have a lot to talk about actually. I am laughing out loud at this idea. \r",
          "label" : "Jim Henson:",
-         "phrase" : "I think Ms. Rand and my character Oscar the Grouch would have a lot to talk about actually. I am laughing out loud at this idea. \r"
+         "name" : "Jim Henson"
       },
       {
-         "name" : "Ayn Rand",
+         "label" : "Ayn Rand:",
          "phrase" : "Why would I want to talk to him. What has he achieved or trying to achieve. \r",
-         "label" : "Ayn Rand:"
+         "name" : "Ayn Rand"
       },
       {
-         "label" : "Jim Henson:",
+         "name" : "Jim Henson",
          "phrase" : "He has achieved what I think is the ultimate goal of your way of thinking.\r",
-         "name" : "Jim Henson"
+         "label" : "Jim Henson:"
       },
       {
-         "name" : "",
+         "label" : "",
          "phrase" : "[...]\r",
-         "label" : ""
+         "name" : ""
       },
       {
-         "label" : "Jim Henson:",
+         "name" : "Jim Henson",
          "phrase" : "Isolation. Contempt for others. A hard heart. Yet even he can muster a bit of empathy every now and then.\r",
-         "name" : "Jim Henson"
+         "label" : "Jim Henson:"
       },
       {
+         "phrase" : "When Ms. Rands idea of individualism is amplified to the extreme things like Vietnam happen. \r",
          "name" : "Sidney Nolan",
-         "label" : "Sidney Nolan:",
-         "phrase" : "When Ms. Rands idea of individualism is amplified to the extreme things like Vietnam happen. \r"
+         "label" : "Sidney Nolan:"
       },
       {
          "phrase" : "I am not isolated. I have no contempt for others. Millions of people read my books and find my thoughts inspirational. I hardly spend my time on the sidelines in a trash can grumping. \r",
@@ -44,18 +47,15 @@
          "name" : "Ayn Rand"
       },
       {
-         "label" : "Jim Henson:",
+         "name" : "Jim Henson",
          "phrase" : "Not yet anyway.",
-         "name" : "Jim Henson"
+         "label" : "Jim Henson:"
       }
    ],
-   "url" : "http://tumblr.ggvaidya.com/post/38093131463",
-   "from-feed-id" : 0,
-   "unix-timestamp" : 1355694028,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/38093131463/ayn-rand-vs-jim-henson-part-3-oscar-the-grouch",
+   "date" : "Sun, 16 Dec 2012 14:40:28",
    "date-gmt" : "2012-12-16 21:40:28 GMT",
-   "type" : "conversation",
-   "feed-item" : "",
-   "mobile" : 0,
+   "conversation-title" : "Ayn Rand vs Jim Henson, part 3: \"Oscar the Grouch\"",
    "id" : "38093131463"
 }
 

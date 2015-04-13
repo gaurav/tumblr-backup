@@ -1,22 +1,22 @@
 {
-   "unix-timestamp" : 1360260793,
-   "from-feed-id" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/42514322573",
-   "date" : "Thu, 07 Feb 2013 11:13:13",
-   "format" : "html",
-   "slug" : "in-the-next-decade-i-believe-that-archives-and",
-   "reblog-key" : "yX3JZ21I",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/42514322573/in-the-next-decade-i-believe-that-archives-and",
-   "bookmarklet" : 0,
-   "feed-item" : "",
-   "mobile" : 0,
    "id" : "42514322573",
+   "date-gmt" : "2013-02-07 18:13:13 GMT",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/42514322573/in-the-next-decade-i-believe-that-archives-and",
+   "date" : "Thu, 07 Feb 2013 11:13:13",
+   "quote-text" : "In the next decade, I believe that archives and science-computing facilities must merge. The international radio-astronomy community is doing so in preparation for the Square Kilometre Array radio telescope, due to see first light in 2020. The enormous volume of data that the array will produce &ndash; 700 terabytes each second &ndash; will, after just a few days, eclipse the current size of the Internet. Archives in the United States such as those at the National Radio Astronomy Observatory&rsquo;s Expanded Very Large Array and the Atacama Large Millimeter/submillimeter Array are developing software to handle that deluge.",
+   "slug" : "in-the-next-decade-i-believe-that-archives-and",
+   "quote-source" : "Chris A. Mattmann, <em><a href=\"http://www.nature.com/nature/journal/v493/n7433/full/493473a.html?WT.ec_id=NATURE-20130124\">Computing: A vision for data science</a></em>, Nature <strong>493</strong>:473&ndash;475 (24 January 2013)",
+   "bookmarklet" : 0,
+   "mobile" : 0,
    "tags" : [
       "data"
    ],
-   "quote-text" : "In the next decade, I believe that archives and science-computing facilities must merge. The international radio-astronomy community is doing so in preparation for the Square Kilometre Array radio telescope, due to see first light in 2020. The enormous volume of data that the array will produce &#8212; 700 terabytes each second &#8212; will, after just a few days, eclipse the current size of the Internet. Archives in the United States such as those at the National Radio Astronomy Observatory&#8217;s Expanded Very Large Array and the Atacama Large Millimeter/submillimeter Array are developing software to handle that deluge.",
+   "feed-item" : "",
+   "reblog-key" : "yX3JZ21I",
+   "unix-timestamp" : 1360260793,
    "type" : "quote",
-   "quote-source" : "Chris A. Mattmann, <em><a href=\"http://www.nature.com/nature/journal/v493/n7433/full/493473a.html?WT.ec_id=NATURE-20130124\">Computing: A vision for data science</a></em>, Nature <strong>493</strong>:473&#8212;475 (24 January 2013)",
-   "date-gmt" : "2013-02-07 18:13:13 GMT"
+   "from-feed-id" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/42514322573",
+   "format" : "html"
 }
 

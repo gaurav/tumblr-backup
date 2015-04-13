@@ -1,25 +1,25 @@
 {
-   "from-feed-id" : 0,
-   "unix-timestamp" : 1354958922,
-   "url" : "http://tumblr.ggvaidya.com/post/37465694017",
-   "bookmarklet" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/37465694017/the-very-best-video-made-about-people-dealing-with",
-   "reblog-key" : "cErhFLfA",
-   "video-player-500" : "<iframe width=\"500\" height=\"374\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/pQHX-SjgQvQ?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "slug" : "the-very-best-video-made-about-people-dealing-with",
-   "date" : "Sat, 08 Dec 2012 02:28:42",
-   "format" : "html",
-   "video-player-250" : "<iframe width=\"250\" height=\"187\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/pQHX-SjgQvQ?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "id" : "37465694017",
-   "mobile" : 0,
-   "feed-item" : "",
-   "video-caption" : "<p>The very best video made about people dealing with new technology.</p>",
    "tags" : [
       "funny"
    ],
-   "date-gmt" : "2012-12-08 09:28:42 GMT",
-   "type" : "video",
    "video-source" : "https://www.youtube.com/watch?feature=player_embedded&v=pQHX-SjgQvQ",
-   "video-player" : "<iframe width=\"400\" height=\"299\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/pQHX-SjgQvQ?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>"
+   "reblog-key" : "cErhFLfA",
+   "feed-item" : "",
+   "unix-timestamp" : 1354958922,
+   "video-player-250" : "<iframe width=\"250\" height=\"187\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/pQHX-SjgQvQ?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "type" : "video",
+   "from-feed-id" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/37465694017",
+   "video-player" : "<iframe width=\"400\" height=\"299\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/pQHX-SjgQvQ?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-caption" : "<p>The very best video made about people dealing with new technology.</p>",
+   "format" : "html",
+   "bookmarklet" : 0,
+   "mobile" : 0,
+   "video-player-500" : "<iframe width=\"500\" height=\"374\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/pQHX-SjgQvQ?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "slug" : "the-very-best-video-made-about-people-dealing-with",
+   "id" : "37465694017",
+   "date-gmt" : "2012-12-08 09:28:42 GMT",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/37465694017/the-very-best-video-made-about-people-dealing-with",
+   "date" : "Sat, 08 Dec 2012 02:28:42"
 }
 

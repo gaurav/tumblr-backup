@@ -1,23 +1,23 @@
 {
    "unix-timestamp" : 1329382307,
-   "from-feed-id" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/17704871161",
-   "slug" : "discussions-like-this-are-one-reason-i-cant-take",
-   "date" : "Thu, 16 Feb 2012 01:51:47",
-   "format" : "html",
-   "bookmarklet" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/17704871161/discussions-like-this-are-one-reason-i-cant-take",
-   "reblog-key" : "5V3i2Dnm",
-   "mobile" : 0,
-   "id" : "17704871161",
    "feed-item" : "",
-   "quote-text" : "Discussions like this are one reason I can&#8217;t take the phylocode seriously. Of all the things we should be doing, renaming perfectly usable names connected to lots of existing data is not one of them. We have enough problems in retrieving biological data without introducing new ones.",
+   "reblog-key" : "5V3i2Dnm",
    "tags" : [
       "taxonomy",
       "phylocode"
    ],
+   "format" : "html",
+   "url" : "http://tumblr.ggvaidya.com/post/17704871161",
+   "from-feed-id" : 0,
    "type" : "quote",
-   "date-gmt" : "2012-02-16 08:51:47 GMT",
-   "quote-source" : "@rdmpage on <a href=\"http://3lbmonkeybrain.blogspot.com/2012/02/emending-phylocode-species-problem.html\">a proposal</a> changing how species names work under the PhyloCode."
+   "bookmarklet" : 0,
+   "mobile" : 0,
+   "quote-text" : "Discussions like this are one reason I can&rsquo;t take the phylocode seriously. Of all the things we should be doing, renaming perfectly usable names connected to lots of existing data is not one of them. We have enough problems in retrieving biological data without introducing new ones.",
+   "quote-source" : "@rdmpage on <a href=\"http://3lbmonkeybrain.blogspot.com/2012/02/emending-phylocode-species-problem.html\">a proposal</a> changing how species names work under the PhyloCode.",
+   "slug" : "discussions-like-this-are-one-reason-i-cant-take",
+   "id" : "17704871161",
+   "date" : "Thu, 16 Feb 2012 01:51:47",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/17704871161/discussions-like-this-are-one-reason-i-cant-take",
+   "date-gmt" : "2012-02-16 08:51:47 GMT"
 }
 

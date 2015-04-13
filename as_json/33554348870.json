@@ -1,27 +1,27 @@
 {
-   "type" : "video",
-   "date-gmt" : "2012-10-14 07:54:16 GMT",
-   "video-source" : "http://www.youtube.com/watch?v=ChjeqfAGMOg",
-   "video-player" : false,
-   "mobile" : 0,
    "id" : "33554348870",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/33554348870/bug-bunny-mel-blanc-chuck-jones",
+   "date" : "Sun, 14 Oct 2012 01:54:16",
+   "date-gmt" : "2012-10-14 07:54:16 GMT",
+   "video-player-500" : false,
+   "slug" : "bug-bunny-mel-blanc-chuck-jones",
+   "bookmarklet" : 0,
+   "mobile" : 0,
    "feed-item" : "",
-   "video-caption" : "<p>Bug Bunny. Mel Blanc. Chuck Jones.</p>",
+   "reblog-key" : "kU3uWuKd",
+   "unix-timestamp" : 1350201256,
    "tags" : [
       "Bugs Bunny",
       "Mel Blanc",
       "Chuck Jones"
    ],
-   "video-player-500" : false,
-   "slug" : "bug-bunny-mel-blanc-chuck-jones",
-   "date" : "Sun, 14 Oct 2012 01:54:16",
+   "video-source" : "http://www.youtube.com/watch?v=ChjeqfAGMOg",
+   "video-player" : false,
+   "video-caption" : "<p>Bug Bunny. Mel Blanc. Chuck Jones.</p>",
+   "url" : "http://tumblr.ggvaidya.com/post/33554348870",
    "format" : "html",
-   "bookmarklet" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/33554348870/bug-bunny-mel-blanc-chuck-jones",
-   "reblog-key" : "kU3uWuKd",
    "video-player-250" : false,
-   "unix-timestamp" : 1350201256,
    "from-feed-id" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/33554348870"
+   "type" : "video"
 }
 

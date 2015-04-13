@@ -1,25 +1,25 @@
 {
-   "video-player-250" : "<iframe width=\"250\" height=\"187\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/vEOZLQ3d1FI?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/18893164340/the-baffled-king-composing-hallelujah",
-   "reblog-key" : "0dlNGMZN",
-   "bookmarklet" : 0,
-   "format" : "html",
-   "date" : "Wed, 07 Mar 2012 00:01:48",
-   "slug" : "the-baffled-king-composing-hallelujah",
-   "video-player-500" : "<iframe width=\"500\" height=\"374\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/vEOZLQ3d1FI?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "url" : "http://tumblr.ggvaidya.com/post/18893164340",
-   "from-feed-id" : 0,
-   "unix-timestamp" : 1331103708,
-   "video-player" : "<iframe width=\"400\" height=\"299\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/vEOZLQ3d1FI?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "video-source" : "http://www.youtube.com/watch?v=vEOZLQ3d1FI",
+   "id" : "18893164340",
    "date-gmt" : "2012-03-07 07:01:48 GMT",
-   "type" : "video",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/18893164340/the-baffled-king-composing-hallelujah",
+   "date" : "Wed, 07 Mar 2012 00:01:48",
+   "video-player-500" : "<iframe width=\"500\" height=\"374\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/vEOZLQ3d1FI?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "slug" : "the-baffled-king-composing-hallelujah",
+   "bookmarklet" : 0,
+   "mobile" : 0,
    "tags" : [
       "music"
    ],
-   "video-caption" : "<p>The baffled king composing &#8220;Hallelujah&#8221;.</p>",
+   "video-source" : "http://www.youtube.com/watch?v=vEOZLQ3d1FI",
    "feed-item" : "",
-   "id" : "18893164340",
-   "mobile" : 0
+   "reblog-key" : "0dlNGMZN",
+   "unix-timestamp" : 1331103708,
+   "video-player-250" : "<iframe width=\"250\" height=\"187\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/vEOZLQ3d1FI?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "type" : "video",
+   "from-feed-id" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/18893164340",
+   "video-player" : "<iframe width=\"400\" height=\"299\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/vEOZLQ3d1FI?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-caption" : "<p>The baffled king composing &ldquo;Hallelujah&rdquo;.</p>",
+   "format" : "html"
 }
 

@@ -1,9 +1,17 @@
 {
-   "video-source" : "http://www.youtube.com/watch?v=v52FLMOPSig",
+   "mobile" : 0,
+   "bookmarklet" : 0,
+   "format" : "html",
    "video-player" : "<iframe width=\"400\" height=\"225\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/v52FLMOPSig?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "type" : "video",
-   "date-gmt" : "2013-11-15 06:28:21 GMT",
+   "url" : "http://tumblr.ggvaidya.com/post/67039331150",
    "video-caption" : "",
+   "from-feed-id" : 0,
+   "type" : "video",
+   "video-player-250" : "<iframe width=\"250\" height=\"140\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/v52FLMOPSig?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "unix-timestamp" : 1384496901,
+   "reblog-key" : "WzMyMCzs",
+   "feed-item" : "",
+   "video-source" : "http://www.youtube.com/watch?v=v52FLMOPSig",
    "tags" : [
       "the west wing",
       "walk and talk the vote",
@@ -11,19 +19,11 @@
       "c j cregg",
       "wow"
    ],
-   "id" : "67039331150",
-   "mobile" : 0,
-   "feed-item" : "",
-   "video-player-250" : "<iframe width=\"250\" height=\"140\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/v52FLMOPSig?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "slug" : "",
-   "video-player-500" : "<iframe width=\"500\" height=\"281\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/v52FLMOPSig?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
    "date" : "Thu, 14 Nov 2013 23:28:21",
-   "format" : "html",
-   "bookmarklet" : 0,
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/67039331150",
-   "reblog-key" : "WzMyMCzs",
-   "url" : "http://tumblr.ggvaidya.com/post/67039331150",
-   "unix-timestamp" : 1384496901,
-   "from-feed-id" : 0
+   "date-gmt" : "2013-11-15 06:28:21 GMT",
+   "id" : "67039331150",
+   "slug" : "",
+   "video-player-500" : "<iframe width=\"500\" height=\"281\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/v52FLMOPSig?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>"
 }
 

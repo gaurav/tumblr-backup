@@ -1,26 +1,26 @@
 {
-   "video-player-250" : "<iframe width=\"250\" height=\"187\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/DF9O6fne6nE?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "bookmarklet" : 0,
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/22791244491/ordinarily-i-dont-like-the-really-short-subject",
-   "reblog-key" : "IKyIoRXT",
-   "video-player-500" : "<iframe width=\"500\" height=\"374\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/DF9O6fne6nE?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "slug" : "ordinarily-i-dont-like-the-really-short-subject",
-   "format" : "html",
    "date" : "Thu, 10 May 2012 13:26:29",
+   "date-gmt" : "2012-05-10 19:26:29 GMT",
+   "id" : "22791244491",
+   "slug" : "ordinarily-i-dont-like-the-really-short-subject",
+   "video-player-500" : "<iframe width=\"500\" height=\"374\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/DF9O6fne6nE?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "mobile" : 0,
+   "bookmarklet" : 0,
+   "video-caption" : "<p>Ordinarily, I don&rsquo;t like the really short subject lines the Obama campaign uses when they e-mail me, but yesterday&rsquo;s &ndash; sent out by <a href=\"http://en.wikipedia.org/wiki/Barack_Obama\">the Big O himself</a> &ndash; made me grin. The subject line was simply &ldquo;Marriage&rdquo;. I think the Obama campaign just missed a huge opportunity to get <em><a href=\"http://en.wikipedia.org/wiki/The_Princess_Bride_(film)\">Princess Bride</a></em>-loving voters solidly on their side. Oh well.</p>\n\n<p>(<a href=\"http://youtu.be/Sbqv3MwwVd8\">Alternate video link</a>)</p>",
+   "video-player" : "<iframe width=\"400\" height=\"299\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/DF9O6fne6nE?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
    "url" : "http://tumblr.ggvaidya.com/post/22791244491",
+   "format" : "html",
+   "video-player-250" : "<iframe width=\"250\" height=\"187\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/DF9O6fne6nE?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "type" : "video",
    "from-feed-id" : 0,
+   "reblog-key" : "IKyIoRXT",
+   "feed-item" : "",
    "unix-timestamp" : 1336677989,
    "video-source" : "http://www.youtube.com/watch?v=DF9O6fne6nE",
-   "video-player" : "<iframe width=\"400\" height=\"299\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/DF9O6fne6nE?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "date-gmt" : "2012-05-10 19:26:29 GMT",
-   "type" : "video",
-   "video-caption" : "<p>Ordinarily, I don&#8217;t like the really short subject lines the Obama campaign uses when they e-mail me, but yesterday&#8217;s &#8212; sent out by <a href=\"http://en.wikipedia.org/wiki/Barack_Obama\">the Big O himself</a> &#8212; made me grin. The subject line was simply &#8220;Marriage&#8221;. I think the Obama campaign just missed a huge opportunity to get <em><a href=\"http://en.wikipedia.org/wiki/The_Princess_Bride_(film)\">Princess Bride</a></em>-loving voters solidly on their side. Oh well.</p>\n\n<p>(<a href=\"http://youtu.be/Sbqv3MwwVd8\">Alternate video link</a>)</p>",
    "tags" : [
       "mawwiage",
       "the princess bride"
-   ],
-   "id" : "22791244491",
-   "mobile" : 0,
-   "feed-item" : ""
+   ]
 }
 

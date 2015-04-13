@@ -1,24 +1,24 @@
 {
-   "slug" : "a-poem",
-   "format" : "html",
-   "date" : "Thu, 14 Nov 2013 09:26:59",
    "bookmarklet" : 0,
-   "reblog-key" : "3P9kjgP4",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/66972450673/a-poem",
-   "url" : "http://tumblr.ggvaidya.com/post/66972450673",
-   "unix-timestamp" : 1384446419,
-   "from-feed-id" : 0,
-   "regular-title" : "A poem",
-   "type" : "regular",
-   "regular-body" : "<p>Two SKIPs arrived at my stop, and I &#8212;<br/>\nI took the SKIP less travelled by!<br/>\n  And that&#8217;s why I&#8217;m hoping to only be  slightly late for class this morning.</p>",
-   "date-gmt" : "2013-11-14 16:26:59 GMT",
+   "mobile" : 0,
    "tags" : [
       "rtd",
       "crap",
       "school"
    ],
-   "mobile" : 0,
+   "reblog-key" : "3P9kjgP4",
+   "feed-item" : "",
+   "regular-title" : "A poem",
+   "unix-timestamp" : 1384446419,
+   "type" : "regular",
+   "from-feed-id" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/66972450673",
+   "format" : "html",
    "id" : "66972450673",
-   "feed-item" : ""
+   "regular-body" : "<p>Two SKIPs arrived at my stop, and I &ndash;<br/>\nI took the SKIP less travelled by!<br/>\n  And that&rsquo;s why I&rsquo;m hoping to only be  slightly late for class this morning.</p>",
+   "date-gmt" : "2013-11-14 16:26:59 GMT",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/66972450673/a-poem",
+   "date" : "Thu, 14 Nov 2013 09:26:59",
+   "slug" : "a-poem"
 }
 

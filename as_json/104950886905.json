@@ -1,23 +1,23 @@
 {
-   "from-feed-id" : 0,
-   "unix-timestamp" : 1418332805,
-   "url" : "http://tumblr.ggvaidya.com/post/104950886905",
-   "bookmarklet" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/104950886905/correlation-doesnt-imply-causation-but-it-does",
-   "reblog-key" : "EROSy1ac",
-   "slug" : "correlation-doesnt-imply-causation-but-it-does",
-   "format" : "html",
-   "date" : "Thu, 11 Dec 2014 14:20:05",
    "id" : "104950886905",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/104950886905/correlation-doesnt-imply-causation-but-it-does",
+   "date" : "Thu, 11 Dec 2014 14:20:05",
+   "date-gmt" : "2014-12-11 21:20:05 GMT",
+   "quote-text" : "Correlation doesnât imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing `look over thereÂ´.",
+   "quote-source" : "<p><a href=\"http://xkcd.com/552/\">xkcd</a></p>\n<p><img alt=\"Correlation\" src=\"http://imgs.xkcd.com/comics/correlation.png\" title=\"Correlation doesn't imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing 'look over there'.\"/></p> (via <a href=\"http://wallmakers.tumblr.com/\" class=\"tumblr_blog\">wallmakers</a>)",
+   "slug" : "correlation-doesnt-imply-causation-but-it-does",
+   "bookmarklet" : 0,
    "mobile" : 0,
    "feed-item" : "",
-   "quote-text" : "Correlation doesnât imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing `look over thereÂ´.",
+   "reblog-key" : "EROSy1ac",
+   "unix-timestamp" : 1418332805,
    "tags" : [
       "xkcd",
       "correlation"
    ],
-   "quote-source" : "<p><a href=\"http://xkcd.com/552/\">xkcd</a></p>\n<p><img alt=\"Correlation\" src=\"http://imgs.xkcd.com/comics/correlation.png\" title=\"Correlation doesn't imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing 'look over there'.\"/></p> (via <a href=\"http://wallmakers.tumblr.com/\" class=\"tumblr_blog\">wallmakers</a>)",
-   "date-gmt" : "2014-12-11 21:20:05 GMT",
-   "type" : "quote"
+   "url" : "http://tumblr.ggvaidya.com/post/104950886905",
+   "format" : "html",
+   "type" : "quote",
+   "from-feed-id" : 0
 }
 

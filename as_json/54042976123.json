@@ -1,23 +1,23 @@
 {
-   "url" : "http://tumblr.ggvaidya.com/post/54042976123",
-   "from-feed-id" : 0,
-   "unix-timestamp" : 1372367542,
-   "bookmarklet" : 0,
-   "reblog-key" : "z5WePAlc",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/54042976123/using-the-implicit-booleanness-of-the-empty-list",
-   "slug" : "using-the-implicit-booleanness-of-the-empty-list",
-   "format" : "html",
-   "date" : "Thu, 27 Jun 2013 15:12:22",
    "quote-text" : "Using the implicit booleanness of the empty list is quite pythonic.",
+   "slug" : "using-the-implicit-booleanness-of-the-empty-list",
+   "quote-source" : "Patrick, <a href=\"http://stackoverflow.com/a/53522\">in an answer on StackOverflow</a>, September 10, 2008",
+   "id" : "54042976123",
+   "date-gmt" : "2013-06-27 21:12:22 GMT",
+   "date" : "Thu, 27 Jun 2013 15:12:22",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/54042976123/using-the-implicit-booleanness-of-the-empty-list",
    "tags" : [
       "python",
       "pythonic"
    ],
-   "mobile" : 0,
-   "id" : "54042976123",
+   "unix-timestamp" : 1372367542,
    "feed-item" : "",
-   "quote-source" : "Patrick, <a href=\"http://stackoverflow.com/a/53522\">in an answer on StackOverflow</a>, September 10, 2008",
-   "date-gmt" : "2013-06-27 21:12:22 GMT",
-   "type" : "quote"
+   "reblog-key" : "z5WePAlc",
+   "from-feed-id" : 0,
+   "type" : "quote",
+   "format" : "html",
+   "url" : "http://tumblr.ggvaidya.com/post/54042976123",
+   "bookmarklet" : 0,
+   "mobile" : 0
 }
 
