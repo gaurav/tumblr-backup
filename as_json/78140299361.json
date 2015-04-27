@@ -1,24 +1,24 @@
 {
-   "mobile" : 0,
-   "bookmarklet" : 0,
+   "feed-item" : "",
+   "unix-timestamp" : 1393623645,
+   "date" : "Fri, 28 Feb 2014 14:40:45",
+   "quote-source" : "The Science of Discworld 3 (via <a class=\"tumblr_blog\" href=\"http://fuckyeahrincewind.tumblr.com/\">fuckyeahrincewind</a>)",
    "from-feed-id" : 0,
-   "type" : "quote",
+   "slug" : "rincewind-got-edgy-in-the-absence-of-his-hat",
    "format" : "html",
-   "url" : "http://tumblr.ggvaidya.com/post/78140299361",
+   "reblog-key" : "8q44gw3e",
+   "date-gmt" : "2014-02-28 21:40:45 GMT",
+   "id" : "78140299361",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/78140299361/rincewind-got-edgy-in-the-absence-of-his-hat",
+   "quote-text" : "[Rincewind] got edgy in the absence of his hat, and tried to stand under things.",
    "tags" : [
       "fair",
       "terry pratchett",
       "diskworld"
    ],
-   "unix-timestamp" : 1393623645,
-   "reblog-key" : "8q44gw3e",
-   "feed-item" : "",
-   "date-gmt" : "2014-02-28 21:40:45 GMT",
-   "date" : "Fri, 28 Feb 2014 14:40:45",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/78140299361/rincewind-got-edgy-in-the-absence-of-his-hat",
-   "id" : "78140299361",
-   "slug" : "rincewind-got-edgy-in-the-absence-of-his-hat",
-   "quote-source" : "The Science of Discworld 3 (via <a class=\"tumblr_blog\" href=\"http://fuckyeahrincewind.tumblr.com/\">fuckyeahrincewind</a>)",
-   "quote-text" : "[Rincewind] got edgy in the absence of his hat, and tried to stand under things."
+   "mobile" : 0,
+   "type" : "quote",
+   "bookmarklet" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/78140299361"
 }
 

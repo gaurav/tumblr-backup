@@ -1,22 +1,22 @@
 {
-   "mobile" : 0,
-   "bookmarklet" : 0,
-   "format" : "html",
-   "url" : "http://tumblr.ggvaidya.com/post/18562786589",
-   "type" : "quote",
-   "from-feed-id" : 0,
-   "unix-timestamp" : 1330632872,
    "feed-item" : "",
+   "unix-timestamp" : 1330632872,
+   "quote-source" : "Whitlock and Schluter, <em><a href=\"http://www.goodreads.com/book/show/4412674-the-analysis-of-biological-data\">The Analysis of Biological Data</a></em>, page 239.",
+   "from-feed-id" : 0,
+   "slug" : "this-standardized-z-value-is-called-a-standard",
+   "date" : "Thu, 01 Mar 2012 13:14:32",
    "reblog-key" : "KDi949m0",
+   "format" : "html",
+   "id" : "18562786589",
+   "date-gmt" : "2012-03-01 20:14:32 GMT",
+   "quote-text" : "This standardized <em>Z</em> value is called a <strong>standard normal deviate</strong> (footnote: Not to be confused with &ldquo;everyday ordinary pervert&rdquo;. It&rsquo;s not often that you can find a jargon term that seems to be both redundant <em>and</em> self-contradictory.)",
    "tags" : [
       "statistics"
    ],
-   "date" : "Thu, 01 Mar 2012 13:14:32",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/18562786589/this-standardized-z-value-is-called-a-standard",
-   "date-gmt" : "2012-03-01 20:14:32 GMT",
-   "id" : "18562786589",
-   "quote-source" : "Whitlock and Schluter, <em><a href=\"http://www.goodreads.com/book/show/4412674-the-analysis-of-biological-data\">The Analysis of Biological Data</a></em>, page 239.",
-   "slug" : "this-standardized-z-value-is-called-a-standard",
-   "quote-text" : "This standardized <em>Z</em> value is called a <strong>standard normal deviate</strong> (footnote: Not to be confused with &ldquo;everyday ordinary pervert&rdquo;. It&rsquo;s not often that you can find a jargon term that seems to be both redundant <em>and</em> self-contradictory.)"
+   "mobile" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/18562786589",
+   "type" : "quote",
+   "bookmarklet" : 0
 }
 

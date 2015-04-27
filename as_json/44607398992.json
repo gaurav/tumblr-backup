@@ -1,19 +1,19 @@
 {
-   "bookmarklet" : 0,
-   "mobile" : 0,
-   "reblog-key" : "rsE6mmin",
-   "feed-item" : "",
-   "unix-timestamp" : 1362468696,
-   "type" : "quote",
-   "from-feed-id" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/44607398992",
-   "format" : "html",
    "id" : "44607398992",
    "date-gmt" : "2013-03-05 07:31:36 GMT",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/44607398992/you-dont-really-understand-an-antagonist-until",
-   "date" : "Tue, 05 Mar 2013 00:31:36",
    "quote-text" : "You donât really understand an antagonist until you understand why heâs a protagonist in his own version of the world.",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/44607398992/you-dont-really-understand-an-antagonist-until",
+   "mobile" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/44607398992",
+   "type" : "quote",
+   "bookmarklet" : 0,
+   "feed-item" : "",
+   "unix-timestamp" : 1362468696,
+   "from-feed-id" : 0,
+   "quote-source" : "<p><a href=\"http://freddiequell.tumblr.com/post/44369908407/you-dont-really-understand-an-antagonist-until\">John Rogers</a> (via <a class=\"tumblr_blog\" href=\"http://room42.tumblr.com/\">room42</a>)</p>\n<p><em>this</em>â¦is critical knowledge</p>\n<p>(via <a class=\"tumblr_blog\" href=\"http://mudwerks.tumblr.com/\">mudwerks</a>)</p>",
    "slug" : "you-dont-really-understand-an-antagonist-until",
-   "quote-source" : "<p><a href=\"http://freddiequell.tumblr.com/post/44369908407/you-dont-really-understand-an-antagonist-until\">John Rogers</a> (via <a class=\"tumblr_blog\" href=\"http://room42.tumblr.com/\">room42</a>)</p>\n<p><em>this</em>â¦is critical knowledge</p>\n<p>(via <a class=\"tumblr_blog\" href=\"http://mudwerks.tumblr.com/\">mudwerks</a>)</p>"
+   "date" : "Tue, 05 Mar 2013 00:31:36",
+   "reblog-key" : "rsE6mmin",
+   "format" : "html"
 }
 

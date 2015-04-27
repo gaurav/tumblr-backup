@@ -1,25 +1,19 @@
 {
-   "date-gmt" : "2013-10-06 05:39:00 GMT",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/63245579279/toby-what-i-didnt-support-you-c-j-no-im",
-   "date" : "Sat, 05 Oct 2013 23:39:00",
-   "id" : "63245579279",
-   "conversation-title" : null,
-   "slug" : "toby-what-i-didnt-support-you-c-j-no-im",
    "conversation" : [
       {
-         "name" : "Toby",
          "phrase" : "What? I didn't support you?\r",
-         "label" : "Toby:"
+         "label" : "Toby:",
+         "name" : "Toby"
       },
       {
-         "label" : "C.J.:",
          "phrase" : "No, I'm just tired. I thought I'd have somewhere to go tonight other than my office. I wore perfume.\r",
+         "label" : "C.J.:",
          "name" : "C.J."
       },
       {
+         "name" : "Toby",
          "label" : "Toby:",
-         "phrase" : "What happened with Ben?\r",
-         "name" : "Toby"
+         "phrase" : "What happened with Ben?\r"
       },
       {
          "name" : "C.J.",
@@ -27,38 +21,38 @@
          "label" : "C.J.:"
       },
       {
-         "name" : "Toby",
          "phrase" : "Wow. [beat] Is that a record?\r",
-         "label" : "Toby:"
-      },
-      {
-         "name" : "C.J.",
-         "phrase" : "Personal best. [turns to go]\r",
-         "label" : "C.J.:"
-      },
-      {
-         "phrase" : "Did you like him?\r",
-         "name" : "Toby",
-         "label" : "Toby:"
-      },
-      {
-         "phrase" : "[turns back] Yeah.\r",
-         "label" : "C.J.:",
-         "name" : "C.J."
-      },
-      {
-         "phrase" : "Really?\r",
          "label" : "Toby:",
          "name" : "Toby"
       },
       {
-         "phrase" : "Yeah.\r",
+         "name" : "C.J.",
          "label" : "C.J.:",
-         "name" : "C.J."
+         "phrase" : "Personal best. [turns to go]\r"
       },
       {
          "label" : "Toby:",
+         "phrase" : "Did you like him?\r",
+         "name" : "Toby"
+      },
+      {
+         "name" : "C.J.",
+         "phrase" : "[turns back] Yeah.\r",
+         "label" : "C.J.:"
+      },
+      {
+         "name" : "Toby",
+         "phrase" : "Really?\r",
+         "label" : "Toby:"
+      },
+      {
+         "name" : "C.J.",
+         "phrase" : "Yeah.\r",
+         "label" : "C.J.:"
+      },
+      {
          "phrase" : "[shrugs] Go fix it. [turns to go]\r",
+         "label" : "Toby:",
          "name" : "Toby"
       },
       {
@@ -67,25 +61,31 @@
          "name" : "C.J."
       },
       {
+         "name" : "Toby",
          "phrase" : "It's all I got.",
-         "label" : "Toby:",
-         "name" : "Toby"
+         "label" : "Toby:"
       }
    ],
+   "from-feed-id" : 0,
+   "slug" : "toby-what-i-didnt-support-you-c-j-no-im",
+   "date" : "Sat, 05 Oct 2013 23:39:00",
+   "reblog-key" : "FR8cxT66",
+   "format" : "html",
+   "feed-item" : "",
+   "conversation-title" : null,
+   "unix-timestamp" : 1381037940,
+   "conversation-text" : "Toby: What? I didn't support you?\r\nC.J.: No, I'm just tired. I thought I'd have somewhere to go tonight other than my office. I wore perfume.\r\nToby: What happened with Ben?\r\nC.J.: [sighs] I wrecked it.\r\nToby: Wow. [beat] Is that a record?\r\nC.J.: Personal best. [turns to go]\r\nToby: Did you like him?\r\nC.J.: [turns back] Yeah.\r\nToby: Really?\r\nC.J.: Yeah.\r\nToby: [shrugs] Go fix it. [turns to go]\r\nC.J.: But ...\r\nToby: It's all I got.",
    "mobile" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/63245579279",
    "bookmarklet" : 0,
    "type" : "conversation",
-   "from-feed-id" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/63245579279",
-   "conversation-text" : "Toby: What? I didn't support you?\r\nC.J.: No, I'm just tired. I thought I'd have somewhere to go tonight other than my office. I wore perfume.\r\nToby: What happened with Ben?\r\nC.J.: [sighs] I wrecked it.\r\nToby: Wow. [beat] Is that a record?\r\nC.J.: Personal best. [turns to go]\r\nToby: Did you like him?\r\nC.J.: [turns back] Yeah.\r\nToby: Really?\r\nC.J.: Yeah.\r\nToby: [shrugs] Go fix it. [turns to go]\r\nC.J.: But ...\r\nToby: It's all I got.",
-   "format" : "html",
+   "id" : "63245579279",
+   "date-gmt" : "2013-10-06 05:39:00 GMT",
    "tags" : [
       "The West Wing",
       "S5E16",
       "relationships"
    ],
-   "reblog-key" : "FR8cxT66",
-   "feed-item" : "",
-   "unix-timestamp" : 1381037940
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/63245579279/toby-what-i-didnt-support-you-c-j-no-im"
 }
 

@@ -1,24 +1,24 @@
 {
-   "mobile" : 0,
-   "bookmarklet" : 0,
-   "type" : "quote",
+   "feed-item" : "",
+   "unix-timestamp" : 1331527466,
+   "quote-source" : "<a href=\"http://wearerolling.blogspot.com/\">Snake Anthony</a>, via e-mail.",
    "from-feed-id" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/19166793628",
+   "slug" : "do-you-know-that-sometimes-you-make-me-smile-from",
+   "date" : "Sun, 11 Mar 2012 22:44:26",
    "format" : "html",
+   "reblog-key" : "YDteejgB",
+   "id" : "19166793628",
+   "date-gmt" : "2012-03-12 04:44:26 GMT",
    "tags" : [
       "me",
       "friends",
       "nerdiness"
    ],
-   "reblog-key" : "YDteejgB",
-   "feed-item" : "",
-   "unix-timestamp" : 1331527466,
-   "date-gmt" : "2012-03-12 04:44:26 GMT",
+   "quote-text" : "Do you know that sometimes you make me smile from ear to ear with your endearing nerdiness?",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/19166793628/do-you-know-that-sometimes-you-make-me-smile-from",
-   "date" : "Sun, 11 Mar 2012 22:44:26",
-   "id" : "19166793628",
-   "slug" : "do-you-know-that-sometimes-you-make-me-smile-from",
-   "quote-source" : "<a href=\"http://wearerolling.blogspot.com/\">Snake Anthony</a>, via e-mail.",
-   "quote-text" : "Do you know that sometimes you make me smile from ear to ear with your endearing nerdiness?"
+   "mobile" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/19166793628",
+   "bookmarklet" : 0,
+   "type" : "quote"
 }
 

@@ -1,37 +1,37 @@
 {
-   "slug" : "people-youre-so-quiet-like-you-dont-talk-me",
-   "conversation" : [
-      {
-         "label" : "people:",
-         "phrase" : "you're so quiet, like you don't talk\r",
-         "name" : "people"
-      },
-      {
-         "name" : "me",
-         "phrase" : "I talk, just not to you",
-         "label" : "me:"
-      }
-   ],
+   "conversation-text" : "people: you're so quiet, like you don't talk\r\nme: I talk, just not to you",
+   "mobile" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/64023978090",
+   "bookmarklet" : 0,
+   "type" : "conversation",
    "id" : "64023978090",
-   "conversation-title" : null,
    "date-gmt" : "2013-10-14 15:39:34 GMT",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/64023978090/people-youre-so-quiet-like-you-dont-talk-me",
-   "date" : "Mon, 14 Oct 2013 09:39:34",
    "tags" : [
       "truth",
       "sorry",
       "people",
       "life"
    ],
-   "feed-item" : "",
-   "reblog-key" : "gFUXXofb",
-   "unix-timestamp" : 1381765174,
-   "type" : "conversation",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/64023978090/people-youre-so-quiet-like-you-dont-talk-me",
+   "slug" : "people-youre-so-quiet-like-you-dont-talk-me",
+   "conversation" : [
+      {
+         "name" : "people",
+         "label" : "people:",
+         "phrase" : "you're so quiet, like you don't talk\r"
+      },
+      {
+         "phrase" : "I talk, just not to you",
+         "label" : "me:",
+         "name" : "me"
+      }
+   ],
    "from-feed-id" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/64023978090",
-   "conversation-text" : "people: you're so quiet, like you don't talk\r\nme: I talk, just not to you",
+   "date" : "Mon, 14 Oct 2013 09:39:34",
+   "reblog-key" : "gFUXXofb",
    "format" : "html",
-   "bookmarklet" : 0,
-   "mobile" : 0
+   "feed-item" : "",
+   "conversation-title" : null,
+   "unix-timestamp" : 1381765174
 }
 

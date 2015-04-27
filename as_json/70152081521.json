@@ -1,23 +1,23 @@
 {
-   "mobile" : 0,
-   "bookmarklet" : 0,
+   "feed-item" : "",
+   "unix-timestamp" : 1387163066,
+   "date" : "Sun, 15 Dec 2013 20:04:26",
+   "quote-source" : "Unknown, possibly based on <a href=\"http://terribleminds.com/ramble/2013/07/17/so-you-just-had-your-book-published/\">this blog post</a>?",
    "from-feed-id" : 0,
-   "type" : "quote",
-   "url" : "http://tumblr.ggvaidya.com/post/70152081521",
+   "slug" : "when-you-belch-into-the-abyss-the-abyss-belches",
    "format" : "html",
+   "reblog-key" : "sFh35Duf",
+   "date-gmt" : "2013-12-16 03:04:26 GMT",
+   "id" : "70152081521",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/70152081521/when-you-belch-into-the-abyss-the-abyss-belches",
    "tags" : [
       "abyss",
       "Friedrich Nietzsche"
    ],
-   "reblog-key" : "sFh35Duf",
-   "feed-item" : "",
-   "unix-timestamp" : 1387163066,
-   "date-gmt" : "2013-12-16 03:04:26 GMT",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/70152081521/when-you-belch-into-the-abyss-the-abyss-belches",
-   "date" : "Sun, 15 Dec 2013 20:04:26",
-   "id" : "70152081521",
-   "slug" : "when-you-belch-into-the-abyss-the-abyss-belches",
-   "quote-source" : "Unknown, possibly based on <a href=\"http://terribleminds.com/ramble/2013/07/17/so-you-just-had-your-book-published/\">this blog post</a>?",
-   "quote-text" : "When you belch into the abyss, the abyss belches back into you."
+   "quote-text" : "When you belch into the abyss, the abyss belches back into you.",
+   "mobile" : 0,
+   "type" : "quote",
+   "bookmarklet" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/70152081521"
 }
 

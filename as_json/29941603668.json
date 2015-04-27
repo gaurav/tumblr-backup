@@ -1,23 +1,23 @@
 {
-   "bookmarklet" : 0,
-   "mobile" : 0,
    "reblog-key" : "K3mtPTJA",
-   "feed-item" : "",
+   "format" : "html",
+   "quote-source" : "Frederick Brooks, Jr. in <em><a href=\"http://en.wikipedia.org/wiki/The_Mythical_Man-Month\">The Mythical Man Month</a></em>",
+   "slug" : "all-programmers-are-optimists-perhaps-this",
+   "from-feed-id" : 0,
+   "date" : "Tue, 21 Aug 2012 20:55:00",
    "unix-timestamp" : 1345604100,
+   "feed-item" : "",
+   "url" : "http://tumblr.ggvaidya.com/post/29941603668",
+   "bookmarklet" : 0,
+   "type" : "quote",
+   "mobile" : 0,
    "tags" : [
       "programmers",
       "young"
    ],
-   "url" : "http://tumblr.ggvaidya.com/post/29941603668",
-   "format" : "html",
-   "from-feed-id" : 0,
-   "type" : "quote",
-   "id" : "29941603668",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/29941603668/all-programmers-are-optimists-perhaps-this",
-   "date" : "Tue, 21 Aug 2012 20:55:00",
-   "date-gmt" : "2012-08-22 02:55:00 GMT",
    "quote-text" : "All programmers are optimists.  Perhaps this modern sorcery especially attracts those who believe in happy endings and fairy godmothers.  Perhaps the hundreds of nitty frustrations drive away all but those who habitually focus on the end goal.  Perhaps it is merely that computers are young, programmers are younger, and the young are always optimists.",
-   "quote-source" : "Frederick Brooks, Jr. in <em><a href=\"http://en.wikipedia.org/wiki/The_Mythical_Man-Month\">The Mythical Man Month</a></em>",
-   "slug" : "all-programmers-are-optimists-perhaps-this"
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/29941603668/all-programmers-are-optimists-perhaps-this",
+   "id" : "29941603668",
+   "date-gmt" : "2012-08-22 02:55:00 GMT"
 }
 

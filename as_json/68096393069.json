@@ -1,27 +1,7 @@
 {
-   "mobile" : 0,
-   "bookmarklet" : 0,
-   "from-feed-id" : 0,
-   "type" : "conversation",
-   "url" : "http://tumblr.ggvaidya.com/post/68096393069",
-   "conversation-text" : "Sam: So guys, when I was downstairs I made a decision: I'm going to register with the Republican Party. And I'll tell you why, if you're curious. It's because they're a freedom-loving people.\r\nAinsley: We also like beef.\r\nSam: You know, you insist that government is depraved for not legislating against what we can see on the newsstands, or what we can see in an art exhibit, or what we can burn in protest, or which sex we're allowed to have sex with, or a woman's right to choose. But don't you dare try to regulate this deadly weapon I have concealed on me, for that would encroach against my freedom.\r\nAinsley: Yeah, and Democrats believe in free speech as long as it isn't prayer while you're standing in school. You believe in the Freedom of Information Act, except if you want to find out if your 14-year-old daughter has had an abortion.\r\nSam: We believe in the ERA.\r\nAinsley: Well, go get them.\r\nSam: How can you have an objection...\r\nAinsley: Because it's humiliating! A new amendment we vote on declaring that I'm equal under the law to a man? I am mortified to discover there's reason to believe I wasn't before. I am a citizen of this country. I am not a special subset in need of your protection. I do not have to have my rights handed down to me by a bunch of old, white men. The same Article 14 that protects you, protects me and I went to law school just to make sure. And with that, I'm going back down to the mess, because I thought I may have seen there a peach.\r\nSam: [to Ed and Larry]: I would have countered that, but I already moved on to other things in my head.",
    "format" : "html",
-   "tags" : [
-      "i love ainsley's speech patterns",
-      "mortified",
-      "may have seen there a peach",
-      "and she makes a good argument",
-      "although I'm definitely more democrat than republican",
-      "if that is a thing"
-   ],
    "reblog-key" : "QyUdA1Wq",
-   "feed-item" : "",
-   "unix-timestamp" : 1385415649,
-   "date-gmt" : "2013-11-25 21:40:49 GMT",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/68096393069/west-wing-quote-of-the-day",
    "date" : "Mon, 25 Nov 2013 14:40:49",
-   "id" : "68096393069",
-   "conversation-title" : "West Wing Quote of the Day",
    "slug" : "west-wing-quote-of-the-day",
    "conversation" : [
       {
@@ -30,19 +10,19 @@
          "name" : "Sam"
       },
       {
+         "name" : "Ainsley",
          "label" : "Ainsley:",
-         "phrase" : "We also like beef.\r",
-         "name" : "Ainsley"
+         "phrase" : "We also like beef.\r"
       },
       {
          "name" : "Sam",
-         "phrase" : "You know, you insist that government is depraved for not legislating against what we can see on the newsstands, or what we can see in an art exhibit, or what we can burn in protest, or which sex we're allowed to have sex with, or a woman's right to choose. But don't you dare try to regulate this deadly weapon I have concealed on me, for that would encroach against my freedom.\r",
-         "label" : "Sam:"
+         "label" : "Sam:",
+         "phrase" : "You know, you insist that government is depraved for not legislating against what we can see on the newsstands, or what we can see in an art exhibit, or what we can burn in protest, or which sex we're allowed to have sex with, or a woman's right to choose. But don't you dare try to regulate this deadly weapon I have concealed on me, for that would encroach against my freedom.\r"
       },
       {
          "name" : "Ainsley",
-         "phrase" : "Yeah, and Democrats believe in free speech as long as it isn't prayer while you're standing in school. You believe in the Freedom of Information Act, except if you want to find out if your 14-year-old daughter has had an abortion.\r",
-         "label" : "Ainsley:"
+         "label" : "Ainsley:",
+         "phrase" : "Yeah, and Democrats believe in free speech as long as it isn't prayer while you're standing in school. You believe in the Freedom of Information Act, except if you want to find out if your 14-year-old daughter has had an abortion.\r"
       },
       {
          "name" : "Sam",
@@ -50,25 +30,45 @@
          "label" : "Sam:"
       },
       {
-         "phrase" : "Well, go get them.\r",
+         "name" : "Ainsley",
          "label" : "Ainsley:",
-         "name" : "Ainsley"
+         "phrase" : "Well, go get them.\r"
       },
       {
          "name" : "Sam",
-         "phrase" : "How can you have an objection...\r",
-         "label" : "Sam:"
-      },
-      {
-         "label" : "Ainsley:",
-         "phrase" : "Because it's humiliating! A new amendment we vote on declaring that I'm equal under the law to a man? I am mortified to discover there's reason to believe I wasn't before. I am a citizen of this country. I am not a special subset in need of your protection. I do not have to have my rights handed down to me by a bunch of old, white men. The same Article 14 that protects you, protects me and I went to law school just to make sure. And with that, I'm going back down to the mess, because I thought I may have seen there a peach.\r",
-         "name" : "Ainsley"
-      },
-      {
-         "phrase" : "[to Ed and Larry]: I would have countered that, but I already moved on to other things in my head.",
          "label" : "Sam:",
+         "phrase" : "How can you have an objection...\r"
+      },
+      {
+         "name" : "Ainsley",
+         "label" : "Ainsley:",
+         "phrase" : "Because it's humiliating! A new amendment we vote on declaring that I'm equal under the law to a man? I am mortified to discover there's reason to believe I wasn't before. I am a citizen of this country. I am not a special subset in need of your protection. I do not have to have my rights handed down to me by a bunch of old, white men. The same Article 14 that protects you, protects me and I went to law school just to make sure. And with that, I'm going back down to the mess, because I thought I may have seen there a peach.\r"
+      },
+      {
+         "label" : "Sam:",
+         "phrase" : "[to Ed and Larry]: I would have countered that, but I already moved on to other things in my head.",
          "name" : "Sam"
       }
-   ]
+   ],
+   "from-feed-id" : 0,
+   "unix-timestamp" : 1385415649,
+   "conversation-title" : "West Wing Quote of the Day",
+   "feed-item" : "",
+   "type" : "conversation",
+   "bookmarklet" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/68096393069",
+   "mobile" : 0,
+   "conversation-text" : "Sam: So guys, when I was downstairs I made a decision: I'm going to register with the Republican Party. And I'll tell you why, if you're curious. It's because they're a freedom-loving people.\r\nAinsley: We also like beef.\r\nSam: You know, you insist that government is depraved for not legislating against what we can see on the newsstands, or what we can see in an art exhibit, or what we can burn in protest, or which sex we're allowed to have sex with, or a woman's right to choose. But don't you dare try to regulate this deadly weapon I have concealed on me, for that would encroach against my freedom.\r\nAinsley: Yeah, and Democrats believe in free speech as long as it isn't prayer while you're standing in school. You believe in the Freedom of Information Act, except if you want to find out if your 14-year-old daughter has had an abortion.\r\nSam: We believe in the ERA.\r\nAinsley: Well, go get them.\r\nSam: How can you have an objection...\r\nAinsley: Because it's humiliating! A new amendment we vote on declaring that I'm equal under the law to a man? I am mortified to discover there's reason to believe I wasn't before. I am a citizen of this country. I am not a special subset in need of your protection. I do not have to have my rights handed down to me by a bunch of old, white men. The same Article 14 that protects you, protects me and I went to law school just to make sure. And with that, I'm going back down to the mess, because I thought I may have seen there a peach.\r\nSam: [to Ed and Larry]: I would have countered that, but I already moved on to other things in my head.",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/68096393069/west-wing-quote-of-the-day",
+   "tags" : [
+      "i love ainsley's speech patterns",
+      "mortified",
+      "may have seen there a peach",
+      "and she makes a good argument",
+      "although I'm definitely more democrat than republican",
+      "if that is a thing"
+   ],
+   "date-gmt" : "2013-11-25 21:40:49 GMT",
+   "id" : "68096393069"
 }
 

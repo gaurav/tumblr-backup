@@ -1,23 +1,23 @@
 {
+   "type" : "quote",
+   "bookmarklet" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/102554640388",
+   "mobile" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/102554640388/this-is-not-to-say-that-beethovens-predecessors",
    "tags" : [
       "beethoven",
       "variation"
    ],
-   "feed-item" : "",
-   "reblog-key" : "KecIlhR3",
-   "unix-timestamp" : 1415913616,
-   "from-feed-id" : 0,
-   "type" : "quote",
-   "url" : "http://tumblr.ggvaidya.com/post/102554640388",
-   "format" : "html",
-   "bookmarklet" : 0,
-   "mobile" : 0,
    "quote-text" : "This is not to say that Beethoven&rsquo;s predecessors, giants on the order of Bach, Haydn, and Mozart, fail to reward repeated listening with their cerebral games of variation. In the case of Beethoven, though, the process becomes addictive, irresistible. No composer labors so hard to stave off boredom, to occupy the mind of one who might be hearing or playing a particular piece for the tenth or the hundredth time.",
-   "slug" : "this-is-not-to-say-that-beethovens-predecessors",
-   "quote-source" : "Alex Ross, <em><a href=\"http://www.newyorker.com/magazine/2014/10/20/deus-ex-musica\">Deus Ex Musica</a></em>, The New Yorker, October 20, 2014.",
-   "id" : "102554640388",
    "date-gmt" : "2014-11-13 21:20:16 GMT",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/102554640388/this-is-not-to-say-that-beethovens-predecessors",
-   "date" : "Thu, 13 Nov 2014 14:20:16"
+   "id" : "102554640388",
+   "reblog-key" : "KecIlhR3",
+   "format" : "html",
+   "date" : "Thu, 13 Nov 2014 14:20:16",
+   "quote-source" : "Alex Ross, <em><a href=\"http://www.newyorker.com/magazine/2014/10/20/deus-ex-musica\">Deus Ex Musica</a></em>, The New Yorker, October 20, 2014.",
+   "slug" : "this-is-not-to-say-that-beethovens-predecessors",
+   "from-feed-id" : 0,
+   "unix-timestamp" : 1415913616,
+   "feed-item" : ""
 }
 
