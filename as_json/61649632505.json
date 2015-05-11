@@ -1,6 +1,18 @@
 {
-   "id" : "61649632505",
+   "format" : "html",
    "date-gmt" : "2013-09-19 04:35:40 GMT",
+   "video-caption" : "<p>How Shakespeare was spoken in the 1600s.</p>",
+   "type" : "video",
+   "date" : "Wed, 18 Sep 2013 22:35:40",
+   "reblog-key" : "jpCw26nF",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/61649632505/how-shakespeare-was-spoken-in-the-1600s",
+   "video-player-500" : "<iframe width=\"500\" height=\"281\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/gPlpphT7n9s?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "feed-item" : "",
+   "url" : "http://tumblr.ggvaidya.com/post/61649632505",
+   "from-feed-id" : 0,
+   "mobile" : 0,
+   "video-player" : "<iframe width=\"400\" height=\"225\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/gPlpphT7n9s?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-player-250" : "<iframe width=\"250\" height=\"140\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/gPlpphT7n9s?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
    "tags" : [
       "shakespeare",
       "original pronounciation",
@@ -8,22 +20,10 @@
       "literature",
       "language"
    ],
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/61649632505/how-shakespeare-was-spoken-in-the-1600s",
-   "video-player-250" : "<iframe width=\"250\" height=\"140\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/gPlpphT7n9s?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "mobile" : 0,
-   "video-source" : "http://youtu.be/gPlpphT7n9s",
-   "url" : "http://tumblr.ggvaidya.com/post/61649632505",
-   "bookmarklet" : 0,
-   "type" : "video",
-   "video-player" : "<iframe width=\"400\" height=\"225\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/gPlpphT7n9s?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "feed-item" : "",
-   "unix-timestamp" : 1379565340,
+   "id" : "61649632505",
    "slug" : "how-shakespeare-was-spoken-in-the-1600s",
-   "video-player-500" : "<iframe width=\"500\" height=\"281\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/gPlpphT7n9s?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "from-feed-id" : 0,
-   "date" : "Wed, 18 Sep 2013 22:35:40",
-   "video-caption" : "<p>How Shakespeare was spoken in the 1600s.</p>",
-   "format" : "html",
-   "reblog-key" : "jpCw26nF"
+   "unix-timestamp" : 1379565340,
+   "bookmarklet" : 0,
+   "video-source" : "http://youtu.be/gPlpphT7n9s"
 }
 

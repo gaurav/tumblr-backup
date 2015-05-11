@@ -1,22 +1,22 @@
 {
-   "unix-timestamp" : 1395362760,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/80214945020/my-favorite-joke-lets-see-oh-boy-oh-boy-lets",
    "feed-item" : "",
-   "format" : "html",
-   "reblog-key" : "kdcdsjKW",
-   "quote-source" : "Jeff Goldblum, <a href=\"http://www.reddit.com/r/IAmA/comments/20xynh/hi_this_is_jeff_goldblum_go_ahead_im_all_ears_ask/cg7sti9\">from a Reddit AMA</a>, March 20, 2014",
+   "url" : "http://tumblr.ggvaidya.com/post/80214945020",
    "from-feed-id" : 0,
+   "mobile" : 0,
    "slug" : "my-favorite-joke-lets-see-oh-boy-oh-boy-lets",
-   "date" : "Thu, 20 Mar 2014 18:46:00",
    "tags" : [
       "jeff goldblum"
    ],
-   "quote-text" : "My favorite joke, let&rsquo;s seeâ¦ Oh boy oh boy, let&rsquo;s see. My own idiocy.",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/80214945020/my-favorite-joke-lets-see-oh-boy-oh-boy-lets",
    "id" : "80214945020",
-   "date-gmt" : "2014-03-21 00:46:00 GMT",
-   "url" : "http://tumblr.ggvaidya.com/post/80214945020",
+   "unix-timestamp" : 1395362760,
    "bookmarklet" : 0,
+   "format" : "html",
+   "quote-source" : "Jeff Goldblum, <a href=\"http://www.reddit.com/r/IAmA/comments/20xynh/hi_this_is_jeff_goldblum_go_ahead_im_all_ears_ask/cg7sti9\">from a Reddit AMA</a>, March 20, 2014",
+   "quote-text" : "My favorite joke, let&rsquo;s seeâ¦ Oh boy oh boy, let&rsquo;s see. My own idiocy.",
+   "date-gmt" : "2014-03-21 00:46:00 GMT",
    "type" : "quote",
-   "mobile" : 0
+   "date" : "Thu, 20 Mar 2014 18:46:00",
+   "reblog-key" : "kdcdsjKW"
 }
 

@@ -1,19 +1,19 @@
 {
-   "answer" : "<p>Thank you &ndash; both for the wish, and *especially* for making my time on Tumblr so interesting, enlightening and diverting. Have a great year yourself! :-D</p>",
-   "from-feed-id" : 0,
-   "slug" : "happy-birthday",
-   "date" : "Thu, 28 Feb 2013 14:01:45",
-   "question" : "Happy birthday!",
-   "format" : "html",
-   "reblog-key" : "VZmzOrOk",
-   "feed-item" : "",
-   "unix-timestamp" : 1362085305,
    "mobile" : 0,
+   "feed-item" : "",
    "url" : "http://tumblr.ggvaidya.com/post/44238645059",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/44238645059/happy-birthday",
+   "from-feed-id" : 0,
    "bookmarklet" : 0,
-   "type" : "answer",
+   "slug" : "happy-birthday",
+   "unix-timestamp" : 1362085305,
    "id" : "44238645059",
    "date-gmt" : "2013-02-28 21:01:45 GMT",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/44238645059/happy-birthday"
+   "answer" : "<p>Thank you &ndash; both for the wish, and *especially* for making my time on Tumblr so interesting, enlightening and diverting. Have a great year yourself! :-D</p>",
+   "format" : "html",
+   "reblog-key" : "VZmzOrOk",
+   "date" : "Thu, 28 Feb 2013 14:01:45",
+   "type" : "answer",
+   "question" : "Happy birthday!"
 }
 

@@ -1,23 +1,23 @@
 {
-   "quote-source" : "<p>Some <a href=\"https://github.com/robrix/Postmodern-Programming/blob/master/Postmodern%20Programming.md\">articles</a> are infinitely quotable.</p>\n<p>Iâl have to try real hard not to flood you with one-liners from this one.</p>\n<p>(via <a class=\"tumblr_blog\" href=\"http://slashnull.tumblr.com/\">slashnull</a>)</p>",
-   "slug" : "its-famously-said-that-there-are-only-two-hard",
-   "from-feed-id" : 0,
-   "date" : "Wed, 30 Oct 2013 16:38:15",
-   "format" : "html",
-   "reblog-key" : "Zk8KNilD",
-   "feed-item" : "",
-   "unix-timestamp" : 1383172695,
-   "mobile" : 0,
    "url" : "http://tumblr.ggvaidya.com/post/65559207478",
-   "bookmarklet" : 0,
-   "type" : "quote",
-   "id" : "65559207478",
-   "date-gmt" : "2013-10-30 22:38:15 GMT",
-   "quote-text" : "Itâs famously said that there are only two hard problems in computer science: cache invalidation, naming things, and off-by-one errors.",
+   "feed-item" : "",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/65559207478/its-famously-said-that-there-are-only-two-hard",
+   "from-feed-id" : 0,
+   "mobile" : 0,
+   "unix-timestamp" : 1383172695,
    "tags" : [
       "hee hee",
       "programmer jokes"
    ],
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/65559207478/its-famously-said-that-there-are-only-two-hard"
+   "slug" : "its-famously-said-that-there-are-only-two-hard",
+   "id" : "65559207478",
+   "bookmarklet" : 0,
+   "format" : "html",
+   "quote-text" : "Itâs famously said that there are only two hard problems in computer science: cache invalidation, naming things, and off-by-one errors.",
+   "quote-source" : "<p>Some <a href=\"https://github.com/robrix/Postmodern-Programming/blob/master/Postmodern%20Programming.md\">articles</a> are infinitely quotable.</p>\n<p>Iâl have to try real hard not to flood you with one-liners from this one.</p>\n<p>(via <a class=\"tumblr_blog\" href=\"http://slashnull.tumblr.com/\">slashnull</a>)</p>",
+   "date-gmt" : "2013-10-30 22:38:15 GMT",
+   "type" : "quote",
+   "reblog-key" : "Zk8KNilD",
+   "date" : "Wed, 30 Oct 2013 16:38:15"
 }
 

@@ -1,24 +1,24 @@
 {
-   "url" : "http://tumblr.ggvaidya.com/post/73122438449",
-   "bookmarklet" : 0,
-   "type" : "regular",
    "mobile" : 0,
+   "feed-item" : "",
+   "url" : "http://tumblr.ggvaidya.com/post/73122438449",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/73122438449/i-spent-two-years-trying-to-find-out-how-sunlight",
+   "from-feed-id" : 0,
+   "regular-body" : "<p><a href=\"http://lolmythesis.com/post/73103509406/i-spent-two-years-trying-to-find-out-how-sunlight\" class=\"tumblr_blog\">lolmythesis</a>:</p>\n\n<blockquote><p>Sustainability, Arizona State University.</p>\n<p><em>&lsquo;Nutrient dynamics of photodegradation forÂ Ambrosia deltoidea litter in an arid, urban ecosystem&rsquo;</em></p></blockquote>",
+   "bookmarklet" : 0,
+   "slug" : "i-spent-two-years-trying-to-find-out-how-sunlight",
    "tags" : [
       "eeks",
       "phd",
       "graduate school"
    ],
-   "regular-body" : "<p><a href=\"http://lolmythesis.com/post/73103509406/i-spent-two-years-trying-to-find-out-how-sunlight\" class=\"tumblr_blog\">lolmythesis</a>:</p>\n\n<blockquote><p>Sustainability, Arizona State University.</p>\n<p><em>&lsquo;Nutrient dynamics of photodegradation forÂ Ambrosia deltoidea litter in an arid, urban ecosystem&rsquo;</em></p></blockquote>",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/73122438449/i-spent-two-years-trying-to-find-out-how-sunlight",
    "id" : "73122438449",
-   "date-gmt" : "2014-01-12 20:17:12 GMT",
-   "reblog-key" : "bmogWpES",
-   "format" : "html",
-   "from-feed-id" : 0,
-   "slug" : "i-spent-two-years-trying-to-find-out-how-sunlight",
-   "date" : "Sun, 12 Jan 2014 13:17:12",
-   "regular-title" : "I spent two years trying to find out how sunlight affects nutrients in a plant; it doesn't.",
    "unix-timestamp" : 1389557832,
-   "feed-item" : ""
+   "date-gmt" : "2014-01-12 20:17:12 GMT",
+   "format" : "html",
+   "regular-title" : "I spent two years trying to find out how sunlight affects nutrients in a plant; it doesn't.",
+   "reblog-key" : "bmogWpES",
+   "date" : "Sun, 12 Jan 2014 13:17:12",
+   "type" : "regular"
 }
 

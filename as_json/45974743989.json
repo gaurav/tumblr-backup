@@ -1,29 +1,21 @@
 {
-   "bookmarklet" : 0,
-   "type" : "conversation",
-   "url" : "http://tumblr.ggvaidya.com/post/45974743989",
-   "mobile" : 0,
-   "conversation-text" : "Child me: WOW WHEN IM A TEENAGER IM GONNA GO OUT WITH MY FRIENDS TO THE MALL AND PARTY AND DATE HOT PEOPLE AND BE POPULAR AND COOL\r\nTeenage me: *hisses at sunlight*\r\nTeenage me: When I'm an adult I'm going to be so mature and be self-sufficient and do what I want!\r\nAdult me: *eats ice cream out of the tub and watches children's cartoons*",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/45974743989/child-me-wow-when-im-a-teenager-im-gonna-go-out",
-   "tags" : [
-      "gpom"
-   ],
    "date-gmt" : "2013-03-22 05:42:34 GMT",
-   "id" : "45974743989",
+   "conversation-title" : null,
    "format" : "html",
+   "conversation-text" : "Child me: WOW WHEN IM A TEENAGER IM GONNA GO OUT WITH MY FRIENDS TO THE MALL AND PARTY AND DATE HOT PEOPLE AND BE POPULAR AND COOL\r\nTeenage me: *hisses at sunlight*\r\nTeenage me: When I'm an adult I'm going to be so mature and be self-sufficient and do what I want!\r\nAdult me: *eats ice cream out of the tub and watches children's cartoons*",
    "reblog-key" : "lNp00D8v",
    "date" : "Thu, 21 Mar 2013 23:42:34",
-   "slug" : "child-me-wow-when-im-a-teenager-im-gonna-go-out",
+   "type" : "conversation",
    "conversation" : [
       {
+         "label" : "Child me:",
          "name" : "Child me",
-         "phrase" : "WOW WHEN IM A TEENAGER IM GONNA GO OUT WITH MY FRIENDS TO THE MALL AND PARTY AND DATE HOT PEOPLE AND BE POPULAR AND COOL\r",
-         "label" : "Child me:"
+         "phrase" : "WOW WHEN IM A TEENAGER IM GONNA GO OUT WITH MY FRIENDS TO THE MALL AND PARTY AND DATE HOT PEOPLE AND BE POPULAR AND COOL\r"
       },
       {
+         "name" : "Teenage me",
          "phrase" : "*hisses at sunlight*\r",
-         "label" : "Teenage me:",
-         "name" : "Teenage me"
+         "label" : "Teenage me:"
       },
       {
          "name" : "Teenage me",
@@ -31,14 +23,22 @@
          "label" : "Teenage me:"
       },
       {
-         "phrase" : "*eats ice cream out of the tub and watches children's cartoons*",
          "label" : "Adult me:",
+         "phrase" : "*eats ice cream out of the tub and watches children's cartoons*",
          "name" : "Adult me"
       }
    ],
+   "mobile" : 0,
    "from-feed-id" : 0,
-   "conversation-title" : null,
-   "unix-timestamp" : 1363930954,
-   "feed-item" : ""
+   "url" : "http://tumblr.ggvaidya.com/post/45974743989",
+   "feed-item" : "",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/45974743989/child-me-wow-when-im-a-teenager-im-gonna-go-out",
+   "bookmarklet" : 0,
+   "tags" : [
+      "gpom"
+   ],
+   "id" : "45974743989",
+   "slug" : "child-me-wow-when-im-a-teenager-im-gonna-go-out",
+   "unix-timestamp" : 1363930954
 }
 

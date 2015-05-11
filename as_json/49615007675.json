@@ -1,27 +1,27 @@
 {
-   "video-caption" : "<p>The Official Song of Third Semester Exam Week.</p>",
-   "reblog-key" : "YsG5I1ro",
-   "format" : "html",
-   "from-feed-id" : 0,
-   "video-player-500" : "<iframe width=\"500\" height=\"374\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/5uPudfm3vD0?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "slug" : "the-official-song-of-third-semester-exam-week",
-   "date" : "Sat, 04 May 2013 13:25:51",
-   "unix-timestamp" : 1367695551,
+   "mobile" : 0,
+   "video-player" : "<iframe width=\"400\" height=\"299\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/5uPudfm3vD0?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
    "feed-item" : "",
    "url" : "http://tumblr.ggvaidya.com/post/49615007675",
-   "bookmarklet" : 0,
-   "type" : "video",
-   "video-player" : "<iframe width=\"400\" height=\"299\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/5uPudfm3vD0?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "mobile" : 0,
+   "video-player-500" : "<iframe width=\"500\" height=\"374\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/5uPudfm3vD0?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/49615007675/the-official-song-of-third-semester-exam-week",
+   "from-feed-id" : 0,
    "video-source" : "http://www.youtube.com/watch?feature=player_embedded&v=5uPudfm3vD0#!",
+   "bookmarklet" : 0,
+   "video-player-250" : "<iframe width=\"250\" height=\"187\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/5uPudfm3vD0?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "unix-timestamp" : 1367695551,
    "tags" : [
       "i like giants",
       "kimya dawson",
       "music"
    ],
-   "video-player-250" : "<iframe width=\"250\" height=\"187\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/5uPudfm3vD0?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/49615007675/the-official-song-of-third-semester-exam-week",
+   "slug" : "the-official-song-of-third-semester-exam-week",
    "id" : "49615007675",
-   "date-gmt" : "2013-05-04 19:25:51 GMT"
+   "date-gmt" : "2013-05-04 19:25:51 GMT",
+   "format" : "html",
+   "reblog-key" : "YsG5I1ro",
+   "date" : "Sat, 04 May 2013 13:25:51",
+   "video-caption" : "<p>The Official Song of Third Semester Exam Week.</p>",
+   "type" : "video"
 }
 

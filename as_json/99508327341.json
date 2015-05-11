@@ -1,25 +1,25 @@
 {
    "bookmarklet" : 0,
-   "type" : "quote",
-   "url" : "http://tumblr.ggvaidya.com/post/99508327341",
-   "mobile" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/99508327341/do-i-contradict-myself-very-well-then-i",
-   "quote-text" : "Do I contradict myself?<br/>\nVery well then I contradict myself,<br/>\nI am large, I contain multitudes.",
+   "unix-timestamp" : 1412799616,
    "tags" : [
       "and eels",
       "multitudes",
       "Walt Whitman",
       "poetry"
    ],
-   "date-gmt" : "2014-10-08 20:20:16 GMT",
-   "id" : "99508327341",
-   "reblog-key" : "xdnkpuM5",
-   "format" : "html",
-   "date" : "Wed, 08 Oct 2014 14:20:16",
-   "quote-source" : "Walt Whitman (via <a class=\"tumblr_blog\" href=\"http://theimperfectideal.tumblr.com/\">theimperfectideal</a>)",
    "slug" : "do-i-contradict-myself-very-well-then-i",
+   "id" : "99508327341",
+   "mobile" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/99508327341/do-i-contradict-myself-very-well-then-i",
+   "feed-item" : "",
+   "url" : "http://tumblr.ggvaidya.com/post/99508327341",
    "from-feed-id" : 0,
-   "unix-timestamp" : 1412799616,
-   "feed-item" : ""
+   "date" : "Wed, 08 Oct 2014 14:20:16",
+   "reblog-key" : "xdnkpuM5",
+   "type" : "quote",
+   "quote-source" : "Walt Whitman (via <a class=\"tumblr_blog\" href=\"http://theimperfectideal.tumblr.com/\">theimperfectideal</a>)",
+   "quote-text" : "Do I contradict myself?<br/>\nVery well then I contradict myself,<br/>\nI am large, I contain multitudes.",
+   "date-gmt" : "2014-10-08 20:20:16 GMT",
+   "format" : "html"
 }
 

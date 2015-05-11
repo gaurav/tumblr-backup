@@ -1,24 +1,24 @@
 {
-   "unix-timestamp" : 1403832446,
-   "feed-item" : "",
    "format" : "html",
-   "reblog-key" : "1X02a3Zx",
-   "date" : "Thu, 26 Jun 2014 19:27:26",
-   "slug" : "at-the-beginning-of-the-portal-development",
    "quote-source" : "Erik Wolpaw, writer of <em>Portal</em>. (via <a class=\"tumblr_blog\" href=\"http://elucipher.tumblr.com/\">elucipher</a>)",
-   "from-feed-id" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/90015373044/at-the-beginning-of-the-portal-development",
    "quote-text" : "At the beginning of the Portal development process, we sat down as a group to decide what philosopher or school of philosophy our game would be based on. That was followed by about 15 minutes of silence, and then someone mentioned that a lot of people like cake.",
+   "date-gmt" : "2014-06-27 01:27:26 GMT",
+   "type" : "quote",
+   "date" : "Thu, 26 Jun 2014 19:27:26",
+   "reblog-key" : "1X02a3Zx",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/90015373044/at-the-beginning-of-the-portal-development",
+   "feed-item" : "",
+   "url" : "http://tumblr.ggvaidya.com/post/90015373044",
+   "from-feed-id" : 0,
+   "mobile" : 0,
+   "slug" : "at-the-beginning-of-the-portal-development",
    "tags" : [
       "and so greatness was born",
       "portal",
       "cake"
    ],
-   "date-gmt" : "2014-06-27 01:27:26 GMT",
    "id" : "90015373044",
-   "type" : "quote",
-   "bookmarklet" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/90015373044",
-   "mobile" : 0
+   "unix-timestamp" : 1403832446,
+   "bookmarklet" : 0
 }
 

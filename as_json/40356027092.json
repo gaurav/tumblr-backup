@@ -1,22 +1,22 @@
 {
-   "feed-item" : "",
-   "unix-timestamp" : 1358018429,
-   "slug" : "a-friend-mentions-that-any-random-wodehouse-is-his",
+   "format" : "html",
+   "date-gmt" : "2013-01-12 19:20:29 GMT",
    "quote-source" : "Ed Park, <em><a href=\"http://www.bookforum.com/inprint/019_04/10595\">Rated P. G.</a></em>, Book Forum, Dec/Jan 2013.",
-   "from-feed-id" : 0,
+   "quote-text" : "A friend mentions that any random Wodehouse is his go-to subway reading &ndash; perfect for dipping into, no emotional commitment, it doesn&rsquo;t matter if you don&rsquo;t finish it. Indeed, you might have already finished it: The remarkable consistency and volume of his output means you can be pretty far into something before it dawns on you that you&rsquo;ve read it before. Even his titles are designed to blur the lines. [..] This is in fact a virtue of Wodehouseâs work, although as we learn in a new collection of his letters, the author was sensitive to accusations that he was continually raking over the same fictional ground. In 1932, Wodehouse grumbled about a review by J. B. Priestley, who &ldquo;called attention to the thing I try to hush up, &ndash; viz., that I have only got one plot and produce it once a year with variations.&rdquo;",
+   "type" : "quote",
    "date" : "Sat, 12 Jan 2013 12:20:29",
    "reblog-key" : "uQ80Jlhe",
-   "format" : "html",
-   "id" : "40356027092",
-   "date-gmt" : "2013-01-12 19:20:29 GMT",
+   "from-feed-id" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/40356027092/a-friend-mentions-that-any-random-wodehouse-is-his",
+   "url" : "http://tumblr.ggvaidya.com/post/40356027092",
+   "feed-item" : "",
+   "mobile" : 0,
    "tags" : [
       "P. G. Wodehouse"
    ],
-   "quote-text" : "A friend mentions that any random Wodehouse is his go-to subway reading &ndash; perfect for dipping into, no emotional commitment, it doesn&rsquo;t matter if you don&rsquo;t finish it. Indeed, you might have already finished it: The remarkable consistency and volume of his output means you can be pretty far into something before it dawns on you that you&rsquo;ve read it before. Even his titles are designed to blur the lines. [..] This is in fact a virtue of Wodehouseâs work, although as we learn in a new collection of his letters, the author was sensitive to accusations that he was continually raking over the same fictional ground. In 1932, Wodehouse grumbled about a review by J. B. Priestley, who &ldquo;called attention to the thing I try to hush up, &ndash; viz., that I have only got one plot and produce it once a year with variations.&rdquo;",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/40356027092/a-friend-mentions-that-any-random-wodehouse-is-his",
-   "mobile" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/40356027092",
-   "bookmarklet" : 0,
-   "type" : "quote"
+   "id" : "40356027092",
+   "slug" : "a-friend-mentions-that-any-random-wodehouse-is-his",
+   "unix-timestamp" : 1358018429,
+   "bookmarklet" : 0
 }
 

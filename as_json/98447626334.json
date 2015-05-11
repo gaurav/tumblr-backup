@@ -1,22 +1,22 @@
 {
-   "unix-timestamp" : 1411707358,
-   "feed-item" : "",
-   "reblog-key" : "dn3WtMiN",
    "format" : "html",
-   "date" : "Thu, 25 Sep 2014 22:55:58",
    "quote-source" : "Charles BukowskiÂ  (via <a class=\"tumblr_blog\" href=\"http://forlornes.tumblr.com/\">forlornes</a>)",
-   "slug" : "i-want-to-be-with-you-it-is-as-simple-and-as",
-   "from-feed-id" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/98447626334/i-want-to-be-with-you-it-is-as-simple-and-as",
    "quote-text" : "I want to be with you, <br/>\nit is as simple, <br/>\nand as complicated as that.",
+   "date-gmt" : "2014-09-26 04:55:58 GMT",
+   "type" : "quote",
+   "date" : "Thu, 25 Sep 2014 22:55:58",
+   "reblog-key" : "dn3WtMiN",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/98447626334/i-want-to-be-with-you-it-is-as-simple-and-as",
+   "url" : "http://tumblr.ggvaidya.com/post/98447626334",
+   "feed-item" : "",
+   "from-feed-id" : 0,
+   "mobile" : 0,
    "tags" : [
       "relationships"
    ],
-   "date-gmt" : "2014-09-26 04:55:58 GMT",
+   "slug" : "i-want-to-be-with-you-it-is-as-simple-and-as",
    "id" : "98447626334",
-   "type" : "quote",
-   "bookmarklet" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/98447626334",
-   "mobile" : 0
+   "unix-timestamp" : 1411707358,
+   "bookmarklet" : 0
 }
 

@@ -1,24 +1,24 @@
 {
-   "unix-timestamp" : 1414442417,
-   "feed-item" : "",
+   "type" : "regular",
+   "date" : "Mon, 27 Oct 2014 14:40:17",
    "reblog-key" : "As2sW0qT",
    "format" : "html",
    "regular-title" : "things to remember",
-   "date" : "Mon, 27 Oct 2014 14:40:17",
+   "date-gmt" : "2014-10-27 20:40:17 GMT",
    "slug" : "things-to-remember",
-   "from-feed-id" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/101111731661/things-to-remember",
    "tags" : [
       "truth",
       "people",
       "sadness"
    ],
-   "regular-body" : "<blockquote>\n<ul><li>donât be angry at yourself when anxiety/depression flares up. it isnât your fault and no one blames you and if they do theyâre pieces of shit.</li>\n<li>donât orbit around your perceived value so much. youâre not the sum total of what you produce.</li>\n<li>donât let yourself wonder why people love you. thatâs not how it works. there are not stark, individual reasons that a person can enumerate about why they love you. itâs the entire, unique combination of what and who you are.</li>\n</ul></blockquote>",
-   "date-gmt" : "2014-10-27 20:40:17 GMT",
    "id" : "101111731661",
-   "type" : "regular",
+   "unix-timestamp" : 1414442417,
+   "regular-body" : "<blockquote>\n<ul><li>donât be angry at yourself when anxiety/depression flares up. it isnât your fault and no one blames you and if they do theyâre pieces of shit.</li>\n<li>donât orbit around your perceived value so much. youâre not the sum total of what you produce.</li>\n<li>donât let yourself wonder why people love you. thatâs not how it works. there are not stark, individual reasons that a person can enumerate about why they love you. itâs the entire, unique combination of what and who you are.</li>\n</ul></blockquote>",
    "bookmarklet" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/101111731661/things-to-remember",
    "url" : "http://tumblr.ggvaidya.com/post/101111731661",
+   "feed-item" : "",
+   "from-feed-id" : 0,
    "mobile" : 0
 }
 

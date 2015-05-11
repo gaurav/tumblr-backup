@@ -1,26 +1,26 @@
 {
-   "mobile" : 0,
-   "video-source" : "http://www.youtube.com/watch?v=UxLe8MWdWe0",
+   "video-caption" : "<p>George C. Scott, you are ten types of awesome.</p>",
    "type" : "video",
-   "video-player" : "<iframe width=\"400\" height=\"299\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/UxLe8MWdWe0?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "bookmarklet" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/21138428481",
+   "reblog-key" : "iSPG4nY2",
+   "date" : "Sun, 15 Apr 2012 03:23:24",
+   "format" : "html",
    "date-gmt" : "2012-04-15 09:23:24 GMT",
-   "id" : "21138428481",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/21138428481/george-c-scott-you-are-ten-types-of-awesome",
    "video-player-250" : "<iframe width=\"250\" height=\"187\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/UxLe8MWdWe0?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "slug" : "george-c-scott-you-are-ten-types-of-awesome",
    "tags" : [
       "strangelove",
       "video"
    ],
-   "date" : "Sun, 15 Apr 2012 03:23:24",
-   "from-feed-id" : 0,
-   "video-player-500" : "<iframe width=\"500\" height=\"374\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/UxLe8MWdWe0?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "slug" : "george-c-scott-you-are-ten-types-of-awesome",
-   "reblog-key" : "iSPG4nY2",
-   "format" : "html",
-   "video-caption" : "<p>George C. Scott, you are ten types of awesome.</p>",
+   "unix-timestamp" : 1334481804,
+   "id" : "21138428481",
+   "video-source" : "http://www.youtube.com/watch?v=UxLe8MWdWe0",
+   "bookmarklet" : 0,
    "feed-item" : "",
-   "unix-timestamp" : 1334481804
+   "url" : "http://tumblr.ggvaidya.com/post/21138428481",
+   "video-player-500" : "<iframe width=\"500\" height=\"374\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/UxLe8MWdWe0?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/21138428481/george-c-scott-you-are-ten-types-of-awesome",
+   "from-feed-id" : 0,
+   "mobile" : 0,
+   "video-player" : "<iframe width=\"400\" height=\"299\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/UxLe8MWdWe0?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>"
 }
 

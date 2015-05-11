@@ -1,23 +1,23 @@
 {
-   "reblog-key" : "EROSy1ac",
-   "format" : "html",
-   "slug" : "correlation-doesnt-imply-causation-but-it-does",
-   "quote-source" : "<p><a href=\"http://xkcd.com/552/\">xkcd</a></p>\n<p><img alt=\"Correlation\" src=\"http://imgs.xkcd.com/comics/correlation.png\" title=\"Correlation doesn't imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing 'look over there'.\"/></p> (via <a href=\"http://wallmakers.tumblr.com/\" class=\"tumblr_blog\">wallmakers</a>)",
-   "from-feed-id" : 0,
-   "date" : "Thu, 11 Dec 2014 14:20:05",
-   "unix-timestamp" : 1418332805,
-   "feed-item" : "",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/104950886905/correlation-doesnt-imply-causation-but-it-does",
    "url" : "http://tumblr.ggvaidya.com/post/104950886905",
-   "bookmarklet" : 0,
-   "type" : "quote",
+   "feed-item" : "",
+   "from-feed-id" : 0,
    "mobile" : 0,
+   "slug" : "correlation-doesnt-imply-causation-but-it-does",
    "tags" : [
       "xkcd",
       "correlation"
    ],
-   "quote-text" : "Correlation doesnât imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing `look over thereÂ´.",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/104950886905/correlation-doesnt-imply-causation-but-it-does",
+   "unix-timestamp" : 1418332805,
    "id" : "104950886905",
-   "date-gmt" : "2014-12-11 21:20:05 GMT"
+   "bookmarklet" : 0,
+   "format" : "html",
+   "quote-source" : "<p><a href=\"http://xkcd.com/552/\">xkcd</a></p>\n<p><img alt=\"Correlation\" src=\"http://imgs.xkcd.com/comics/correlation.png\" title=\"Correlation doesn't imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing 'look over there'.\"/></p> (via <a href=\"http://wallmakers.tumblr.com/\" class=\"tumblr_blog\">wallmakers</a>)",
+   "quote-text" : "Correlation doesnât imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing `look over thereÂ´.",
+   "date-gmt" : "2014-12-11 21:20:05 GMT",
+   "type" : "quote",
+   "date" : "Thu, 11 Dec 2014 14:20:05",
+   "reblog-key" : "EROSy1ac"
 }
 

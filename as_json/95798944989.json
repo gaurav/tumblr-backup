@@ -1,11 +1,23 @@
 {
+   "conversation-text" : "Estragon: That wasn't such a bad little canter. \r\nVladimir: Yes, but now we'll have to find something else.",
    "date" : "Mon, 25 Aug 2014 22:42:00",
-   "from-feed-id" : 0,
+   "reblog-key" : "ga6Ky4k7",
+   "type" : "conversation",
+   "date-gmt" : "2014-08-26 04:42:00 GMT",
+   "format" : "html",
+   "conversation-title" : "A bad little canter",
+   "bookmarklet" : 0,
+   "tags" : [
+      "waiting for godot"
+   ],
+   "slug" : "a-bad-little-canter",
+   "unix-timestamp" : 1409028120,
+   "id" : "95798944989",
    "conversation" : [
       {
-         "label" : "Estragon:",
          "phrase" : "That wasn't such a bad little canter. \r",
-         "name" : "Estragon"
+         "name" : "Estragon",
+         "label" : "Estragon:"
       },
       {
          "name" : "Vladimir",
@@ -13,22 +25,10 @@
          "label" : "Vladimir:"
       }
    ],
-   "slug" : "a-bad-little-canter",
-   "reblog-key" : "ga6Ky4k7",
-   "format" : "html",
-   "feed-item" : "",
-   "conversation-title" : "A bad little canter",
-   "unix-timestamp" : 1409028120,
    "mobile" : 0,
-   "conversation-text" : "Estragon: That wasn't such a bad little canter. \r\nVladimir: Yes, but now we'll have to find something else.",
-   "bookmarklet" : 0,
-   "type" : "conversation",
-   "url" : "http://tumblr.ggvaidya.com/post/95798944989",
-   "date-gmt" : "2014-08-26 04:42:00 GMT",
-   "id" : "95798944989",
+   "from-feed-id" : 0,
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/95798944989/a-bad-little-canter",
-   "tags" : [
-      "waiting for godot"
-   ]
+   "feed-item" : "",
+   "url" : "http://tumblr.ggvaidya.com/post/95798944989"
 }
 

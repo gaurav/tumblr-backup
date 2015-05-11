@@ -1,36 +1,36 @@
 {
-   "type" : "conversation",
-   "bookmarklet" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/40270627465",
-   "mobile" : 0,
-   "conversation-text" : "Interview: Be honest... did you steal a Tribble once the shoot wrapped? \r\nNichelle Nichols: I didn't wait until the end. I got mine the first day!\r\nWalter Koenig: I didn't steal a Tribble. I did, however, have several of them burned in what can only be described as a heretical cult ceremony.",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/40270627465/interview-be-honest-did-you-steal-a-tribble",
-   "date-gmt" : "2013-01-11 19:40:27 GMT",
+   "slug" : "interview-be-honest-did-you-steal-a-tribble",
    "id" : "40270627465",
-   "reblog-key" : "OxdCbhcO",
-   "format" : "html",
-   "date" : "Fri, 11 Jan 2013 12:40:27",
+   "unix-timestamp" : 1357933227,
+   "bookmarklet" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/40270627465/interview-be-honest-did-you-steal-a-tribble",
+   "feed-item" : "",
+   "url" : "http://tumblr.ggvaidya.com/post/40270627465",
+   "from-feed-id" : 0,
+   "mobile" : 0,
    "conversation" : [
       {
-         "name" : "Interview",
          "label" : "Interview:",
+         "name" : "Interview",
          "phrase" : "Be honest... did you steal a Tribble once the shoot wrapped? \r"
       },
       {
-         "phrase" : "I didn't wait until the end. I got mine the first day!\r",
          "label" : "Nichelle Nichols:",
-         "name" : "Nichelle Nichols"
+         "name" : "Nichelle Nichols",
+         "phrase" : "I didn't wait until the end. I got mine the first day!\r"
       },
       {
+         "label" : "Walter Koenig:",
          "name" : "Walter Koenig",
-         "phrase" : "I didn't steal a Tribble. I did, however, have several of them burned in what can only be described as a heretical cult ceremony.",
-         "label" : "Walter Koenig:"
+         "phrase" : "I didn't steal a Tribble. I did, however, have several of them burned in what can only be described as a heretical cult ceremony."
       }
    ],
-   "from-feed-id" : 0,
-   "slug" : "interview-be-honest-did-you-steal-a-tribble",
-   "unix-timestamp" : 1357933227,
+   "type" : "conversation",
+   "date" : "Fri, 11 Jan 2013 12:40:27",
+   "reblog-key" : "OxdCbhcO",
+   "conversation-text" : "Interview: Be honest... did you steal a Tribble once the shoot wrapped? \r\nNichelle Nichols: I didn't wait until the end. I got mine the first day!\r\nWalter Koenig: I didn't steal a Tribble. I did, however, have several of them burned in what can only be described as a heretical cult ceremony.",
+   "format" : "html",
    "conversation-title" : null,
-   "feed-item" : ""
+   "date-gmt" : "2013-01-11 19:40:27 GMT"
 }
 

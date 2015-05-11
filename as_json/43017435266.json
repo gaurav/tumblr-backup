@@ -1,22 +1,22 @@
 {
-   "mobile" : 0,
-   "type" : "quote",
-   "bookmarklet" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/43017435266",
-   "date-gmt" : "2013-02-13 19:40:28 GMT",
-   "id" : "43017435266",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/43017435266/case-in-point-recently-i-encountered-some-test",
    "tags" : [
       "testing"
    ],
-   "quote-text" : "<p>Case in point: recently I encountered some test output like this:</p>\n\n<blockquote><code>\nok 1 - redirect<br/>\nok 2 - transparent gif<br/>\nok 3 - cookies ok<br/>\nok 4 - log data\n</code></blockquote>\n\n<p>Can you tell what that means? Me neither. In fact, this code was a bit confusing and in the process of understanding it, I wound up rewriting the test messages similar to this:</p>\n\n<blockquote><code>\nok 1 - If no cookies are found, we should redirect the user<br/>\nok 2 - ... to a transparent gif<br/>\nok 3 - ... and the cookie should have a value of 0<br/>\nok 4 - ... and the log should have default values and be marked as not valid\n</code></blockquote>\n\n<p>Which of those would you rather read as a maintenance programmer?</p>",
-   "date" : "Wed, 13 Feb 2013 12:40:28",
-   "from-feed-id" : 0,
-   "quote-source" : "Ovid, <em><a href=\"http://blogs.perl.org/users/ovid/2013/01/how-to-write-a-test-description.html\">How to write a test description</a></em>, blogs.perl.org, January 5, 2013.",
+   "unix-timestamp" : 1360784428,
    "slug" : "case-in-point-recently-i-encountered-some-test",
-   "reblog-key" : "H8h42JJN",
-   "format" : "html",
+   "id" : "43017435266",
+   "bookmarklet" : 0,
    "feed-item" : "",
-   "unix-timestamp" : 1360784428
+   "url" : "http://tumblr.ggvaidya.com/post/43017435266",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/43017435266/case-in-point-recently-i-encountered-some-test",
+   "from-feed-id" : 0,
+   "mobile" : 0,
+   "type" : "quote",
+   "reblog-key" : "H8h42JJN",
+   "date" : "Wed, 13 Feb 2013 12:40:28",
+   "format" : "html",
+   "quote-text" : "<p>Case in point: recently I encountered some test output like this:</p>\n\n<blockquote><code>\nok 1 - redirect<br/>\nok 2 - transparent gif<br/>\nok 3 - cookies ok<br/>\nok 4 - log data\n</code></blockquote>\n\n<p>Can you tell what that means? Me neither. In fact, this code was a bit confusing and in the process of understanding it, I wound up rewriting the test messages similar to this:</p>\n\n<blockquote><code>\nok 1 - If no cookies are found, we should redirect the user<br/>\nok 2 - ... to a transparent gif<br/>\nok 3 - ... and the cookie should have a value of 0<br/>\nok 4 - ... and the log should have default values and be marked as not valid\n</code></blockquote>\n\n<p>Which of those would you rather read as a maintenance programmer?</p>",
+   "quote-source" : "Ovid, <em><a href=\"http://blogs.perl.org/users/ovid/2013/01/how-to-write-a-test-description.html\">How to write a test description</a></em>, blogs.perl.org, January 5, 2013.",
+   "date-gmt" : "2013-02-13 19:40:28 GMT"
 }
 

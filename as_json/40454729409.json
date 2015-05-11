@@ -1,22 +1,22 @@
 {
-   "feed-item" : "",
-   "unix-timestamp" : 1358109600,
    "date" : "Sun, 13 Jan 2013 13:40:00",
-   "quote-source" : "A colleague",
-   "from-feed-id" : 0,
-   "slug" : "pretending-as-i-like-to-say-to-my-students-is",
    "reblog-key" : "bsuYRNRe",
-   "format" : "html",
+   "type" : "quote",
+   "quote-source" : "A colleague",
+   "quote-text" : "pretending, as I like to say to my students, is half way to actually doing it",
    "date-gmt" : "2013-01-13 20:40:00 GMT",
-   "id" : "40454729409",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/40454729409/pretending-as-i-like-to-say-to-my-students-is",
+   "format" : "html",
+   "bookmarklet" : 0,
    "tags" : [
       "advice"
    ],
-   "quote-text" : "pretending, as I like to say to my students, is half way to actually doing it",
+   "slug" : "pretending-as-i-like-to-say-to-my-students-is",
+   "id" : "40454729409",
+   "unix-timestamp" : 1358109600,
    "mobile" : 0,
-   "bookmarklet" : 0,
-   "type" : "quote",
-   "url" : "http://tumblr.ggvaidya.com/post/40454729409"
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/40454729409/pretending-as-i-like-to-say-to-my-students-is",
+   "url" : "http://tumblr.ggvaidya.com/post/40454729409",
+   "feed-item" : "",
+   "from-feed-id" : 0
 }
 

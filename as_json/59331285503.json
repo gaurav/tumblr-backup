@@ -1,25 +1,25 @@
 {
-   "reblog-key" : "QKUWyBCi",
-   "format" : "html",
-   "from-feed-id" : 0,
+   "date-gmt" : "2013-08-25 20:56:32 GMT",
+   "quote-text" : "<p>Full of strength and laced<br/>\nwith fragility:</p>\n\n<p>the thoroughbred,<br/>\nthe hummingbird,<br/>\nand all things<br/>\ncursed<br/>\nwith agility.</p>",
    "quote-source" : "Wendy Videlock, <em><a href=\"http://www.poetryfoundation.org/poetrymagazine/poem/245144\">Bane</a></em>",
-   "slug" : "full-of-strength-and-laced-with-fragility-the",
+   "format" : "html",
+   "reblog-key" : "QKUWyBCi",
    "date" : "Sun, 25 Aug 2013 14:56:32",
-   "unix-timestamp" : 1377464192,
+   "type" : "quote",
+   "mobile" : 0,
+   "from-feed-id" : 0,
    "feed-item" : "",
    "url" : "http://tumblr.ggvaidya.com/post/59331285503",
-   "type" : "quote",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/59331285503/full-of-strength-and-laced-with-fragility-the",
    "bookmarklet" : 0,
-   "mobile" : 0,
-   "quote-text" : "<p>Full of strength and laced<br/>\nwith fragility:</p>\n\n<p>the thoroughbred,<br/>\nthe hummingbird,<br/>\nand all things<br/>\ncursed<br/>\nwith agility.</p>",
    "tags" : [
       "Poetry Foundation",
       "Poetry Magazine",
       "Wendy Videlock",
       "poetry"
    ],
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/59331285503/full-of-strength-and-laced-with-fragility-the",
-   "id" : "59331285503",
-   "date-gmt" : "2013-08-25 20:56:32 GMT"
+   "slug" : "full-of-strength-and-laced-with-fragility-the",
+   "unix-timestamp" : 1377464192,
+   "id" : "59331285503"
 }
 

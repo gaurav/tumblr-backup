@@ -1,23 +1,23 @@
 {
-   "mobile" : 0,
-   "type" : "quote",
-   "bookmarklet" : 0,
+   "from-feed-id" : 0,
+   "feed-item" : "",
    "url" : "http://tumblr.ggvaidya.com/post/89815995734",
-   "date-gmt" : "2014-06-25 01:53:27 GMT",
-   "id" : "89815995734",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/89815995734/we-must-nurture-unpredictable-relationships-we",
-   "quote-text" : "We must nurture unpredictable relationships. We must share shelter with people whose shelter we would rather not share. We must share stories with people whose stories we would rather not share.",
+   "mobile" : 0,
+   "slug" : "we-must-nurture-unpredictable-relationships-we",
    "tags" : [
       "stories",
       "writing"
    ],
-   "date" : "Tue, 24 Jun 2014 19:53:27",
-   "slug" : "we-must-nurture-unpredictable-relationships-we",
-   "quote-source" : "<p>Padraig O Tuama, <em>What Stories Do We Tell?Â </em></p>\n<p>Books can open our minds and our hearts.Â </p> (via <a href=\"http://thebookwars.tumblr.com/\" class=\"tumblr_blog\">thebookwars</a>)",
-   "from-feed-id" : 0,
-   "reblog-key" : "jhwTMkYp",
+   "id" : "89815995734",
+   "unix-timestamp" : 1403661207,
+   "bookmarklet" : 0,
    "format" : "html",
-   "feed-item" : "",
-   "unix-timestamp" : 1403661207
+   "date-gmt" : "2014-06-25 01:53:27 GMT",
+   "quote-text" : "We must nurture unpredictable relationships. We must share shelter with people whose shelter we would rather not share. We must share stories with people whose stories we would rather not share.",
+   "quote-source" : "<p>Padraig O Tuama, <em>What Stories Do We Tell?Â </em></p>\n<p>Books can open our minds and our hearts.Â </p> (via <a href=\"http://thebookwars.tumblr.com/\" class=\"tumblr_blog\">thebookwars</a>)",
+   "type" : "quote",
+   "reblog-key" : "jhwTMkYp",
+   "date" : "Tue, 24 Jun 2014 19:53:27"
 }
 
