@@ -1,25 +1,25 @@
 {
-   "date-gmt" : "2013-12-05 03:19:45 GMT",
-   "link-url" : "http://filer.case.edu/eam74/gameoflife.html",
-   "link-description" : "<p><a href=\"http://d2hycmdhcmjs.tumblr.com/post/69030985982/conways-game-of-life\" class=\"tumblr_blog\">d2hycmdhcmjs</a>:</p>\n\n<blockquote><p>in case anyone wanted to play around / creep on the code</p></blockquote>",
-   "format" : "html",
-   "reblog-key" : "t0NXAZbZ",
    "date" : "Wed, 04 Dec 2013 20:19:45",
-   "type" : "link",
-   "mobile" : 0,
-   "from-feed-id" : 0,
-   "feed-item" : "",
-   "url" : "http://tumblr.ggvaidya.com/post/69040507442",
+   "id" : "69040507442",
+   "link-url" : "http://filer.case.edu/eam74/gameoflife.html",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/69040507442/conways-game-of-life",
+   "date-gmt" : "2013-12-05 03:19:45 GMT",
    "bookmarklet" : 0,
+   "from-feed-id" : 0,
+   "mobile" : 0,
+   "link-description" : "<p><a href=\"http://d2hycmdhcmjs.tumblr.com/post/69030985982/conways-game-of-life\" class=\"tumblr_blog\">d2hycmdhcmjs</a>:</p>\n\n<blockquote><p>in case anyone wanted to play around / creep on the code</p></blockquote>",
+   "slug" : "conways-game-of-life",
+   "link-text" : "Conway's Game of Life",
+   "format" : "html",
+   "url" : "http://tumblr.ggvaidya.com/post/69040507442",
+   "reblog-key" : "t0NXAZbZ",
    "tags" : [
       "coooooool",
       "game of life",
       "cellular automata"
    ],
-   "id" : "69040507442",
-   "slug" : "conways-game-of-life",
-   "unix-timestamp" : 1386213585,
-   "link-text" : "Conway's Game of Life"
+   "feed-item" : "",
+   "type" : "link",
+   "unix-timestamp" : 1386213585
 }
 

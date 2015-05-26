@@ -1,24 +1,44 @@
 {
+   "mobile" : 0,
+   "from-feed-id" : 0,
+   "bookmarklet" : 0,
+   "date-gmt" : "2013-10-13 21:24:21 GMT",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/63957955596/my-class-today",
+   "conversation-title" : "My class today",
+   "id" : "63957955596",
+   "conversation-text" : "Me:  So when you see the 4 year old boy pull the little girl's hair...\r\nStudents:  He likes her!\r\nMe:  Now they are around 11 or 12 and he grabs her arm and wrestles her to the ground even though she calls him a jerk and yells at him to leave her alone.\r\nStudents:  That is just how boys are.  \r\nMe:  Now they are 18 and he grabs her arm and--\r\nStudents:  Oh, that's not okay.\r\nMe:   Really?   How would he know?  How would she know?  How would you know?  You just told me that for the first 17 years of these children's lives that you thought it was cute, sweet, and natural for a boy to grab a girl and be rough with her. \r\nStudents:  Oh.\r\nMe:   Oh, is right.  \r\n",
+   "date" : "Sun, 13 Oct 2013 15:24:21",
+   "unix-timestamp" : 1381699461,
+   "type" : "conversation",
+   "feed-item" : "",
+   "tags" : [
+      "damn",
+      "truth",
+      "feminism"
+   ],
+   "reblog-key" : "bq7VwufA",
+   "url" : "http://tumblr.ggvaidya.com/post/63957955596",
+   "format" : "html",
    "conversation" : [
       {
-         "label" : "Me:",
-         "phrase" : "So when you see the 4 year old boy pull the little girl's hair...\r",
-         "name" : "Me"
-      },
-      {
-         "phrase" : "He likes her!\r",
-         "name" : "Students",
-         "label" : "Students:"
-      },
-      {
          "name" : "Me",
-         "phrase" : "Now they are around 11 or 12 and he grabs her arm and wrestles her to the ground even though she calls him a jerk and yells at him to leave her alone.\r",
+         "phrase" : "So when you see the 4 year old boy pull the little girl's hair...\r",
          "label" : "Me:"
       },
       {
-         "name" : "Students",
+         "label" : "Students:",
+         "phrase" : "He likes her!\r",
+         "name" : "Students"
+      },
+      {
+         "label" : "Me:",
+         "phrase" : "Now they are around 11 or 12 and he grabs her arm and wrestles her to the ground even though she calls him a jerk and yells at him to leave her alone.\r",
+         "name" : "Me"
+      },
+      {
+         "label" : "Students:",
          "phrase" : "That is just how boys are.  \r",
-         "label" : "Students:"
+         "name" : "Students"
       },
       {
          "label" : "Me:",
@@ -36,36 +56,16 @@
          "label" : "Me:"
       },
       {
-         "phrase" : "Oh.\r",
          "name" : "Students",
+         "phrase" : "Oh.\r",
          "label" : "Students:"
       },
       {
-         "name" : "Me",
          "phrase" : "Oh, is right.",
+         "name" : "Me",
          "label" : "Me:"
       }
    ],
-   "mobile" : 0,
-   "from-feed-id" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/63957955596/my-class-today",
-   "url" : "http://tumblr.ggvaidya.com/post/63957955596",
-   "feed-item" : "",
-   "bookmarklet" : 0,
-   "tags" : [
-      "damn",
-      "truth",
-      "feminism"
-   ],
-   "id" : "63957955596",
-   "slug" : "my-class-today",
-   "unix-timestamp" : 1381699461,
-   "date-gmt" : "2013-10-13 21:24:21 GMT",
-   "format" : "html",
-   "conversation-title" : "My class today",
-   "conversation-text" : "Me:  So when you see the 4 year old boy pull the little girl's hair...\r\nStudents:  He likes her!\r\nMe:  Now they are around 11 or 12 and he grabs her arm and wrestles her to the ground even though she calls him a jerk and yells at him to leave her alone.\r\nStudents:  That is just how boys are.  \r\nMe:  Now they are 18 and he grabs her arm and--\r\nStudents:  Oh, that's not okay.\r\nMe:   Really?   How would he know?  How would she know?  How would you know?  You just told me that for the first 17 years of these children's lives that you thought it was cute, sweet, and natural for a boy to grab a girl and be rough with her. \r\nStudents:  Oh.\r\nMe:   Oh, is right.  \r\n",
-   "date" : "Sun, 13 Oct 2013 15:24:21",
-   "reblog-key" : "bq7VwufA",
-   "type" : "conversation"
+   "slug" : "my-class-today"
 }
 

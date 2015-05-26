@@ -1,25 +1,25 @@
 {
-   "mobile" : 0,
-   "from-feed-id" : 0,
-   "feed-item" : "",
-   "url" : "http://tumblr.ggvaidya.com/post/54220761191",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/54220761191/anatomy-of-a-compiler-bug",
-   "bookmarklet" : 0,
-   "slug" : "anatomy-of-a-compiler-bug",
+   "type" : "link",
+   "unix-timestamp" : 1372554651,
+   "reblog-key" : "EVBvbVjx",
    "tags" : [
       "i wish i didnt find low-level programming fascinating",
       "and yet",
       "here i am"
    ],
-   "unix-timestamp" : 1372554651,
-   "id" : "54220761191",
-   "link-text" : "Anatomy of a compiler bug",
-   "link-url" : "http://www.mikeash.com/pyblog/friday-qa-2013-06-28-anatomy-of-a-compiler-bug.html",
-   "date-gmt" : "2013-06-30 01:10:51 GMT",
-   "link-description" : "<p><a href=\"http://slashnull.tumblr.com/post/54217793050/anatomy-of-a-compiler-bug\" class=\"tumblr_blog\">slashnull</a>:</p>\n\n<blockquote><blockquote class=\"link_og_blockquote\"><div><a href=\"http://www.mikeash.com/pyblog/friday-qa-2013-06-28-anatomy-of-a-compiler-bug.html\"></a><a href=\"http://www.mikeash.com/pyblog/friday-qa-2013-06-28-anatomy-of-a-compiler-bug.html\"></a><a href=\"http://www.mikeash.com/pyblog/friday-qa-2013-06-28-anatomy-of-a-compiler-bug.html\">http://www.mikeash.com/pyblog/friday-qa-2013-06-28-anatomy-of-a-compiler-bug.html</a></div></blockquote>\n\n\n\n<p>Well that was fascinating.</p></blockquote>",
+   "url" : "http://tumblr.ggvaidya.com/post/54220761191",
+   "feed-item" : "",
    "format" : "html",
-   "reblog-key" : "EVBvbVjx",
-   "date" : "Sat, 29 Jun 2013 19:10:51",
-   "type" : "link"
+   "slug" : "anatomy-of-a-compiler-bug",
+   "link-text" : "Anatomy of a compiler bug",
+   "link-description" : "<p><a href=\"http://slashnull.tumblr.com/post/54217793050/anatomy-of-a-compiler-bug\" class=\"tumblr_blog\">slashnull</a>:</p>\n\n<blockquote><blockquote class=\"link_og_blockquote\"><div><a href=\"http://www.mikeash.com/pyblog/friday-qa-2013-06-28-anatomy-of-a-compiler-bug.html\"></a><a href=\"http://www.mikeash.com/pyblog/friday-qa-2013-06-28-anatomy-of-a-compiler-bug.html\"></a><a href=\"http://www.mikeash.com/pyblog/friday-qa-2013-06-28-anatomy-of-a-compiler-bug.html\">http://www.mikeash.com/pyblog/friday-qa-2013-06-28-anatomy-of-a-compiler-bug.html</a></div></blockquote>\n\n\n\n<p>Well that was fascinating.</p></blockquote>",
+   "mobile" : 0,
+   "bookmarklet" : 0,
+   "date-gmt" : "2013-06-30 01:10:51 GMT",
+   "from-feed-id" : 0,
+   "link-url" : "http://www.mikeash.com/pyblog/friday-qa-2013-06-28-anatomy-of-a-compiler-bug.html",
+   "id" : "54220761191",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/54220761191/anatomy-of-a-compiler-bug",
+   "date" : "Sat, 29 Jun 2013 19:10:51"
 }
 

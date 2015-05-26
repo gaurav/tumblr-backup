@@ -1,20 +1,7 @@
 {
-   "date-gmt" : "2013-11-15 06:28:21 GMT",
+   "slug" : "",
    "format" : "html",
-   "reblog-key" : "WzMyMCzs",
-   "date" : "Thu, 14 Nov 2013 23:28:21",
-   "video-caption" : "",
-   "type" : "video",
-   "mobile" : 0,
-   "video-player" : "<iframe width=\"400\" height=\"225\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/v52FLMOPSig?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "url" : "http://tumblr.ggvaidya.com/post/67039331150",
-   "feed-item" : "",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/67039331150",
-   "video-player-500" : "<iframe width=\"500\" height=\"281\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/v52FLMOPSig?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "from-feed-id" : 0,
-   "bookmarklet" : 0,
    "video-source" : "http://www.youtube.com/watch?v=v52FLMOPSig",
-   "video-player-250" : "<iframe width=\"250\" height=\"140\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/v52FLMOPSig?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
    "tags" : [
       "the west wing",
       "walk and talk the vote",
@@ -22,8 +9,21 @@
       "c j cregg",
       "wow"
    ],
+   "reblog-key" : "WzMyMCzs",
+   "url" : "http://tumblr.ggvaidya.com/post/67039331150",
+   "feed-item" : "",
+   "type" : "video",
+   "video-player-250" : "<iframe width=\"250\" height=\"140\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/v52FLMOPSig?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
    "unix-timestamp" : 1384496901,
-   "slug" : "",
-   "id" : "67039331150"
+   "video-caption" : "",
+   "date" : "Thu, 14 Nov 2013 23:28:21",
+   "video-player" : "<iframe width=\"400\" height=\"225\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/v52FLMOPSig?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "id" : "67039331150",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/67039331150",
+   "video-player-500" : "<iframe width=\"500\" height=\"281\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/v52FLMOPSig?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "bookmarklet" : 0,
+   "date-gmt" : "2013-11-15 06:28:21 GMT",
+   "from-feed-id" : 0,
+   "mobile" : 0
 }
 

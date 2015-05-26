@@ -1,12 +1,7 @@
 {
-   "type" : "quote",
-   "date" : "Tue, 27 May 2014 08:01:00",
+   "feed-item" : "",
+   "url" : "http://tumblr.ggvaidya.com/post/87000681674",
    "reblog-key" : "t2INeqOf",
-   "format" : "html",
-   "quote-source" : "",
-   "quote-text" : "If you rub an Orc up and down on a goat-hide you can make him stick to the ceiling.",
-   "date-gmt" : "2014-05-27 14:01:00 GMT",
-   "slug" : "if-you-rub-an-orc-up-and-down-on-a-goat-hide-you",
    "tags" : [
       "magic!",
       "or perhaps",
@@ -17,12 +12,17 @@
       "madness"
    ],
    "unix-timestamp" : 1401199260,
-   "id" : "87000681674",
-   "bookmarklet" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/87000681674/if-you-rub-an-orc-up-and-down-on-a-goat-hide-you",
-   "feed-item" : "",
-   "url" : "http://tumblr.ggvaidya.com/post/87000681674",
+   "type" : "quote",
+   "slug" : "if-you-rub-an-orc-up-and-down-on-a-goat-hide-you",
+   "quote-source" : "",
+   "format" : "html",
    "from-feed-id" : 0,
-   "mobile" : 0
+   "date-gmt" : "2014-05-27 14:01:00 GMT",
+   "bookmarklet" : 0,
+   "mobile" : 0,
+   "quote-text" : "If you rub an Orc up and down on a goat-hide you can make him stick to the ceiling.",
+   "date" : "Tue, 27 May 2014 08:01:00",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/87000681674/if-you-rub-an-orc-up-and-down-on-a-goat-hide-you",
+   "id" : "87000681674"
 }
 

@@ -1,13 +1,9 @@
 {
-   "from-feed-id" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/68096393069/west-wing-quote-of-the-day",
-   "url" : "http://tumblr.ggvaidya.com/post/68096393069",
-   "feed-item" : "",
    "conversation" : [
       {
-         "label" : "Sam:",
+         "phrase" : "So guys, when I was downstairs I made a decision: I'm going to register with the Republican Party. And I'll tell you why, if you're curious. It's because they're a freedom-loving people.\r",
          "name" : "Sam",
-         "phrase" : "So guys, when I was downstairs I made a decision: I'm going to register with the Republican Party. And I'll tell you why, if you're curious. It's because they're a freedom-loving people.\r"
+         "label" : "Sam:"
       },
       {
          "phrase" : "We also like beef.\r",
@@ -15,34 +11,34 @@
          "label" : "Ainsley:"
       },
       {
-         "label" : "Sam:",
+         "phrase" : "You know, you insist that government is depraved for not legislating against what we can see on the newsstands, or what we can see in an art exhibit, or what we can burn in protest, or which sex we're allowed to have sex with, or a woman's right to choose. But don't you dare try to regulate this deadly weapon I have concealed on me, for that would encroach against my freedom.\r",
          "name" : "Sam",
-         "phrase" : "You know, you insist that government is depraved for not legislating against what we can see on the newsstands, or what we can see in an art exhibit, or what we can burn in protest, or which sex we're allowed to have sex with, or a woman's right to choose. But don't you dare try to regulate this deadly weapon I have concealed on me, for that would encroach against my freedom.\r"
-      },
-      {
-         "label" : "Ainsley:",
-         "phrase" : "Yeah, and Democrats believe in free speech as long as it isn't prayer while you're standing in school. You believe in the Freedom of Information Act, except if you want to find out if your 14-year-old daughter has had an abortion.\r",
-         "name" : "Ainsley"
-      },
-      {
-         "label" : "Sam:",
-         "name" : "Sam",
-         "phrase" : "We believe in the ERA.\r"
-      },
-      {
-         "name" : "Ainsley",
-         "phrase" : "Well, go get them.\r",
-         "label" : "Ainsley:"
-      },
-      {
-         "name" : "Sam",
-         "phrase" : "How can you have an objection...\r",
          "label" : "Sam:"
       },
       {
-         "phrase" : "Because it's humiliating! A new amendment we vote on declaring that I'm equal under the law to a man? I am mortified to discover there's reason to believe I wasn't before. I am a citizen of this country. I am not a special subset in need of your protection. I do not have to have my rights handed down to me by a bunch of old, white men. The same Article 14 that protects you, protects me and I went to law school just to make sure. And with that, I'm going back down to the mess, because I thought I may have seen there a peach.\r",
+         "phrase" : "Yeah, and Democrats believe in free speech as long as it isn't prayer while you're standing in school. You believe in the Freedom of Information Act, except if you want to find out if your 14-year-old daughter has had an abortion.\r",
          "name" : "Ainsley",
          "label" : "Ainsley:"
+      },
+      {
+         "name" : "Sam",
+         "phrase" : "We believe in the ERA.\r",
+         "label" : "Sam:"
+      },
+      {
+         "label" : "Ainsley:",
+         "name" : "Ainsley",
+         "phrase" : "Well, go get them.\r"
+      },
+      {
+         "phrase" : "How can you have an objection...\r",
+         "name" : "Sam",
+         "label" : "Sam:"
+      },
+      {
+         "label" : "Ainsley:",
+         "name" : "Ainsley",
+         "phrase" : "Because it's humiliating! A new amendment we vote on declaring that I'm equal under the law to a man? I am mortified to discover there's reason to believe I wasn't before. I am a citizen of this country. I am not a special subset in need of your protection. I do not have to have my rights handed down to me by a bunch of old, white men. The same Article 14 that protects you, protects me and I went to law school just to make sure. And with that, I'm going back down to the mess, because I thought I may have seen there a peach.\r"
       },
       {
          "name" : "Sam",
@@ -50,7 +46,10 @@
          "label" : "Sam:"
       }
    ],
-   "mobile" : 0,
+   "slug" : "west-wing-quote-of-the-day",
+   "format" : "html",
+   "feed-item" : "",
+   "url" : "http://tumblr.ggvaidya.com/post/68096393069",
    "tags" : [
       "i love ainsley's speech patterns",
       "mortified",
@@ -59,16 +58,17 @@
       "although I'm definitely more democrat than republican",
       "if that is a thing"
    ],
+   "reblog-key" : "QyUdA1Wq",
    "unix-timestamp" : 1385415649,
-   "slug" : "west-wing-quote-of-the-day",
-   "id" : "68096393069",
-   "bookmarklet" : 0,
-   "conversation-title" : "West Wing Quote of the Day",
-   "format" : "html",
-   "date-gmt" : "2013-11-25 21:40:49 GMT",
    "type" : "conversation",
    "conversation-text" : "Sam: So guys, when I was downstairs I made a decision: I'm going to register with the Republican Party. And I'll tell you why, if you're curious. It's because they're a freedom-loving people.\r\nAinsley: We also like beef.\r\nSam: You know, you insist that government is depraved for not legislating against what we can see on the newsstands, or what we can see in an art exhibit, or what we can burn in protest, or which sex we're allowed to have sex with, or a woman's right to choose. But don't you dare try to regulate this deadly weapon I have concealed on me, for that would encroach against my freedom.\r\nAinsley: Yeah, and Democrats believe in free speech as long as it isn't prayer while you're standing in school. You believe in the Freedom of Information Act, except if you want to find out if your 14-year-old daughter has had an abortion.\r\nSam: We believe in the ERA.\r\nAinsley: Well, go get them.\r\nSam: How can you have an objection...\r\nAinsley: Because it's humiliating! A new amendment we vote on declaring that I'm equal under the law to a man? I am mortified to discover there's reason to believe I wasn't before. I am a citizen of this country. I am not a special subset in need of your protection. I do not have to have my rights handed down to me by a bunch of old, white men. The same Article 14 that protects you, protects me and I went to law school just to make sure. And with that, I'm going back down to the mess, because I thought I may have seen there a peach.\r\nSam: [to Ed and Larry]: I would have countered that, but I already moved on to other things in my head.",
    "date" : "Mon, 25 Nov 2013 14:40:49",
-   "reblog-key" : "QyUdA1Wq"
+   "conversation-title" : "West Wing Quote of the Day",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/68096393069/west-wing-quote-of-the-day",
+   "id" : "68096393069",
+   "from-feed-id" : 0,
+   "date-gmt" : "2013-11-25 21:40:49 GMT",
+   "bookmarklet" : 0,
+   "mobile" : 0
 }
 

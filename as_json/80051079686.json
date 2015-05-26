@@ -1,24 +1,24 @@
 {
-   "mobile" : 0,
-   "from-feed-id" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/80051079686",
-   "feed-item" : "",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/80051079686/apple-is-a-bit-like-the-weather-it-doesnt-work",
+   "date-gmt" : "2014-03-19 07:32:48 GMT",
    "bookmarklet" : 0,
+   "from-feed-id" : 0,
+   "mobile" : 0,
+   "quote-text" : "Apple is a bit like the weather: it doesn&rsquo;t work by other peoples&rsquo; timetables. It just does stuff when it&rsquo;s ready. Having written about all three of Apple, Microsoft and Google since the 1990s, I know that each has its own rhythms for releasing stuff. In Google&rsquo;s case, it&rsquo;s pretty much no rhythm; stuff just bursts out when someone hits a button. Microsoft moves in a lockstep. And Apple fiddles with it until it&rsquo;s done.",
+   "date" : "Wed, 19 Mar 2014 01:32:48",
+   "id" : "80051079686",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/80051079686/apple-is-a-bit-like-the-weather-it-doesnt-work",
+   "url" : "http://tumblr.ggvaidya.com/post/80051079686",
+   "reblog-key" : "KdavOGgT",
    "tags" : [
       "apple",
       "microsoft",
       "google"
    ],
-   "slug" : "apple-is-a-bit-like-the-weather-it-doesnt-work",
-   "id" : "80051079686",
+   "feed-item" : "",
+   "type" : "quote",
    "unix-timestamp" : 1395214368,
-   "date-gmt" : "2014-03-19 07:32:48 GMT",
-   "quote-text" : "Apple is a bit like the weather: it doesn&rsquo;t work by other peoples&rsquo; timetables. It just does stuff when it&rsquo;s ready. Having written about all three of Apple, Microsoft and Google since the 1990s, I know that each has its own rhythms for releasing stuff. In Google&rsquo;s case, it&rsquo;s pretty much no rhythm; stuff just bursts out when someone hits a button. Microsoft moves in a lockstep. And Apple fiddles with it until it&rsquo;s done.",
+   "slug" : "apple-is-a-bit-like-the-weather-it-doesnt-work",
    "quote-source" : "Charles Arthur, <em><a href=\"http://www.theguardian.com/technology/2014/mar/10/haunted-empire-book-review\">Haunted Empire review &ndash; great title, shame about the contents</a></em>, The Guardian, March 10, 2014",
-   "format" : "html",
-   "reblog-key" : "KdavOGgT",
-   "date" : "Wed, 19 Mar 2014 01:32:48",
-   "type" : "quote"
+   "format" : "html"
 }
 

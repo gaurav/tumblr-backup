@@ -1,70 +1,69 @@
 {
-   "mobile" : 0,
    "conversation" : [
       {
+         "label" : "",
          "phrase" : "(Weâre taking a calculus final. The TA is a well-known Lord of the Rings fan, and weâve had running LotR jokes all semester.)\r",
-         "name" : "",
-         "label" : ""
+         "name" : ""
       },
       {
-         "label" : "TA:",
          "name" : "TA",
-         "phrase" : "âOkay, guys, everyone look at me. Weâve been over the rules, but just in case: no notes, pencil your answers in on the scantron sheet, and graphing calculators only â no more âcan I just used my cell phoneâ nonsense.â\r"
+         "phrase" : "âOkay, guys, everyone look at me. Weâve been over the rules, but just in case: no notes, pencil your answers in on the scantron sheet, and graphing calculators only â no more âcan I just used my cell phoneâ nonsense.â\r",
+         "label" : "TA:"
       },
       {
-         "name" : "Student",
          "phrase" : "â[TA's name], my calculator batteries just died! What should I do?â\r",
+         "name" : "Student",
          "label" : "Student:"
       },
       {
          "label" : "TA:",
-         "name" : "TA",
-         "phrase" : "âHere, Iâve got a big box of spares.â\r"
+         "phrase" : "âHere, Iâve got a big box of spares.â\r",
+         "name" : "TA"
       },
       {
+         "label" : "Student:",
          "phrase" : "*struggling* âI canât get this packaging openâ¦â\r",
-         "name" : "Student",
-         "label" : "Student:"
+         "name" : "Student"
       },
       {
          "label" : "Student 2:",
-         "name" : "Student 2",
-         "phrase" : "âHere, Iâve got a pocket knife.â\r"
+         "phrase" : "âHere, Iâve got a pocket knife.â\r",
+         "name" : "Student 2"
       },
       {
-         "name" : "TA",
          "phrase" : "âAnd Iâve got a pair of scissors if you need them.â\r",
+         "name" : "TA",
          "label" : "TA:"
       },
       {
-         "label" : "Student 3:",
+         "phrase" : "*from the back of the room* âOR MY AXE!â\r",
          "name" : "Student 3",
-         "phrase" : "*from the back of the room* âOR MY AXE!â\r"
+         "label" : "Student 3:"
       },
       {
-         "label" : "",
+         "phrase" : "(Everyone starts laughing.)\r",
          "name" : "",
-         "phrase" : "(Everyone starts laughing.)\r"
+         "label" : ""
       },
       {
          "label" : "TA:",
-         "name" : "TA",
-         "phrase" : "âThe only axes allowed on the exam are in the graph section.â\r"
+         "phrase" : "âThe only axes allowed on the exam are in the graph section.â\r",
+         "name" : "TA"
       },
       {
+         "label" : "",
          "phrase" : "(Everyone groans.)\r",
-         "name" : "",
-         "label" : ""
+         "name" : ""
       },
       {
-         "name" : "TA",
+         "label" : "TA:",
          "phrase" : "âOh, come on, youâre in a math class. Deal with the math jokes.â\r",
-         "label" : "TA:"
+         "name" : "TA"
       },
       {
+         "label" : "",
          "phrase" : "(The professor enters with a stack of exams. With him are two exam proctors.)\r",
-         "name" : "",
-         "label" : ""
+         "name" : ""
       },
       {
          "label" : "Professor:",
@@ -73,23 +72,23 @@
       },
       {
          "label" : "TA:",
-         "phrase" : "âHey, I didnât start it.â\r",
-         "name" : "TA"
+         "name" : "TA",
+         "phrase" : "âHey, I didnât start it.â\r"
       },
       {
-         "label" : "",
+         "name" : "",
          "phrase" : "(The professor starts handing stacks of exams to the TA and proctors.)\r",
-         "name" : ""
+         "label" : ""
       },
       {
-         "name" : "Professor",
          "phrase" : "âBut Iâm about to finish it. [TA], take these exams down the left flank. [Proctor 1], follow the desks down the center. [Proctor 2], take your exams right, along the wall.â\r",
+         "name" : "Professor",
          "label" : "Professor:"
       },
       {
-         "label" : "(At this point, many of the students have realized where this is going:",
          "phrase" : "Theodenâs lines from âReturn of the King.â)\r",
-         "name" : "(At this point, many of the students have realized where this is going"
+         "name" : "(At this point, many of the students have realized where this is going",
+         "label" : "(At this point, many of the students have realized where this is going:"
       },
       {
          "phrase" : "âForth, and fear no problems! Solve! Solve, students of calculus! Points shall be taken, scores shall be splintered! A pencil day! A red-ink day! Until three thirty!â\r",
@@ -102,61 +101,62 @@
          "label" : ""
       },
       {
-         "label" : "Professor:",
+         "phrase" : "âSolve now! Solve now! Solve to good grades and the class ending! MAAATH!â\r",
          "name" : "Professor",
-         "phrase" : "âSolve now! Solve now! Solve to good grades and the class ending! MAAATH!â\r"
+         "label" : "Professor:"
       },
       {
-         "phrase" : "âMAAATH!â\r",
          "name" : "Entire Class",
+         "phrase" : "âMAAATH!â\r",
          "label" : "Entire Class:"
       },
       {
-         "name" : "Professor",
          "phrase" : "âMAAAAATH!â\r",
+         "name" : "Professor",
          "label" : "Professor:"
       },
       {
          "label" : "Entire Class:",
-         "name" : "Entire Class",
-         "phrase" : "âMAAAAAATH!â\r"
+         "phrase" : "âMAAAAAATH!â\r",
+         "name" : "Entire Class"
       },
       {
-         "name" : "Professor",
+         "label" : "Professor:",
          "phrase" : "âForth, exam-takers!â\r",
-         "label" : "Professor:"
+         "name" : "Professor"
       },
       {
-         "name" : "",
+         "label" : "",
          "phrase" : "(The entire class rises to their feet and gives him a standing ovation. A week later, we get an email from the professor.)\r",
-         "label" : ""
+         "name" : ""
       },
       {
+         "label" : "Professor:",
          "phrase" : "*at the end of the email* âPS: I appreciate all of you who wrote in their evaluations that I was the one professor to rule them all, but the best one yet was the student who called me âMathrandir.ââ",
-         "name" : "Professor",
-         "label" : "Professor:"
+         "name" : "Professor"
       }
    ],
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/52605629227/were-taking-a-calculus-final-the-ta-is-a",
-   "url" : "http://tumblr.ggvaidya.com/post/52605629227",
+   "slug" : "were-taking-a-calculus-final-the-ta-is-a",
+   "format" : "html",
    "feed-item" : "",
-   "from-feed-id" : 0,
-   "bookmarklet" : 0,
+   "reblog-key" : "X4kky8qp",
    "tags" : [
       "tolkien",
       "lotr",
       "movie",
       "the best"
    ],
+   "url" : "http://tumblr.ggvaidya.com/post/52605629227",
    "unix-timestamp" : 1370839944,
-   "slug" : "were-taking-a-calculus-final-the-ta-is-a",
-   "id" : "52605629227",
-   "date-gmt" : "2013-06-10 04:52:24 GMT",
-   "conversation-title" : null,
-   "format" : "html",
-   "date" : "Sun, 09 Jun 2013 22:52:24",
-   "reblog-key" : "X4kky8qp",
+   "type" : "conversation",
    "conversation-text" : "(Weâre taking a calculus final. The TA is a well-known Lord of the Rings fan, and weâve had running LotR jokes all semester.)\r\n\r\nTA: âOkay, guys, everyone look at me. Weâve been over the rules, but just in case: no notes, pencil your answers in on the scantron sheet, and graphing calculators only â no more âcan I just used my cell phoneâ nonsense.â\r\n\r\nStudent: â[TA's name], my calculator batteries just died! What should I do?â\r\n\r\nTA: âHere, Iâve got a big box of spares.â\r\n\r\nStudent: *struggling* âI canât get this packaging openâ¦â\r\n\r\nStudent 2: âHere, Iâve got a pocket knife.â\r\n\r\nTA: âAnd Iâve got a pair of scissors if you need them.â\r\n\r\nStudent 3: *from the back of the room* âOR MY AXE!â\r\n\r\n(Everyone starts laughing.)\r\n\r\nTA: âThe only axes allowed on the exam are in the graph section.â\r\n\r\n(Everyone groans.)\r\n\r\nTA: âOh, come on, youâre in a math class. Deal with the math jokes.â\r\n\r\n(The professor enters with a stack of exams. With him are two exam proctors.)\r\n\r\nProfessor: âTolkien jokes already, [TA's name]?â\r\n\r\nTA: âHey, I didnât start it.â\r\n\r\n(The professor starts handing stacks of exams to the TA and proctors.)\r\n\r\nProfessor: âBut Iâm about to finish it. [TA], take these exams down the left flank. [Proctor 1], follow the desks down the center. [Proctor 2], take your exams right, along the wall.â\r\n\r\n(At this point, many of the students have realized where this is going: Theodenâs lines from âReturn of the King.â)\r\n\r\nProfessor: âForth, and fear no problems! Solve! Solve, students of calculus! Points shall be taken, scores shall be splintered! A pencil day! A red-ink day! Until three thirty!â\r\n\r\n(The professor pulls out a pencil, holding it out like a sword, and runs down the first row holding it out. Students hold up their pencils, hitting his as he passes.)\r\n\r\nProfessor: âSolve now! Solve now! Solve to good grades and the class ending! MAAATH!â\r\n\r\nEntire Class: âMAAATH!â\r\n\r\nProfessor: âMAAAAATH!â\r\n\r\nEntire Class: âMAAAAAATH!â\r\n\r\nProfessor: âForth, exam-takers!â\r\n\r\n(The entire class rises to their feet and gives him a standing ovation. A week later, we get an email from the professor.)\r\n\r\nProfessor: *at the end of the email* âPS: I appreciate all of you who wrote in their evaluations that I was the one professor to rule them all, but the best one yet was the student who called me âMathrandir.ââ",
-   "type" : "conversation"
+   "date" : "Sun, 09 Jun 2013 22:52:24",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/52605629227/were-taking-a-calculus-final-the-ta-is-a",
+   "conversation-title" : null,
+   "id" : "52605629227",
+   "from-feed-id" : 0,
+   "bookmarklet" : 0,
+   "date-gmt" : "2013-06-10 04:52:24 GMT",
+   "mobile" : 0
 }
 

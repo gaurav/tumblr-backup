@@ -1,18 +1,15 @@
 {
-   "date-gmt" : "2012-05-31 19:04:00 GMT",
-   "regular-title" : "MY PI AFTER I GIVE A GOOD TALK",
-   "format" : "html",
    "date" : "Thu, 31 May 2012 13:04:00",
-   "reblog-key" : "HtqXhgSj",
-   "type" : "regular",
-   "mobile" : 0,
-   "from-feed-id" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/24140853326/my-pi-after-i-give-a-good-talk",
-   "feed-item" : "",
-   "url" : "http://tumblr.ggvaidya.com/post/24140853326",
-   "regular-body" : "<p><a href=\"http://whatshouldwecallgradschool.tumblr.com/post/24128303036/my-pi-after-i-give-a-good-talk\" class=\"tumblr_blog\">whatshouldwecallgradschool</a>:</p>\n\n<blockquote><p><img alt=\"When the undergrad finally does something helpful\" height=\"240\" src=\"http://i.imgur.com/8NGtw.gif\" width=\"235\"/></p>\n<p>credit: Zach</p></blockquote>\n\n<p>Also: &ldquo;<a href=\"http://whatshouldwecallgradschool.tumblr.com/post/23120131424/when-i-manage-to-please-my-pi?fb_action_ids=577276134118&amp;fb_action_types=tumblr-feed%3Areblog&amp;fb_source=other_multiline\">That&rsquo;ll do, Pig. That&rsquo;ll do.</a>&rdquo;</p>",
-   "bookmarklet" : 0,
    "id" : "24140853326",
+   "regular-body" : "<p><a href=\"http://whatshouldwecallgradschool.tumblr.com/post/24128303036/my-pi-after-i-give-a-good-talk\" class=\"tumblr_blog\">whatshouldwecallgradschool</a>:</p>\n\n<blockquote><p><img alt=\"When the undergrad finally does something helpful\" height=\"240\" src=\"http://i.imgur.com/8NGtw.gif\" width=\"235\"/></p>\n<p>credit: Zach</p></blockquote>\n\n<p>Also: &ldquo;<a href=\"http://whatshouldwecallgradschool.tumblr.com/post/23120131424/when-i-manage-to-please-my-pi?fb_action_ids=577276134118&amp;fb_action_types=tumblr-feed%3Areblog&amp;fb_source=other_multiline\">That&rsquo;ll do, Pig. That&rsquo;ll do.</a>&rdquo;</p>",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/24140853326/my-pi-after-i-give-a-good-talk",
+   "bookmarklet" : 0,
+   "regular-title" : "MY PI AFTER I GIVE A GOOD TALK",
+   "date-gmt" : "2012-05-31 19:04:00 GMT",
+   "from-feed-id" : 0,
+   "mobile" : 0,
+   "slug" : "my-pi-after-i-give-a-good-talk",
+   "format" : "html",
    "tags" : [
       "pig",
       "babe",
@@ -21,7 +18,10 @@
       "pi",
       "prof"
    ],
-   "slug" : "my-pi-after-i-give-a-good-talk",
+   "reblog-key" : "HtqXhgSj",
+   "url" : "http://tumblr.ggvaidya.com/post/24140853326",
+   "feed-item" : "",
+   "type" : "regular",
    "unix-timestamp" : 1338491040
 }
 

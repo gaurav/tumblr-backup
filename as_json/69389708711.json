@@ -1,24 +1,24 @@
 {
-   "mobile" : 0,
-   "from-feed-id" : 0,
+   "quote-source" : "Epicurus (via <a class=\"tumblr_blog\" href=\"http://snow-and-sorrow.tumblr.com/\">snow-and-sorrow</a>)",
+   "format" : "html",
+   "slug" : "why-should-i-fear-death-if-i-am-death-is-not-if",
+   "unix-timestamp" : 1386524148,
+   "type" : "quote",
    "feed-item" : "",
    "url" : "http://tumblr.ggvaidya.com/post/69389708711",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/69389708711/why-should-i-fear-death-if-i-am-death-is-not-if",
-   "bookmarklet" : 0,
-   "slug" : "why-should-i-fear-death-if-i-am-death-is-not-if",
+   "reblog-key" : "g3yDmeho",
    "tags" : [
       "hah",
       "point",
       "death"
    ],
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/69389708711/why-should-i-fear-death-if-i-am-death-is-not-if",
    "id" : "69389708711",
-   "unix-timestamp" : 1386524148,
-   "date-gmt" : "2013-12-08 17:35:48 GMT",
-   "quote-text" : "Why should I fear death? If I am, death is not. If death is, I am not. Why should I fear that which can only exist when I do not?",
-   "quote-source" : "Epicurus (via <a class=\"tumblr_blog\" href=\"http://snow-and-sorrow.tumblr.com/\">snow-and-sorrow</a>)",
-   "format" : "html",
-   "reblog-key" : "g3yDmeho",
    "date" : "Sun, 08 Dec 2013 10:35:48",
-   "type" : "quote"
+   "quote-text" : "Why should I fear death? If I am, death is not. If death is, I am not. Why should I fear that which can only exist when I do not?",
+   "mobile" : 0,
+   "from-feed-id" : 0,
+   "date-gmt" : "2013-12-08 17:35:48 GMT",
+   "bookmarklet" : 0
 }
 

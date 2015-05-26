@@ -1,10 +1,19 @@
 {
+   "conversation-title" : "Words to live by",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/78179344115/words-to-live-by",
+   "id" : "78179344115",
+   "conversation-text" : "Hacker: Do you mean to tell me, that when the chips are down, you're on MY side, not Humphrey's?\r\nBernard: Minister, it's my job to see the chips stay up.",
+   "date" : "Fri, 28 Feb 2014 21:57:52",
    "mobile" : 0,
+   "from-feed-id" : 0,
+   "date-gmt" : "2014-03-01 04:57:52 GMT",
+   "bookmarklet" : 0,
+   "format" : "html",
    "conversation" : [
       {
+         "label" : "Hacker:",
          "phrase" : "Do you mean to tell me, that when the chips are down, you're on MY side, not Humphrey's?\r",
-         "name" : "Hacker",
-         "label" : "Hacker:"
+         "name" : "Hacker"
       },
       {
          "name" : "Bernard",
@@ -12,24 +21,15 @@
          "label" : "Bernard:"
       }
    ],
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/78179344115/words-to-live-by",
+   "slug" : "words-to-live-by",
+   "unix-timestamp" : 1393649872,
+   "type" : "conversation",
    "feed-item" : "",
    "url" : "http://tumblr.ggvaidya.com/post/78179344115",
-   "from-feed-id" : 0,
-   "bookmarklet" : 0,
+   "reblog-key" : "8gF39SIw",
    "tags" : [
       "yes minister",
       "S1E6"
-   ],
-   "slug" : "words-to-live-by",
-   "id" : "78179344115",
-   "unix-timestamp" : 1393649872,
-   "date-gmt" : "2014-03-01 04:57:52 GMT",
-   "format" : "html",
-   "conversation-title" : "Words to live by",
-   "date" : "Fri, 28 Feb 2014 21:57:52",
-   "reblog-key" : "8gF39SIw",
-   "conversation-text" : "Hacker: Do you mean to tell me, that when the chips are down, you're on MY side, not Humphrey's?\r\nBernard: Minister, it's my job to see the chips stay up.",
-   "type" : "conversation"
+   ]
 }
 

@@ -1,24 +1,24 @@
 {
-   "mobile" : 0,
-   "from-feed-id" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/89816008384/imagination-is-intellect-having-fun",
-   "feed-item" : "",
+   "slug" : "imagination-is-intellect-having-fun",
+   "quote-source" : " unknown (via <a href=\"http://thebookwars.tumblr.com/\" class=\"tumblr_blog\">thebookwars</a>)",
+   "format" : "html",
    "url" : "http://tumblr.ggvaidya.com/post/89816008384",
-   "bookmarklet" : 0,
    "tags" : [
       "yay",
       "fun",
       "imagination"
    ],
-   "unix-timestamp" : 1403661216,
-   "slug" : "imagination-is-intellect-having-fun",
-   "id" : "89816008384",
-   "date-gmt" : "2014-06-25 01:53:36 GMT",
-   "quote-source" : " unknown (via <a href=\"http://thebookwars.tumblr.com/\" class=\"tumblr_blog\">thebookwars</a>)",
-   "quote-text" : "Imagination is intellect having fun.",
-   "format" : "html",
-   "date" : "Tue, 24 Jun 2014 19:53:36",
    "reblog-key" : "fJIGQYOS",
-   "type" : "quote"
+   "feed-item" : "",
+   "type" : "quote",
+   "unix-timestamp" : 1403661216,
+   "date" : "Tue, 24 Jun 2014 19:53:36",
+   "id" : "89816008384",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/89816008384/imagination-is-intellect-having-fun",
+   "date-gmt" : "2014-06-25 01:53:36 GMT",
+   "bookmarklet" : 0,
+   "from-feed-id" : 0,
+   "mobile" : 0,
+   "quote-text" : "Imagination is intellect having fun."
 }
 

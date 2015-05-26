@@ -1,4 +1,5 @@
 {
+   "slug" : "my-dad-want-to-see-something-disturbing-my-dad",
    "conversation" : [
       {
          "label" : "my dad:",
@@ -7,39 +8,38 @@
       },
       {
          "label" : "my dad:",
-         "name" : "my dad",
-         "phrase" : "*holds up a small bag of teeth*\r"
-      },
-      {
-         "label" : "my dad:",
-         "phrase" : "you made these\r",
+         "phrase" : "*holds up a small bag of teeth*\r",
          "name" : "my dad"
       },
       {
-         "phrase" : "there are some cute ones in there",
+         "phrase" : "you made these\r",
          "name" : "my dad",
          "label" : "my dad:"
+      },
+      {
+         "label" : "my dad:",
+         "name" : "my dad",
+         "phrase" : "there are some cute ones in there"
       }
    ],
-   "mobile" : 0,
-   "from-feed-id" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/90776416419/my-dad-want-to-see-something-disturbing-my-dad",
-   "feed-item" : "",
-   "url" : "http://tumblr.ggvaidya.com/post/90776416419",
-   "bookmarklet" : 0,
-   "slug" : "my-dad-want-to-see-something-disturbing-my-dad",
+   "format" : "html",
    "tags" : [
       "...",
       "HUH"
    ],
-   "unix-timestamp" : 1404498066,
-   "id" : "90776416419",
-   "date-gmt" : "2014-07-04 18:21:06 GMT",
-   "format" : "html",
-   "conversation-title" : null,
-   "conversation-text" : "my dad: want to see something disturbing?\r\nmy dad: *holds up a small bag of teeth*\r\nmy dad: you made these\r\nmy dad: there are some cute ones in there",
-   "date" : "Fri, 04 Jul 2014 12:21:06",
    "reblog-key" : "hUWltgT2",
-   "type" : "conversation"
+   "url" : "http://tumblr.ggvaidya.com/post/90776416419",
+   "feed-item" : "",
+   "type" : "conversation",
+   "unix-timestamp" : 1404498066,
+   "date" : "Fri, 04 Jul 2014 12:21:06",
+   "conversation-text" : "my dad: want to see something disturbing?\r\nmy dad: *holds up a small bag of teeth*\r\nmy dad: you made these\r\nmy dad: there are some cute ones in there",
+   "id" : "90776416419",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/90776416419/my-dad-want-to-see-something-disturbing-my-dad",
+   "conversation-title" : null,
+   "bookmarklet" : 0,
+   "date-gmt" : "2014-07-04 18:21:06 GMT",
+   "from-feed-id" : 0,
+   "mobile" : 0
 }
 
