@@ -1,34 +1,34 @@
 {
-   "conversation" : [
-      {
-         "label" : "Me:",
-         "name" : "Me",
-         "phrase" : "Laziness is one of the three virtues of a programmer.\r"
-      },
-      {
-         "label" : "Isarra:",
-         "name" : "Isarra",
-         "phrase" : "Laziness is good, but it needs sensibility and brilliance to back it up, and some semblance of perfectionism to counter it."
-      }
-   ],
-   "slug" : "programming-virtues",
    "format" : "html",
-   "feed-item" : "",
+   "conversation-title" : "Programming virtues",
+   "reblog-key" : "isA0q88p",
+   "bookmarklet" : 0,
+   "from-feed-id" : 0,
    "url" : "http://tumblr.ggvaidya.com/post/63890448544",
+   "id" : "63890448544",
+   "unix-timestamp" : 1381639486,
+   "date" : "Sat, 12 Oct 2013 22:44:46",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/63890448544/programming-virtues",
    "tags" : [
       "programming"
    ],
-   "reblog-key" : "isA0q88p",
-   "unix-timestamp" : 1381639486,
-   "type" : "conversation",
    "conversation-text" : "Me: Laziness is one of the three virtues of a programmer.\r\nIsarra: Laziness is good, but it needs sensibility and brilliance to back it up, and some semblance of perfectionism to counter it.",
-   "date" : "Sat, 12 Oct 2013 22:44:46",
-   "conversation-title" : "Programming virtues",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/63890448544/programming-virtues",
-   "id" : "63890448544",
-   "from-feed-id" : 0,
    "date-gmt" : "2013-10-13 04:44:46 GMT",
-   "bookmarklet" : 0,
-   "mobile" : 0
+   "conversation" : [
+      {
+         "name" : "Me",
+         "phrase" : "Laziness is one of the three virtues of a programmer.\r",
+         "label" : "Me:"
+      },
+      {
+         "label" : "Isarra:",
+         "phrase" : "Laziness is good, but it needs sensibility and brilliance to back it up, and some semblance of perfectionism to counter it.",
+         "name" : "Isarra"
+      }
+   ],
+   "mobile" : 0,
+   "feed-item" : "",
+   "type" : "conversation",
+   "slug" : "programming-virtues"
 }
 

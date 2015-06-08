@@ -1,27 +1,27 @@
 {
-   "from-feed-id" : 0,
-   "bookmarklet" : 0,
-   "date-gmt" : "2012-03-24 20:24:17 GMT",
-   "mobile" : 0,
-   "video-player" : "<iframe width=\"400\" height=\"299\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/SMONf6TPEyw?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "date" : "Sat, 24 Mar 2012 14:24:17",
-   "video-player-500" : "<iframe width=\"500\" height=\"374\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/SMONf6TPEyw?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/19851253706/you-can-talk-to-me-you-can-talk-to-me-you-can",
-   "id" : "19851253706",
-   "feed-item" : "",
-   "reblog-key" : "KqPwPSeo",
    "tags" : [
       "the beatles",
       "music",
       "hey bulldog"
    ],
-   "url" : "http://tumblr.ggvaidya.com/post/19851253706",
-   "unix-timestamp" : 1332620657,
    "video-caption" : "<p>&ldquo;You can talk to me / You can talk to me / You can talk to me / If you&rsquo;re lonely you can talk to me&rdquo;</p>",
-   "type" : "video",
-   "video-player-250" : "<iframe width=\"250\" height=\"187\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/SMONf6TPEyw?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/19851253706/you-can-talk-to-me-you-can-talk-to-me-you-can",
+   "date" : "Sat, 24 Mar 2012 14:24:17",
+   "unix-timestamp" : 1332620657,
+   "video-source" : "http://www.youtube.com/watch?v=SMONf6TPEyw",
+   "mobile" : 0,
+   "date-gmt" : "2012-03-24 20:24:17 GMT",
    "slug" : "you-can-talk-to-me-you-can-talk-to-me-you-can",
+   "type" : "video",
+   "feed-item" : "",
    "format" : "html",
-   "video-source" : "http://www.youtube.com/watch?v=SMONf6TPEyw"
+   "reblog-key" : "KqPwPSeo",
+   "video-player-250" : "<iframe width=\"250\" height=\"187\" src=\"https://www.youtube.com/embed/SMONf6TPEyw?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-player" : "<iframe width=\"400\" height=\"299\" src=\"https://www.youtube.com/embed/SMONf6TPEyw?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "from-feed-id" : 0,
+   "bookmarklet" : 0,
+   "id" : "19851253706",
+   "url" : "http://tumblr.ggvaidya.com/post/19851253706",
+   "video-player-500" : "<iframe width=\"500\" height=\"374\" src=\"https://www.youtube.com/embed/SMONf6TPEyw?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
 }
 

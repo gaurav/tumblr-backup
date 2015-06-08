@@ -1,21 +1,11 @@
 {
-   "id" : "66535150230",
-   "video-player-500" : "<iframe width=\"500\" height=\"281\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/NLRqsIpsku4?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/66535150230/this-is-such-a-quality-song-and-the-lyrics-are-so",
-   "date" : "Sat, 09 Nov 2013 21:10:47",
-   "video-player" : "<iframe width=\"400\" height=\"225\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/NLRqsIpsku4?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "mobile" : 0,
-   "bookmarklet" : 0,
    "date-gmt" : "2013-11-10 04:10:47 GMT",
-   "from-feed-id" : 0,
-   "format" : "html",
-   "video-source" : "http://www.youtube.com/watch?v=NLRqsIpsku4",
+   "mobile" : 0,
    "slug" : "this-is-such-a-quality-song-and-the-lyrics-are-so",
-   "video-player-250" : "<iframe width=\"250\" height=\"140\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/NLRqsIpsku4?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "feed-item" : "",
    "type" : "video",
-   "unix-timestamp" : 1384056647,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/66535150230/this-is-such-a-quality-song-and-the-lyrics-are-so",
    "video-caption" : "<p>This is such a quality song, and the lyrics are so brilliant. If that video gets taken down, <a href=\"http://www.youtube.com/watch?v=zRFhKDbSKFY\">this link looks slightly more officialish</a>.</p>",
-   "reblog-key" : "ziqAtCSI",
    "tags" : [
       "hindi",
       "music",
@@ -23,7 +13,17 @@
       "woh ladki hain kahan",
       "bollywood"
    ],
+   "date" : "Sat, 09 Nov 2013 21:10:47",
+   "unix-timestamp" : 1384056647,
+   "video-source" : "http://www.youtube.com/watch?v=NLRqsIpsku4",
+   "bookmarklet" : 0,
+   "from-feed-id" : 0,
+   "id" : "66535150230",
+   "video-player-500" : "<iframe width=\"500\" height=\"281\" src=\"https://www.youtube.com/embed/NLRqsIpsku4?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
    "url" : "http://tumblr.ggvaidya.com/post/66535150230",
-   "feed-item" : ""
+   "format" : "html",
+   "reblog-key" : "ziqAtCSI",
+   "video-player-250" : "<iframe width=\"250\" height=\"140\" src=\"https://www.youtube.com/embed/NLRqsIpsku4?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-player" : "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/NLRqsIpsku4?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
 }
 

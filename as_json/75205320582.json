@@ -1,24 +1,24 @@
 {
-   "feed-item" : "",
-   "reblog-key" : "ClCMuA9i",
+   "date" : "Fri, 31 Jan 2014 18:32:06",
+   "unix-timestamp" : 1391218326,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/75205320582/university-of-california-berkeley",
    "tags" : [
       "brilliant",
       "science",
       "frontiers for young minds"
    ],
-   "url" : "http://tumblr.ggvaidya.com/post/75205320582",
-   "unix-timestamp" : 1391218326,
+   "feed-item" : "",
    "type" : "quote",
-   "slug" : "university-of-california-berkeley",
-   "format" : "html",
    "quote-source" : "Science, <em><a href=\"http://www.sciencemag.org/content/343/6169/355.full\">News of the Week: Random Sample: Young Editors Ask Neuroscientists: &lsquo;Why Should I Care?&rsquo;</a></em>, January 24, 2014. doi:<a href=\"http://dx.doi.org/10.1126/science.343.6169.355\">10.1126/science.343.6169.355</a>",
-   "from-feed-id" : 0,
-   "bookmarklet" : 0,
+   "slug" : "university-of-california-berkeley",
    "date-gmt" : "2014-02-01 01:32:06 GMT",
    "mobile" : 0,
+   "reblog-key" : "ClCMuA9i",
+   "format" : "html",
+   "url" : "http://tumblr.ggvaidya.com/post/75205320582",
+   "id" : "75205320582",
    "quote-text" : "[University of California, Berkeley, neuroscientist Robert] Knight has now convinced the Nature Publishing Group (NPG) to launch an online research journal called <a href=\"http://kids.frontiersin.org/\"><em>Frontiers for Young Minds</em></a> which is not only geared toward kids, but edited by them. [&hellip;] More than a dozen articles have already been published and, Knight says, &ldquo;not one scientist has complained about something the kids wanted to fix.&rdquo; That&rsquo;s in spite of some pretty tough criticism. &ldquo;I can see that it shows something about how the brain works,&rdquo; wrote one uncompromising young editor, &ldquo;but it is not obvious how this knowledge will help with anything.&rdquo;",
-   "date" : "Fri, 31 Jan 2014 18:32:06",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/75205320582/university-of-california-berkeley",
-   "id" : "75205320582"
+   "bookmarklet" : 0,
+   "from-feed-id" : 0
 }
 

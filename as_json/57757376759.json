@@ -1,24 +1,24 @@
 {
-   "unix-timestamp" : 1376016195,
-   "type" : "regular",
+   "date-gmt" : "2013-08-09 02:43:15 GMT",
+   "mobile" : 0,
+   "slug" : "happy-dalek-day-followers",
    "feed-item" : "",
-   "url" : "http://tumblr.ggvaidya.com/post/57757376759",
-   "reblog-key" : "dLs4X4p5",
+   "type" : "regular",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/57757376759/happy-dalek-day-followers",
    "tags" : [
       "daleks",
       "doctor who",
       "dalek"
    ],
-   "format" : "html",
-   "slug" : "happy-dalek-day-followers",
-   "mobile" : 0,
-   "from-feed-id" : 0,
-   "date-gmt" : "2013-08-09 02:43:15 GMT",
+   "unix-timestamp" : 1376016195,
+   "date" : "Thu, 08 Aug 2013 20:43:15",
    "bookmarklet" : 0,
-   "regular-title" : "HAPPY DALEK DAY FOLLOWERS",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/57757376759/happy-dalek-day-followers",
-   "regular-body" : "<p><a href=\"http://doitforasgard.tumblr.com/post/57695444126/happy-dalek-day-followers\" class=\"tumblr_blog\">doitforasgard</a>:</p>\n\n<blockquote><p>In memory of Terry Nation</p>\n<p><img src=\"http://media.tumblr.com/2d40a681634f83ffe359d326920be5b4/tumblr_inline_mr7luydsc41qz4rgp.gif\"/></p></blockquote>\n\n<p>The only way a Dalek knows how to party.</p>",
+   "from-feed-id" : 0,
    "id" : "57757376759",
-   "date" : "Thu, 08 Aug 2013 20:43:15"
+   "url" : "http://tumblr.ggvaidya.com/post/57757376759",
+   "format" : "html",
+   "regular-body" : "<p><a href=\"http://doitforasgard.tumblr.com/post/57695444126/happy-dalek-day-followers\" class=\"tumblr_blog\">doitforasgard</a>:</p>\n\n<blockquote><p>In memory of Terry Nation</p>\n<p><img src=\"http://media.tumblr.com/2d40a681634f83ffe359d326920be5b4/tumblr_inline_mr7luydsc41qz4rgp.gif\"/></p></blockquote>\n\n<p>The only way a Dalek knows how to party.</p>",
+   "reblog-key" : "dLs4X4p5",
+   "regular-title" : "HAPPY DALEK DAY FOLLOWERS"
 }
 

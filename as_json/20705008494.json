@@ -1,26 +1,26 @@
 {
-   "id" : "20705008494",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/20705008494/take-my-love-take-my-land-take-me-where-i",
-   "video-player-500" : "<iframe width=\"500\" height=\"281\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/LrAS20mNZUE?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "date" : "Sun, 08 Apr 2012 02:30:00",
-   "video-player" : "<iframe width=\"400\" height=\"225\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/LrAS20mNZUE?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "type" : "video",
+   "feed-item" : "",
+   "slug" : "take-my-love-take-my-land-take-me-where-i",
    "mobile" : 0,
    "date-gmt" : "2012-04-08 08:30:00 GMT",
-   "bookmarklet" : 0,
-   "from-feed-id" : 0,
    "video-source" : "http://www.youtube.com/watch?v=LrAS20mNZUE",
-   "format" : "html",
-   "slug" : "take-my-love-take-my-land-take-me-where-i",
-   "type" : "video",
-   "video-player-250" : "<iframe width=\"250\" height=\"140\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/LrAS20mNZUE?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "video-caption" : "<p>&ldquo;Take my love, take my land, take me where I cannot stand; I don&rsquo;t care, I&rsquo;m still free, you can&rsquo;t take the sky from me&rdquo; &ndash; Firefly opening credits</p>",
+   "date" : "Sun, 08 Apr 2012 02:30:00",
    "unix-timestamp" : 1333873800,
-   "url" : "http://tumblr.ggvaidya.com/post/20705008494",
-   "reblog-key" : "IWU8Tao6",
    "tags" : [
       "firefly",
       "opening credits"
    ],
-   "feed-item" : ""
+   "video-caption" : "<p>&ldquo;Take my love, take my land, take me where I cannot stand; I don&rsquo;t care, I&rsquo;m still free, you can&rsquo;t take the sky from me&rdquo; &ndash; Firefly opening credits</p>",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/20705008494/take-my-love-take-my-land-take-me-where-i",
+   "url" : "http://tumblr.ggvaidya.com/post/20705008494",
+   "video-player-500" : "<iframe width=\"500\" height=\"281\" src=\"https://www.youtube.com/embed/LrAS20mNZUE?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "id" : "20705008494",
+   "from-feed-id" : 0,
+   "bookmarklet" : 0,
+   "video-player" : "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/LrAS20mNZUE?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-player-250" : "<iframe width=\"250\" height=\"140\" src=\"https://www.youtube.com/embed/LrAS20mNZUE?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "reblog-key" : "IWU8Tao6",
+   "format" : "html"
 }
 

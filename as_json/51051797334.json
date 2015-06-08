@@ -1,36 +1,36 @@
 {
    "mobile" : 0,
    "date-gmt" : "2013-05-22 05:26:50 GMT",
-   "bookmarklet" : 0,
-   "from-feed-id" : 0,
-   "id" : "51051797334",
-   "conversation-title" : null,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/51051797334/fantasy-novelist-alright-time-to-create-my",
-   "date" : "Tue, 21 May 2013 23:26:50",
-   "conversation-text" : "Fantasy novelist: Alright, time to create my fantasy world. Great thing about this genre is that I can make it anything I want. Could be based on any culture in any place from any time. Could be a mix of places and times, or something newly invented by me. Yup, there is literally nothing out of bounds here.\r\nFantasy novelist: I'm gonna go with medieval England.",
+   "conversation" : [
+      {
+         "label" : "Fantasy novelist:",
+         "phrase" : "Alright, time to create my fantasy world. Great thing about this genre is that I can make it anything I want. Could be based on any culture in any place from any time. Could be a mix of places and times, or something newly invented by me. Yup, there is literally nothing out of bounds here.\r",
+         "name" : "Fantasy novelist"
+      },
+      {
+         "name" : "Fantasy novelist",
+         "phrase" : "I'm gonna go with medieval England.",
+         "label" : "Fantasy novelist:"
+      }
+   ],
+   "slug" : "fantasy-novelist-alright-time-to-create-my",
    "type" : "conversation",
-   "unix-timestamp" : 1369200410,
-   "url" : "http://tumblr.ggvaidya.com/post/51051797334",
-   "reblog-key" : "YPM4lOxh",
+   "feed-item" : "",
    "tags" : [
       "and do it badly",
       "medieval doesnt mean primitive",
       "just more knights who say ni"
    ],
-   "feed-item" : "",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/51051797334/fantasy-novelist-alright-time-to-create-my",
+   "unix-timestamp" : 1369200410,
+   "date" : "Tue, 21 May 2013 23:26:50",
+   "conversation-text" : "Fantasy novelist: Alright, time to create my fantasy world. Great thing about this genre is that I can make it anything I want. Could be based on any culture in any place from any time. Could be a mix of places and times, or something newly invented by me. Yup, there is literally nothing out of bounds here.\r\nFantasy novelist: I'm gonna go with medieval England.",
+   "from-feed-id" : 0,
+   "bookmarklet" : 0,
+   "id" : "51051797334",
+   "url" : "http://tumblr.ggvaidya.com/post/51051797334",
    "format" : "html",
-   "slug" : "fantasy-novelist-alright-time-to-create-my",
-   "conversation" : [
-      {
-         "phrase" : "Alright, time to create my fantasy world. Great thing about this genre is that I can make it anything I want. Could be based on any culture in any place from any time. Could be a mix of places and times, or something newly invented by me. Yup, there is literally nothing out of bounds here.\r",
-         "name" : "Fantasy novelist",
-         "label" : "Fantasy novelist:"
-      },
-      {
-         "phrase" : "I'm gonna go with medieval England.",
-         "name" : "Fantasy novelist",
-         "label" : "Fantasy novelist:"
-      }
-   ]
+   "reblog-key" : "YPM4lOxh",
+   "conversation-title" : null
 }
 

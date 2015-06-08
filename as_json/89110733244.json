@@ -1,11 +1,13 @@
 {
-   "quote-source" : "Ron Padgett, <em><a href=\"http://www.poetryfoundation.org/poem/179241\">The Love Cook</a></em> (2001), The Poetry Foundation",
-   "format" : "html",
-   "slug" : "its-night-and-the-neighbors-are-sleeping",
+   "feed-item" : "",
    "type" : "quote",
+   "quote-source" : "Ron Padgett, <em><a href=\"http://www.poetryfoundation.org/poem/179241\">The Love Cook</a></em> (2001), The Poetry Foundation",
+   "slug" : "its-night-and-the-neighbors-are-sleeping",
+   "date-gmt" : "2014-06-18 00:58:23 GMT",
+   "mobile" : 0,
+   "date" : "Tue, 17 Jun 2014 18:58:23",
    "unix-timestamp" : 1403053103,
-   "url" : "http://tumblr.ggvaidya.com/post/89110733244",
-   "reblog-key" : "3f4GTQ58",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/89110733244/its-night-and-the-neighbors-are-sleeping",
    "tags" : [
       "cute",
       "poem",
@@ -13,14 +15,12 @@
       "relationships",
       "love"
    ],
-   "feed-item" : "",
+   "url" : "http://tumblr.ggvaidya.com/post/89110733244",
    "id" : "89110733244",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/89110733244/its-night-and-the-neighbors-are-sleeping",
-   "date" : "Tue, 17 Jun 2014 18:58:23",
-   "mobile" : 0,
    "quote-text" : "itâs night and the neighbors   <br/>\nare sleeping, those dolts, and   <br/>\nthe stars are shining bright,   <br/>\nand Iâve got the burners lit   <br/>\nfor you, you hungry thing.",
-   "date-gmt" : "2014-06-18 00:58:23 GMT",
    "bookmarklet" : 0,
-   "from-feed-id" : 0
+   "from-feed-id" : 0,
+   "reblog-key" : "3f4GTQ58",
+   "format" : "html"
 }
 

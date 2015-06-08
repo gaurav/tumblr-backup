@@ -1,19 +1,6 @@
 {
-   "video-player" : "<iframe width=\"400\" height=\"299\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/4BEf2nRwKX8?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "date" : "Mon, 09 Jun 2014 19:12:30",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/88328000434/i-see-a-rhinoceros",
-   "video-player-500" : "<iframe width=\"500\" height=\"374\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/4BEf2nRwKX8?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "id" : "88328000434",
-   "from-feed-id" : 0,
-   "date-gmt" : "2014-06-10 01:12:30 GMT",
-   "bookmarklet" : 0,
-   "mobile" : 0,
-   "slug" : "i-see-a-rhinoceros",
    "video-source" : "https://www.youtube.com/watch?v=4BEf2nRwKX8",
-   "format" : "html",
-   "feed-item" : "",
-   "url" : "http://tumblr.ggvaidya.com/post/88328000434",
-   "reblog-key" : "MgavWJtg",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/88328000434/i-see-a-rhinoceros",
    "tags" : [
       "rhinoceros",
       "midnight in paris",
@@ -21,8 +8,21 @@
       "adrien brody"
    ],
    "video-caption" : "<p>&ldquo;I see &hellip; a rhinoceros&rdquo;</p>",
+   "date" : "Mon, 09 Jun 2014 19:12:30",
    "unix-timestamp" : 1402362750,
+   "slug" : "i-see-a-rhinoceros",
+   "feed-item" : "",
    "type" : "video",
-   "video-player-250" : "<iframe width=\"250\" height=\"187\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/4BEf2nRwKX8?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>"
+   "date-gmt" : "2014-06-10 01:12:30 GMT",
+   "mobile" : 0,
+   "reblog-key" : "MgavWJtg",
+   "video-player-250" : "<iframe width=\"250\" height=\"187\" src=\"https://www.youtube.com/embed/4BEf2nRwKX8?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-player" : "<iframe width=\"400\" height=\"299\" src=\"https://www.youtube.com/embed/4BEf2nRwKX8?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "format" : "html",
+   "id" : "88328000434",
+   "video-player-500" : "<iframe width=\"500\" height=\"374\" src=\"https://www.youtube.com/embed/4BEf2nRwKX8?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "url" : "http://tumblr.ggvaidya.com/post/88328000434",
+   "bookmarklet" : 0,
+   "from-feed-id" : 0
 }
 

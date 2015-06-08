@@ -1,27 +1,27 @@
 {
-   "date" : "Sun, 16 Jun 2013 12:39:05",
-   "video-player" : "<iframe width=\"400\" height=\"299\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/iOua4sKqXEQ?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
    "id" : "53128949814",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/53128949814/in-my-head-for-some-reason-well-the-much-better",
-   "video-player-500" : "<iframe width=\"500\" height=\"374\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/iOua4sKqXEQ?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "date-gmt" : "2013-06-16 18:39:05 GMT",
-   "bookmarklet" : 0,
-   "from-feed-id" : 0,
-   "mobile" : 0,
-   "slug" : "in-my-head-for-some-reason-well-the-much-better",
-   "video-source" : "https://www.youtube.com/watch?v=iOua4sKqXEQ",
-   "format" : "html",
    "url" : "http://tumblr.ggvaidya.com/post/53128949814",
+   "video-player-500" : "<iframe width=\"500\" height=\"374\" src=\"https://www.youtube.com/embed/iOua4sKqXEQ?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "from-feed-id" : 0,
+   "bookmarklet" : 0,
+   "reblog-key" : "YJif7ITa",
+   "video-player" : "<iframe width=\"400\" height=\"299\" src=\"https://www.youtube.com/embed/iOua4sKqXEQ?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-player-250" : "<iframe width=\"250\" height=\"187\" src=\"https://www.youtube.com/embed/iOua4sKqXEQ?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "format" : "html",
+   "slug" : "in-my-head-for-some-reason-well-the-much-better",
+   "type" : "video",
+   "feed-item" : "",
+   "mobile" : 0,
+   "date-gmt" : "2013-06-16 18:39:05 GMT",
+   "video-source" : "https://www.youtube.com/watch?v=iOua4sKqXEQ",
    "tags" : [
       "music",
       "The Whitlams",
       "Kate Kelly"
    ],
-   "reblog-key" : "YJif7ITa",
-   "feed-item" : "",
-   "type" : "video",
-   "video-player-250" : "<iframe width=\"250\" height=\"187\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/iOua4sKqXEQ?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
    "video-caption" : "<p>In my head for some reason (well, the much better studio version anyway), so I thought I&rsquo;d put it up here.</p>",
-   "unix-timestamp" : 1371407945
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/53128949814/in-my-head-for-some-reason-well-the-much-better",
+   "unix-timestamp" : 1371407945,
+   "date" : "Sun, 16 Jun 2013 12:39:05"
 }
 

@@ -1,19 +1,19 @@
 {
-   "type" : "quote",
-   "unix-timestamp" : 1386440255,
-   "url" : "http://tumblr.ggvaidya.com/post/69286068502",
-   "reblog-key" : "XzBlwTUd",
    "feed-item" : "",
+   "type" : "quote",
    "quote-source" : "Kate DiCamillo, from Because of Winn-Dixie (via <a href=\"http://literaryfirstimpressions.tumblr.com/\" class=\"tumblr_blog\">literaryfirstimpressions</a>)",
-   "format" : "html",
    "slug" : "my-name-is-india-opal-buloni-and-last-summer-my",
-   "mobile" : 0,
-   "quote-text" : "My name is India Opal Buloni, and last summer my dad, the preacher, sent me to the store for a box of macaroni-and-cheese, some white rice, and two tomatoes and I came back with a dog.",
    "date-gmt" : "2013-12-07 18:17:35 GMT",
-   "bookmarklet" : 0,
-   "from-feed-id" : 0,
-   "id" : "69286068502",
+   "mobile" : 0,
+   "unix-timestamp" : 1386440255,
+   "date" : "Sat, 07 Dec 2013 11:17:35",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/69286068502/my-name-is-india-opal-buloni-and-last-summer-my",
-   "date" : "Sat, 07 Dec 2013 11:17:35"
+   "url" : "http://tumblr.ggvaidya.com/post/69286068502",
+   "id" : "69286068502",
+   "bookmarklet" : 0,
+   "quote-text" : "My name is India Opal Buloni, and last summer my dad, the preacher, sent me to the store for a box of macaroni-and-cheese, some white rice, and two tomatoes and I came back with a dog.",
+   "from-feed-id" : 0,
+   "reblog-key" : "XzBlwTUd",
+   "format" : "html"
 }
 

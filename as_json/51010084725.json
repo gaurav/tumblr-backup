@@ -1,28 +1,28 @@
 {
-   "slug" : "ostensibly-a-fascinating-look-at-what-attracts",
    "format" : "html",
-   "video-source" : "http://vimeo.com/19788132",
-   "feed-item" : "",
+   "reblog-key" : "kpzobPpK",
+   "video-player-250" : "<iframe src=\"https://player.vimeo.com/video/19788132?title=0&byline=0&portrait=0\" width=\"250\" height=\"112\" frameborder=\"0\" title=\"There Will Be Blood with gaze locations of 11 viewers\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+   "video-player" : "<iframe src=\"https://player.vimeo.com/video/19788132?title=0&byline=0&portrait=0\" width=\"400\" height=\"180\" frameborder=\"0\" title=\"There Will Be Blood with gaze locations of 11 viewers\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+   "bookmarklet" : 0,
+   "from-feed-id" : 0,
+   "id" : "51010084725",
+   "video-player-500" : "<iframe src=\"https://player.vimeo.com/video/19788132?title=0&byline=0&portrait=0\" width=\"500\" height=\"225\" frameborder=\"0\" title=\"There Will Be Blood with gaze locations of 11 viewers\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+   "url" : "http://tumblr.ggvaidya.com/post/51010084725",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/51010084725/ostensibly-a-fascinating-look-at-what-attracts",
    "tags" : [
       "There Will Be Blood",
       "film",
       "direction",
       "gaze"
    ],
-   "reblog-key" : "kpzobPpK",
-   "url" : "http://tumblr.ggvaidya.com/post/51010084725",
-   "unix-timestamp" : 1369167062,
    "video-caption" : "<p>Ostensibly, a <a href=\"http://mentalfloss.com/article/27230/what-11-pairs-eyeballs-watching-movie-looks\">fascinating look at what attracts our gaze in movies</a>. Really, just an excuse to watch a fantastic scene from <a href=\"https://en.wikipedia.org/wiki/There_Will_Be_Blood\"><em>There Will Be Blood</em></a>.</p>",
-   "video-player-250" : "<iframe src=\"https://player.vimeo.com/video/19788132?title=0&byline=0&portrait=0\" width=\"250\" height=\"112\" frameborder=\"0\" title=\"There Will Be Blood with gaze locations of 11 viewers\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
-   "type" : "video",
-   "video-player" : "<iframe src=\"https://player.vimeo.com/video/19788132?title=0&byline=0&portrait=0\" width=\"400\" height=\"180\" frameborder=\"0\" title=\"There Will Be Blood with gaze locations of 11 viewers\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+   "unix-timestamp" : 1369167062,
    "date" : "Tue, 21 May 2013 14:11:02",
-   "video-player-500" : "<iframe src=\"https://player.vimeo.com/video/19788132?title=0&byline=0&portrait=0\" width=\"500\" height=\"225\" frameborder=\"0\" title=\"There Will Be Blood with gaze locations of 11 viewers\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/51010084725/ostensibly-a-fascinating-look-at-what-attracts",
-   "id" : "51010084725",
-   "from-feed-id" : 0,
-   "bookmarklet" : 0,
+   "video-source" : "http://vimeo.com/19788132",
    "date-gmt" : "2013-05-21 20:11:02 GMT",
-   "mobile" : 0
+   "mobile" : 0,
+   "slug" : "ostensibly-a-fascinating-look-at-what-attracts",
+   "feed-item" : "",
+   "type" : "video"
 }
 

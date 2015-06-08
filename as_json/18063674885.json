@@ -1,25 +1,25 @@
 {
+   "bookmarklet" : 0,
+   "from-feed-id" : 0,
+   "id" : "18063674885",
+   "video-player-500" : "<iframe width=\"500\" height=\"374\" src=\"https://www.youtube.com/embed/U9BinpcqWGM?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "url" : "http://tumblr.ggvaidya.com/post/18063674885",
    "format" : "html",
-   "video-source" : "http://www.youtube.com/watch?v=U9BinpcqWGM",
-   "slug" : "people-of-america-i-bring-you-good-tidings-the",
-   "unix-timestamp" : 1329901314,
-   "video-caption" : "<p>People of America, I bring you good tidings. <em><a href=\"http://en.wikipedia.org/wiki/The_Circus_(film)\">The Circus</a></em> (1928), a silent movie by Charlie Chaplin, is now <a href=\"http://www.hulu.com/watch/215904/the-circus\">available on Hulu</a> for free for a limited time. Hulu is only available in the US (?), though, so if you&rsquo;re outside, too bad, go get your <em><a href=\"http://en.wikipedia.org/wiki/A_King_in_New_York\">A King in New York</a></em> DVD out and watch that, I guess.\n</p>\n\n<p>(If you are within the US, you can watch the YouTube clip linked herein <a href=\"http://www.hulu.com/watch/215904/the-circus?c=2247:2472\">in high definition on Hulu</a>)</p>",
-   "type" : "video",
-   "video-player-250" : "<iframe width=\"250\" height=\"187\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/U9BinpcqWGM?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "feed-item" : "",
    "reblog-key" : "vlZPINYi",
+   "video-player" : "<iframe width=\"400\" height=\"299\" src=\"https://www.youtube.com/embed/U9BinpcqWGM?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-player-250" : "<iframe width=\"250\" height=\"187\" src=\"https://www.youtube.com/embed/U9BinpcqWGM?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "date-gmt" : "2012-02-22 09:01:54 GMT",
+   "mobile" : 0,
+   "slug" : "people-of-america-i-bring-you-good-tidings-the",
+   "feed-item" : "",
+   "type" : "video",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/18063674885/people-of-america-i-bring-you-good-tidings-the",
    "tags" : [
       "charlie chaplin"
    ],
-   "url" : "http://tumblr.ggvaidya.com/post/18063674885",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/18063674885/people-of-america-i-bring-you-good-tidings-the",
-   "video-player-500" : "<iframe width=\"500\" height=\"374\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/U9BinpcqWGM?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "id" : "18063674885",
-   "video-player" : "<iframe width=\"400\" height=\"299\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/U9BinpcqWGM?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-caption" : "<p>People of America, I bring you good tidings. <em><a href=\"http://en.wikipedia.org/wiki/The_Circus_(film)\">The Circus</a></em> (1928), a silent movie by Charlie Chaplin, is now <a href=\"http://www.hulu.com/watch/215904/the-circus\">available on Hulu</a> for free for a limited time. Hulu is only available in the US (?), though, so if you&rsquo;re outside, too bad, go get your <em><a href=\"http://en.wikipedia.org/wiki/A_King_in_New_York\">A King in New York</a></em> DVD out and watch that, I guess.\n</p>\n\n<p>(If you are within the US, you can watch the YouTube clip linked herein <a href=\"http://www.hulu.com/watch/215904/the-circus?c=2247:2472\">in high definition on Hulu</a>)</p>",
    "date" : "Wed, 22 Feb 2012 02:01:54",
-   "mobile" : 0,
-   "from-feed-id" : 0,
-   "bookmarklet" : 0,
-   "date-gmt" : "2012-02-22 09:01:54 GMT"
+   "unix-timestamp" : 1329901314,
+   "video-source" : "http://www.youtube.com/watch?v=U9BinpcqWGM"
 }
 

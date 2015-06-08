@@ -1,19 +1,19 @@
 {
-   "type" : "quote",
-   "unix-timestamp" : 1352435579,
-   "url" : "http://tumblr.ggvaidya.com/post/35320847110",
    "reblog-key" : "73SLKvE6",
-   "feed-item" : "",
-   "quote-source" : "<p><a href=\"http://en.wikipedia.org/wiki/Isaac_Asimov\">Isaac Asimov</a></p>\n<p><img height=\"254\" src=\"http://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Isaac_Asimov_on_Throne.png/220px-Isaac_Asimov_on_Throne.png\" width=\"220\"/></p> (via <a href=\"http://scienceisbeauty.tumblr.com/\" class=\"tumblr_blog\">scienceisbeauty</a>)\n\n<p>A besuited God-King.</p>",
    "format" : "html",
-   "slug" : "from-my-close-observation-of-writers-they-fall-in",
-   "mobile" : 0,
+   "id" : "35320847110",
+   "url" : "http://tumblr.ggvaidya.com/post/35320847110",
    "quote-text" : "From my close observation of writersâ¦ they fall in to two groups: 1) those who bleed copiously and visibly at any bad review, and 2) those who bleed copiously and secretly at any bad review.",
-   "date-gmt" : "2012-11-09 04:32:59 GMT",
    "bookmarklet" : 0,
    "from-feed-id" : 0,
-   "id" : "35320847110",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/35320847110/from-my-close-observation-of-writers-they-fall-in",
-   "date" : "Thu, 08 Nov 2012 21:32:59"
+   "date" : "Thu, 08 Nov 2012 21:32:59",
+   "unix-timestamp" : 1352435579,
+   "slug" : "from-my-close-observation-of-writers-they-fall-in",
+   "quote-source" : "<p><a href=\"http://en.wikipedia.org/wiki/Isaac_Asimov\">Isaac Asimov</a></p>\n<p><img height=\"254\" src=\"http://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Isaac_Asimov_on_Throne.png/220px-Isaac_Asimov_on_Throne.png\" width=\"220\"/></p> (via <a href=\"http://scienceisbeauty.tumblr.com/\" class=\"tumblr_blog\">scienceisbeauty</a>)\n\n<p>A besuited God-King.</p>",
+   "feed-item" : "",
+   "type" : "quote",
+   "date-gmt" : "2012-11-09 04:32:59 GMT",
+   "mobile" : 0
 }
 

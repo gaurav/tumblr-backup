@@ -1,25 +1,25 @@
 {
-   "video-player-500" : "<iframe width=\"500\" height=\"374\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/vEOZLQ3d1FI?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/41258200539/hallelujah",
+   "url" : "http://tumblr.ggvaidya.com/post/41258200539",
+   "video-player-500" : "<iframe width=\"500\" height=\"374\" src=\"https://www.youtube.com/embed/vEOZLQ3d1FI?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
    "id" : "41258200539",
-   "video-player" : "<iframe width=\"400\" height=\"299\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/vEOZLQ3d1FI?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "date" : "Tue, 22 Jan 2013 22:05:48",
-   "mobile" : 0,
    "from-feed-id" : 0,
    "bookmarklet" : 0,
-   "date-gmt" : "2013-01-23 05:05:48 GMT",
+   "video-player-250" : "<iframe width=\"250\" height=\"187\" src=\"https://www.youtube.com/embed/vEOZLQ3d1FI?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-player" : "<iframe width=\"400\" height=\"299\" src=\"https://www.youtube.com/embed/vEOZLQ3d1FI?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "reblog-key" : "wEh3kQK8",
    "format" : "html",
-   "video-source" : "https://www.youtube.com/watch?v=vEOZLQ3d1FI",
-   "slug" : "hallelujah",
-   "unix-timestamp" : 1358917548,
-   "video-caption" : "<p>Hallelujah.</p>",
-   "video-player-250" : "<iframe width=\"250\" height=\"187\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/vEOZLQ3d1FI?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
    "type" : "video",
    "feed-item" : "",
+   "slug" : "hallelujah",
+   "mobile" : 0,
+   "date-gmt" : "2013-01-23 05:05:48 GMT",
+   "video-source" : "https://www.youtube.com/watch?v=vEOZLQ3d1FI",
+   "date" : "Tue, 22 Jan 2013 22:05:48",
+   "unix-timestamp" : 1358917548,
    "tags" : [
       "music"
    ],
-   "reblog-key" : "wEh3kQK8",
-   "url" : "http://tumblr.ggvaidya.com/post/41258200539"
+   "video-caption" : "<p>Hallelujah.</p>",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/41258200539/hallelujah"
 }
 

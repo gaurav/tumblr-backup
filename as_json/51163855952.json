@@ -1,22 +1,22 @@
 {
-   "unix-timestamp" : 1369335947,
-   "type" : "quote",
+   "date-gmt" : "2013-05-23 19:05:47 GMT",
+   "mobile" : 0,
+   "quote-source" : "Death (Thud! by Terry Pratchett)",
+   "slug" : "has-it-never-struck-you-that-the-concept-of-a",
    "feed-item" : "",
-   "url" : "http://tumblr.ggvaidya.com/post/51163855952",
+   "type" : "quote",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/51163855952/has-it-never-struck-you-that-the-concept-of-a",
    "tags" : [
       "huh"
    ],
-   "reblog-key" : "Ac2RWcnL",
-   "quote-source" : "Death (Thud! by Terry Pratchett)",
-   "format" : "html",
-   "slug" : "has-it-never-struck-you-that-the-concept-of-a",
-   "quote-text" : "<span style=\"font-variant:small-caps\">Has it never struck you that the concept of a written narrative is somewhat strange? â¦ it is a made-up story. Very strange. All one need do is turn to the last page and the answer is there. What, therefore, is the point of deliberately not knowing?</span>",
-   "mobile" : 0,
-   "from-feed-id" : 0,
-   "date-gmt" : "2013-05-23 19:05:47 GMT",
+   "date" : "Thu, 23 May 2013 13:05:47",
+   "unix-timestamp" : 1369335947,
    "bookmarklet" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/51163855952/has-it-never-struck-you-that-the-concept-of-a",
+   "quote-text" : "<span style=\"font-variant:small-caps\">Has it never struck you that the concept of a written narrative is somewhat strange? â¦ it is a made-up story. Very strange. All one need do is turn to the last page and the answer is there. What, therefore, is the point of deliberately not knowing?</span>",
+   "from-feed-id" : 0,
    "id" : "51163855952",
-   "date" : "Thu, 23 May 2013 13:05:47"
+   "url" : "http://tumblr.ggvaidya.com/post/51163855952",
+   "format" : "html",
+   "reblog-key" : "Ac2RWcnL"
 }
 

@@ -1,26 +1,26 @@
 {
-   "unix-timestamp" : 1332269285,
    "video-caption" : "<p>&lsquo;tis the season for political music videos! And this one is pretty darn awesome.</p>",
-   "type" : "video",
-   "video-player-250" : "<iframe width=\"250\" height=\"140\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/bxch-yi14BE?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "feed-item" : "",
-   "reblog-key" : "5gnKqkvT",
    "tags" : [
       "mitt romney",
       "funny"
    ],
-   "url" : "http://tumblr.ggvaidya.com/post/19634595904",
-   "format" : "html",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/19634595904/tis-the-season-for-political-music-videos-and",
+   "date" : "Tue, 20 Mar 2012 12:48:05",
+   "unix-timestamp" : 1332269285,
    "video-source" : "http://www.youtube.com/watch?v=bxch-yi14BE&feature=colike",
-   "slug" : "tis-the-season-for-political-music-videos-and",
    "mobile" : 0,
+   "date-gmt" : "2012-03-20 18:48:05 GMT",
+   "slug" : "tis-the-season-for-political-music-videos-and",
+   "type" : "video",
+   "feed-item" : "",
+   "format" : "html",
+   "reblog-key" : "5gnKqkvT",
+   "video-player" : "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/bxch-yi14BE?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-player-250" : "<iframe width=\"250\" height=\"140\" src=\"https://www.youtube.com/embed/bxch-yi14BE?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
    "from-feed-id" : 0,
    "bookmarklet" : 0,
-   "date-gmt" : "2012-03-20 18:48:05 GMT",
-   "video-player-500" : "<iframe width=\"500\" height=\"281\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/bxch-yi14BE?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/19634595904/tis-the-season-for-political-music-videos-and",
    "id" : "19634595904",
-   "video-player" : "<iframe width=\"400\" height=\"225\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/bxch-yi14BE?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "date" : "Tue, 20 Mar 2012 12:48:05"
+   "url" : "http://tumblr.ggvaidya.com/post/19634595904",
+   "video-player-500" : "<iframe width=\"500\" height=\"281\" src=\"https://www.youtube.com/embed/bxch-yi14BE?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
 }
 

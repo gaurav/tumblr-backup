@@ -1,25 +1,25 @@
 {
-   "from-feed-id" : 0,
-   "date-gmt" : "2013-12-24 04:38:15 GMT",
+   "format" : "html",
+   "reblog-key" : "bEmavazW",
    "bookmarklet" : 0,
-   "mobile" : 0,
    "quote-text" : "If youâre gonna bail, bail early. This applies to relationships, college classes, and sledding,",
-   "date" : "Mon, 23 Dec 2013 21:38:15",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/70973417600/if-youre-gonna-bail-bail-early-this-applies-to",
+   "from-feed-id" : 0,
    "id" : "70973417600",
-   "feed-item" : "",
    "url" : "http://tumblr.ggvaidya.com/post/70973417600",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/70973417600/if-youre-gonna-bail-bail-early-this-applies-to",
    "tags" : [
       "hmm",
       "relationships",
       "life",
       "advice"
    ],
-   "reblog-key" : "bEmavazW",
+   "date" : "Mon, 23 Dec 2013 21:38:15",
    "unix-timestamp" : 1387859895,
-   "type" : "quote",
-   "slug" : "if-youre-gonna-bail-bail-early-this-applies-to",
+   "date-gmt" : "2013-12-24 04:38:15 GMT",
+   "mobile" : 0,
    "quote-source" : "Advice from my high school science teacher, Mr. MillerÂ <a class=\"tumblr_blog\" href=\"http://mumfordslionheart.tumblr.com/\"><br/></a> (via <a class=\"tumblr_blog\" href=\"http://makaiau.tumblr.com/\">makaiau</a>)",
-   "format" : "html"
+   "slug" : "if-youre-gonna-bail-bail-early-this-applies-to",
+   "feed-item" : "",
+   "type" : "quote"
 }
 

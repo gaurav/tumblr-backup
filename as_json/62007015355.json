@@ -1,27 +1,27 @@
 {
-   "slug" : "",
    "format" : "html",
-   "video-source" : "http://www.youtube.com/watch?v=lExW80sXsHs",
-   "feed-item" : "",
+   "video-player" : "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/lExW80sXsHs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-player-250" : "<iframe width=\"250\" height=\"140\" src=\"https://www.youtube.com/embed/lExW80sXsHs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
    "reblog-key" : "UiWLkZvy",
+   "bookmarklet" : 0,
+   "from-feed-id" : 0,
+   "video-player-500" : "<iframe width=\"500\" height=\"281\" src=\"https://www.youtube.com/embed/lExW80sXsHs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "url" : "http://tumblr.ggvaidya.com/post/62007015355",
+   "id" : "62007015355",
+   "unix-timestamp" : 1379890824,
+   "date" : "Sun, 22 Sep 2013 17:00:24",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/62007015355",
    "tags" : [
       "woah",
       "pentatonix",
       "A cappella"
    ],
-   "url" : "http://tumblr.ggvaidya.com/post/62007015355",
-   "unix-timestamp" : 1379890824,
    "video-caption" : "",
-   "type" : "video",
-   "video-player-250" : "<iframe width=\"250\" height=\"140\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/lExW80sXsHs?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "video-player" : "<iframe width=\"400\" height=\"225\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/lExW80sXsHs?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "date" : "Sun, 22 Sep 2013 17:00:24",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/62007015355",
-   "video-player-500" : "<iframe width=\"500\" height=\"281\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/lExW80sXsHs?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "id" : "62007015355",
-   "from-feed-id" : 0,
-   "bookmarklet" : 0,
+   "video-source" : "http://www.youtube.com/watch?v=lExW80sXsHs",
    "date-gmt" : "2013-09-22 23:00:24 GMT",
-   "mobile" : 0
+   "mobile" : 0,
+   "feed-item" : "",
+   "type" : "video",
+   "slug" : ""
 }
 

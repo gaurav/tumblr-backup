@@ -1,28 +1,28 @@
 {
-   "unix-timestamp" : 1386221163,
-   "video-caption" : "<p><a href=\"http://newswatch.nationalgeographic.com/2013/12/03/rare-video-captures-tiger-making-its-kill/\">A tiger killing a gaur</a>.</p>",
    "type" : "video",
-   "video-player-250" : "<iframe width=\"250\" height=\"140\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/cMv9TtEjVRg?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
    "feed-item" : "",
-   "reblog-key" : "DcXtTBmx",
+   "slug" : "a-tiger-killing-a-gaur",
+   "mobile" : 0,
+   "date-gmt" : "2013-12-05 05:26:03 GMT",
+   "video-source" : "http://youtu.be/cMv9TtEjVRg",
+   "unix-timestamp" : 1386221163,
+   "date" : "Wed, 04 Dec 2013 22:26:03",
+   "video-caption" : "<p><a href=\"http://newswatch.nationalgeographic.com/2013/12/03/rare-video-captures-tiger-making-its-kill/\">A tiger killing a gaur</a>.</p>",
    "tags" : [
       "gasp",
       "tiger",
       "gaur",
       "hunting"
    ],
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/69051414626/a-tiger-killing-a-gaur",
    "url" : "http://tumblr.ggvaidya.com/post/69051414626",
-   "format" : "html",
-   "video-source" : "http://youtu.be/cMv9TtEjVRg",
-   "slug" : "a-tiger-killing-a-gaur",
-   "mobile" : 0,
+   "video-player-500" : "<iframe width=\"500\" height=\"281\" src=\"https://www.youtube.com/embed/cMv9TtEjVRg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "id" : "69051414626",
    "from-feed-id" : 0,
    "bookmarklet" : 0,
-   "date-gmt" : "2013-12-05 05:26:03 GMT",
-   "video-player-500" : "<iframe width=\"500\" height=\"281\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/cMv9TtEjVRg?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/69051414626/a-tiger-killing-a-gaur",
-   "id" : "69051414626",
-   "video-player" : "<iframe width=\"400\" height=\"225\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/cMv9TtEjVRg?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "date" : "Wed, 04 Dec 2013 22:26:03"
+   "video-player" : "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/cMv9TtEjVRg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-player-250" : "<iframe width=\"250\" height=\"140\" src=\"https://www.youtube.com/embed/cMv9TtEjVRg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "reblog-key" : "DcXtTBmx",
+   "format" : "html"
 }
 
