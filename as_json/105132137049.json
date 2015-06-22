@@ -1,23 +1,23 @@
 {
-   "unix-timestamp" : 1418518943,
+   "regular-body" : "<p><a href=\"http://generatedcontent.org/post/45384206019/writing-modes\" class=\"tumblr_blog\">dstorey</a>:</p>\n\n<blockquote>\n<p>Languages with latin-based writing systems such as English are typically written left to right, and from top to bottom. However, there is a whole different world of writing modes out there. <a href=\"http://www.w3.org/TR/css3-writing-modes/\" target=\"_blank\">CSS3 Writing Modes</a> allows you to use these in your web sites. Read on to find out what you can, and can not use right now.</p>\n\n<p><a href=\"http://generatedcontent.org/post/45384206019/writing-modes\">Read More</a></p></blockquote>",
    "date" : "Sat, 13 Dec 2014 18:02:23",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/105132137049/vertical-text-with-css-3-writing-modes",
+   "regular-title" : "Vertical text with CSS 3 Writing Modes ",
+   "slug" : "vertical-text-with-css-3-writing-modes",
+   "date-gmt" : "2014-12-14 01:02:23 GMT",
+   "format" : "html",
+   "url" : "http://tumblr.ggvaidya.com/post/105132137049",
    "tags" : [
       "huh",
       "top-to-bottom text"
    ],
-   "date-gmt" : "2014-12-14 01:02:23 GMT",
-   "mobile" : 0,
    "feed-item" : "",
    "type" : "regular",
-   "slug" : "vertical-text-with-css-3-writing-modes",
-   "format" : "html",
-   "regular-body" : "<p><a href=\"http://generatedcontent.org/post/45384206019/writing-modes\" class=\"tumblr_blog\">dstorey</a>:</p>\n\n<blockquote>\n<p>Languages with latin-based writing systems such as English are typically written left to right, and from top to bottom. However, there is a whole different world of writing modes out there. <a href=\"http://www.w3.org/TR/css3-writing-modes/\" target=\"_blank\">CSS3 Writing Modes</a> allows you to use these in your web sites. Read on to find out what you can, and can not use right now.</p>\n\n<p><a href=\"http://generatedcontent.org/post/45384206019/writing-modes\">Read More</a></p></blockquote>",
-   "regular-title" : "Vertical text with CSS 3 Writing Modes ",
-   "reblog-key" : "GtzLwYYx",
    "bookmarklet" : 0,
+   "mobile" : 0,
+   "id" : "105132137049",
    "from-feed-id" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/105132137049",
-   "id" : "105132137049"
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/105132137049/vertical-text-with-css-3-writing-modes",
+   "unix-timestamp" : 1418518943,
+   "reblog-key" : "GtzLwYYx"
 }
 

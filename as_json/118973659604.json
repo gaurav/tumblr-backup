@@ -1,21 +1,35 @@
 {
-   "bookmarklet" : 0,
+   "tags" : [
+      "life",
+      "love",
+      "family",
+      "californication"
+   ],
+   "url" : "http://tumblr.ggvaidya.com/post/118973659604",
+   "date" : "Thu, 14 May 2015 15:29:54",
+   "format" : "html",
+   "date-gmt" : "2015-05-14 21:29:54 GMT",
+   "slug" : "then-treat-me-that-way",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/118973659604/then-treat-me-that-way",
+   "conversation-text" : "Becca Moody: There is no right or wrong, dad, just the consequences of your actions. You taught me that.\nHank Moody: I guess I don't like the consequences of my actions very much right now.\nBecca:  Yeah. Me neither.\n[pause]\nHank: So, uh ... what is it that you like so much about this boy?\nBecca: I don't know.\nHank: Come on. It's got to be something. Use your words.\nBecca: He's really smart.\nHank: Oh. Let's not go crazy.\nBecca: [slight embarrassment] And he makes me feel pretty.\nHank: Well, that you are. You're very pretty. You're beautiful.\nBecca: Shut up. I'm not beautiful.\nHank: Don't say that. Look. Don't ever say that, you are BEAUTIFUL, you are the most beautiful thing in the world to me.\nBecca: [annoyed] Then treat me that way. [voice breaking] I'm ALWAYS on your side, dad, always. Even when I shouldn't be. But I'm sick of it. Get your shit together before it's too late. I don't CARE if you and mom never say another kind word to each other, but I'm sick and tired of parenting you both. <em>I'm a fucking kid</em>, I don't know what I'm doing half the time. But I do know this -- if you keep cracking jokes and taking another drink and pretending that life is one big, stupid party, you will miss everything.",
    "from-feed-id" : 0,
    "id" : "118973659604",
-   "url" : "http://tumblr.ggvaidya.com/post/118973659604",
-   "format" : "html",
    "reblog-key" : "fis2UAGq",
+   "unix-timestamp" : 1431638994,
    "conversation-title" : "Then treat me that way",
+   "mobile" : 0,
+   "bookmarklet" : 0,
+   "type" : "conversation",
    "conversation" : [
       {
-         "phrase" : "There is no right or wrong, dad, just the consequences of your actions. You taught me that.",
          "label" : "Becca Moody:",
-         "name" : "Becca Moody"
+         "name" : "Becca Moody",
+         "phrase" : "There is no right or wrong, dad, just the consequences of your actions. You taught me that."
       },
       {
+         "name" : "Hank Moody",
          "label" : "Hank Moody:",
-         "phrase" : "I guess I don't like the consequences of my actions very much right now.",
-         "name" : "Hank Moody"
+         "phrase" : "I guess I don't like the consequences of my actions very much right now."
       },
       {
          "name" : "Becca",
@@ -23,8 +37,8 @@
          "phrase" : "Yeah. Me neither."
       },
       {
-         "label" : "",
          "phrase" : "[pause]",
+         "label" : "",
          "name" : ""
       },
       {
@@ -34,64 +48,50 @@
       },
       {
          "label" : "Becca:",
-         "phrase" : "I don't know.",
-         "name" : "Becca"
+         "name" : "Becca",
+         "phrase" : "I don't know."
       },
       {
-         "name" : "Hank",
          "label" : "Hank:",
+         "name" : "Hank",
          "phrase" : "Come on. It's got to be something. Use your words."
       },
       {
          "label" : "Becca:",
-         "phrase" : "He's really smart.",
-         "name" : "Becca"
-      },
-      {
-         "label" : "Hank:",
-         "phrase" : "Oh. Let's not go crazy.",
-         "name" : "Hank"
-      },
-      {
-         "label" : "Becca:",
-         "phrase" : "[slight embarrassment] And he makes me feel pretty.",
-         "name" : "Becca"
-      },
-      {
-         "name" : "Hank",
-         "phrase" : "Well, that you are. You're very pretty. You're beautiful.",
-         "label" : "Hank:"
-      },
-      {
-         "label" : "Becca:",
-         "phrase" : "Shut up. I'm not beautiful.",
-         "name" : "Becca"
-      },
-      {
-         "name" : "Hank",
-         "phrase" : "Don't say that. Look. Don't ever say that, you are BEAUTIFUL, you are the most beautiful thing in the world to me.",
-         "label" : "Hank:"
-      },
-      {
          "name" : "Becca",
-         "phrase" : "[annoyed] Then treat me that way. [voice breaking] I'm ALWAYS on your side, dad, always. Even when I shouldn't be. But I'm sick of it. Get your shit together before it's too late. I don't CARE if you and mom never say another kind word to each other, but I'm sick and tired of parenting you both. <em>I'm a fucking kid</em>, I don't know what I'm doing half the time. But I do know this -- if you keep cracking jokes and taking another drink and pretending that life is one big, stupid party, you will miss everything.",
+         "phrase" : "He's really smart."
+      },
+      {
+         "phrase" : "Oh. Let's not go crazy.",
+         "name" : "Hank",
+         "label" : "Hank:"
+      },
+      {
+         "phrase" : "[slight embarrassment] And he makes me feel pretty.",
+         "name" : "Becca",
          "label" : "Becca:"
+      },
+      {
+         "phrase" : "Well, that you are. You're very pretty. You're beautiful.",
+         "name" : "Hank",
+         "label" : "Hank:"
+      },
+      {
+         "label" : "Becca:",
+         "name" : "Becca",
+         "phrase" : "Shut up. I'm not beautiful."
+      },
+      {
+         "phrase" : "Don't say that. Look. Don't ever say that, you are BEAUTIFUL, you are the most beautiful thing in the world to me.",
+         "name" : "Hank",
+         "label" : "Hank:"
+      },
+      {
+         "label" : "Becca:",
+         "name" : "Becca",
+         "phrase" : "[annoyed] Then treat me that way. [voice breaking] I'm ALWAYS on your side, dad, always. Even when I shouldn't be. But I'm sick of it. Get your shit together before it's too late. I don't CARE if you and mom never say another kind word to each other, but I'm sick and tired of parenting you both. <em>I'm a fucking kid</em>, I don't know what I'm doing half the time. But I do know this -- if you keep cracking jokes and taking another drink and pretending that life is one big, stupid party, you will miss everything."
       }
    ],
-   "date-gmt" : "2015-05-14 21:29:54 GMT",
-   "mobile" : 0,
-   "slug" : "then-treat-me-that-way",
-   "feed-item" : "",
-   "type" : "conversation",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/118973659604/then-treat-me-that-way",
-   "tags" : [
-      "life",
-      "love",
-      "family",
-      "californication"
-   ],
-   "date" : "Thu, 14 May 2015 15:29:54",
-   "unix-timestamp" : 1431638994,
-   "conversation-text" : "Becca Moody: There is no right or wrong, dad, just the consequences of your actions. You taught me that.\nHank Moody: I guess I don't like the consequences of my actions very much right now.\nBecca:  Yeah. Me neither.\n[pause]\nHank: So, uh ... what is it that you like so much about this boy?\nBecca: I don't know.\nHank: Come on. It's got to be something. Use your words.\nBecca: He's really smart.\nHank: Oh. Let's not go crazy.\nBecca: [slight embarrassment] And he makes me feel pretty.\nHank: Well, that you are. You're very pretty. You're beautiful.\nBecca: Shut up. I'm not beautiful.\nHank: Don't say that. Look. Don't ever say that, you are BEAUTIFUL, you are the most beautiful thing in the world to me.\nBecca: [annoyed] Then treat me that way. [voice breaking] I'm ALWAYS on your side, dad, always. Even when I shouldn't be. But I'm sick of it. Get your shit together before it's too late. I don't CARE if you and mom never say another kind word to each other, but I'm sick and tired of parenting you both. <em>I'm a fucking kid</em>, I don't know what I'm doing half the time. But I do know this -- if you keep cracking jokes and taking another drink and pretending that life is one big, stupid party, you will miss everything."
+   "feed-item" : ""
 }
 

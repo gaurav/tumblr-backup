@@ -1,15 +1,10 @@
 {
-   "regular-title" : "Again",
-   "reblog-key" : "5J8P0buC",
-   "format" : "html",
    "regular-body" : "<p>Fare thee well awhile, Colorado. I shall continue my exhortations after dinner.</p>",
-   "url" : "http://tumblr.ggvaidya.com/post/49758180207",
-   "id" : "49758180207",
-   "bookmarklet" : 0,
-   "from-feed-id" : 0,
-   "unix-timestamp" : 1367821727,
+   "regular-title" : "Again",
    "date" : "Mon, 06 May 2013 00:28:47",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/49758180207/again",
+   "date-gmt" : "2013-05-06 06:28:47 GMT",
+   "format" : "html",
+   "slug" : "again",
    "tags" : [
       "yes shakespeare",
       "ill miss it that much",
@@ -18,10 +13,15 @@
       "bye friends",
       "three more weeks"
    ],
+   "url" : "http://tumblr.ggvaidya.com/post/49758180207",
+   "mobile" : 0,
+   "bookmarklet" : 0,
    "feed-item" : "",
    "type" : "regular",
-   "slug" : "again",
-   "date-gmt" : "2013-05-06 06:28:47 GMT",
-   "mobile" : 0
+   "from-feed-id" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/49758180207/again",
+   "id" : "49758180207",
+   "reblog-key" : "5J8P0buC",
+   "unix-timestamp" : 1367821727
 }
 

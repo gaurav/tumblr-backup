@@ -1,19 +1,7 @@
 {
-   "format" : "html",
-   "reblog-key" : "hNbD6DXr",
-   "conversation-title" : null,
+   "mobile" : 0,
    "bookmarklet" : 0,
-   "from-feed-id" : 0,
-   "id" : "89528597149",
-   "url" : "http://tumblr.ggvaidya.com/post/89528597149",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/89528597149/frank-its-that-kind-of-talk-that-will-spur-me-to",
-   "tags" : [
-      "aww",
-      "relationships"
-   ],
-   "unix-timestamp" : 1403416710,
-   "date" : "Sat, 21 Jun 2014 23:58:30",
-   "conversation-text" : "Frank: Itâs that kind of talk that will spur me to make you a drink, as a reward for marrying well!\r\nSadie: I did marry well, didnât I?\r\nFrank: Not as well as I did, but very nearly.",
+   "feed-item" : "",
    "conversation" : [
       {
          "name" : "Frank",
@@ -21,9 +9,9 @@
          "phrase" : "Itâs that kind of talk that will spur me to make you a drink, as a reward for marrying well!\r"
       },
       {
-         "name" : "Sadie",
+         "phrase" : "I did marry well, didnât I?\r",
          "label" : "Sadie:",
-         "phrase" : "I did marry well, didnât I?\r"
+         "name" : "Sadie"
       },
       {
          "name" : "Frank",
@@ -31,10 +19,22 @@
          "phrase" : "Not as well as I did, but very nearly."
       }
    ],
+   "type" : "conversation",
+   "reblog-key" : "hNbD6DXr",
+   "conversation-title" : null,
+   "unix-timestamp" : 1403416710,
+   "from-feed-id" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/89528597149/frank-its-that-kind-of-talk-that-will-spur-me-to",
+   "conversation-text" : "Frank: Itâs that kind of talk that will spur me to make you a drink, as a reward for marrying well!\r\nSadie: I did marry well, didnât I?\r\nFrank: Not as well as I did, but very nearly.",
+   "id" : "89528597149",
+   "format" : "html",
    "date-gmt" : "2014-06-22 05:58:30 GMT",
-   "mobile" : 0,
    "slug" : "frank-its-that-kind-of-talk-that-will-spur-me-to",
-   "feed-item" : "",
-   "type" : "conversation"
+   "date" : "Sat, 21 Jun 2014 23:58:30",
+   "tags" : [
+      "aww",
+      "relationships"
+   ],
+   "url" : "http://tumblr.ggvaidya.com/post/89528597149"
 }
 

@@ -1,23 +1,23 @@
 {
-   "unix-timestamp" : 1395088817,
-   "date" : "Mon, 17 Mar 2014 14:40:17",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/79898112570/its-brilliant-im-not-sure-if-its-marxism-in",
+   "url" : "http://tumblr.ggvaidya.com/post/79898112570",
    "tags" : [
       "doctor who",
       "the empty child"
    ],
+   "date" : "Mon, 17 Mar 2014 14:40:17",
+   "slug" : "its-brilliant-im-not-sure-if-its-marxism-in",
    "date-gmt" : "2014-03-17 20:40:17 GMT",
-   "mobile" : 0,
+   "format" : "html",
+   "quote-text" : "Itâs brilliant. Iâm not sure if itâs Marxism in action or a West End musical.",
+   "id" : "79898112570",
+   "from-feed-id" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/79898112570/its-brilliant-im-not-sure-if-its-marxism-in",
+   "unix-timestamp" : 1395088817,
+   "reblog-key" : "TezfDyU0",
+   "quote-source" : "The Doctor (via <a href=\"http://bocsglas.tumblr.com/\" class=\"tumblr_blog\">bocsglas</a>), <em><a href=\"http://en.wikipedia.org/wiki/The_Empty_Child\">The Empty Child</a></em>",
    "feed-item" : "",
    "type" : "quote",
-   "quote-source" : "The Doctor (via <a href=\"http://bocsglas.tumblr.com/\" class=\"tumblr_blog\">bocsglas</a>), <em><a href=\"http://en.wikipedia.org/wiki/The_Empty_Child\">The Empty Child</a></em>",
-   "slug" : "its-brilliant-im-not-sure-if-its-marxism-in",
-   "format" : "html",
-   "reblog-key" : "TezfDyU0",
-   "quote-text" : "Itâs brilliant. Iâm not sure if itâs Marxism in action or a West End musical.",
-   "bookmarklet" : 0,
-   "from-feed-id" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/79898112570",
-   "id" : "79898112570"
+   "mobile" : 0,
+   "bookmarklet" : 0
 }
 

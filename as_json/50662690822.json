@@ -1,20 +1,9 @@
 {
-   "tags" : [
-      "himym",
-      "S7E23",
-      "wordplay",
-      "contraction"
-   ],
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/50662690822/word-play",
-   "unix-timestamp" : 1368812460,
-   "date" : "Fri, 17 May 2013 11:41:00",
-   "conversation-text" : "Robin: That was not cool, Ted.\r\nLily: [in labour] Contraction.\r\nRobin: [confused] That ... wasn't cool, Ted?",
-   "mobile" : 0,
-   "date-gmt" : "2013-05-17 17:41:00 GMT",
+   "type" : "conversation",
    "conversation" : [
       {
-         "name" : "Robin",
          "phrase" : "That was not cool, Ted.\r",
+         "name" : "Robin",
          "label" : "Robin:"
       },
       {
@@ -23,20 +12,31 @@
          "name" : "Lily"
       },
       {
-         "phrase" : "[confused] That ... wasn't cool, Ted?",
+         "name" : "Robin",
          "label" : "Robin:",
-         "name" : "Robin"
+         "phrase" : "[confused] That ... wasn't cool, Ted?"
       }
    ],
-   "slug" : "word-play",
-   "type" : "conversation",
    "feed-item" : "",
-   "format" : "html",
-   "reblog-key" : "zorl8hGE",
-   "conversation-title" : "Word play",
-   "from-feed-id" : 0,
+   "mobile" : 0,
    "bookmarklet" : 0,
+   "unix-timestamp" : 1368812460,
+   "conversation-title" : "Word play",
+   "reblog-key" : "zorl8hGE",
    "id" : "50662690822",
-   "url" : "http://tumblr.ggvaidya.com/post/50662690822"
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/50662690822/word-play",
+   "conversation-text" : "Robin: That was not cool, Ted.\r\nLily: [in labour] Contraction.\r\nRobin: [confused] That ... wasn't cool, Ted?",
+   "from-feed-id" : 0,
+   "slug" : "word-play",
+   "format" : "html",
+   "date-gmt" : "2013-05-17 17:41:00 GMT",
+   "date" : "Fri, 17 May 2013 11:41:00",
+   "url" : "http://tumblr.ggvaidya.com/post/50662690822",
+   "tags" : [
+      "himym",
+      "S7E23",
+      "wordplay",
+      "contraction"
+   ]
 }
 

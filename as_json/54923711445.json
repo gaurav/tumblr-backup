@@ -1,25 +1,25 @@
 {
-   "mobile" : 0,
-   "date-gmt" : "2013-07-08 16:53:43 GMT",
-   "type" : "quote",
-   "feed-item" : "",
-   "quote-source" : "<strong>Steve Furtick</strong> (via <a class=\"tumblr_blog\" href=\"http://quotestuff.tumblr.com/\">quotestuff</a>)",
-   "slug" : "the-reason-we-struggle-with-insecurity-is-because",
    "date" : "Mon, 08 Jul 2013 10:53:43",
-   "unix-timestamp" : 1373302423,
+   "slug" : "the-reason-we-struggle-with-insecurity-is-because",
+   "format" : "html",
+   "date-gmt" : "2013-07-08 16:53:43 GMT",
+   "quote-text" : "The reason we struggle with insecurity is because we compare our behind-the-scenes to everyone elseâs highlight reel.",
+   "url" : "http://tumblr.ggvaidya.com/post/54923711445",
    "tags" : [
       "woah",
       "could it be",
       "self-esteem",
       "self worth"
    ],
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/54923711445/the-reason-we-struggle-with-insecurity-is-because",
-   "from-feed-id" : 0,
-   "quote-text" : "The reason we struggle with insecurity is because we compare our behind-the-scenes to everyone elseâs highlight reel.",
+   "quote-source" : "<strong>Steve Furtick</strong> (via <a class=\"tumblr_blog\" href=\"http://quotestuff.tumblr.com/\">quotestuff</a>)",
+   "feed-item" : "",
+   "type" : "quote",
+   "mobile" : 0,
    "bookmarklet" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/54923711445",
    "id" : "54923711445",
-   "format" : "html",
+   "from-feed-id" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/54923711445/the-reason-we-struggle-with-insecurity-is-because",
+   "unix-timestamp" : 1373302423,
    "reblog-key" : "WmSWPID1"
 }
 

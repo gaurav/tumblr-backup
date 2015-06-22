@@ -1,27 +1,27 @@
 {
-   "format" : "html",
-   "reblog-key" : "IRgE1BF3",
-   "video-player" : "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/_YEyzvtMx3s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "video-player-250" : "<iframe width=\"250\" height=\"140\" src=\"https://www.youtube.com/embed/_YEyzvtMx3s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "bookmarklet" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/85245831869/whee",
    "from-feed-id" : 0,
    "id" : "85245831869",
+   "reblog-key" : "IRgE1BF3",
+   "unix-timestamp" : 1399668010,
    "video-player-500" : "<iframe width=\"500\" height=\"281\" src=\"https://www.youtube.com/embed/_YEyzvtMx3s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "url" : "http://tumblr.ggvaidya.com/post/85245831869",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/85245831869/whee",
-   "video-caption" : "<p>Whee!</p>",
+   "video-player" : "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/_YEyzvtMx3s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "mobile" : 0,
+   "bookmarklet" : 0,
+   "type" : "video",
+   "feed-item" : "",
    "tags" : [
       "flying",
       "pelican",
       "gopro"
    ],
-   "unix-timestamp" : 1399668010,
-   "date" : "Fri, 09 May 2014 14:40:10",
+   "url" : "http://tumblr.ggvaidya.com/post/85245831869",
    "video-source" : "http://www.youtube.com/watch?v=_YEyzvtMx3s",
+   "video-player-250" : "<iframe width=\"250\" height=\"140\" src=\"https://www.youtube.com/embed/_YEyzvtMx3s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-caption" : "<p>Whee!</p>",
+   "date" : "Fri, 09 May 2014 14:40:10",
+   "format" : "html",
    "date-gmt" : "2014-05-09 20:40:10 GMT",
-   "mobile" : 0,
-   "slug" : "whee",
-   "feed-item" : "",
-   "type" : "video"
+   "slug" : "whee"
 }
 

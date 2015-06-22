@@ -1,25 +1,25 @@
 {
-   "date-gmt" : "2013-11-07 05:23:44 GMT",
-   "mobile" : 0,
-   "feed-item" : "",
    "type" : "regular",
-   "slug" : "daily-life-in-grad-school",
-   "unix-timestamp" : 1383801824,
-   "date" : "Wed, 06 Nov 2013 22:23:44",
+   "feed-item" : "",
+   "bookmarklet" : 0,
+   "mobile" : 0,
+   "id" : "66256607456",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/66256607456/daily-life-in-grad-school",
+   "from-feed-id" : 0,
+   "unix-timestamp" : 1383801824,
+   "reblog-key" : "ImhzYPbl",
+   "regular-title" : "DAILY LIFE IN GRAD SCHOOL",
+   "regular-body" : "<p><a href=\"http://whatshouldwecallgradschool.tumblr.com/post/66141337623/daily-life-in-grad-school\" class=\"tumblr_blog\">whatshouldwecallgradschool</a>:</p>\n\n<blockquote><p>HOW I IMAGINED IT:<img alt=\"image\" height=\"333\" src=\"http://rack.1.mshcdn.com/media/ZgkyMDEzLzA1LzA2LzNhL2hhbmdvdmVybnVtLjVkZjE4LmdpZgpwCXRodW1iCTEyMDB4OTYwMD4/21a6f042/890/hangovernumbers.gif\" width=\"500\"/></p>\n<p>THE REALITY:<img alt=\"image\" height=\"228\" src=\"http://i.imgur.com/3NaEhH7.gif\" width=\"405\"/></p>\n<p>credit: Josh</p></blockquote>",
+   "date" : "Wed, 06 Nov 2013 22:23:44",
+   "slug" : "daily-life-in-grad-school",
+   "format" : "html",
+   "date-gmt" : "2013-11-07 05:23:44 GMT",
+   "url" : "http://tumblr.ggvaidya.com/post/66256607456",
    "tags" : [
       "truth",
       "grad school",
       "nap",
       "all the naps"
-   ],
-   "bookmarklet" : 0,
-   "from-feed-id" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/66256607456",
-   "id" : "66256607456",
-   "format" : "html",
-   "regular-body" : "<p><a href=\"http://whatshouldwecallgradschool.tumblr.com/post/66141337623/daily-life-in-grad-school\" class=\"tumblr_blog\">whatshouldwecallgradschool</a>:</p>\n\n<blockquote><p>HOW I IMAGINED IT:<img alt=\"image\" height=\"333\" src=\"http://rack.1.mshcdn.com/media/ZgkyMDEzLzA1LzA2LzNhL2hhbmdvdmVybnVtLjVkZjE4LmdpZgpwCXRodW1iCTEyMDB4OTYwMD4/21a6f042/890/hangovernumbers.gif\" width=\"500\"/></p>\n<p>THE REALITY:<img alt=\"image\" height=\"228\" src=\"http://i.imgur.com/3NaEhH7.gif\" width=\"405\"/></p>\n<p>credit: Josh</p></blockquote>",
-   "regular-title" : "DAILY LIFE IN GRAD SCHOOL",
-   "reblog-key" : "ImhzYPbl"
+   ]
 }
 

@@ -1,23 +1,23 @@
 {
-   "date" : "Thu, 26 Jun 2014 12:02:25",
-   "unix-timestamp" : 1403805745,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/89978698039/instead-we-define-how-an-integer-can-be",
+   "url" : "http://tumblr.ggvaidya.com/post/89978698039",
    "tags" : [
       "a humble 32-bit integer",
       "hallelujah"
    ],
-   "date-gmt" : "2014-06-26 18:02:25 GMT",
-   "mobile" : 0,
-   "feed-item" : "",
-   "type" : "regular",
    "slug" : "instead-we-define-how-an-integer-can-be",
    "format" : "html",
+   "date-gmt" : "2014-06-26 18:02:25 GMT",
    "regular-body" : "<blockquote>\n<p>Instead, we define how an integer can be transformed into an angel of the LORD</p>\n</blockquote>",
+   "date" : "Thu, 26 Jun 2014 12:02:25",
    "regular-title" : null,
+   "unix-timestamp" : 1403805745,
    "reblog-key" : "nihZB9es",
-   "bookmarklet" : 0,
+   "id" : "89978698039",
    "from-feed-id" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/89978698039",
-   "id" : "89978698039"
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/89978698039/instead-we-define-how-an-integer-can-be",
+   "feed-item" : "",
+   "type" : "regular",
+   "mobile" : 0,
+   "bookmarklet" : 0
 }
 

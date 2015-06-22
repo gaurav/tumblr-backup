@@ -1,11 +1,12 @@
 {
-   "mobile" : 0,
-   "date-gmt" : "2012-06-18 22:43:57 GMT",
-   "type" : "video",
-   "feed-item" : "",
    "slug" : "how-creative-commons-licensing-and-working-with",
+   "date-gmt" : "2012-06-18 22:43:57 GMT",
+   "format" : "html",
+   "video-player-250" : "<iframe width=\"250\" height=\"140\" src=\"https://www.youtube.com/embed/CPWc18LswRM?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-caption" : "<p>How Creative Commons licensing and <a href=\"http://glamwiki.org/\">working with Wikipedia</a> can help galleries, libraries, museums and archives do more with their money.</p>",
    "date" : "Mon, 18 Jun 2012 16:43:57",
-   "unix-timestamp" : 1340059437,
+   "video-source" : "http://www.youtube.com/watch?v=CPWc18LswRM",
+   "url" : "http://tumblr.ggvaidya.com/post/25392320832",
    "tags" : [
       "GLAMwiki",
       "GLAM",
@@ -13,17 +14,16 @@
       "wikipedia",
       "wikimedia commons"
    ],
-   "video-caption" : "<p>How Creative Commons licensing and <a href=\"http://glamwiki.org/\">working with Wikipedia</a> can help galleries, libraries, museums and archives do more with their money.</p>",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/25392320832/how-creative-commons-licensing-and-working-with",
-   "video-source" : "http://www.youtube.com/watch?v=CPWc18LswRM",
-   "from-feed-id" : 0,
+   "type" : "video",
+   "feed-item" : "",
+   "mobile" : 0,
    "bookmarklet" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/25392320832",
-   "video-player-500" : "<iframe width=\"500\" height=\"281\" src=\"https://www.youtube.com/embed/CPWc18LswRM?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "id" : "25392320832",
-   "format" : "html",
-   "video-player-250" : "<iframe width=\"250\" height=\"140\" src=\"https://www.youtube.com/embed/CPWc18LswRM?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
    "video-player" : "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/CPWc18LswRM?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "reblog-key" : "efSAaf7z"
+   "unix-timestamp" : 1340059437,
+   "video-player-500" : "<iframe width=\"500\" height=\"281\" src=\"https://www.youtube.com/embed/CPWc18LswRM?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "reblog-key" : "efSAaf7z",
+   "id" : "25392320832",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/25392320832/how-creative-commons-licensing-and-working-with",
+   "from-feed-id" : 0
 }
 

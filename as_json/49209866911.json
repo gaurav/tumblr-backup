@@ -1,59 +1,59 @@
 {
-   "format" : "html",
    "reblog-key" : "BvdDQOQ9",
    "conversation-title" : "A guy in my psychology class said he thought orientation could possibly be a choice;",
-   "bookmarklet" : 0,
-   "from-feed-id" : 0,
-   "id" : "49209866911",
-   "url" : "http://tumblr.ggvaidya.com/post/49209866911",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/49209866911/a-guy-in-my-psychology-class-said-he-thought",
-   "tags" : [
-      "lgbt"
-   ],
    "unix-timestamp" : 1367274928,
-   "date" : "Mon, 29 Apr 2013 16:35:28",
+   "from-feed-id" : 0,
    "conversation-text" : "Me: Okay so if orientation is a choice, choose to be gay, right now.\r\n\r\nHim: No.\r\n\r\nMe: Why not?\r\n\r\nHim: Because I don't find men attractive\r\n\r\nMe: So CHOOSE to find them attractive\r\n\r\nHim: ....... I can't.\r\n\r\nMe: Sorry, WHAT was that? You CAN'T????",
-   "date-gmt" : "2013-04-29 22:35:28 GMT",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/49209866911/a-guy-in-my-psychology-class-said-he-thought",
+   "id" : "49209866911",
+   "bookmarklet" : 0,
+   "mobile" : 0,
+   "feed-item" : "",
+   "type" : "conversation",
    "conversation" : [
       {
-         "phrase" : "Okay so if orientation is a choice, choose to be gay, right now.\r",
+         "name" : "Me",
+         "label" : "Me:",
+         "phrase" : "Okay so if orientation is a choice, choose to be gay, right now.\r"
+      },
+      {
+         "phrase" : "No.\r",
+         "name" : "Him",
+         "label" : "Him:"
+      },
+      {
+         "phrase" : "Why not?\r",
          "label" : "Me:",
          "name" : "Me"
       },
       {
-         "name" : "Him",
-         "label" : "Him:",
-         "phrase" : "No.\r"
-      },
-      {
-         "name" : "Me",
-         "label" : "Me:",
-         "phrase" : "Why not?\r"
-      },
-      {
-         "label" : "Him:",
          "phrase" : "Because I don't find men attractive\r",
-         "name" : "Him"
+         "name" : "Him",
+         "label" : "Him:"
       },
       {
-         "name" : "Me",
          "label" : "Me:",
+         "name" : "Me",
          "phrase" : "So CHOOSE to find them attractive\r"
       },
       {
-         "name" : "Him",
          "label" : "Him:",
+         "name" : "Him",
          "phrase" : "....... I can't.\r"
       },
       {
-         "name" : "Me",
          "phrase" : "Sorry, WHAT was that? You CAN'T????",
+         "name" : "Me",
          "label" : "Me:"
       }
    ],
-   "mobile" : 0,
+   "tags" : [
+      "lgbt"
+   ],
+   "url" : "http://tumblr.ggvaidya.com/post/49209866911",
+   "format" : "html",
+   "date-gmt" : "2013-04-29 22:35:28 GMT",
    "slug" : "a-guy-in-my-psychology-class-said-he-thought",
-   "feed-item" : "",
-   "type" : "conversation"
+   "date" : "Mon, 29 Apr 2013 16:35:28"
 }
 

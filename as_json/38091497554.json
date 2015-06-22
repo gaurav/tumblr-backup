@@ -1,30 +1,31 @@
 {
    "url" : "http://tumblr.ggvaidya.com/post/38091497554",
+   "slug" : "ayn-rand-vs-jim-henson-part-2-a-slave-is",
+   "date-gmt" : "2012-12-16 21:20:28 GMT",
+   "format" : "html",
+   "date" : "Sun, 16 Dec 2012 14:20:28",
+   "conversation-title" : "Ayn Rand vs Jim Henson, part 2: \"A slave ... is what I am\"",
+   "unix-timestamp" : 1355692828,
+   "reblog-key" : "d0OzQSUF",
    "id" : "38091497554",
    "from-feed-id" : 0,
-   "bookmarklet" : 0,
-   "conversation-title" : "Ayn Rand vs Jim Henson, part 2: \"A slave ... is what I am\"",
-   "reblog-key" : "d0OzQSUF",
-   "format" : "html",
-   "type" : "conversation",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/38091497554/ayn-rand-vs-jim-henson-part-2-a-slave-is",
+   "conversation-text" : "Sidney Nolan: Happiness can be your personal dictator if you make him your goal in life. \r\nAyn Rand: What other goal would there be other than personal happiness. The happiness of others makes one a slave. \r\nYoko Ono: What if your own happiness makes others unhappy. \r\nAyn Rand: Your happiness does not preclude that you are not making other people happy. Actually quite the opposite. If everyone works on their success and achievements this will bring the maximum amount of happiness to everyone. \r\nSidney Nolan: History Ms. Rand dictates many things. We are always inside it and it is always inside us. We cannot escape it in most of our acts of will thoughts and concepts. Struggling with it is a purpose in itself. Happiness or not. \r\nJim Henson: If that is a what makes a slave then that is what I am.",
    "feed-item" : "",
-   "slug" : "ayn-rand-vs-jim-henson-part-2-a-slave-is",
-   "mobile" : 0,
-   "date-gmt" : "2012-12-16 21:20:28 GMT",
    "conversation" : [
       {
          "label" : "Sidney Nolan:",
-         "phrase" : "Happiness can be your personal dictator if you make him your goal in life. \r",
-         "name" : "Sidney Nolan"
+         "name" : "Sidney Nolan",
+         "phrase" : "Happiness can be your personal dictator if you make him your goal in life. \r"
       },
       {
+         "name" : "Ayn Rand",
          "label" : "Ayn Rand:",
-         "phrase" : "What other goal would there be other than personal happiness. The happiness of others makes one a slave. \r",
-         "name" : "Ayn Rand"
+         "phrase" : "What other goal would there be other than personal happiness. The happiness of others makes one a slave. \r"
       },
       {
-         "label" : "Yoko Ono:",
          "phrase" : "What if your own happiness makes others unhappy. \r",
+         "label" : "Yoko Ono:",
          "name" : "Yoko Ono"
       },
       {
@@ -34,18 +35,17 @@
       },
       {
          "label" : "Sidney Nolan:",
-         "phrase" : "History Ms. Rand dictates many things. We are always inside it and it is always inside us. We cannot escape it in most of our acts of will thoughts and concepts. Struggling with it is a purpose in itself. Happiness or not. \r",
-         "name" : "Sidney Nolan"
+         "name" : "Sidney Nolan",
+         "phrase" : "History Ms. Rand dictates many things. We are always inside it and it is always inside us. We cannot escape it in most of our acts of will thoughts and concepts. Struggling with it is a purpose in itself. Happiness or not. \r"
       },
       {
+         "phrase" : "If that is a what makes a slave then that is what I am.",
          "name" : "Jim Henson",
-         "label" : "Jim Henson:",
-         "phrase" : "If that is a what makes a slave then that is what I am."
+         "label" : "Jim Henson:"
       }
    ],
-   "conversation-text" : "Sidney Nolan: Happiness can be your personal dictator if you make him your goal in life. \r\nAyn Rand: What other goal would there be other than personal happiness. The happiness of others makes one a slave. \r\nYoko Ono: What if your own happiness makes others unhappy. \r\nAyn Rand: Your happiness does not preclude that you are not making other people happy. Actually quite the opposite. If everyone works on their success and achievements this will bring the maximum amount of happiness to everyone. \r\nSidney Nolan: History Ms. Rand dictates many things. We are always inside it and it is always inside us. We cannot escape it in most of our acts of will thoughts and concepts. Struggling with it is a purpose in itself. Happiness or not. \r\nJim Henson: If that is a what makes a slave then that is what I am.",
-   "date" : "Sun, 16 Dec 2012 14:20:28",
-   "unix-timestamp" : 1355692828,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/38091497554/ayn-rand-vs-jim-henson-part-2-a-slave-is"
+   "type" : "conversation",
+   "bookmarklet" : 0,
+   "mobile" : 0
 }
 

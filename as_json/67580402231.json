@@ -1,12 +1,19 @@
 {
-   "reblog-key" : "FAoxdPlK",
-   "format" : "html",
-   "id" : "67580402231",
-   "url" : "http://tumblr.ggvaidya.com/post/67580402231",
+   "mobile" : 0,
    "bookmarklet" : 0,
-   "quote-text" : "Of course Iâll hurt you. Of course youâll hurt me. Of course we will hurt each other. But this is the very condition of existence. To become spring, means accepting the risk of winter. To become presence, means accepting the risk of absence.",
-   "from-feed-id" : 0,
+   "type" : "quote",
+   "feed-item" : "",
+   "quote-source" : "Antoine De Saint-ExupÃ©ry (The Little Prince)",
+   "reblog-key" : "FAoxdPlK",
+   "unix-timestamp" : 1384974833,
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/67580402231/of-course-ill-hurt-you-of-course-youll-hurt-me",
+   "from-feed-id" : 0,
+   "id" : "67580402231",
+   "quote-text" : "Of course Iâll hurt you. Of course youâll hurt me. Of course we will hurt each other. But this is the very condition of existence. To become spring, means accepting the risk of winter. To become presence, means accepting the risk of absence.",
+   "date-gmt" : "2013-11-20 19:13:53 GMT",
+   "format" : "html",
+   "slug" : "of-course-ill-hurt-you-of-course-youll-hurt-me",
+   "date" : "Wed, 20 Nov 2013 12:13:53",
    "tags" : [
       "gasp",
       "appropriate quote is appropriate",
@@ -14,13 +21,6 @@
       "relationships",
       "love"
    ],
-   "date" : "Wed, 20 Nov 2013 12:13:53",
-   "unix-timestamp" : 1384974833,
-   "slug" : "of-course-ill-hurt-you-of-course-youll-hurt-me",
-   "quote-source" : "Antoine De Saint-ExupÃ©ry (The Little Prince)",
-   "feed-item" : "",
-   "type" : "quote",
-   "date-gmt" : "2013-11-20 19:13:53 GMT",
-   "mobile" : 0
+   "url" : "http://tumblr.ggvaidya.com/post/67580402231"
 }
 
