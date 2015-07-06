@@ -1,25 +1,25 @@
 {
+   "type" : "quote",
+   "feed-item" : "",
    "slug" : "there-would-seem-to-be-nothing-more-obvious-more",
-   "format" : "html",
    "date-gmt" : "2015-04-04 20:54:05 GMT",
-   "quote-text" : "There would seem to be nothing more obvious, more tangible and palpable than the present moment. And yet it eludes us completely. All the sadness of life lies in that fact.",
+   "unix-timestamp" : 1428180845,
+   "quote-source" : "Milan Kundera, <a href=\"https://www.goodreads.com/quotes/637597-there-would-seem-to-be-nothing-more-obvious-more-tangible\"><em>The Art of the Novel</em></a>",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/115509283939/there-would-seem-to-be-nothing-more-obvious-more",
+   "id" : "115509283939",
+   "from-feed-id" : 0,
    "date" : "Sat, 04 Apr 2015 14:54:05",
+   "mobile" : 0,
+   "reblog-key" : "t1QOaMHU",
+   "quote-text" : "There would seem to be nothing more obvious, more tangible and palpable than the present moment. And yet it eludes us completely. All the sadness of life lies in that fact.",
    "url" : "http://tumblr.ggvaidya.com/post/115509283939",
+   "bookmarklet" : 0,
    "tags" : [
       "sigh",
       "so true",
       "life",
       "advice"
    ],
-   "feed-item" : "",
-   "type" : "quote",
-   "mobile" : 0,
-   "bookmarklet" : 0,
-   "quote-source" : "Milan Kundera, <a href=\"https://www.goodreads.com/quotes/637597-there-would-seem-to-be-nothing-more-obvious-more-tangible\"><em>The Art of the Novel</em></a>",
-   "unix-timestamp" : 1428180845,
-   "reblog-key" : "t1QOaMHU",
-   "id" : "115509283939",
-   "from-feed-id" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/115509283939/there-would-seem-to-be-nothing-more-obvious-more"
+   "format" : "html"
 }
 

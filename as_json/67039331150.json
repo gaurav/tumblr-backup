@@ -1,16 +1,12 @@
 {
    "id" : "67039331150",
    "from-feed-id" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/67039331150",
-   "video-player-500" : "<iframe width=\"500\" height=\"281\" src=\"https://www.youtube.com/embed/v52FLMOPSig?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "unix-timestamp" : 1384496901,
-   "reblog-key" : "WzMyMCzs",
    "video-player" : "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/v52FLMOPSig?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "feed-item" : "",
-   "type" : "video",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/67039331150",
    "mobile" : 0,
-   "bookmarklet" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/67039331150",
+   "video-source" : "http://www.youtube.com/watch?v=v52FLMOPSig",
+   "date" : "Thu, 14 Nov 2013 23:28:21",
+   "reblog-key" : "WzMyMCzs",
    "tags" : [
       "the west wing",
       "walk and talk the vote",
@@ -18,12 +14,16 @@
       "c j cregg",
       "wow"
    ],
-   "video-source" : "http://www.youtube.com/watch?v=v52FLMOPSig",
-   "date" : "Thu, 14 Nov 2013 23:28:21",
-   "video-caption" : "",
-   "video-player-250" : "<iframe width=\"250\" height=\"140\" src=\"https://www.youtube.com/embed/v52FLMOPSig?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "slug" : "",
    "format" : "html",
-   "date-gmt" : "2013-11-15 06:28:21 GMT"
+   "url" : "http://tumblr.ggvaidya.com/post/67039331150",
+   "bookmarklet" : 0,
+   "feed-item" : "",
+   "type" : "video",
+   "slug" : "",
+   "date-gmt" : "2013-11-15 06:28:21 GMT",
+   "video-player-250" : "<iframe width=\"250\" height=\"140\" src=\"https://www.youtube.com/embed/v52FLMOPSig?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-caption" : "",
+   "video-player-500" : "<iframe width=\"500\" height=\"281\" src=\"https://www.youtube.com/embed/v52FLMOPSig?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "unix-timestamp" : 1384496901
 }
 

@@ -1,27 +1,27 @@
 {
    "video-source" : "http://www.youtube.com/watch?v=5uPudfm3vD0",
-   "url" : "http://tumblr.ggvaidya.com/post/46828160248",
+   "mobile" : 0,
+   "date" : "Sun, 31 Mar 2013 23:40:00",
+   "id" : "46828160248",
+   "from-feed-id" : 0,
+   "video-player" : "<iframe width=\"400\" height=\"299\" src=\"https://www.youtube.com/embed/5uPudfm3vD0?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/46828160248/yay-for-nice-covers-of-awesome-songs",
    "tags" : [
       "Kimya Dawson",
       "I Like Giants",
       "music"
    ],
-   "slug" : "yay-for-nice-covers-of-awesome-songs",
-   "date-gmt" : "2013-04-01 05:40:00 GMT",
    "format" : "html",
-   "video-caption" : "<p>Yay for nice covers of awesome songs!</p>",
-   "date" : "Sun, 31 Mar 2013 23:40:00",
-   "video-player-250" : "<iframe width=\"250\" height=\"187\" src=\"https://www.youtube.com/embed/5uPudfm3vD0?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "video-player-500" : "<iframe width=\"500\" height=\"374\" src=\"https://www.youtube.com/embed/5uPudfm3vD0?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "unix-timestamp" : 1364794800,
+   "url" : "http://tumblr.ggvaidya.com/post/46828160248",
+   "bookmarklet" : 0,
    "reblog-key" : "SFgLG8wJ",
-   "id" : "46828160248",
-   "from-feed-id" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/46828160248/yay-for-nice-covers-of-awesome-songs",
+   "slug" : "yay-for-nice-covers-of-awesome-songs",
    "feed-item" : "",
    "type" : "video",
-   "bookmarklet" : 0,
-   "mobile" : 0,
-   "video-player" : "<iframe width=\"400\" height=\"299\" src=\"https://www.youtube.com/embed/5uPudfm3vD0?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+   "video-caption" : "<p>Yay for nice covers of awesome songs!</p>",
+   "unix-timestamp" : 1364794800,
+   "video-player-500" : "<iframe width=\"500\" height=\"374\" src=\"https://www.youtube.com/embed/5uPudfm3vD0?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "date-gmt" : "2013-04-01 05:40:00 GMT",
+   "video-player-250" : "<iframe width=\"250\" height=\"187\" src=\"https://www.youtube.com/embed/5uPudfm3vD0?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
 }
 

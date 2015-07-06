@@ -1,25 +1,25 @@
 {
-   "reblog-key" : "wXovX31g",
+   "type" : "quote",
+   "feed-item" : "",
+   "slug" : "we-are-as-a-species-addicted-to-story-even-when",
+   "date-gmt" : "2013-09-28 16:24:42 GMT",
    "unix-timestamp" : 1380385482,
-   "from-feed-id" : 0,
+   "quote-source" : "Jonathan Gottschall, <em>The Storytelling Animal: How Stories Make Us Human</em> (via <a class=\"tumblr_blog\" href=\"http://cette-coquette.tumblr.com/\">cette-coquette</a>)",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/62519075530/we-are-as-a-species-addicted-to-story-even-when",
    "id" : "62519075530",
-   "bookmarklet" : 0,
+   "from-feed-id" : 0,
+   "date" : "Sat, 28 Sep 2013 10:24:42",
    "mobile" : 0,
-   "feed-item" : "",
-   "type" : "quote",
-   "quote-source" : "Jonathan Gottschall, <em>The Storytelling Animal: How Stories Make Us Human</em> (via <a class=\"tumblr_blog\" href=\"http://cette-coquette.tumblr.com/\">cette-coquette</a>)",
+   "reblog-key" : "wXovX31g",
+   "quote-text" : "We are, as a species, addicted to story. Even when the body goes to sleep, the mind stays up all night, telling itself stories.",
+   "bookmarklet" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/62519075530",
    "tags" : [
       "story",
       "stories",
       "life",
       "literature"
    ],
-   "url" : "http://tumblr.ggvaidya.com/post/62519075530",
-   "format" : "html",
-   "date-gmt" : "2013-09-28 16:24:42 GMT",
-   "quote-text" : "We are, as a species, addicted to story. Even when the body goes to sleep, the mind stays up all night, telling itself stories.",
-   "slug" : "we-are-as-a-species-addicted-to-story-even-when",
-   "date" : "Sat, 28 Sep 2013 10:24:42"
+   "format" : "html"
 }
 

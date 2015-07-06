@@ -1,28 +1,43 @@
 {
-   "mobile" : 0,
-   "bookmarklet" : 0,
+   "slug" : "timeo-danaos-et-dona-ferentes",
    "feed-item" : "",
    "type" : "conversation",
+   "conversation-title" : "Timeo Danaos et dona ferentes",
+   "unix-timestamp" : 1370908251,
+   "date-gmt" : "2013-06-10 23:50:51 GMT",
+   "conversation-text" : "[Hacker has been offered the job of Transport Supremo.]\r\nHacker: Sir Mark thinks there might be votes in it, and I do not intend to look a gift horse in the mouth.\r\nSir Humphrey: I put it to you, Minister, that you are looking a Trojan horse in the mouth.\r\nHacker: You mean if we look closely at this gift horse, we'll find it's full of Trojans?\r\nBernard: Um, if you had looked the Trojan Horse in the mouth, Minister, you would have found Greeks inside. Well, the point is that it was the Greeks who gave the Trojan horse to the Trojans, so technically it wasn't a Trojan horse at all; it was a Greek horse. Hence the tag \"timeo Danaos et dona ferentes\", which, you will recall, is usually and somewhat inaccurately translated as \"beware of Greeks bearing gifts\", or doubtless you would have recalled had you not attended the LSE.\r\nHacker: Yes, well, I'm sure Greek tags are all very well in their way; but can we stick to the point?\r\nBernard: Sorry, sorry: _Greek_ tags?\r\nHacker: \"Beware of Greeks bearing gifts.\" I suppose the EEC equivalent would be \"Beware of Greeks bearing an olive oil surplus\".\r\nSir Humphrey: Excellent, Minister.\r\nBernard: No, well, the point is, Minister, that just as the Trojan horse was in fact Greek, what you describe as a Greek tag is in fact Latin. It's obvious, really: the Greeks would never suggest bewaring of themselves, if one can use such a participle (bewaring, that is). And it's clearly Latin, not because timeo ends in \"-o\", because the Greek first person also ends in \"-o\" -- although actually there is a Greek word timao, meaning 'I honour'. But the \"-os\" ending is a nominative singular termination of a second declension in Greek, and an accusative plural in Latin, of course, though actually Danaos is not only the Greek for 'Greek'; it's also the Latin for 'Greek'. It's very interesting, really. ",
+   "mobile" : 0,
+   "date" : "Mon, 10 Jun 2013 17:50:51",
+   "id" : "52665175613",
+   "from-feed-id" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/52665175613/timeo-danaos-et-dona-ferentes",
+   "tags" : [
+      "Yes Minister",
+      "Bernard is my hero"
+   ],
+   "format" : "html",
+   "url" : "http://tumblr.ggvaidya.com/post/52665175613",
+   "bookmarklet" : 0,
    "conversation" : [
       {
-         "name" : "",
          "label" : "",
-         "phrase" : "[Hacker has been offered the job of Transport Supremo.]\r"
+         "phrase" : "[Hacker has been offered the job of Transport Supremo.]\r",
+         "name" : ""
       },
       {
          "phrase" : "Sir Mark thinks there might be votes in it, and I do not intend to look a gift horse in the mouth.\r",
-         "name" : "Hacker",
-         "label" : "Hacker:"
+         "label" : "Hacker:",
+         "name" : "Hacker"
       },
       {
-         "phrase" : "I put it to you, Minister, that you are looking a Trojan horse in the mouth.\r",
          "name" : "Sir Humphrey",
+         "phrase" : "I put it to you, Minister, that you are looking a Trojan horse in the mouth.\r",
          "label" : "Sir Humphrey:"
       },
       {
-         "name" : "Hacker",
+         "phrase" : "You mean if we look closely at this gift horse, we'll find it's full of Trojans?\r",
          "label" : "Hacker:",
-         "phrase" : "You mean if we look closely at this gift horse, we'll find it's full of Trojans?\r"
+         "name" : "Hacker"
       },
       {
          "phrase" : "Um, if you had looked the Trojan Horse in the mouth, Minister, you would have found Greeks inside. Well, the point is that it was the Greeks who gave the Trojan horse to the Trojans, so technically it wasn't a Trojan horse at all; it was a Greek horse. Hence the tag \"timeo Danaos et dona ferentes\", which, you will recall, is usually and somewhat inaccurately translated as \"beware of Greeks bearing gifts\", or doubtless you would have recalled had you not attended the LSE.\r",
@@ -30,8 +45,8 @@
          "name" : "Bernard"
       },
       {
-         "phrase" : "Yes, well, I'm sure Greek tags are all very well in their way; but can we stick to the point?\r",
          "name" : "Hacker",
+         "phrase" : "Yes, well, I'm sure Greek tags are all very well in their way; but can we stick to the point?\r",
          "label" : "Hacker:"
       },
       {
@@ -40,36 +55,21 @@
          "phrase" : "Sorry, sorry: _Greek_ tags?\r"
       },
       {
-         "phrase" : "\"Beware of Greeks bearing gifts.\" I suppose the EEC equivalent would be \"Beware of Greeks bearing an olive oil surplus\".\r",
+         "name" : "Hacker",
          "label" : "Hacker:",
-         "name" : "Hacker"
+         "phrase" : "\"Beware of Greeks bearing gifts.\" I suppose the EEC equivalent would be \"Beware of Greeks bearing an olive oil surplus\".\r"
       },
       {
+         "phrase" : "Excellent, Minister.\r",
          "label" : "Sir Humphrey:",
-         "name" : "Sir Humphrey",
-         "phrase" : "Excellent, Minister.\r"
+         "name" : "Sir Humphrey"
       },
       {
-         "label" : "Bernard:",
          "name" : "Bernard",
+         "label" : "Bernard:",
          "phrase" : "No, well, the point is, Minister, that just as the Trojan horse was in fact Greek, what you describe as a Greek tag is in fact Latin. It's obvious, really: the Greeks would never suggest bewaring of themselves, if one can use such a participle (bewaring, that is). And it's clearly Latin, not because timeo ends in \"-o\", because the Greek first person also ends in \"-o\" -- although actually there is a Greek word timao, meaning 'I honour'. But the \"-os\" ending is a nominative singular termination of a second declension in Greek, and an accusative plural in Latin, of course, though actually Danaos is not only the Greek for 'Greek'; it's also the Latin for 'Greek'. It's very interesting, really."
       }
    ],
-   "from-feed-id" : 0,
-   "conversation-text" : "[Hacker has been offered the job of Transport Supremo.]\r\nHacker: Sir Mark thinks there might be votes in it, and I do not intend to look a gift horse in the mouth.\r\nSir Humphrey: I put it to you, Minister, that you are looking a Trojan horse in the mouth.\r\nHacker: You mean if we look closely at this gift horse, we'll find it's full of Trojans?\r\nBernard: Um, if you had looked the Trojan Horse in the mouth, Minister, you would have found Greeks inside. Well, the point is that it was the Greeks who gave the Trojan horse to the Trojans, so technically it wasn't a Trojan horse at all; it was a Greek horse. Hence the tag \"timeo Danaos et dona ferentes\", which, you will recall, is usually and somewhat inaccurately translated as \"beware of Greeks bearing gifts\", or doubtless you would have recalled had you not attended the LSE.\r\nHacker: Yes, well, I'm sure Greek tags are all very well in their way; but can we stick to the point?\r\nBernard: Sorry, sorry: _Greek_ tags?\r\nHacker: \"Beware of Greeks bearing gifts.\" I suppose the EEC equivalent would be \"Beware of Greeks bearing an olive oil surplus\".\r\nSir Humphrey: Excellent, Minister.\r\nBernard: No, well, the point is, Minister, that just as the Trojan horse was in fact Greek, what you describe as a Greek tag is in fact Latin. It's obvious, really: the Greeks would never suggest bewaring of themselves, if one can use such a participle (bewaring, that is). And it's clearly Latin, not because timeo ends in \"-o\", because the Greek first person also ends in \"-o\" -- although actually there is a Greek word timao, meaning 'I honour'. But the \"-os\" ending is a nominative singular termination of a second declension in Greek, and an accusative plural in Latin, of course, though actually Danaos is not only the Greek for 'Greek'; it's also the Latin for 'Greek'. It's very interesting, really. ",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/52665175613/timeo-danaos-et-dona-ferentes",
-   "id" : "52665175613",
-   "reblog-key" : "StBMRf1E",
-   "conversation-title" : "Timeo Danaos et dona ferentes",
-   "unix-timestamp" : 1370908251,
-   "date" : "Mon, 10 Jun 2013 17:50:51",
-   "format" : "html",
-   "date-gmt" : "2013-06-10 23:50:51 GMT",
-   "slug" : "timeo-danaos-et-dona-ferentes",
-   "tags" : [
-      "Yes Minister",
-      "Bernard is my hero"
-   ],
-   "url" : "http://tumblr.ggvaidya.com/post/52665175613"
+   "reblog-key" : "StBMRf1E"
 }
 

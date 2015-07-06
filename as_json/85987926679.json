@@ -1,40 +1,40 @@
 {
-   "bookmarklet" : 0,
-   "mobile" : 0,
+   "slug" : "too-good-for-him",
    "feed-item" : "",
    "type" : "conversation",
-   "conversation" : [
-      {
-         "label" : "Chidori:",
-         "name" : "Chidori",
-         "phrase" : "We've finally got you, Sousuke!\r"
-      },
-      {
-         "label" : "Sousuke:",
-         "name" : "Sousuke",
-         "phrase" : "[defeated] Just kill me.\r"
-      },
-      {
-         "phrase" : "Heh, you still have a job. We'll kill you later.",
-         "label" : "Chidori:",
-         "name" : "Chidori"
-      }
-   ],
-   "from-feed-id" : 0,
-   "conversation-text" : "Chidori: We've finally got you, Sousuke!\r\nSousuke: [defeated] Just kill me.\r\nChidori: Heh, you still have a job. We'll kill you later.",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/85987926679/too-good-for-him",
-   "id" : "85987926679",
-   "reblog-key" : "DmK92SIA",
    "conversation-title" : "Too good for him",
    "unix-timestamp" : 1400310417,
-   "date" : "Sat, 17 May 2014 01:06:57",
    "date-gmt" : "2014-05-17 07:06:57 GMT",
-   "format" : "html",
-   "slug" : "too-good-for-him",
+   "conversation-text" : "Chidori: We've finally got you, Sousuke!\r\nSousuke: [defeated] Just kill me.\r\nChidori: Heh, you still have a job. We'll kill you later.",
+   "mobile" : 0,
+   "date" : "Sat, 17 May 2014 01:06:57",
+   "id" : "85987926679",
+   "from-feed-id" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/85987926679/too-good-for-him",
    "tags" : [
       "full metal panic",
       "kids these days"
    ],
-   "url" : "http://tumblr.ggvaidya.com/post/85987926679"
+   "format" : "html",
+   "bookmarklet" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/85987926679",
+   "conversation" : [
+      {
+         "label" : "Chidori:",
+         "phrase" : "We've finally got you, Sousuke!\r",
+         "name" : "Chidori"
+      },
+      {
+         "phrase" : "[defeated] Just kill me.\r",
+         "label" : "Sousuke:",
+         "name" : "Sousuke"
+      },
+      {
+         "label" : "Chidori:",
+         "phrase" : "Heh, you still have a job. We'll kill you later.",
+         "name" : "Chidori"
+      }
+   ],
+   "reblog-key" : "DmK92SIA"
 }
 

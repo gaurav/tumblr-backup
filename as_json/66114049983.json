@@ -1,20 +1,15 @@
 {
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/66114049983/wash-i-am-a-leaf-on-the-wind-watch-how-i-me",
+   "id" : "66114049983",
+   "from-feed-id" : 0,
+   "mobile" : 0,
    "date" : "Tue, 05 Nov 2013 13:00:32",
-   "slug" : "wash-i-am-a-leaf-on-the-wind-watch-how-i-me",
-   "format" : "html",
-   "date-gmt" : "2013-11-05 20:00:32 GMT",
-   "url" : "http://tumblr.ggvaidya.com/post/66114049983",
-   "tags" : [
-      "too true",
-      "serenity",
-      "joss whedon"
-   ],
-   "feed-item" : "",
+   "reblog-key" : "dmx90DDP",
    "conversation" : [
       {
          "phrase" : "I am a leaf on the wind. Watch how I -\r",
-         "name" : "Wash",
-         "label" : "Wash:"
+         "label" : "Wash:",
+         "name" : "Wash"
       },
       {
          "phrase" : "*turns off TV*\r",
@@ -22,20 +17,25 @@
          "name" : "Me"
       },
       {
-         "phrase" : "Wow what a great movie :)",
          "name" : "Me",
+         "phrase" : "Wow what a great movie :)",
          "label" : "Me:"
       }
    ],
-   "type" : "conversation",
    "bookmarklet" : 0,
-   "mobile" : 0,
-   "id" : "66114049983",
-   "from-feed-id" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/66114049983/wash-i-am-a-leaf-on-the-wind-watch-how-i-me",
-   "conversation-text" : "Wash: I am a leaf on the wind. Watch how I -\r\nMe: *turns off TV*\r\nMe: Wow what a great movie :)",
+   "url" : "http://tumblr.ggvaidya.com/post/66114049983",
+   "tags" : [
+      "too true",
+      "serenity",
+      "joss whedon"
+   ],
+   "format" : "html",
+   "type" : "conversation",
    "conversation-title" : null,
-   "unix-timestamp" : 1383681632,
-   "reblog-key" : "dmx90DDP"
+   "feed-item" : "",
+   "slug" : "wash-i-am-a-leaf-on-the-wind-watch-how-i-me",
+   "conversation-text" : "Wash: I am a leaf on the wind. Watch how I -\r\nMe: *turns off TV*\r\nMe: Wow what a great movie :)",
+   "date-gmt" : "2013-11-05 20:00:32 GMT",
+   "unix-timestamp" : 1383681632
 }
 

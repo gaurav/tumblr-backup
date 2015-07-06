@@ -1,23 +1,23 @@
 {
-   "format" : "html",
-   "date-gmt" : "2015-01-23 21:20:15 GMT",
-   "quote-text" : "<p>As my uncle Braceforth used to say, &ldquo;There are very few problems that cannot be made better with a night&rsquo;s sleep, breakfast and a pickaxe.&rdquo;</p>\n\n<p>He never went more than two miles from the Warren in his life, but the principle still holds.</p>",
+   "feed-item" : "",
+   "type" : "quote",
    "slug" : "as-my-uncle-braceforth-used-to-say-there-are",
+   "date-gmt" : "2015-01-23 21:20:15 GMT",
+   "quote-source" : "Digger, <a href=\"http://diggercomic.com/blog/2007/05/29/digger-108/\">May 29th, 2007</a>",
+   "unix-timestamp" : 1422048015,
+   "from-feed-id" : 0,
+   "id" : "108942985914",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/108942985914/as-my-uncle-braceforth-used-to-say-there-are",
+   "mobile" : 0,
    "date" : "Fri, 23 Jan 2015 14:20:15",
+   "quote-text" : "<p>As my uncle Braceforth used to say, &ldquo;There are very few problems that cannot be made better with a night&rsquo;s sleep, breakfast and a pickaxe.&rdquo;</p>\n\n<p>He never went more than two miles from the Warren in his life, but the principle still holds.</p>",
+   "reblog-key" : "k4lZmr3x",
+   "format" : "html",
    "tags" : [
       "advice",
       "digger"
    ],
    "url" : "http://tumblr.ggvaidya.com/post/108942985914",
-   "bookmarklet" : 0,
-   "mobile" : 0,
-   "feed-item" : "",
-   "type" : "quote",
-   "quote-source" : "Digger, <a href=\"http://diggercomic.com/blog/2007/05/29/digger-108/\">May 29th, 2007</a>",
-   "reblog-key" : "k4lZmr3x",
-   "unix-timestamp" : 1422048015,
-   "from-feed-id" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/108942985914/as-my-uncle-braceforth-used-to-say-there-are",
-   "id" : "108942985914"
+   "bookmarklet" : 0
 }
 

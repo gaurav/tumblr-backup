@@ -1,24 +1,24 @@
 {
-   "type" : "quote",
    "feed-item" : "",
-   "mobile" : 0,
-   "bookmarklet" : 0,
+   "type" : "quote",
+   "slug" : "at-our-worst-we-were-better-than-anything-else",
+   "date-gmt" : "2013-11-10 18:29:19 GMT",
    "quote-source" : "Martin Sheen on <em>The West Wing</em> (via <a class=\"tumblr_blog\" href=\"http://gogoartqueen.tumblr.com/\">gogoartqueen</a>)",
    "unix-timestamp" : 1384108159,
-   "reblog-key" : "QSQcG6St",
    "id" : "66590066938",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/66590066938/at-our-worst-we-were-better-than-anything-else",
    "from-feed-id" : 0,
-   "slug" : "at-our-worst-we-were-better-than-anything-else",
-   "quote-text" : "At our worst, we were better than anything else that was out there. We knew it. We couldnât use the F-word. We werenât allowed any overt sexuality. We had no special effects. We depended on the text, each other, and the intensity of that. It was like Shakespeare.",
-   "format" : "html",
-   "date-gmt" : "2013-11-10 18:29:19 GMT",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/66590066938/at-our-worst-we-were-better-than-anything-else",
+   "mobile" : 0,
    "date" : "Sun, 10 Nov 2013 11:29:19",
-   "url" : "http://tumblr.ggvaidya.com/post/66590066938",
+   "quote-text" : "At our worst, we were better than anything else that was out there. We knew it. We couldnât use the F-word. We werenât allowed any overt sexuality. We had no special effects. We depended on the text, each other, and the intensity of that. It was like Shakespeare.",
+   "reblog-key" : "QSQcG6St",
    "tags" : [
       "dyu know what",
       "it kind of was",
       "the west wing"
-   ]
+   ],
+   "format" : "html",
+   "url" : "http://tumblr.ggvaidya.com/post/66590066938",
+   "bookmarklet" : 0
 }
 

@@ -1,13 +1,4 @@
 {
-   "date" : "Mon, 25 Aug 2014 22:42:00",
-   "slug" : "a-bad-little-canter",
-   "format" : "html",
-   "date-gmt" : "2014-08-26 04:42:00 GMT",
-   "url" : "http://tumblr.ggvaidya.com/post/95798944989",
-   "tags" : [
-      "waiting for godot"
-   ],
-   "feed-item" : "",
    "conversation" : [
       {
          "name" : "Estragon",
@@ -15,20 +6,29 @@
          "phrase" : "That wasn't such a bad little canter. \r"
       },
       {
+         "label" : "Vladimir:",
          "phrase" : "Yes, but now we'll have to find something else.",
-         "name" : "Vladimir",
-         "label" : "Vladimir:"
+         "name" : "Vladimir"
       }
    ],
-   "type" : "conversation",
-   "mobile" : 0,
+   "reblog-key" : "ga6Ky4k7",
+   "tags" : [
+      "waiting for godot"
+   ],
+   "format" : "html",
    "bookmarklet" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/95798944989",
    "id" : "95798944989",
    "from-feed-id" : 0,
-   "conversation-text" : "Estragon: That wasn't such a bad little canter. \r\nVladimir: Yes, but now we'll have to find something else.",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/95798944989/a-bad-little-canter",
-   "conversation-title" : "A bad little canter",
+   "mobile" : 0,
+   "date" : "Mon, 25 Aug 2014 22:42:00",
+   "date-gmt" : "2014-08-26 04:42:00 GMT",
+   "conversation-text" : "Estragon: That wasn't such a bad little canter. \r\nVladimir: Yes, but now we'll have to find something else.",
    "unix-timestamp" : 1409028120,
-   "reblog-key" : "ga6Ky4k7"
+   "feed-item" : "",
+   "type" : "conversation",
+   "conversation-title" : "A bad little canter",
+   "slug" : "a-bad-little-canter"
 }
 

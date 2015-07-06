@@ -1,25 +1,25 @@
 {
-   "type" : "quote",
-   "feed-item" : "",
-   "bookmarklet" : 0,
-   "mobile" : 0,
+   "date-gmt" : "2014-06-18 19:38:36 GMT",
    "quote-source" : "Iago (<em>Othello</em>, Act I scene i)",
    "unix-timestamp" : 1403120316,
-   "reblog-key" : "0Xffg0ky",
-   "id" : "89183606984",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/89183606984/in-following-him-i-follow-but-myself",
-   "from-feed-id" : 0,
+   "feed-item" : "",
+   "type" : "quote",
    "slug" : "in-following-him-i-follow-but-myself",
    "quote-text" : "In following him, I follow but myself.",
+   "reblog-key" : "0Xffg0ky",
    "format" : "html",
-   "date-gmt" : "2014-06-18 19:38:36 GMT",
-   "date" : "Wed, 18 Jun 2014 13:38:36",
-   "url" : "http://tumblr.ggvaidya.com/post/89183606984",
    "tags" : [
       "tumblr",
       "Shakespeare",
       "iago",
       "othello"
-   ]
+   ],
+   "bookmarklet" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/89183606984",
+   "from-feed-id" : 0,
+   "id" : "89183606984",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/89183606984/in-following-him-i-follow-but-myself",
+   "mobile" : 0,
+   "date" : "Wed, 18 Jun 2014 13:38:36"
 }
 

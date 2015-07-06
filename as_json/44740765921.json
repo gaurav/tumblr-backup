@@ -1,14 +1,12 @@
 {
-   "reblog-key" : "CehMJ7XQ",
    "unix-timestamp" : 1362613262,
-   "from-feed-id" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/44740765921/i-think-we-mistake-sadness-for-depression-because",
-   "id" : "44740765921",
-   "mobile" : 0,
-   "bookmarklet" : 0,
-   "feed-item" : "",
-   "type" : "quote",
    "quote-source" : "Jeremy Hardy, <em><a href=\"http://en.wikipedia.org/wiki/The_News_Quiz\">The News Quiz</a></em>, sometime before <a href=\"http://www.goodreads.com/quotes/237449-i-think-we-mistake-sadness-for-depression-because-life-is\">March 6, 2010</a>",
+   "date-gmt" : "2013-03-06 23:41:02 GMT",
+   "slug" : "i-think-we-mistake-sadness-for-depression-because",
+   "type" : "quote",
+   "feed-item" : "",
+   "bookmarklet" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/44740765921",
    "tags" : [
       "sadness",
       "depression",
@@ -16,11 +14,13 @@
       "which episode is this from",
       "argh"
    ],
-   "url" : "http://tumblr.ggvaidya.com/post/44740765921",
    "format" : "html",
-   "date-gmt" : "2013-03-06 23:41:02 GMT",
+   "reblog-key" : "CehMJ7XQ",
    "quote-text" : "I think we mistake sadness for depression, because life is basically sad, and its the failure to recognize that that leads to this sort of resentment and bewilderment [&hellip;] It is, it is, and [..] you know, people just suddenly think that the world owes it to them to be happy, and they&rsquo;re not happy and then they think well, why aren&rsquo;t I happy, and makes &lsquo;em angry and then they&rsquo;re depressed about the fact that they&rsquo;re angry and they&rsquo;re bitter about the fact that they&rsquo;re depressed, and this downward cycle; why don&rsquo;t they just accept that life is sad and cheer up, it&rsquo;s not forever.",
-   "slug" : "i-think-we-mistake-sadness-for-depression-because",
-   "date" : "Wed, 06 Mar 2013 16:41:02"
+   "mobile" : 0,
+   "date" : "Wed, 06 Mar 2013 16:41:02",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/44740765921/i-think-we-mistake-sadness-for-depression-because",
+   "id" : "44740765921",
+   "from-feed-id" : 0
 }
 

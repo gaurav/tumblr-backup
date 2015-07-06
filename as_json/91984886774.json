@@ -1,23 +1,23 @@
 {
+   "date-gmt" : "2014-07-16 21:47:29 GMT",
+   "unix-timestamp" : 1405547249,
+   "quote-source" : "Attributed to Paul Tomblin on alt.sysadmin.recovery, <a href=\"http://www.bash.org/?7845\">bash.org #7845</a>",
    "type" : "quote",
    "feed-item" : "",
-   "mobile" : 0,
-   "bookmarklet" : 0,
-   "quote-source" : "Attributed to Paul Tomblin on alt.sysadmin.recovery, <a href=\"http://www.bash.org/?7845\">bash.org #7845</a>",
-   "unix-timestamp" : 1405547249,
-   "reblog-key" : "1NRGndfl",
-   "id" : "91984886774",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/91984886774/i-love-the-way-microsoft-follows-standards-in",
-   "from-feed-id" : 0,
    "slug" : "i-love-the-way-microsoft-follows-standards-in",
+   "reblog-key" : "1NRGndfl",
    "quote-text" : "&hellip;  I love the way Microsoft follows standards.  In much the same manner that fish follow migrating caribou.",
-   "date-gmt" : "2014-07-16 21:47:29 GMT",
-   "format" : "html",
-   "date" : "Wed, 16 Jul 2014 15:47:29",
+   "bookmarklet" : 0,
    "url" : "http://tumblr.ggvaidya.com/post/91984886774",
    "tags" : [
       "bash.org",
       "microsoft"
-   ]
+   ],
+   "format" : "html",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/91984886774/i-love-the-way-microsoft-follows-standards-in",
+   "id" : "91984886774",
+   "from-feed-id" : 0,
+   "mobile" : 0,
+   "date" : "Wed, 16 Jul 2014 15:47:29"
 }
 

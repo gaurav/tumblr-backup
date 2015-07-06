@@ -1,19 +1,19 @@
 {
-   "type" : "quote",
-   "feed-item" : "",
+   "format" : "html",
    "bookmarklet" : 0,
-   "mobile" : 0,
-   "quote-source" : "Kelly Sue DeConnick, at ECCCâs âFrom Victim to Heroâ panel. (via <a class=\"tumblr_blog\" href=\"http://brokenblumenkind.tumblr.com/\">brokenblumenkind</a>)",
-   "unix-timestamp" : 1362468724,
+   "url" : "http://tumblr.ggvaidya.com/post/44607414241",
+   "quote-text" : "<p>So, thereâs the Bechdel test. </p>\n\n<p>Iâve got another test that works just as well. The Sexy Lamp test. If you can take out a female character and replace her with a sexy lamp, YOUâRE A FUCKING HACK.</p>",
    "reblog-key" : "v0wQaakp",
+   "mobile" : 0,
+   "date" : "Tue, 05 Mar 2013 00:32:04",
+   "from-feed-id" : 0,
    "id" : "44607414241",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/44607414241/so-theres-the-bechdel-test-ive-got-another",
-   "from-feed-id" : 0,
-   "slug" : "so-theres-the-bechdel-test-ive-got-another",
-   "quote-text" : "<p>So, thereâs the Bechdel test. </p>\n\n<p>Iâve got another test that works just as well. The Sexy Lamp test. If you can take out a female character and replace her with a sexy lamp, YOUâRE A FUCKING HACK.</p>",
+   "quote-source" : "Kelly Sue DeConnick, at ECCCâs âFrom Victim to Heroâ panel. (via <a class=\"tumblr_blog\" href=\"http://brokenblumenkind.tumblr.com/\">brokenblumenkind</a>)",
+   "unix-timestamp" : 1362468724,
    "date-gmt" : "2013-03-05 07:32:04 GMT",
-   "format" : "html",
-   "date" : "Tue, 05 Mar 2013 00:32:04",
-   "url" : "http://tumblr.ggvaidya.com/post/44607414241"
+   "slug" : "so-theres-the-bechdel-test-ive-got-another",
+   "feed-item" : "",
+   "type" : "quote"
 }
 

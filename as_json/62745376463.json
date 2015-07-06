@@ -1,23 +1,23 @@
 {
-   "id" : "62745376463",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/62745376463/xml-is-like-violence-if-it-doesnt-solve-your",
-   "from-feed-id" : 0,
-   "unix-timestamp" : 1380574642,
-   "reblog-key" : "5cinanHz",
-   "quote-source" : "<a href=\"http://rubygems.org/gems/nokogiri\">nokogiri</a> documentation, September 30, 2013",
-   "type" : "quote",
-   "feed-item" : "",
-   "mobile" : 0,
-   "bookmarklet" : 0,
    "url" : "http://tumblr.ggvaidya.com/post/62745376463",
+   "bookmarklet" : 0,
    "tags" : [
       "xml",
       "violence"
    ],
-   "date" : "Mon, 30 Sep 2013 14:57:22",
-   "slug" : "xml-is-like-violence-if-it-doesnt-solve-your",
-   "quote-text" : "XML is like violence - if it doesn&rsquo;t solve your problems, you are not using enough of it.",
    "format" : "html",
-   "date-gmt" : "2013-09-30 20:57:22 GMT"
+   "reblog-key" : "5cinanHz",
+   "quote-text" : "XML is like violence - if it doesn&rsquo;t solve your problems, you are not using enough of it.",
+   "mobile" : 0,
+   "date" : "Mon, 30 Sep 2013 14:57:22",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/62745376463/xml-is-like-violence-if-it-doesnt-solve-your",
+   "id" : "62745376463",
+   "from-feed-id" : 0,
+   "unix-timestamp" : 1380574642,
+   "quote-source" : "<a href=\"http://rubygems.org/gems/nokogiri\">nokogiri</a> documentation, September 30, 2013",
+   "date-gmt" : "2013-09-30 20:57:22 GMT",
+   "slug" : "xml-is-like-violence-if-it-doesnt-solve-your",
+   "type" : "quote",
+   "feed-item" : ""
 }
 

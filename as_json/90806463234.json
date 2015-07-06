@@ -1,25 +1,25 @@
 {
-   "unix-timestamp" : 1404521830,
-   "reblog-key" : "4oiOuMyt",
-   "id" : "90806463234",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/90806463234/disclaimer-wizards-of-the-coast-is-not",
    "from-feed-id" : 0,
-   "type" : "quote",
-   "feed-item" : "",
-   "bookmarklet" : 0,
+   "id" : "90806463234",
    "mobile" : 0,
-   "quote-source" : "Wizards of the Coast, <em><a href=\"http://media.wizards.com/downloads/dnd/DnDBasicRules.pdf\">D&amp;D Basic Rules, 0.1</a></em>, July 3, 2014.",
+   "date" : "Fri, 04 Jul 2014 18:57:10",
+   "reblog-key" : "4oiOuMyt",
+   "quote-text" : "Disclaimer: Wizards of the Coast is not responsible for the consequences of splitting up the party, sticking appendages in the mouth of a leering green devil face, accepting a dinner invitation from bugbears, storming the feast hall of a hill giant steading, angering a dragon of any variety, or saying yes when the DM asks, &ldquo;Are you really sure?&rdquo;",
+   "bookmarklet" : 0,
    "url" : "http://tumblr.ggvaidya.com/post/90806463234",
+   "format" : "html",
    "tags" : [
       "d&d",
       "dungeons and dragons",
       "wotc",
       "wizards of the coast"
    ],
+   "type" : "quote",
+   "feed-item" : "",
    "slug" : "disclaimer-wizards-of-the-coast-is-not",
-   "quote-text" : "Disclaimer: Wizards of the Coast is not responsible for the consequences of splitting up the party, sticking appendages in the mouth of a leering green devil face, accepting a dinner invitation from bugbears, storming the feast hall of a hill giant steading, angering a dragon of any variety, or saying yes when the DM asks, &ldquo;Are you really sure?&rdquo;",
    "date-gmt" : "2014-07-05 00:57:10 GMT",
-   "format" : "html",
-   "date" : "Fri, 04 Jul 2014 18:57:10"
+   "unix-timestamp" : 1404521830,
+   "quote-source" : "Wizards of the Coast, <em><a href=\"http://media.wizards.com/downloads/dnd/DnDBasicRules.pdf\">D&amp;D Basic Rules, 0.1</a></em>, July 3, 2014."
 }
 

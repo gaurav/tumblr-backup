@@ -1,25 +1,25 @@
 {
-   "date" : "Fri, 06 Apr 2012 03:10:00",
+   "feed-item" : "",
+   "type" : "quote",
    "slug" : "as-soon-as-people-made-eye-contact-with-me-i-would",
-   "quote-text" : "As soon as people made eye contact with me I would smile, and then they would smile, and that made me smile bigger for the next person. It was a fun chain of smiling.",
-   "format" : "html",
    "date-gmt" : "2012-04-06 09:10:00 GMT",
-   "url" : "http://tumblr.ggvaidya.com/post/20580409052",
+   "quote-source" : "Agent Small, <a href=\"http://improveverywhere.com/2009/02/09/high-five-escalator/\"><em>High Five Escalator</em></a> by <a href=\"http://en.wikipedia.org/wiki/Improv_Everywhere\">Improv Everywhere</a>",
+   "unix-timestamp" : 1333703400,
+   "id" : "20580409052",
+   "from-feed-id" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/20580409052/as-soon-as-people-made-eye-contact-with-me-i-would",
+   "mobile" : 0,
+   "date" : "Fri, 06 Apr 2012 03:10:00",
+   "quote-text" : "As soon as people made eye contact with me I would smile, and then they would smile, and that made me smile bigger for the next person. It was a fun chain of smiling.",
+   "reblog-key" : "fQ7SwFA1",
    "tags" : [
       "high fives",
       "improv everywhere",
       "new york city",
       "smiles"
    ],
-   "quote-source" : "Agent Small, <a href=\"http://improveverywhere.com/2009/02/09/high-five-escalator/\"><em>High Five Escalator</em></a> by <a href=\"http://en.wikipedia.org/wiki/Improv_Everywhere\">Improv Everywhere</a>",
-   "type" : "quote",
-   "feed-item" : "",
+   "format" : "html",
    "bookmarklet" : 0,
-   "mobile" : 0,
-   "id" : "20580409052",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/20580409052/as-soon-as-people-made-eye-contact-with-me-i-would",
-   "from-feed-id" : 0,
-   "unix-timestamp" : 1333703400,
-   "reblog-key" : "fQ7SwFA1"
+   "url" : "http://tumblr.ggvaidya.com/post/20580409052"
 }
 

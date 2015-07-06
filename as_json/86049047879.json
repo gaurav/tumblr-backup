@@ -1,14 +1,12 @@
 {
-   "unix-timestamp" : 1400366280,
-   "reblog-key" : "CYMDPZEb",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/86049047879/now-these-points-of-data-make-a-beautiful-line",
    "id" : "86049047879",
    "from-feed-id" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/86049047879/now-these-points-of-data-make-a-beautiful-line",
-   "feed-item" : "",
-   "type" : "quote",
    "mobile" : 0,
+   "date" : "Sat, 17 May 2014 16:38:00",
+   "reblog-key" : "CYMDPZEb",
+   "quote-text" : "<p>Now these points of data make a beautiful line.<br/>\nAnd we&rsquo;re out of beta, we&rsquo;re releasing on time.<br/>\nSo I&rsquo;m GLaD I got burned.<br/>\nThink of all the things we learned<br/>\nFor the people who are still alive.</p>\n\n<p>Go ahead and leave me.<br/>\nI think I prefer to stay inside.<br/>\nMaybe you&rsquo;ll find someone else to help you.<br/>\nMaybe Black Mesa â<br/>\nThat was a joke! Ha, ha, fat CHANCE.<br/>\nAnyway, this cake is great.<br/>\nIt&rsquo;s so delicious and moist.</p>",
    "bookmarklet" : 0,
-   "quote-source" : "Ellen McLain, <em><a href=\"http://www.jonathancoulton.com/wiki/Still_Alive/Lyrics\">Still Alive</a></em>, Portal (2007)",
    "url" : "http://tumblr.ggvaidya.com/post/86049047879",
    "tags" : [
       "still alive",
@@ -16,10 +14,12 @@
       "be still my heart",
       "science"
    ],
-   "slug" : "now-these-points-of-data-make-a-beautiful-line",
    "format" : "html",
+   "type" : "quote",
+   "feed-item" : "",
+   "slug" : "now-these-points-of-data-make-a-beautiful-line",
    "date-gmt" : "2014-05-17 22:38:00 GMT",
-   "quote-text" : "<p>Now these points of data make a beautiful line.<br/>\nAnd we&rsquo;re out of beta, we&rsquo;re releasing on time.<br/>\nSo I&rsquo;m GLaD I got burned.<br/>\nThink of all the things we learned<br/>\nFor the people who are still alive.</p>\n\n<p>Go ahead and leave me.<br/>\nI think I prefer to stay inside.<br/>\nMaybe you&rsquo;ll find someone else to help you.<br/>\nMaybe Black Mesa â<br/>\nThat was a joke! Ha, ha, fat CHANCE.<br/>\nAnyway, this cake is great.<br/>\nIt&rsquo;s so delicious and moist.</p>",
-   "date" : "Sat, 17 May 2014 16:38:00"
+   "unix-timestamp" : 1400366280,
+   "quote-source" : "Ellen McLain, <em><a href=\"http://www.jonathancoulton.com/wiki/Still_Alive/Lyrics\">Still Alive</a></em>, Portal (2007)"
 }
 

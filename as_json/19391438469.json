@@ -1,26 +1,26 @@
 {
    "video-source" : "http://www.youtube.com/watch?v=kLU2DiMLYUE",
+   "mobile" : 0,
+   "date" : "Fri, 16 Mar 2012 03:14:53",
+   "video-player" : "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/kLU2DiMLYUE?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/19391438469/in-the-future-all-geopolitics-will-be-conveyed-by",
+   "id" : "19391438469",
+   "from-feed-id" : 0,
    "url" : "http://tumblr.ggvaidya.com/post/19391438469",
+   "bookmarklet" : 0,
    "tags" : [
       "the daily show",
       "dog"
    ],
-   "slug" : "in-the-future-all-geopolitics-will-be-conveyed-by",
    "format" : "html",
-   "date-gmt" : "2012-03-16 09:14:53 GMT",
-   "video-player-250" : "<iframe width=\"250\" height=\"140\" src=\"https://www.youtube.com/embed/kLU2DiMLYUE?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "date" : "Fri, 16 Mar 2012 03:14:53",
-   "video-caption" : "<p>In the future, all geopolitics will be conveyed by dog.</p>\n\n<p>(From the Daily Show, Mar 12, 2012, for as long as it stays up. Search for &ldquo;syria 2012 dog&rdquo; if the link no longer works).</p>",
-   "unix-timestamp" : 1331889293,
-   "video-player-500" : "<iframe width=\"500\" height=\"281\" src=\"https://www.youtube.com/embed/kLU2DiMLYUE?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
    "reblog-key" : "LHVSETdZ",
-   "id" : "19391438469",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/19391438469/in-the-future-all-geopolitics-will-be-conveyed-by",
-   "from-feed-id" : 0,
+   "slug" : "in-the-future-all-geopolitics-will-be-conveyed-by",
    "type" : "video",
    "feed-item" : "",
-   "bookmarklet" : 0,
-   "mobile" : 0,
-   "video-player" : "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/kLU2DiMLYUE?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+   "video-player-500" : "<iframe width=\"500\" height=\"281\" src=\"https://www.youtube.com/embed/kLU2DiMLYUE?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "unix-timestamp" : 1331889293,
+   "video-caption" : "<p>In the future, all geopolitics will be conveyed by dog.</p>\n\n<p>(From the Daily Show, Mar 12, 2012, for as long as it stays up. Search for &ldquo;syria 2012 dog&rdquo; if the link no longer works).</p>",
+   "date-gmt" : "2012-03-16 09:14:53 GMT",
+   "video-player-250" : "<iframe width=\"250\" height=\"140\" src=\"https://www.youtube.com/embed/kLU2DiMLYUE?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
 }
 

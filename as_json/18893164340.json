@@ -1,25 +1,25 @@
 {
-   "video-player" : "<iframe width=\"400\" height=\"299\" src=\"https://www.youtube.com/embed/vEOZLQ3d1FI?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "slug" : "the-baffled-king-composing-hallelujah",
    "feed-item" : "",
    "type" : "video",
-   "mobile" : 0,
-   "bookmarklet" : 0,
-   "id" : "18893164340",
-   "from-feed-id" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/18893164340/the-baffled-king-composing-hallelujah",
+   "video-caption" : "<p>The baffled king composing &ldquo;Hallelujah&rdquo;.</p>",
    "video-player-500" : "<iframe width=\"500\" height=\"374\" src=\"https://www.youtube.com/embed/vEOZLQ3d1FI?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
    "unix-timestamp" : 1331103708,
-   "reblog-key" : "0dlNGMZN",
-   "video-caption" : "<p>The baffled king composing &ldquo;Hallelujah&rdquo;.</p>",
-   "date" : "Wed, 07 Mar 2012 00:01:48",
-   "video-player-250" : "<iframe width=\"250\" height=\"187\" src=\"https://www.youtube.com/embed/vEOZLQ3d1FI?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "slug" : "the-baffled-king-composing-hallelujah",
    "date-gmt" : "2012-03-07 07:01:48 GMT",
-   "format" : "html",
-   "url" : "http://tumblr.ggvaidya.com/post/18893164340",
+   "video-player-250" : "<iframe width=\"250\" height=\"187\" src=\"https://www.youtube.com/embed/vEOZLQ3d1FI?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "mobile" : 0,
+   "video-source" : "http://www.youtube.com/watch?v=vEOZLQ3d1FI",
+   "date" : "Wed, 07 Mar 2012 00:01:48",
+   "id" : "18893164340",
+   "from-feed-id" : 0,
+   "video-player" : "<iframe width=\"400\" height=\"299\" src=\"https://www.youtube.com/embed/vEOZLQ3d1FI?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/18893164340/the-baffled-king-composing-hallelujah",
    "tags" : [
       "music"
    ],
-   "video-source" : "http://www.youtube.com/watch?v=vEOZLQ3d1FI"
+   "format" : "html",
+   "bookmarklet" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/18893164340",
+   "reblog-key" : "0dlNGMZN"
 }
 

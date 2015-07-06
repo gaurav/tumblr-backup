@@ -1,25 +1,25 @@
 {
-   "video-player" : "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/GBaHPND2QJg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "bookmarklet" : 0,
-   "mobile" : 0,
-   "type" : "video",
-   "feed-item" : "",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/27777307054/why-you-must-always-give-money-to-street-musicians",
-   "from-feed-id" : 0,
-   "id" : "27777307054",
-   "reblog-key" : "83VsHrSc",
-   "unix-timestamp" : 1342984797,
-   "video-player-500" : "<iframe width=\"500\" height=\"281\" src=\"https://www.youtube.com/embed/GBaHPND2QJg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "video-player-250" : "<iframe width=\"250\" height=\"140\" src=\"https://www.youtube.com/embed/GBaHPND2QJg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "video-caption" : "<p>Why you must always give money to street musicians (via <a href=\"http://www.theatlantic.com/technology/archive/2012/07/ode-to-joy-50-string-instruments-that-will-melt-your-heart/259514/\">The Atlantic</a>)</p>",
-   "date" : "Sun, 22 Jul 2012 13:19:57",
-   "date-gmt" : "2012-07-22 19:19:57 GMT",
    "format" : "html",
-   "slug" : "why-you-must-always-give-money-to-street-musicians",
    "tags" : [
       "ode to joy"
    ],
    "url" : "http://tumblr.ggvaidya.com/post/27777307054",
-   "video-source" : "http://youtu.be/GBaHPND2QJg"
+   "bookmarklet" : 0,
+   "reblog-key" : "83VsHrSc",
+   "mobile" : 0,
+   "video-source" : "http://youtu.be/GBaHPND2QJg",
+   "date" : "Sun, 22 Jul 2012 13:19:57",
+   "from-feed-id" : 0,
+   "id" : "27777307054",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/27777307054/why-you-must-always-give-money-to-street-musicians",
+   "video-player" : "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/GBaHPND2QJg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-caption" : "<p>Why you must always give money to street musicians (via <a href=\"http://www.theatlantic.com/technology/archive/2012/07/ode-to-joy-50-string-instruments-that-will-melt-your-heart/259514/\">The Atlantic</a>)</p>",
+   "video-player-500" : "<iframe width=\"500\" height=\"281\" src=\"https://www.youtube.com/embed/GBaHPND2QJg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "unix-timestamp" : 1342984797,
+   "video-player-250" : "<iframe width=\"250\" height=\"140\" src=\"https://www.youtube.com/embed/GBaHPND2QJg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "date-gmt" : "2012-07-22 19:19:57 GMT",
+   "slug" : "why-you-must-always-give-money-to-street-musicians",
+   "feed-item" : "",
+   "type" : "video"
 }
 
