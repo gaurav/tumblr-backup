@@ -1,26 +1,26 @@
 {
-   "video-source" : "https://www.youtube.com/watch?v=Qru2tz5Wbrc",
-   "mobile" : 0,
-   "date" : "Wed, 16 Apr 2014 03:13:38",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/82878838466/tielan-yourfutureleader-i-suddenly",
-   "video-player" : "<iframe width=\"400\" height=\"299\" src=\"https://www.youtube.com/embed/Qru2tz5Wbrc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "from-feed-id" : 0,
-   "id" : "82878838466",
+   "slug" : "tielan-yourfutureleader-i-suddenly",
    "url" : "http://tumblr.ggvaidya.com/post/82878838466",
-   "bookmarklet" : 0,
+   "reblog-key" : "Z5gOi4tl",
+   "feed-item" : "",
+   "video-player-250" : "<iframe width=\"250\" height=\"187\" src=\"https://www.youtube.com/embed/Qru2tz5Wbrc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-caption" : "<p><a class=\"tumblr_blog\" href=\"http://tielan.tumblr.com/post/66271053915/yourfutureleader-i-suddenly-remembered-the\">tielan</a>:</p>\n<blockquote>\n<p><a class=\"tumblr_blog\" href=\"http://yourfutureleader.tumblr.com/post/66232912766/i-suddenly-remembered-the-existence-of-the\">yourfutureleader</a>:</p>\n<blockquote>\n<p>I suddenly remembered the existence of the greatest commercial ever made and wanted to make 100% sure that you have also all seen it.</p>\n<p>It is truly life changing.</p>\n</blockquote>\n<p>I laughed so hard, I cried. And then I went and got my sisters to watch it.</p>\n</blockquote>",
+   "date" : "Wed, 16 Apr 2014 03:13:38",
    "format" : "html",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/82878838466/tielan-yourfutureleader-i-suddenly",
    "tags" : [
       "bwahahaha",
       "the march of the emperors"
    ],
-   "reblog-key" : "Z5gOi4tl",
-   "slug" : "tielan-yourfutureleader-i-suddenly",
    "type" : "video",
-   "feed-item" : "",
-   "video-player-500" : "<iframe width=\"500\" height=\"374\" src=\"https://www.youtube.com/embed/Qru2tz5Wbrc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "mobile" : 0,
+   "video-player" : "<iframe width=\"400\" height=\"299\" src=\"https://www.youtube.com/embed/Qru2tz5Wbrc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "bookmarklet" : 0,
    "unix-timestamp" : 1397639618,
-   "video-caption" : "<p><a class=\"tumblr_blog\" href=\"http://tielan.tumblr.com/post/66271053915/yourfutureleader-i-suddenly-remembered-the\">tielan</a>:</p>\n<blockquote>\n<p><a class=\"tumblr_blog\" href=\"http://yourfutureleader.tumblr.com/post/66232912766/i-suddenly-remembered-the-existence-of-the\">yourfutureleader</a>:</p>\n<blockquote>\n<p>I suddenly remembered the existence of the greatest commercial ever made and wanted to make 100% sure that you have also all seen it.</p>\n<p>It is truly life changing.</p>\n</blockquote>\n<p>I laughed so hard, I cried. And then I went and got my sisters to watch it.</p>\n</blockquote>",
-   "video-player-250" : "<iframe width=\"250\" height=\"187\" src=\"https://www.youtube.com/embed/Qru2tz5Wbrc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "date-gmt" : "2014-04-16 09:13:38 GMT"
+   "video-player-500" : "<iframe width=\"500\" height=\"374\" src=\"https://www.youtube.com/embed/Qru2tz5Wbrc?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "id" : "82878838466",
+   "date-gmt" : "2014-04-16 09:13:38 GMT",
+   "video-source" : "https://www.youtube.com/watch?v=Qru2tz5Wbrc",
+   "from-feed-id" : 0
 }
 

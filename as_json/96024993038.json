@@ -1,12 +1,18 @@
 {
-   "date" : "Thu, 28 Aug 2014 14:40:32",
    "mobile" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/96024993038/you-have-aspirations-you-really-want-to-make-your",
-   "from-feed-id" : 0,
-   "id" : "96024993038",
-   "url" : "http://tumblr.ggvaidya.com/post/96024993038",
+   "unix-timestamp" : 1409258432,
+   "quote-source" : "<a href=\"http://www.prequeladventure.com/2011/04/katia-confront-your-maybe-still-friend/\"><em>Prequel</em>, April 23, 2014</a>",
    "bookmarklet" : 0,
+   "date-gmt" : "2014-08-28 20:40:32 GMT",
+   "id" : "96024993038",
+   "from-feed-id" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/96024993038",
+   "slug" : "you-have-aspirations-you-really-want-to-make-your",
+   "quote-text" : "<p>You have aspirations. You really want to make your life into something better. Something significant. You might not be worth much now, but youâre also not satisfied with who you are.</p>\n\n<p>Sure, youâve done nothing but screw up, but your intentions were good. Everything you did was because you wanted to help make things better. You failed, but at least you tried and that damn well counts for something.</p>",
    "format" : "html",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/96024993038/you-have-aspirations-you-really-want-to-make-your",
+   "date" : "Thu, 28 Aug 2014 14:40:32",
+   "type" : "quote",
    "tags" : [
       "prequel adventure",
       "Katia Managan",
@@ -14,12 +20,6 @@
       "advice"
    ],
    "reblog-key" : "dSFj8UFZ",
-   "quote-text" : "<p>You have aspirations. You really want to make your life into something better. Something significant. You might not be worth much now, but youâre also not satisfied with who you are.</p>\n\n<p>Sure, youâve done nothing but screw up, but your intentions were good. Everything you did was because you wanted to help make things better. You failed, but at least you tried and that damn well counts for something.</p>",
-   "slug" : "you-have-aspirations-you-really-want-to-make-your",
-   "type" : "quote",
-   "feed-item" : "",
-   "unix-timestamp" : 1409258432,
-   "quote-source" : "<a href=\"http://www.prequeladventure.com/2011/04/katia-confront-your-maybe-still-friend/\"><em>Prequel</em>, April 23, 2014</a>",
-   "date-gmt" : "2014-08-28 20:40:32 GMT"
+   "feed-item" : ""
 }
 

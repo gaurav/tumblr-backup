@@ -1,36 +1,36 @@
 {
-   "slug" : "kennedy-your-work-has-been-a-real-boon-to",
-   "conversation-title" : null,
-   "type" : "conversation",
-   "feed-item" : "",
-   "unix-timestamp" : 1347391083,
-   "conversation-text" : "Kennedy: Your work has been a real boon to bloggers. Why did you decide to take the Creative Commons route rather than focus on selling your work?\r\nSkidmore: My interest has always been to see my photos used as widely as possible. If someone wants to pay me to use my work, that is really only a bonus. But I find that attribution is sometimes more rewarding in getting your name out there among the crowd, which will continue to use your photos.",
-   "date-gmt" : "2012-09-11 19:18:03 GMT",
-   "date" : "Tue, 11 Sep 2012 13:18:03",
-   "mobile" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/31347401926/kennedy-your-work-has-been-a-real-boon-to",
    "from-feed-id" : 0,
    "id" : "31347401926",
+   "date-gmt" : "2012-09-11 19:18:03 GMT",
+   "conversation-title" : null,
+   "unix-timestamp" : 1347391083,
    "bookmarklet" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/31347401926",
-   "format" : "html",
-   "tags" : [
-      "gage skidmore",
-      "creative commons",
-      "wikimedia commons"
-   ],
-   "reblog-key" : "S4ZMjFg2",
+   "mobile" : 0,
    "conversation" : [
       {
          "label" : "Kennedy:",
-         "phrase" : "Your work has been a real boon to bloggers. Why did you decide to take the Creative Commons route rather than focus on selling your work?\r",
-         "name" : "Kennedy"
+         "name" : "Kennedy",
+         "phrase" : "Your work has been a real boon to bloggers. Why did you decide to take the Creative Commons route rather than focus on selling your work?\r"
       },
       {
          "label" : "Skidmore:",
          "phrase" : "My interest has always been to see my photos used as widely as possible. If someone wants to pay me to use my work, that is really only a bonus. But I find that attribution is sometimes more rewarding in getting your name out there among the crowd, which will continue to use your photos.",
          "name" : "Skidmore"
       }
-   ]
+   ],
+   "type" : "conversation",
+   "conversation-text" : "Kennedy: Your work has been a real boon to bloggers. Why did you decide to take the Creative Commons route rather than focus on selling your work?\r\nSkidmore: My interest has always been to see my photos used as widely as possible. If someone wants to pay me to use my work, that is really only a bonus. But I find that attribution is sometimes more rewarding in getting your name out there among the crowd, which will continue to use your photos.",
+   "tags" : [
+      "gage skidmore",
+      "creative commons",
+      "wikimedia commons"
+   ],
+   "format" : "html",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/31347401926/kennedy-your-work-has-been-a-real-boon-to",
+   "date" : "Tue, 11 Sep 2012 13:18:03",
+   "feed-item" : "",
+   "reblog-key" : "S4ZMjFg2",
+   "url" : "http://tumblr.ggvaidya.com/post/31347401926",
+   "slug" : "kennedy-your-work-has-been-a-real-boon-to"
 }
 

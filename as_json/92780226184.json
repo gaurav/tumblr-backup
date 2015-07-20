@@ -1,22 +1,22 @@
 {
-   "feed-item" : "",
-   "type" : "quote",
-   "slug" : "treat-all-your-secondary-characters-like-they",
-   "date-gmt" : "2014-07-25 01:00:13 GMT",
+   "bookmarklet" : 0,
    "quote-source" : "Jocelyn Hughes (via <a class=\"tumblr_blog\" href=\"http://writewild.tumblr.com/\">writewild</a>)",
    "unix-timestamp" : 1406250013,
-   "id" : "92780226184",
-   "from-feed-id" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/92780226184/treat-all-your-secondary-characters-like-they",
    "mobile" : 0,
-   "date" : "Thu, 24 Jul 2014 19:00:13",
+   "from-feed-id" : 0,
+   "id" : "92780226184",
+   "date-gmt" : "2014-07-25 01:00:13 GMT",
+   "url" : "http://tumblr.ggvaidya.com/post/92780226184",
+   "slug" : "treat-all-your-secondary-characters-like-they",
    "quote-text" : "Treat all your secondary characters like they think the bookâs about them.",
-   "reblog-key" : "cKznId0d",
+   "type" : "quote",
    "tags" : [
       "writing"
    ],
    "format" : "html",
-   "bookmarklet" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/92780226184"
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/92780226184/treat-all-your-secondary-characters-like-they",
+   "date" : "Thu, 24 Jul 2014 19:00:13",
+   "feed-item" : "",
+   "reblog-key" : "cKznId0d"
 }
 

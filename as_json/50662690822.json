@@ -1,42 +1,42 @@
 {
-   "slug" : "word-play",
    "conversation-title" : "Word play",
-   "type" : "conversation",
-   "feed-item" : "",
-   "unix-timestamp" : 1368812460,
-   "conversation-text" : "Robin: That was not cool, Ted.\r\nLily: [in labour] Contraction.\r\nRobin: [confused] That ... wasn't cool, Ted?",
-   "date-gmt" : "2013-05-17 17:41:00 GMT",
+   "conversation" : [
+      {
+         "phrase" : "That was not cool, Ted.\r",
+         "name" : "Robin",
+         "label" : "Robin:"
+      },
+      {
+         "label" : "Lily:",
+         "phrase" : "[in labour] Contraction.\r",
+         "name" : "Lily"
+      },
+      {
+         "label" : "Robin:",
+         "phrase" : "[confused] That ... wasn't cool, Ted?",
+         "name" : "Robin"
+      }
+   ],
    "mobile" : 0,
-   "date" : "Fri, 17 May 2013 11:41:00",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/50662690822/word-play",
-   "from-feed-id" : 0,
-   "id" : "50662690822",
-   "url" : "http://tumblr.ggvaidya.com/post/50662690822",
+   "unix-timestamp" : 1368812460,
    "bookmarklet" : 0,
+   "id" : "50662690822",
+   "date-gmt" : "2013-05-17 17:41:00 GMT",
+   "from-feed-id" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/50662690822",
+   "slug" : "word-play",
+   "date" : "Fri, 17 May 2013 11:41:00",
    "format" : "html",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/50662690822/word-play",
    "tags" : [
       "himym",
       "S7E23",
       "wordplay",
       "contraction"
    ],
+   "type" : "conversation",
+   "conversation-text" : "Robin: That was not cool, Ted.\r\nLily: [in labour] Contraction.\r\nRobin: [confused] That ... wasn't cool, Ted?",
    "reblog-key" : "zorl8hGE",
-   "conversation" : [
-      {
-         "label" : "Robin:",
-         "phrase" : "That was not cool, Ted.\r",
-         "name" : "Robin"
-      },
-      {
-         "phrase" : "[in labour] Contraction.\r",
-         "label" : "Lily:",
-         "name" : "Lily"
-      },
-      {
-         "name" : "Robin",
-         "phrase" : "[confused] That ... wasn't cool, Ted?",
-         "label" : "Robin:"
-      }
-   ]
+   "feed-item" : ""
 }
 

@@ -1,23 +1,23 @@
 {
-   "mobile" : 0,
+   "slug" : "why-does-the-method-hang-well-the-while-loop",
+   "url" : "http://tumblr.ggvaidya.com/post/121530484014",
+   "reblog-key" : "oOrPHx2q",
+   "feed-item" : "",
    "date" : "Sun, 14 Jun 2015 14:20:04",
-   "from-feed-id" : 0,
-   "id" : "121530484014",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/121530484014/why-does-the-method-hang-well-the-while-loop",
    "format" : "html",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/121530484014/why-does-the-method-hang-well-the-while-loop",
    "tags" : [
       "why indeed",
       "those while loops"
    ],
-   "bookmarklet" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/121530484014",
-   "regular-title" : null,
-   "regular-body" : "<blockquote>\n<p>Why does the method hang? Well, the while loop waits until all the processes have reached the end of the world; and the reapers are the angels.</p>\n</blockquote>",
-   "reblog-key" : "oOrPHx2q",
-   "slug" : "why-does-the-method-hang-well-the-while-loop",
-   "feed-item" : "",
    "type" : "regular",
+   "mobile" : 0,
+   "bookmarklet" : 0,
    "unix-timestamp" : 1434313204,
-   "date-gmt" : "2015-06-14 20:20:04 GMT"
+   "regular-title" : null,
+   "date-gmt" : "2015-06-14 20:20:04 GMT",
+   "id" : "121530484014",
+   "regular-body" : "<blockquote>\n<p>Why does the method hang? Well, the while loop waits until all the processes have reached the end of the world; and the reapers are the angels.</p>\n</blockquote>",
+   "from-feed-id" : 0
 }
 

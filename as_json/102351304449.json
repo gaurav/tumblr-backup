@@ -1,28 +1,28 @@
 {
-   "video-player-250" : "<iframe width=\"250\" height=\"140\" src=\"https://www.youtube.com/embed/XeFxdkaFzRA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "date-gmt" : "2014-11-11 09:21:10 GMT",
-   "video-caption" : "<p>&ldquo;Oh look, this one&rsquo;s playing with his friend, heh heh &hellip; wait. What are you doing to that bird? Crap, you&rsquo;re not playing with &ndash; don&rsquo;t try to hide it! I already saw it.&rdquo;</p>",
-   "video-player-500" : "<iframe width=\"500\" height=\"281\" src=\"https://www.youtube.com/embed/XeFxdkaFzRA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "unix-timestamp" : 1415697670,
-   "feed-item" : "",
-   "type" : "video",
    "slug" : "oh-look-this-ones-playing-with-his-friend-heh",
+   "url" : "http://tumblr.ggvaidya.com/post/102351304449",
+   "feed-item" : "",
    "reblog-key" : "NU62uB3P",
-   "format" : "html",
    "tags" : [
       "ze frank",
       "owl",
       "bird of prey",
       "apes of the hamburger"
    ],
-   "url" : "http://tumblr.ggvaidya.com/post/102351304449",
-   "bookmarklet" : 0,
-   "from-feed-id" : 0,
-   "id" : "102351304449",
+   "type" : "video",
+   "date" : "Tue, 11 Nov 2014 02:21:10",
+   "video-player-250" : "<iframe width=\"250\" height=\"140\" src=\"https://www.youtube.com/embed/XeFxdkaFzRA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-caption" : "<p>&ldquo;Oh look, this one&rsquo;s playing with his friend, heh heh &hellip; wait. What are you doing to that bird? Crap, you&rsquo;re not playing with &ndash; don&rsquo;t try to hide it! I already saw it.&rdquo;</p>",
+   "format" : "html",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/102351304449/oh-look-this-ones-playing-with-his-friend-heh",
    "video-player" : "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/XeFxdkaFzRA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "video-source" : "https://www.youtube.com/watch?v=XeFxdkaFzRA",
-   "date" : "Tue, 11 Nov 2014 02:21:10",
-   "mobile" : 0
+   "unix-timestamp" : 1415697670,
+   "bookmarklet" : 0,
+   "mobile" : 0,
+   "video-player-500" : "<iframe width=\"500\" height=\"281\" src=\"https://www.youtube.com/embed/XeFxdkaFzRA?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "from-feed-id" : 0,
+   "date-gmt" : "2014-11-11 09:21:10 GMT",
+   "id" : "102351304449",
+   "video-source" : "https://www.youtube.com/watch?v=XeFxdkaFzRA"
 }
 

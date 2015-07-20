@@ -1,15 +1,21 @@
 {
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/81924624044/norwegian-skydiver-records-meteor-falling-past-him",
+   "video-player-500" : "<iframe width=\"500\" height=\"281\" src=\"https://www.youtube.com/embed/Fbmsh6Rm8Ro?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "mobile" : 0,
+   "bookmarklet" : 0,
+   "unix-timestamp" : 1396820192,
    "video-player" : "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/Fbmsh6Rm8Ro?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "from-feed-id" : 0,
    "id" : "81924624044",
    "video-source" : "https://www.youtube.com/watch?v=Fbmsh6Rm8Ro",
-   "mobile" : 0,
-   "date" : "Sun, 06 Apr 2014 15:36:32",
-   "reblog-key" : "9Lm3hIp4",
+   "date-gmt" : "2014-04-06 21:36:32 GMT",
+   "from-feed-id" : 0,
    "url" : "http://tumblr.ggvaidya.com/post/81924624044",
-   "bookmarklet" : 0,
+   "slug" : "norwegian-skydiver-records-meteor-falling-past-him",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/81924624044/norwegian-skydiver-records-meteor-falling-past-him",
    "format" : "html",
+   "date" : "Sun, 06 Apr 2014 15:36:32",
+   "video-player-250" : "<iframe width=\"250\" height=\"140\" src=\"https://www.youtube.com/embed/Fbmsh6Rm8Ro?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-caption" : "<p><a href=\"http://www.universetoday.com/110963/norwegian-skydiver-almost-gets-hit-by-falling-meteor-and-captures-it-on-film/?utm_content=bufferbf9f3&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer\">Norwegian Skydiver records meteor falling past him while skydiving</a> (<a href=\"https://twitter.com/raganello/status/452921102382018560\">HT @raganello</a>)</p>",
+   "type" : "video",
    "tags" : [
       "what",
       "WHAT",
@@ -17,13 +23,7 @@
       "meteor",
       "amazing"
    ],
-   "type" : "video",
-   "feed-item" : "",
-   "slug" : "norwegian-skydiver-records-meteor-falling-past-him",
-   "video-player-250" : "<iframe width=\"250\" height=\"140\" src=\"https://www.youtube.com/embed/Fbmsh6Rm8Ro?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "date-gmt" : "2014-04-06 21:36:32 GMT",
-   "unix-timestamp" : 1396820192,
-   "video-player-500" : "<iframe width=\"500\" height=\"281\" src=\"https://www.youtube.com/embed/Fbmsh6Rm8Ro?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "video-caption" : "<p><a href=\"http://www.universetoday.com/110963/norwegian-skydiver-almost-gets-hit-by-falling-meteor-and-captures-it-on-film/?utm_content=bufferbf9f3&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer\">Norwegian Skydiver records meteor falling past him while skydiving</a> (<a href=\"https://twitter.com/raganello/status/452921102382018560\">HT @raganello</a>)</p>"
+   "reblog-key" : "9Lm3hIp4",
+   "feed-item" : ""
 }
 

@@ -1,37 +1,42 @@
 {
-   "mobile" : 0,
    "date" : "Wed, 23 May 2012 22:22:05",
-   "from-feed-id" : 0,
-   "id" : "23655940933",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/23655940933/i-love-dr-fishman-truly-madly-deeply",
    "format" : "html",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/23655940933/i-love-dr-fishman-truly-madly-deeply",
    "tags" : [
       "dr fishman",
       "the literal doctor",
       "arrested development"
    ],
-   "bookmarklet" : 0,
+   "conversation-text" : "Michael: How is he, doctor?\r\nDr. Fishman: It looks like heâs dead.\r\nLucille: Oh my god!\r\nG.O.B.: Oh little guy. The tears arenât coming. The tears just arenât coming.\r\nMichael: Just to be clear. Looks like heâs dead, or he is dead?\r\nDr. Fishman: It just looks like heâs dead. Heâs got like blue paint on him or something. But heâs going to be fine.\r\nG.O.B.: What is wrong with you?\r\nMaeby: This bleeping doctor!\r\nDr. Fishman: Iâll let you celebrate privately.\r\nLucille: We want this comped!",
+   "type" : "conversation",
+   "reblog-key" : "LcMdVrf2",
+   "feed-item" : "",
    "url" : "http://tumblr.ggvaidya.com/post/23655940933",
+   "slug" : "i-love-dr-fishman-truly-madly-deeply",
+   "date-gmt" : "2012-05-24 04:22:05 GMT",
+   "id" : "23655940933",
+   "from-feed-id" : 0,
+   "conversation-title" : "I love Dr. Fishman truly, madly, deeply",
    "conversation" : [
       {
          "name" : "Michael",
-         "label" : "Michael:",
-         "phrase" : "How is he, doctor?\r"
+         "phrase" : "How is he, doctor?\r",
+         "label" : "Michael:"
       },
       {
-         "name" : "Dr. Fishman",
          "phrase" : "It looks like heâs dead.\r",
+         "name" : "Dr. Fishman",
          "label" : "Dr. Fishman:"
       },
       {
-         "phrase" : "Oh my god!\r",
          "label" : "Lucille:",
-         "name" : "Lucille"
+         "name" : "Lucille",
+         "phrase" : "Oh my god!\r"
       },
       {
-         "label" : "G.O.B.:",
          "phrase" : "Oh little guy. The tears arenât coming. The tears just arenât coming.\r",
-         "name" : "G.O.B."
+         "name" : "G.O.B.",
+         "label" : "G.O.B.:"
       },
       {
          "label" : "Michael:",
@@ -39,18 +44,18 @@
          "name" : "Michael"
       },
       {
-         "name" : "Dr. Fishman",
          "phrase" : "It just looks like heâs dead. Heâs got like blue paint on him or something. But heâs going to be fine.\r",
+         "name" : "Dr. Fishman",
          "label" : "Dr. Fishman:"
       },
       {
          "phrase" : "What is wrong with you?\r",
-         "label" : "G.O.B.:",
-         "name" : "G.O.B."
+         "name" : "G.O.B.",
+         "label" : "G.O.B.:"
       },
       {
-         "name" : "Maeby",
          "label" : "Maeby:",
+         "name" : "Maeby",
          "phrase" : "This bleeping doctor!\r"
       },
       {
@@ -59,18 +64,13 @@
          "label" : "Dr. Fishman:"
       },
       {
-         "name" : "Lucille",
          "phrase" : "We want this comped!",
+         "name" : "Lucille",
          "label" : "Lucille:"
       }
    ],
-   "reblog-key" : "LcMdVrf2",
-   "slug" : "i-love-dr-fishman-truly-madly-deeply",
-   "feed-item" : "",
-   "conversation-title" : "I love Dr. Fishman truly, madly, deeply",
-   "type" : "conversation",
+   "mobile" : 0,
    "unix-timestamp" : 1337833325,
-   "date-gmt" : "2012-05-24 04:22:05 GMT",
-   "conversation-text" : "Michael: How is he, doctor?\r\nDr. Fishman: It looks like heâs dead.\r\nLucille: Oh my god!\r\nG.O.B.: Oh little guy. The tears arenât coming. The tears just arenât coming.\r\nMichael: Just to be clear. Looks like heâs dead, or he is dead?\r\nDr. Fishman: It just looks like heâs dead. Heâs got like blue paint on him or something. But heâs going to be fine.\r\nG.O.B.: What is wrong with you?\r\nMaeby: This bleeping doctor!\r\nDr. Fishman: Iâll let you celebrate privately.\r\nLucille: We want this comped!"
+   "bookmarklet" : 0
 }
 

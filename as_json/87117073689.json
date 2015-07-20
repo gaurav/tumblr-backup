@@ -1,26 +1,26 @@
 {
-   "date-gmt" : "2014-05-28 17:53:49 GMT",
-   "video-player-250" : "<iframe width=\"250\" height=\"187\" src=\"https://www.youtube.com/embed/JqOqo50LSZ0?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "unix-timestamp" : 1401299629,
-   "video-player-500" : "<iframe width=\"500\" height=\"374\" src=\"https://www.youtube.com/embed/JqOqo50LSZ0?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "video-caption" : "<p>Maya Angelou reciting her poem, <a href=\"http://www.poets.org/poetsorg/poem/still-i-rise\"><em>Still I Rise</em></a>.</p>",
-   "type" : "video",
    "feed-item" : "",
-   "slug" : "maya-angelou-reciting-her-poem-still-i-rise",
    "reblog-key" : "Lbvzoupv",
-   "url" : "http://tumblr.ggvaidya.com/post/87117073689",
-   "bookmarklet" : 0,
+   "type" : "video",
    "tags" : [
       "Maya Angelou",
       "poetry"
    ],
-   "format" : "html",
-   "video-player" : "<iframe width=\"400\" height=\"299\" src=\"https://www.youtube.com/embed/JqOqo50LSZ0?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/87117073689/maya-angelou-reciting-her-poem-still-i-rise",
-   "id" : "87117073689",
-   "from-feed-id" : 0,
-   "video-source" : "https://www.youtube.com/watch?v=JqOqo50LSZ0",
+   "format" : "html",
+   "video-player-250" : "<iframe width=\"250\" height=\"187\" src=\"https://www.youtube.com/embed/JqOqo50LSZ0?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-caption" : "<p>Maya Angelou reciting her poem, <a href=\"http://www.poets.org/poetsorg/poem/still-i-rise\"><em>Still I Rise</em></a>.</p>",
    "date" : "Wed, 28 May 2014 11:53:49",
-   "mobile" : 0
+   "slug" : "maya-angelou-reciting-her-poem-still-i-rise",
+   "url" : "http://tumblr.ggvaidya.com/post/87117073689",
+   "from-feed-id" : 0,
+   "date-gmt" : "2014-05-28 17:53:49 GMT",
+   "id" : "87117073689",
+   "video-source" : "https://www.youtube.com/watch?v=JqOqo50LSZ0",
+   "bookmarklet" : 0,
+   "unix-timestamp" : 1401299629,
+   "video-player" : "<iframe width=\"400\" height=\"299\" src=\"https://www.youtube.com/embed/JqOqo50LSZ0?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "mobile" : 0,
+   "video-player-500" : "<iframe width=\"500\" height=\"374\" src=\"https://www.youtube.com/embed/JqOqo50LSZ0?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
 }
 

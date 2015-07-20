@@ -1,13 +1,22 @@
 {
-   "id" : "63890448544",
-   "from-feed-id" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/63890448544/programming-virtues",
-   "mobile" : 0,
+   "slug" : "programming-virtues",
+   "url" : "http://tumblr.ggvaidya.com/post/63890448544",
+   "feed-item" : "",
+   "reblog-key" : "isA0q88p",
+   "tags" : [
+      "programming"
+   ],
+   "conversation-text" : "Me: Laziness is one of the three virtues of a programmer.\r\nIsarra: Laziness is good, but it needs sensibility and brilliance to back it up, and some semblance of perfectionism to counter it.",
+   "type" : "conversation",
    "date" : "Sat, 12 Oct 2013 22:44:46",
+   "format" : "html",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/63890448544/programming-virtues",
+   "unix-timestamp" : 1381639486,
+   "bookmarklet" : 0,
    "conversation" : [
       {
-         "name" : "Me",
          "phrase" : "Laziness is one of the three virtues of a programmer.\r",
+         "name" : "Me",
          "label" : "Me:"
       },
       {
@@ -16,19 +25,10 @@
          "label" : "Isarra:"
       }
    ],
-   "reblog-key" : "isA0q88p",
-   "tags" : [
-      "programming"
-   ],
-   "format" : "html",
-   "bookmarklet" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/63890448544",
-   "feed-item" : "",
-   "type" : "conversation",
+   "mobile" : 0,
    "conversation-title" : "Programming virtues",
-   "slug" : "programming-virtues",
+   "from-feed-id" : 0,
    "date-gmt" : "2013-10-13 04:44:46 GMT",
-   "conversation-text" : "Me: Laziness is one of the three virtues of a programmer.\r\nIsarra: Laziness is good, but it needs sensibility and brilliance to back it up, and some semblance of perfectionism to counter it.",
-   "unix-timestamp" : 1381639486
+   "id" : "63890448544"
 }
 

@@ -1,9 +1,5 @@
 {
-   "reblog-key" : "3f4GTQ58",
-   "quote-text" : "itâs night and the neighbors   <br/>\nare sleeping, those dolts, and   <br/>\nthe stars are shining bright,   <br/>\nand Iâve got the burners lit   <br/>\nfor you, you hungry thing.",
-   "bookmarklet" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/89110733244",
-   "format" : "html",
+   "type" : "quote",
    "tags" : [
       "cute",
       "poem",
@@ -11,16 +7,20 @@
       "relationships",
       "love"
    ],
+   "format" : "html",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/89110733244/its-night-and-the-neighbors-are-sleeping",
+   "date" : "Tue, 17 Jun 2014 18:58:23",
+   "feed-item" : "",
+   "reblog-key" : "3f4GTQ58",
+   "url" : "http://tumblr.ggvaidya.com/post/89110733244",
+   "slug" : "its-night-and-the-neighbors-are-sleeping",
+   "quote-text" : "itâs night and the neighbors   <br/>\nare sleeping, those dolts, and   <br/>\nthe stars are shining bright,   <br/>\nand Iâve got the burners lit   <br/>\nfor you, you hungry thing.",
    "from-feed-id" : 0,
    "id" : "89110733244",
-   "mobile" : 0,
-   "date" : "Tue, 17 Jun 2014 18:58:23",
    "date-gmt" : "2014-06-18 00:58:23 GMT",
    "unix-timestamp" : 1403053103,
    "quote-source" : "Ron Padgett, <em><a href=\"http://www.poetryfoundation.org/poem/179241\">The Love Cook</a></em> (2001), The Poetry Foundation",
-   "type" : "quote",
-   "feed-item" : "",
-   "slug" : "its-night-and-the-neighbors-are-sleeping"
+   "bookmarklet" : 0,
+   "mobile" : 0
 }
 

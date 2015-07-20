@@ -1,12 +1,11 @@
 {
-   "id" : "67039331150",
-   "from-feed-id" : 0,
-   "video-player" : "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/v52FLMOPSig?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/67039331150",
-   "mobile" : 0,
-   "video-source" : "http://www.youtube.com/watch?v=v52FLMOPSig",
+   "url" : "http://tumblr.ggvaidya.com/post/67039331150",
+   "slug" : "",
+   "video-caption" : "",
+   "video-player-250" : "<iframe width=\"250\" height=\"140\" src=\"https://www.youtube.com/embed/v52FLMOPSig?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
    "date" : "Thu, 14 Nov 2013 23:28:21",
-   "reblog-key" : "WzMyMCzs",
+   "format" : "html",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/67039331150",
    "tags" : [
       "the west wing",
       "walk and talk the vote",
@@ -14,16 +13,17 @@
       "c j cregg",
       "wow"
    ],
-   "format" : "html",
-   "url" : "http://tumblr.ggvaidya.com/post/67039331150",
-   "bookmarklet" : 0,
-   "feed-item" : "",
    "type" : "video",
-   "slug" : "",
-   "date-gmt" : "2013-11-15 06:28:21 GMT",
-   "video-player-250" : "<iframe width=\"250\" height=\"140\" src=\"https://www.youtube.com/embed/v52FLMOPSig?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "video-caption" : "",
+   "reblog-key" : "WzMyMCzs",
+   "feed-item" : "",
    "video-player-500" : "<iframe width=\"500\" height=\"281\" src=\"https://www.youtube.com/embed/v52FLMOPSig?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "unix-timestamp" : 1384496901
+   "mobile" : 0,
+   "video-player" : "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/v52FLMOPSig?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "unix-timestamp" : 1384496901,
+   "bookmarklet" : 0,
+   "id" : "67039331150",
+   "video-source" : "http://www.youtube.com/watch?v=v52FLMOPSig",
+   "date-gmt" : "2013-11-15 06:28:21 GMT",
+   "from-feed-id" : 0
 }
 

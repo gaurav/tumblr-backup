@@ -1,14 +1,8 @@
 {
-   "slug" : "for-every-scientist-whether-researcher",
+   "reblog-key" : "wRgdzydV",
    "feed-item" : "",
-   "type" : "quote",
-   "quote-source" : "Edward O. Wilson, <em>Letters to a Young Scientist</em>, as quoted by Daniel Simberloff, <em><a href=\"http://www.plosbiology.org/article/info:doi/10.1371/journal.pbio.1001629\">Book Review/Science in the Media: The Passion Principle</a></em>, PLoS Biology, August 13, 2013.",
-   "unix-timestamp" : 1377385064,
-   "date-gmt" : "2013-08-24 22:57:44 GMT",
-   "mobile" : 0,
    "date" : "Sat, 24 Aug 2013 16:57:44",
-   "id" : "59237276317",
-   "from-feed-id" : 0,
+   "format" : "html",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/59237276317/for-every-scientist-whether-researcher",
    "tags" : [
       "biology",
@@ -16,10 +10,16 @@
       "science",
       "e o wilson"
    ],
-   "format" : "html",
-   "url" : "http://tumblr.ggvaidya.com/post/59237276317",
-   "bookmarklet" : 0,
+   "type" : "quote",
    "quote-text" : "For every scientist, whether researcher, technologist, or teacher, of whatever competence in mathematics, there exists a discipline in science for which that level of mathematical competence is enough to achieve excellence.",
-   "reblog-key" : "wRgdzydV"
+   "slug" : "for-every-scientist-whether-researcher",
+   "url" : "http://tumblr.ggvaidya.com/post/59237276317",
+   "id" : "59237276317",
+   "date-gmt" : "2013-08-24 22:57:44 GMT",
+   "from-feed-id" : 0,
+   "mobile" : 0,
+   "bookmarklet" : 0,
+   "unix-timestamp" : 1377385064,
+   "quote-source" : "Edward O. Wilson, <em>Letters to a Young Scientist</em>, as quoted by Daniel Simberloff, <em><a href=\"http://www.plosbiology.org/article/info:doi/10.1371/journal.pbio.1001629\">Book Review/Science in the Media: The Passion Principle</a></em>, PLoS Biology, August 13, 2013."
 }
 

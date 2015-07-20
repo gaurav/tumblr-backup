@@ -1,11 +1,17 @@
 {
-   "video-caption" : "<p>How Shakespeare was spoken in the 1600s.</p>",
-   "video-player-500" : "<iframe width=\"500\" height=\"281\" src=\"https://www.youtube.com/embed/gPlpphT7n9s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "bookmarklet" : 0,
    "unix-timestamp" : 1379565340,
+   "video-player" : "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/gPlpphT7n9s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "mobile" : 0,
+   "video-player-500" : "<iframe width=\"500\" height=\"281\" src=\"https://www.youtube.com/embed/gPlpphT7n9s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "from-feed-id" : 0,
    "date-gmt" : "2013-09-19 04:35:40 GMT",
-   "video-player-250" : "<iframe width=\"250\" height=\"140\" src=\"https://www.youtube.com/embed/gPlpphT7n9s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "id" : "61649632505",
+   "video-source" : "http://youtu.be/gPlpphT7n9s",
    "slug" : "how-shakespeare-was-spoken-in-the-1600s",
+   "url" : "http://tumblr.ggvaidya.com/post/61649632505",
    "feed-item" : "",
+   "reblog-key" : "jpCw26nF",
    "type" : "video",
    "tags" : [
       "shakespeare",
@@ -15,15 +21,9 @@
       "language"
    ],
    "format" : "html",
-   "bookmarklet" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/61649632505",
-   "reblog-key" : "jpCw26nF",
-   "video-source" : "http://youtu.be/gPlpphT7n9s",
-   "mobile" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/61649632505/how-shakespeare-was-spoken-in-the-1600s",
+   "video-player-250" : "<iframe width=\"250\" height=\"140\" src=\"https://www.youtube.com/embed/gPlpphT7n9s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
    "date" : "Wed, 18 Sep 2013 22:35:40",
-   "id" : "61649632505",
-   "from-feed-id" : 0,
-   "video-player" : "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/gPlpphT7n9s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/61649632505/how-shakespeare-was-spoken-in-the-1600s"
+   "video-caption" : "<p>How Shakespeare was spoken in the 1600s.</p>"
 }
 

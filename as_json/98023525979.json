@@ -1,22 +1,22 @@
 {
-   "feed-item" : "",
-   "type" : "regular",
-   "slug" : "dwarf-fortress-is-available-on-homebrew-for-macos",
-   "date-gmt" : "2014-09-21 03:30:14 GMT",
-   "unix-timestamp" : 1411270214,
-   "from-feed-id" : 0,
-   "id" : "98023525979",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/98023525979/dwarf-fortress-is-available-on-homebrew-for-macos",
    "mobile" : 0,
-   "date" : "Sat, 20 Sep 2014 21:30:14",
+   "bookmarklet" : 0,
+   "unix-timestamp" : 1411270214,
+   "id" : "98023525979",
+   "date-gmt" : "2014-09-21 03:30:14 GMT",
    "regular-title" : null,
    "regular-body" : "<p><a href=\"https://github.com/Homebrew/homebrew-games/blob/master/dwarf-fortress.rb\">Dwarf Fortress is available on Homebrew for MacOS X</a>.</p>",
-   "reblog-key" : "hpHdefvh",
+   "from-feed-id" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/98023525979",
+   "slug" : "dwarf-fortress-is-available-on-homebrew-for-macos",
    "format" : "html",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/98023525979/dwarf-fortress-is-available-on-homebrew-for-macos",
+   "date" : "Sat, 20 Sep 2014 21:30:14",
+   "type" : "regular",
    "tags" : [
       "Dwarf Fortress"
    ],
-   "url" : "http://tumblr.ggvaidya.com/post/98023525979",
-   "bookmarklet" : 0
+   "reblog-key" : "hpHdefvh",
+   "feed-item" : ""
 }
 

@@ -1,23 +1,23 @@
 {
-   "slug" : "its-famously-said-that-there-are-only-two-hard",
-   "type" : "quote",
-   "feed-item" : "",
    "unix-timestamp" : 1383172695,
    "quote-source" : "<p>Some <a href=\"https://github.com/robrix/Postmodern-Programming/blob/master/Postmodern%20Programming.md\">articles</a> are infinitely quotable.</p>\n<p>Iâl have to try real hard not to flood you with one-liners from this one.</p>\n<p>(via <a class=\"tumblr_blog\" href=\"http://slashnull.tumblr.com/\">slashnull</a>)</p>",
-   "date-gmt" : "2013-10-30 22:38:15 GMT",
+   "bookmarklet" : 0,
    "mobile" : 0,
-   "date" : "Wed, 30 Oct 2013 16:38:15",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/65559207478/its-famously-said-that-there-are-only-two-hard",
    "from-feed-id" : 0,
    "id" : "65559207478",
-   "bookmarklet" : 0,
+   "date-gmt" : "2013-10-30 22:38:15 GMT",
    "url" : "http://tumblr.ggvaidya.com/post/65559207478",
-   "format" : "html",
+   "slug" : "its-famously-said-that-there-are-only-two-hard",
+   "quote-text" : "Itâs famously said that there are only two hard problems in computer science: cache invalidation, naming things, and off-by-one errors.",
+   "type" : "quote",
    "tags" : [
       "hee hee",
       "programmer jokes"
    ],
-   "reblog-key" : "Zk8KNilD",
-   "quote-text" : "Itâs famously said that there are only two hard problems in computer science: cache invalidation, naming things, and off-by-one errors."
+   "format" : "html",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/65559207478/its-famously-said-that-there-are-only-two-hard",
+   "date" : "Wed, 30 Oct 2013 16:38:15",
+   "feed-item" : "",
+   "reblog-key" : "Zk8KNilD"
 }
 
