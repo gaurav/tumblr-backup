@@ -1,24 +1,24 @@
 {
-   "from-feed-id" : 0,
-   "date-gmt" : "2013-11-18 21:52:44 GMT",
    "id" : "67400176738",
+   "from-feed-id" : 0,
    "bookmarklet" : 0,
-   "unix-timestamp" : 1384811564,
+   "slug" : "i-make-no-guarantees-that-it-will-work-only-that",
    "quote-source" : "mgoeppner (via <a class=\"tumblr_blog\" href=\"http://mgoeppner.tumblr.com/\">mgoeppner</a>)",
-   "mobile" : 0,
    "tags" : [
       "fair",
       "planning",
       "life"
    ],
+   "quote-text" : "I make no guarantees that it will work, only that it may or may not fail in spectacular fashion.",
+   "feed-item" : "",
+   "url" : "http://tumblr.ggvaidya.com/post/67400176738",
    "type" : "quote",
    "date" : "Mon, 18 Nov 2013 14:52:44",
    "format" : "html",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/67400176738/i-make-no-guarantees-that-it-will-work-only-that",
-   "feed-item" : "",
+   "date-gmt" : "2013-11-18 21:52:44 GMT",
    "reblog-key" : "kXj0iiYx",
-   "url" : "http://tumblr.ggvaidya.com/post/67400176738",
-   "quote-text" : "I make no guarantees that it will work, only that it may or may not fail in spectacular fashion.",
-   "slug" : "i-make-no-guarantees-that-it-will-work-only-that"
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/67400176738/i-make-no-guarantees-that-it-will-work-only-that",
+   "unix-timestamp" : 1384811564,
+   "mobile" : 0
 }
 

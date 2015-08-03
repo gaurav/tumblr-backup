@@ -1,25 +1,25 @@
 {
-   "reblog-key" : "TchPfnS1",
-   "feed-item" : "",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/74300821049/issue-tracking-available-in-the-vertnet-portal-at",
-   "format" : "html",
-   "date" : "Thu, 23 Jan 2014 12:41:34",
-   "type" : "link",
+   "slug" : "issue-tracking-available-in-the-vertnet-portal-at",
+   "link-description" : "<p><a href=\"http://blog.vertnet.org/post/74297660841/issue-tracking-available-in-the-vertnet-portal-at\" class=\"tumblr_blog\">vertnet</a>:</p>\n\n<blockquote>\n<p><span>VertNet provides some significant data quality services to itâs data publishers, but we couldnât possibly catch every taxonomic and geographic name change, georeferencing error, or mistyped collector name, preparation, or event date. Thatâs where you come in. </span></p>\n<p>Please allow us to introduce you to&hellip;</p></blockquote>",
+   "id" : "74300821049",
+   "from-feed-id" : 0,
+   "bookmarklet" : 0,
    "tags" : [
       "woo",
       "github",
       "VertNet"
    ],
-   "slug" : "issue-tracking-available-in-the-vertnet-portal-at",
    "link-text" : "Issue Tracking Available in the VertNet Portal, At Last!",
-   "url" : "http://tumblr.ggvaidya.com/post/74300821049",
-   "id" : "74300821049",
-   "date-gmt" : "2014-01-23 19:41:34 GMT",
    "link-url" : "http://blog.vertnet.org/post/74297660841/issue-tracking-available-in-the-vertnet-portal-at",
-   "from-feed-id" : 0,
+   "type" : "link",
+   "date" : "Thu, 23 Jan 2014 12:41:34",
+   "feed-item" : "",
+   "url" : "http://tumblr.ggvaidya.com/post/74300821049",
+   "reblog-key" : "TchPfnS1",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/74300821049/issue-tracking-available-in-the-vertnet-portal-at",
    "mobile" : 0,
-   "link-description" : "<p><a href=\"http://blog.vertnet.org/post/74297660841/issue-tracking-available-in-the-vertnet-portal-at\" class=\"tumblr_blog\">vertnet</a>:</p>\n\n<blockquote>\n<p><span>VertNet provides some significant data quality services to itâs data publishers, but we couldnât possibly catch every taxonomic and geographic name change, georeferencing error, or mistyped collector name, preparation, or event date. Thatâs where you come in. </span></p>\n<p>Please allow us to introduce you to&hellip;</p></blockquote>",
-   "bookmarklet" : 0,
-   "unix-timestamp" : 1390506094
+   "unix-timestamp" : 1390506094,
+   "date-gmt" : "2014-01-23 19:41:34 GMT",
+   "format" : "html"
 }
 

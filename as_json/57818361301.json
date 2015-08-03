@@ -1,25 +1,25 @@
 {
-   "reblog-key" : "xUO1gA6g",
-   "feed-item" : "",
+   "type" : "quote",
    "date" : "Fri, 09 Aug 2013 14:40:15",
-   "format" : "html",
+   "url" : "http://tumblr.ggvaidya.com/post/57818361301",
+   "feed-item" : "",
+   "unix-timestamp" : 1376080815,
+   "mobile" : 0,
+   "reblog-key" : "xUO1gA6g",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/57818361301/to-fall-in-love-is-to-create-a-religion-that-has-a",
+   "format" : "html",
+   "date-gmt" : "2013-08-09 20:40:15 GMT",
+   "slug" : "to-fall-in-love-is-to-create-a-religion-that-has-a",
+   "from-feed-id" : 0,
+   "bookmarklet" : 0,
+   "id" : "57818361301",
+   "quote-text" : "To fall in love is to create a religion that has a fallible god.",
    "tags" : [
       "oh gosh yes",
       "that makes sense",
       "love",
       "religion"
    ],
-   "type" : "quote",
-   "quote-text" : "To fall in love is to create a religion that has a fallible god.",
-   "slug" : "to-fall-in-love-is-to-create-a-religion-that-has-a",
-   "url" : "http://tumblr.ggvaidya.com/post/57818361301",
-   "id" : "57818361301",
-   "date-gmt" : "2013-08-09 20:40:15 GMT",
-   "from-feed-id" : 0,
-   "mobile" : 0,
-   "bookmarklet" : 0,
-   "unix-timestamp" : 1376080815,
    "quote-source" : "Jorge Luis Borges, <em>Other Inquisitions</em> (via <a class=\"tumblr_blog\" href=\"http://jaimelannister.tumblr.com/\">jaimelannister</a>)"
 }
 

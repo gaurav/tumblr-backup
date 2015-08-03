@@ -1,18 +1,7 @@
 {
-   "bookmarklet" : 0,
-   "unix-timestamp" : 1379565340,
    "video-player" : "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/gPlpphT7n9s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "mobile" : 0,
    "video-player-500" : "<iframe width=\"500\" height=\"281\" src=\"https://www.youtube.com/embed/gPlpphT7n9s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "from-feed-id" : 0,
-   "date-gmt" : "2013-09-19 04:35:40 GMT",
-   "id" : "61649632505",
-   "video-source" : "http://youtu.be/gPlpphT7n9s",
-   "slug" : "how-shakespeare-was-spoken-in-the-1600s",
-   "url" : "http://tumblr.ggvaidya.com/post/61649632505",
-   "feed-item" : "",
-   "reblog-key" : "jpCw26nF",
-   "type" : "video",
+   "video-caption" : "<p>How Shakespeare was spoken in the 1600s.</p>",
    "tags" : [
       "shakespeare",
       "original pronounciation",
@@ -20,10 +9,21 @@
       "literature",
       "language"
    ],
+   "from-feed-id" : 0,
+   "bookmarklet" : 0,
+   "id" : "61649632505",
+   "video-player-250" : "<iframe width=\"250\" height=\"141\" src=\"https://www.youtube.com/embed/gPlpphT7n9s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "slug" : "how-shakespeare-was-spoken-in-the-1600s",
    "format" : "html",
+   "date-gmt" : "2013-09-19 04:35:40 GMT",
+   "mobile" : 0,
+   "unix-timestamp" : 1379565340,
+   "video-source" : "http://youtu.be/gPlpphT7n9s",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/61649632505/how-shakespeare-was-spoken-in-the-1600s",
-   "video-player-250" : "<iframe width=\"250\" height=\"140\" src=\"https://www.youtube.com/embed/gPlpphT7n9s?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "reblog-key" : "jpCw26nF",
+   "url" : "http://tumblr.ggvaidya.com/post/61649632505",
+   "feed-item" : "",
    "date" : "Wed, 18 Sep 2013 22:35:40",
-   "video-caption" : "<p>How Shakespeare was spoken in the 1600s.</p>"
+   "type" : "video"
 }
 

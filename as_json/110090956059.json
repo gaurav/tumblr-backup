@@ -1,11 +1,4 @@
 {
-   "from-feed-id" : 0,
-   "id" : "110090956059",
-   "date-gmt" : "2015-02-04 20:07:13 GMT",
-   "bookmarklet" : 0,
-   "unix-timestamp" : 1423080433,
-   "quote-source" : "Galway Kinnel, â<a href=\"http://www.poetryfoundation.org/poem/171395\">Saint Francis and the Sow</a>â<br/> (via <a href=\"http://tubducken.tumblr.com/\" class=\"tumblr_blog\">tubducken</a>)",
-   "mobile" : 0,
    "tags" : [
       "pretty",
       "poetry",
@@ -13,14 +6,21 @@
       "advise",
       "relationships"
    ],
+   "quote-text" : "â¦sometimes it is necessary<br/>\nto reteach a thing its loveliness,<br/>\nto put a hand on its brow<br/>\nof the flower<br/>\nand retell it in words and in touch<br/>\nit is lovely<br/>\nuntil it flowers again from within, of self-blessing",
+   "quote-source" : "Galway Kinnel, â<a href=\"http://www.poetryfoundation.org/poem/171395\">Saint Francis and the Sow</a>â<br/> (via <a href=\"http://tubducken.tumblr.com/\" class=\"tumblr_blog\">tubducken</a>)",
+   "slug" : "sometimes-it-is-necessary-to-reteach-a-thing-its",
+   "from-feed-id" : 0,
+   "bookmarklet" : 0,
+   "id" : "110090956059",
+   "unix-timestamp" : 1423080433,
+   "mobile" : 0,
+   "reblog-key" : "GPZE3HXU",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/110090956059/sometimes-it-is-necessary-to-reteach-a-thing-its",
+   "format" : "html",
+   "date-gmt" : "2015-02-04 20:07:13 GMT",
    "type" : "quote",
    "date" : "Wed, 04 Feb 2015 13:07:13",
-   "format" : "html",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/110090956059/sometimes-it-is-necessary-to-reteach-a-thing-its",
-   "feed-item" : "",
-   "reblog-key" : "GPZE3HXU",
    "url" : "http://tumblr.ggvaidya.com/post/110090956059",
-   "quote-text" : "â¦sometimes it is necessary<br/>\nto reteach a thing its loveliness,<br/>\nto put a hand on its brow<br/>\nof the flower<br/>\nand retell it in words and in touch<br/>\nit is lovely<br/>\nuntil it flowers again from within, of self-blessing",
-   "slug" : "sometimes-it-is-necessary-to-reteach-a-thing-its"
+   "feed-item" : ""
 }
 

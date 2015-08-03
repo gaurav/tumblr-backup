@@ -1,15 +1,15 @@
 {
-   "video-player-500" : "<iframe width=\"500\" height=\"281\" src=\"https://www.youtube.com/embed/CPWc18LswRM?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "video-player" : "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/CPWc18LswRM?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "bookmarklet" : 0,
-   "unix-timestamp" : 1340059437,
    "mobile" : 0,
-   "from-feed-id" : 0,
-   "date-gmt" : "2012-06-18 22:43:57 GMT",
    "video-source" : "http://www.youtube.com/watch?v=CPWc18LswRM",
-   "id" : "25392320832",
+   "unix-timestamp" : 1340059437,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/25392320832/how-creative-commons-licensing-and-working-with",
+   "reblog-key" : "efSAaf7z",
+   "format" : "html",
+   "date-gmt" : "2012-06-18 22:43:57 GMT",
+   "type" : "video",
+   "date" : "Mon, 18 Jun 2012 16:43:57",
    "url" : "http://tumblr.ggvaidya.com/post/25392320832",
-   "slug" : "how-creative-commons-licensing-and-working-with",
+   "feed-item" : "",
    "tags" : [
       "GLAMwiki",
       "GLAM",
@@ -17,13 +17,13 @@
       "wikipedia",
       "wikimedia commons"
    ],
-   "type" : "video",
-   "date" : "Mon, 18 Jun 2012 16:43:57",
-   "video-player-250" : "<iframe width=\"250\" height=\"140\" src=\"https://www.youtube.com/embed/CPWc18LswRM?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-player" : "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/CPWc18LswRM?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
    "video-caption" : "<p>How Creative Commons licensing and <a href=\"http://glamwiki.org/\">working with Wikipedia</a> can help galleries, libraries, museums and archives do more with their money.</p>",
-   "format" : "html",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/25392320832/how-creative-commons-licensing-and-working-with",
-   "feed-item" : "",
-   "reblog-key" : "efSAaf7z"
+   "video-player-500" : "<iframe width=\"500\" height=\"281\" src=\"https://www.youtube.com/embed/CPWc18LswRM?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "slug" : "how-creative-commons-licensing-and-working-with",
+   "from-feed-id" : 0,
+   "bookmarklet" : 0,
+   "id" : "25392320832",
+   "video-player-250" : "<iframe width=\"250\" height=\"141\" src=\"https://www.youtube.com/embed/CPWc18LswRM?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
 }
 

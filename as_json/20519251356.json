@@ -1,26 +1,30 @@
 {
-   "slug" : "buffys-advice-on-dating",
+   "type" : "conversation",
+   "date" : "Thu, 05 Apr 2012 03:29:28",
    "url" : "http://tumblr.ggvaidya.com/post/20519251356",
    "feed-item" : "",
+   "unix-timestamp" : 1333618168,
+   "mobile" : 0,
    "reblog-key" : "M6q9usdM",
-   "type" : "conversation",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/20519251356/buffys-advice-on-dating",
+   "conversation-title" : "Buffy's advice on dating",
+   "date-gmt" : "2012-04-05 09:29:28 GMT",
+   "format" : "html",
+   "slug" : "buffys-advice-on-dating",
    "conversation-text" : "Giles: [cough] What I'm proposing is, -- and I don't mean to appear indecorous -- is, is, umm, a, a social engagement, a date, if you're amenable. [frustrated] You, you idiot.\r\nBuffy: Boy. I guess we never realized how much you like that chair.\r\nGiles: I .. I was just working on --\r\nBuffy: -- your pick up lines?\r\nGiles: Um, in a manner of speaking, yes.\r\nBuffy: Then if you wouldn't mind a little Gene and Roger, you might want to leave off the \"idiot\" part. Being called an idiot tends to take people out of the dating mood.\r\nXander: Hmm. It actually kinda turns me on.\r\nBuffy: I fear you.\r\nBuffy: [to Giles] You might also want to avoid words like \"amenable\" and \"indecorous\", you know. Speak English, not whatever they speak in, um, ...\r\nGiles: ... England?\r\nBuffy: Yeah. You just say, Hey, I got a thing, you maybe have a thing, maybe we could have a thing. \r\nGiles: Well, thank you, Cyrano.\r\nBuffy: I'm not finished. Then you say, how do you feel about Mexican.\r\nGiles: Why Mexicans?\r\nBuffy: Mexican. Food. You take her for food, for which you then pay.\r\nGiles: Oh. Right.",
+   "from-feed-id" : 0,
+   "bookmarklet" : 0,
+   "id" : "20519251356",
    "tags" : [
       "dating",
       "relationships",
       "Buffy The Vampire Slayer"
    ],
-   "format" : "html",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/20519251356/buffys-advice-on-dating",
-   "date" : "Thu, 05 Apr 2012 03:29:28",
-   "unix-timestamp" : 1333618168,
-   "bookmarklet" : 0,
-   "mobile" : 0,
    "conversation" : [
       {
-         "name" : "Giles",
          "phrase" : "[cough] What I'm proposing is, -- and I don't mean to appear indecorous -- is, is, umm, a, a social engagement, a date, if you're amenable. [frustrated] You, you idiot.\r",
-         "label" : "Giles:"
+         "label" : "Giles:",
+         "name" : "Giles"
       },
       {
          "label" : "Buffy:",
@@ -28,9 +32,9 @@
          "phrase" : "Boy. I guess we never realized how much you like that chair.\r"
       },
       {
-         "phrase" : "I .. I was just working on --\r",
+         "label" : "Giles:",
          "name" : "Giles",
-         "label" : "Giles:"
+         "phrase" : "I .. I was just working on --\r"
       },
       {
          "label" : "Buffy:",
@@ -38,14 +42,14 @@
          "phrase" : "-- your pick up lines?\r"
       },
       {
+         "phrase" : "Um, in a manner of speaking, yes.\r",
          "label" : "Giles:",
-         "name" : "Giles",
-         "phrase" : "Um, in a manner of speaking, yes.\r"
+         "name" : "Giles"
       },
       {
-         "name" : "Buffy",
          "phrase" : "Then if you wouldn't mind a little Gene and Roger, you might want to leave off the \"idiot\" part. Being called an idiot tends to take people out of the dating mood.\r",
-         "label" : "Buffy:"
+         "label" : "Buffy:",
+         "name" : "Buffy"
       },
       {
          "label" : "Xander:",
@@ -54,13 +58,13 @@
       },
       {
          "phrase" : "I fear you.\r",
-         "name" : "Buffy",
-         "label" : "Buffy:"
+         "label" : "Buffy:",
+         "name" : "Buffy"
       },
       {
          "phrase" : "[to Giles] You might also want to avoid words like \"amenable\" and \"indecorous\", you know. Speak English, not whatever they speak in, um, ...\r",
-         "name" : "Buffy",
-         "label" : "Buffy:"
+         "label" : "Buffy:",
+         "name" : "Buffy"
       },
       {
          "label" : "Giles:",
@@ -68,39 +72,35 @@
          "phrase" : "... England?\r"
       },
       {
+         "label" : "Buffy:",
          "name" : "Buffy",
-         "phrase" : "Yeah. You just say, Hey, I got a thing, you maybe have a thing, maybe we could have a thing. \r",
+         "phrase" : "Yeah. You just say, Hey, I got a thing, you maybe have a thing, maybe we could have a thing. \r"
+      },
+      {
+         "label" : "Giles:",
+         "name" : "Giles",
+         "phrase" : "Well, thank you, Cyrano.\r"
+      },
+      {
+         "phrase" : "I'm not finished. Then you say, how do you feel about Mexican.\r",
+         "name" : "Buffy",
          "label" : "Buffy:"
       },
       {
-         "phrase" : "Well, thank you, Cyrano.\r",
+         "name" : "Giles",
+         "label" : "Giles:",
+         "phrase" : "Why Mexicans?\r"
+      },
+      {
+         "name" : "Buffy",
+         "label" : "Buffy:",
+         "phrase" : "Mexican. Food. You take her for food, for which you then pay.\r"
+      },
+      {
+         "phrase" : "Oh. Right.",
          "name" : "Giles",
          "label" : "Giles:"
-      },
-      {
-         "label" : "Buffy:",
-         "phrase" : "I'm not finished. Then you say, how do you feel about Mexican.\r",
-         "name" : "Buffy"
-      },
-      {
-         "label" : "Giles:",
-         "phrase" : "Why Mexicans?\r",
-         "name" : "Giles"
-      },
-      {
-         "name" : "Buffy",
-         "phrase" : "Mexican. Food. You take her for food, for which you then pay.\r",
-         "label" : "Buffy:"
-      },
-      {
-         "label" : "Giles:",
-         "name" : "Giles",
-         "phrase" : "Oh. Right."
       }
-   ],
-   "conversation-title" : "Buffy's advice on dating",
-   "from-feed-id" : 0,
-   "date-gmt" : "2012-04-05 09:29:28 GMT",
-   "id" : "20519251356"
+   ]
 }
 

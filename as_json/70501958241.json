@@ -1,19 +1,19 @@
 {
-   "mobile" : 0,
-   "bookmarklet" : 0,
-   "unix-timestamp" : 1387475514,
-   "quote-source" : "<a href=\"http://www.nytimes.com/2013/12/20/technology/target-stolen-shopper-data.html?hp\">Target Says Data Was Stolen From 40 Million Shoppers - NYTimes.com</a> (via <a href=\"http://dendroica.tumblr.com/\" class=\"tumblr_blog\">dendroica</a>)",
-   "id" : "70501958241",
-   "date-gmt" : "2013-12-19 17:51:54 GMT",
-   "from-feed-id" : 0,
+   "feed-item" : "",
    "url" : "http://tumblr.ggvaidya.com/post/70501958241",
-   "slug" : "target-confirmed-thursday-morning-that-it-was",
-   "quote-text" : "Target confirmed Thursday morning that it was investigating a security breach involving stolen credit card and debit card information for 40 million of its retail customers. Targetâs announcement came one day after a security blogger, Brian Krebs, first reported the breach. In a statement, Target confirmed that criminals gained access to its customer information on Nov. 27 â the day before Thanksgiving and just ahead of one of the busiest shopping days of the year â and maintained access through Dec. 15. Target said it had confirmed that its online customers were not affected by the breach, which appears to have been isolated to the point-of-sale systems in Targetâs retail stores. Target said that cybercriminals had accessed customer names, credit or debit card numbers, expiration dates and three-digit security codes for 40 million customers who had shopped at its stores.",
-   "format" : "html",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/70501958241/target-confirmed-thursday-morning-that-it-was",
    "date" : "Thu, 19 Dec 2013 10:51:54",
    "type" : "quote",
+   "date-gmt" : "2013-12-19 17:51:54 GMT",
+   "format" : "html",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/70501958241/target-confirmed-thursday-morning-that-it-was",
    "reblog-key" : "lnPsd4Bd",
-   "feed-item" : ""
+   "mobile" : 0,
+   "unix-timestamp" : 1387475514,
+   "id" : "70501958241",
+   "bookmarklet" : 0,
+   "from-feed-id" : 0,
+   "slug" : "target-confirmed-thursday-morning-that-it-was",
+   "quote-source" : "<a href=\"http://www.nytimes.com/2013/12/20/technology/target-stolen-shopper-data.html?hp\">Target Says Data Was Stolen From 40 Million Shoppers - NYTimes.com</a> (via <a href=\"http://dendroica.tumblr.com/\" class=\"tumblr_blog\">dendroica</a>)",
+   "quote-text" : "Target confirmed Thursday morning that it was investigating a security breach involving stolen credit card and debit card information for 40 million of its retail customers. Targetâs announcement came one day after a security blogger, Brian Krebs, first reported the breach. In a statement, Target confirmed that criminals gained access to its customer information on Nov. 27 â the day before Thanksgiving and just ahead of one of the busiest shopping days of the year â and maintained access through Dec. 15. Target said it had confirmed that its online customers were not affected by the breach, which appears to have been isolated to the point-of-sale systems in Targetâs retail stores. Target said that cybercriminals had accessed customer names, credit or debit card numbers, expiration dates and three-digit security codes for 40 million customers who had shopped at its stores."
 }
 

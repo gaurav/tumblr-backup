@@ -1,23 +1,23 @@
 {
-   "bookmarklet" : 0,
-   "quote-source" : "Edsger W. Dijkstra (via <a class=\"tumblr_blog\" href=\"http://thejillsequence.tumblr.com/\">thejillsequence</a>)",
-   "unix-timestamp" : 1377717985,
-   "mobile" : 0,
-   "from-feed-id" : 0,
    "id" : "59606834637",
-   "date-gmt" : "2013-08-28 19:26:25 GMT",
-   "url" : "http://tumblr.ggvaidya.com/post/59606834637",
+   "from-feed-id" : 0,
+   "bookmarklet" : 0,
    "slug" : "computer-science-is-no-more-about-computers-than",
-   "quote-text" : "Computer science is no more about computers than astronomy is about telescopes.",
-   "type" : "quote",
+   "quote-source" : "Edsger W. Dijkstra (via <a class=\"tumblr_blog\" href=\"http://thejillsequence.tumblr.com/\">thejillsequence</a>)",
    "tags" : [
       "oh dijkstra",
       "computer science"
    ],
-   "format" : "html",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/59606834637/computer-science-is-no-more-about-computers-than",
-   "date" : "Wed, 28 Aug 2013 13:26:25",
+   "quote-text" : "Computer science is no more about computers than astronomy is about telescopes.",
    "feed-item" : "",
-   "reblog-key" : "x4WXHdjD"
+   "url" : "http://tumblr.ggvaidya.com/post/59606834637",
+   "date" : "Wed, 28 Aug 2013 13:26:25",
+   "type" : "quote",
+   "date-gmt" : "2013-08-28 19:26:25 GMT",
+   "format" : "html",
+   "reblog-key" : "x4WXHdjD",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/59606834637/computer-science-is-no-more-about-computers-than",
+   "mobile" : 0,
+   "unix-timestamp" : 1377717985
 }
 

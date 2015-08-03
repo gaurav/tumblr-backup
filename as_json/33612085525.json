@@ -1,26 +1,26 @@
 {
-   "feed-item" : "",
-   "reblog-key" : "qpuWsy9e",
+   "video-player" : "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/Nk8TCTuxyGI?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-player-500" : "<iframe width=\"500\" height=\"281\" src=\"https://www.youtube.com/embed/Nk8TCTuxyGI?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-caption" : "<p>Ha, nice! My second favourite cover of &ldquo;Chicago&rdquo; (after <a href=\"http://www.youtube.com/watch?v=2oDu2hZZRkw\">my fave</a>).</p>",
    "tags" : [
       "chicago",
       "Sufjan Stevens"
    ],
-   "type" : "video",
-   "video-player-250" : "<iframe width=\"250\" height=\"140\" src=\"https://www.youtube.com/embed/Nk8TCTuxyGI?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "video-caption" : "<p>Ha, nice! My second favourite cover of &ldquo;Chicago&rdquo; (after <a href=\"http://www.youtube.com/watch?v=2oDu2hZZRkw\">my fave</a>).</p>",
-   "date" : "Sun, 14 Oct 2012 19:39:35",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/33612085525/ha-nice-my-second-favourite-cover-of-chicago",
-   "format" : "html",
-   "slug" : "ha-nice-my-second-favourite-cover-of-chicago",
-   "url" : "http://tumblr.ggvaidya.com/post/33612085525",
-   "from-feed-id" : 0,
-   "video-source" : "http://www.youtube.com/watch?v=Nk8TCTuxyGI&feature=fvwrel",
-   "date-gmt" : "2012-10-15 01:39:35 GMT",
-   "id" : "33612085525",
-   "video-player" : "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/Nk8TCTuxyGI?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "unix-timestamp" : 1350265175,
    "bookmarklet" : 0,
+   "from-feed-id" : 0,
+   "id" : "33612085525",
+   "video-player-250" : "<iframe width=\"250\" height=\"141\" src=\"https://www.youtube.com/embed/Nk8TCTuxyGI?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "slug" : "ha-nice-my-second-favourite-cover-of-chicago",
+   "date-gmt" : "2012-10-15 01:39:35 GMT",
+   "format" : "html",
+   "unix-timestamp" : 1350265175,
+   "video-source" : "http://www.youtube.com/watch?v=Nk8TCTuxyGI&feature=fvwrel",
    "mobile" : 0,
-   "video-player-500" : "<iframe width=\"500\" height=\"281\" src=\"https://www.youtube.com/embed/Nk8TCTuxyGI?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/33612085525/ha-nice-my-second-favourite-cover-of-chicago",
+   "reblog-key" : "qpuWsy9e",
+   "url" : "http://tumblr.ggvaidya.com/post/33612085525",
+   "feed-item" : "",
+   "type" : "video",
+   "date" : "Sun, 14 Oct 2012 19:39:35"
 }
 

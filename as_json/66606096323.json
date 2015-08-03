@@ -1,23 +1,23 @@
 {
-   "reblog-key" : "PNqBCU69",
-   "feed-item" : "",
-   "format" : "html",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/66606096323/forget-about-what-everyone-else-thinks-and-says",
+   "reblog-key" : "PNqBCU69",
+   "mobile" : 0,
+   "unix-timestamp" : 1384117864,
+   "format" : "html",
+   "date-gmt" : "2013-11-10 21:11:04 GMT",
    "date" : "Sun, 10 Nov 2013 14:11:04",
    "type" : "quote",
+   "feed-item" : "",
+   "url" : "http://tumblr.ggvaidya.com/post/66606096323",
    "tags" : [
       "advice",
       "life"
    ],
-   "slug" : "forget-about-what-everyone-else-thinks-and-says",
    "quote-text" : "Forget about what everyone else thinks and says. If it makes you happy, Go for it.",
-   "url" : "http://tumblr.ggvaidya.com/post/66606096323",
-   "date-gmt" : "2013-11-10 21:11:04 GMT",
-   "id" : "66606096323",
-   "from-feed-id" : 0,
-   "mobile" : 0,
    "quote-source" : " (via <a class=\"tumblr_blog\" href=\"http://iLaurens.tumblr.com/\">iLaurens</a>)",
-   "unix-timestamp" : 1384117864,
-   "bookmarklet" : 0
+   "slug" : "forget-about-what-everyone-else-thinks-and-says",
+   "id" : "66606096323",
+   "bookmarklet" : 0,
+   "from-feed-id" : 0
 }
 

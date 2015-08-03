@@ -1,23 +1,23 @@
 {
-   "unix-timestamp" : 1401607964,
-   "quote-source" : "Maya Angelou (via <a class=\"tumblr_blog\" href=\"http://winterinter.tumblr.com/\">winterinter</a>)",
-   "bookmarklet" : 0,
-   "mobile" : 0,
-   "from-feed-id" : 0,
-   "id" : "87472464829",
-   "date-gmt" : "2014-06-01 07:32:44 GMT",
+   "type" : "quote",
+   "date" : "Sun, 01 Jun 2014 01:32:44",
    "url" : "http://tumblr.ggvaidya.com/post/87472464829",
-   "quote-text" : "You should be angry. You must not be bitter. Bitterness is like cancer. It eats upon the host. It doesnât do anything to the object of its displeasure. So use that anger. You write it. You paint it. You dance it. You march it. You vote it. You do everything about it. You talk it. Never stop talking it.",
+   "feed-item" : "",
+   "mobile" : 0,
+   "unix-timestamp" : 1401607964,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/87472464829/you-should-be-angry-you-must-not-be-bitter",
+   "reblog-key" : "egNDUWWN",
+   "format" : "html",
+   "date-gmt" : "2014-06-01 07:32:44 GMT",
    "slug" : "you-should-be-angry-you-must-not-be-bitter",
+   "from-feed-id" : 0,
+   "bookmarklet" : 0,
+   "id" : "87472464829",
+   "quote-text" : "You should be angry. You must not be bitter. Bitterness is like cancer. It eats upon the host. It doesnât do anything to the object of its displeasure. So use that anger. You write it. You paint it. You dance it. You march it. You vote it. You do everything about it. You talk it. Never stop talking it.",
    "tags" : [
       "anger",
       "Maya Angelou"
    ],
-   "type" : "quote",
-   "date" : "Sun, 01 Jun 2014 01:32:44",
-   "format" : "html",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/87472464829/you-should-be-angry-you-must-not-be-bitter",
-   "feed-item" : "",
-   "reblog-key" : "egNDUWWN"
+   "quote-source" : "Maya Angelou (via <a class=\"tumblr_blog\" href=\"http://winterinter.tumblr.com/\">winterinter</a>)"
 }
 

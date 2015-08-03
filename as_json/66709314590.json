@@ -1,24 +1,24 @@
 {
-   "bookmarklet" : 0,
-   "unix-timestamp" : 1384204526,
-   "mobile" : 0,
-   "from-feed-id" : 0,
-   "regular-body" : "<p>For the first time in like two decades, I&rsquo;m going to be traveling somewhere without a book to read.</p>",
-   "id" : "66709314590",
-   "date-gmt" : "2013-11-11 21:15:26 GMT",
-   "regular-title" : "Woah",
-   "slug" : "woah",
-   "url" : "http://tumblr.ggvaidya.com/post/66709314590",
-   "feed-item" : "",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/66709314590/woah",
    "reblog-key" : "e6NAl2mJ",
+   "mobile" : 0,
+   "unix-timestamp" : 1384204526,
+   "date-gmt" : "2013-11-11 21:15:26 GMT",
+   "format" : "html",
+   "regular-title" : "Woah",
    "type" : "regular",
+   "date" : "Mon, 11 Nov 2013 14:15:26",
+   "regular-body" : "<p>For the first time in like two decades, I&rsquo;m going to be traveling somewhere without a book to read.</p>",
+   "feed-item" : "",
+   "url" : "http://tumblr.ggvaidya.com/post/66709314590",
    "tags" : [
       "halp",
       "travel",
       "books"
    ],
-   "format" : "html",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/66709314590/woah",
-   "date" : "Mon, 11 Nov 2013 14:15:26"
+   "slug" : "woah",
+   "id" : "66709314590",
+   "from-feed-id" : 0,
+   "bookmarklet" : 0
 }
 

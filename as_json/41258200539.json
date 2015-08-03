@@ -1,25 +1,25 @@
 {
-   "mobile" : 0,
-   "video-player" : "<iframe width=\"400\" height=\"299\" src=\"https://www.youtube.com/embed/vEOZLQ3d1FI?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "unix-timestamp" : 1358917548,
-   "bookmarklet" : 0,
-   "video-player-500" : "<iframe width=\"500\" height=\"374\" src=\"https://www.youtube.com/embed/vEOZLQ3d1FI?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "date-gmt" : "2013-01-23 05:05:48 GMT",
-   "id" : "41258200539",
-   "video-source" : "https://www.youtube.com/watch?v=vEOZLQ3d1FI",
-   "from-feed-id" : 0,
-   "slug" : "hallelujah",
-   "url" : "http://tumblr.ggvaidya.com/post/41258200539",
-   "reblog-key" : "wEh3kQK8",
-   "feed-item" : "",
-   "video-player-250" : "<iframe width=\"250\" height=\"187\" src=\"https://www.youtube.com/embed/vEOZLQ3d1FI?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "date" : "Tue, 22 Jan 2013 22:05:48",
-   "video-caption" : "<p>Hallelujah.</p>",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/41258200539/hallelujah",
    "format" : "html",
+   "date-gmt" : "2013-01-23 05:05:48 GMT",
+   "unix-timestamp" : 1358917548,
+   "video-source" : "https://www.youtube.com/watch?v=vEOZLQ3d1FI",
+   "mobile" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/41258200539/hallelujah",
+   "reblog-key" : "wEh3kQK8",
+   "url" : "http://tumblr.ggvaidya.com/post/41258200539",
+   "feed-item" : "",
+   "type" : "video",
+   "date" : "Tue, 22 Jan 2013 22:05:48",
+   "video-player" : "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/vEOZLQ3d1FI?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-player-500" : "<iframe width=\"500\" height=\"375\" src=\"https://www.youtube.com/embed/vEOZLQ3d1FI?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-caption" : "<p>Hallelujah.</p>",
    "tags" : [
       "music"
    ],
-   "type" : "video"
+   "bookmarklet" : 0,
+   "from-feed-id" : 0,
+   "id" : "41258200539",
+   "video-player-250" : "<iframe width=\"250\" height=\"187\" src=\"https://www.youtube.com/embed/vEOZLQ3d1FI?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "slug" : "hallelujah"
 }
 
