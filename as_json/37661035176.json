@@ -1,22 +1,22 @@
 {
-   "type" : "quote",
-   "date" : "Mon, 10 Dec 2012 14:40:28",
-   "url" : "http://tumblr.ggvaidya.com/post/37661035176",
-   "feed-item" : "",
-   "unix-timestamp" : 1355175628,
-   "mobile" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/37661035176/so-how-many-lego-bricks-stacked-one-on-top-of",
-   "reblog-key" : "UNBjpfWp",
-   "date-gmt" : "2012-12-10 21:40:28 GMT",
-   "format" : "html",
-   "slug" : "so-how-many-lego-bricks-stacked-one-on-top-of",
-   "from-feed-id" : 0,
-   "bookmarklet" : 0,
-   "id" : "37661035176",
+   "quote-source" : "Ruth Alexander, <em><a href=\"http://www.bbc.co.uk/news/magazine-20578627\">How tall can a Lego tower get?</a></em>, BBC News, December 3, 2012.",
    "quote-text" : "<p>So - how many Lego bricks, stacked one on top of the other, would it take to destroy the bottom brick?</p>\n\n<p>Ian Johnston and the team do two more tests to be sure we hadn&rsquo;t just happened upon the strongest Lego brick in existence. And in fact they were impressed at the consistency of Lego manufacture.</p>\n\n<p>The average maximum force the bricks can stand is 4,240N. That&rsquo;s equivalent to a mass of 432kg (950lbs). If you divide that by the mass of a single brick, which is 1.152g, then you get the grand total of bricks a single piece of Lego could support: 375,000.</p>\n\n<p>So, 375,000 bricks towering 3.5km (2.17 miles) high is what it would take to break a Lego brick.</p>",
    "tags" : [
       "LEGO"
    ],
-   "quote-source" : "Ruth Alexander, <em><a href=\"http://www.bbc.co.uk/news/magazine-20578627\">How tall can a Lego tower get?</a></em>, BBC News, December 3, 2012."
+   "reblog-key" : "UNBjpfWp",
+   "unix-timestamp" : 1355175628,
+   "format" : "html",
+   "date" : "Mon, 10 Dec 2012 14:40:28",
+   "bookmarklet" : 0,
+   "slug" : "so-how-many-lego-bricks-stacked-one-on-top-of",
+   "id" : "37661035176",
+   "mobile" : 0,
+   "feed-item" : "",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/37661035176/so-how-many-lego-bricks-stacked-one-on-top-of",
+   "from-feed-id" : 0,
+   "date-gmt" : "2012-12-10 21:40:28 GMT",
+   "type" : "quote",
+   "url" : "http://tumblr.ggvaidya.com/post/37661035176"
 }
 

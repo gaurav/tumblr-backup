@@ -1,25 +1,26 @@
 {
+   "slug" : "too-good-for-him",
+   "bookmarklet" : 0,
    "format" : "html",
-   "conversation-title" : "Too good for him",
-   "date-gmt" : "2014-05-17 07:06:57 GMT",
-   "reblog-key" : "DmK92SIA",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/85987926679/too-good-for-him",
-   "mobile" : 0,
-   "unix-timestamp" : 1400310417,
-   "feed-item" : "",
-   "url" : "http://tumblr.ggvaidya.com/post/85987926679",
    "date" : "Sat, 17 May 2014 01:06:57",
-   "type" : "conversation",
+   "unix-timestamp" : 1400310417,
+   "tags" : [
+      "full metal panic",
+      "kids these days"
+   ],
+   "reblog-key" : "DmK92SIA",
+   "conversation-text" : "Chidori: We've finally got you, Sousuke!\r\nSousuke: [defeated] Just kill me.\r\nChidori: Heh, you still have a job. We'll kill you later.",
+   "url" : "http://tumblr.ggvaidya.com/post/85987926679",
    "conversation" : [
       {
-         "phrase" : "We've finally got you, Sousuke!\r",
          "label" : "Chidori:",
+         "phrase" : "We've finally got you, Sousuke!\r",
          "name" : "Chidori"
       },
       {
          "phrase" : "[defeated] Just kill me.\r",
-         "label" : "Sousuke:",
-         "name" : "Sousuke"
+         "name" : "Sousuke",
+         "label" : "Sousuke:"
       },
       {
          "label" : "Chidori:",
@@ -27,14 +28,13 @@
          "phrase" : "Heh, you still have a job. We'll kill you later."
       }
    ],
-   "tags" : [
-      "full metal panic",
-      "kids these days"
-   ],
-   "id" : "85987926679",
+   "type" : "conversation",
+   "date-gmt" : "2014-05-17 07:06:57 GMT",
    "from-feed-id" : 0,
-   "bookmarklet" : 0,
-   "conversation-text" : "Chidori: We've finally got you, Sousuke!\r\nSousuke: [defeated] Just kill me.\r\nChidori: Heh, you still have a job. We'll kill you later.",
-   "slug" : "too-good-for-him"
+   "feed-item" : "",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/85987926679/too-good-for-him",
+   "mobile" : 0,
+   "conversation-title" : "Too good for him",
+   "id" : "85987926679"
 }
 

@@ -1,26 +1,26 @@
 {
-   "date-gmt" : "2013-07-09 19:45:51 GMT",
-   "format" : "html",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/55021493109/google-amazon-platforms-accessibility",
-   "reblog-key" : "qzdsSn4z",
-   "unix-timestamp" : 1373399151,
+   "type" : "link",
+   "url" : "http://tumblr.ggvaidya.com/post/55021493109",
+   "id" : "55021493109",
    "mobile" : 0,
    "feed-item" : "",
-   "url" : "http://tumblr.ggvaidya.com/post/55021493109",
-   "type" : "link",
-   "date" : "Tue, 09 Jul 2013 13:45:51",
-   "link-url" : "https://gist.github.com/chitchcock/1281611",
+   "link-description" : "<p>Some day I&rsquo;ll get around to actually quoting nice bits out of this article and sharing it properly &amp;c., but I just came across this (a year and a half after it was published, I know), and it is <em>brilliant</em> IMO. If you haven&rsquo;t read it yet, but have anything to do with software engineering, building, or any interest in computers at all really, please read it. I might change my mind later but for right now, it seems brilliant to me.</p>",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/55021493109/google-amazon-platforms-accessibility",
+   "from-feed-id" : 0,
+   "date-gmt" : "2013-07-09 19:45:51 GMT",
+   "reblog-key" : "qzdsSn4z",
    "tags" : [
       "software engineering",
       "building software",
       "software",
       "computers"
    ],
+   "link-url" : "https://gist.github.com/chitchcock/1281611",
    "link-text" : "Google, Amazon, platforms, Accessibility",
-   "id" : "55021493109",
-   "link-description" : "<p>Some day I&rsquo;ll get around to actually quoting nice bits out of this article and sharing it properly &amp;c., but I just came across this (a year and a half after it was published, I know), and it is <em>brilliant</em> IMO. If you haven&rsquo;t read it yet, but have anything to do with software engineering, building, or any interest in computers at all really, please read it. I might change my mind later but for right now, it seems brilliant to me.</p>",
+   "format" : "html",
+   "unix-timestamp" : 1373399151,
+   "date" : "Tue, 09 Jul 2013 13:45:51",
    "bookmarklet" : 0,
-   "from-feed-id" : 0,
    "slug" : "google-amazon-platforms-accessibility"
 }
 

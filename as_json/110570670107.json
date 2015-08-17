@@ -1,23 +1,23 @@
 {
-   "feed-item" : "",
-   "url" : "http://tumblr.ggvaidya.com/post/110570670107",
-   "type" : "quote",
-   "date" : "Mon, 09 Feb 2015 14:40:32",
-   "date-gmt" : "2015-02-09 21:40:32 GMT",
-   "format" : "html",
-   "reblog-key" : "F3LhkkBa",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/110570670107/when-thinking-about-life-remember-this-no-amount",
-   "mobile" : 0,
-   "unix-timestamp" : 1423518032,
-   "id" : "110570670107",
-   "from-feed-id" : 0,
+   "quote-source" : "This is so important.Â  (via <a class=\"tumblr_blog\" href=\"http://weslette.tumblr.com/\">weslette</a>)",
    "bookmarklet" : 0,
    "slug" : "when-thinking-about-life-remember-this-no-amount",
-   "quote-source" : "This is so important.Â  (via <a class=\"tumblr_blog\" href=\"http://weslette.tumblr.com/\">weslette</a>)",
    "tags" : [
       "life",
       "advice"
    ],
-   "quote-text" : "When thinking about life, remember this: no amount of guilt can change the past, and no amount of anxiety can change the future."
+   "reblog-key" : "F3LhkkBa",
+   "quote-text" : "When thinking about life, remember this: no amount of guilt can change the past, and no amount of anxiety can change the future.",
+   "format" : "html",
+   "unix-timestamp" : 1423518032,
+   "date" : "Mon, 09 Feb 2015 14:40:32",
+   "feed-item" : "",
+   "from-feed-id" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/110570670107/when-thinking-about-life-remember-this-no-amount",
+   "date-gmt" : "2015-02-09 21:40:32 GMT",
+   "id" : "110570670107",
+   "mobile" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/110570670107",
+   "type" : "quote"
 }
 

@@ -1,25 +1,25 @@
 {
-   "mobile" : 0,
-   "unix-timestamp" : 1415049607,
-   "reblog-key" : "0IQcgbks",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/101700231741/you-tossed-a-blanket-from-the-bed-you-lay-upon",
-   "format" : "html",
-   "date-gmt" : "2014-11-03 21:20:07 GMT",
-   "date" : "Mon, 03 Nov 2014 14:20:07",
-   "type" : "quote",
-   "url" : "http://tumblr.ggvaidya.com/post/101700231741",
-   "feed-item" : "",
+   "quote-source" : "T. S. Eliot, <a href=\"http://www.poetryfoundation.org/poem/173478\"><em>Preludes</em></a>.",
    "tags" : [
       "t s eliot",
       "poetry",
       "light",
       "blanket"
    ],
+   "reblog-key" : "0IQcgbks",
    "quote-text" : "You tossed a blanket from the bed,<br/>\nYou lay upon your back, and waited;<br/>\nYou dozed, and watched the night revealing<br/>\nThe thousand sordid images<br/>\nOf which your soul was constituted;<br/>\nThey flickered against the ceiling.<br/>\nAnd when all the world came back<br/>\nAnd the light crept up between the shutters<br/>\nAnd you heard the sparrows in the gutters,<br/>\nYou had such a vision of the street<br/>\nAs the street hardly understands;<br/>\nSitting along the bed&rsquo;s edge, where<br/>\nYou curled the papers from your hair,<br/>\nOr clasped the yellow soles of feet<br/>\nIn the palms of both soiled hands.",
-   "quote-source" : "T. S. Eliot, <a href=\"http://www.poetryfoundation.org/poem/173478\"><em>Preludes</em></a>.",
-   "slug" : "you-tossed-a-blanket-from-the-bed-you-lay-upon",
-   "from-feed-id" : 0,
+   "unix-timestamp" : 1415049607,
+   "format" : "html",
+   "date" : "Mon, 03 Nov 2014 14:20:07",
    "bookmarklet" : 0,
-   "id" : "101700231741"
+   "slug" : "you-tossed-a-blanket-from-the-bed-you-lay-upon",
+   "id" : "101700231741",
+   "mobile" : 0,
+   "feed-item" : "",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/101700231741/you-tossed-a-blanket-from-the-bed-you-lay-upon",
+   "from-feed-id" : 0,
+   "date-gmt" : "2014-11-03 21:20:07 GMT",
+   "type" : "quote",
+   "url" : "http://tumblr.ggvaidya.com/post/101700231741"
 }
 

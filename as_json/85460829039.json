@@ -1,14 +1,12 @@
 {
-   "format" : "html",
-   "date-gmt" : "2014-05-11 21:42:00 GMT",
-   "reblog-key" : "XdGSYiU1",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/85460829039/introverts-dont-get-lonely-if-they-dont",
+   "id" : "85460829039",
    "mobile" : 0,
-   "unix-timestamp" : 1399844520,
+   "from-feed-id" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/85460829039/introverts-dont-get-lonely-if-they-dont",
    "feed-item" : "",
-   "url" : "http://tumblr.ggvaidya.com/post/85460829039",
-   "date" : "Sun, 11 May 2014 15:42:00",
+   "date-gmt" : "2014-05-11 21:42:00 GMT",
    "type" : "quote",
+   "url" : "http://tumblr.ggvaidya.com/post/85460829039",
    "quote-source" : "Sophia Dembling, The Introvertâs Way: Living a Quiet Life in a Noisy World (Perigee Trade, 2012)",
    "tags" : [
       "yes",
@@ -16,8 +14,10 @@
       "but the rest sure does apply to me"
    ],
    "quote-text" : "Introverts donât get lonely if they donât socialize with a lot of people, but we do get lonely if we donât have intimate interactions on a regular basis.",
-   "id" : "85460829039",
-   "from-feed-id" : 0,
+   "reblog-key" : "XdGSYiU1",
+   "format" : "html",
+   "date" : "Sun, 11 May 2014 15:42:00",
+   "unix-timestamp" : 1399844520,
    "bookmarklet" : 0,
    "slug" : "introverts-dont-get-lonely-if-they-dont"
 }

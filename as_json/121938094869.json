@@ -1,23 +1,23 @@
 {
+   "regular-body" : "<p><a href=\"http://inaturalist.tumblr.com/post/121937745483/updates-to-maps\" class=\"tumblr_blog\">inaturalist</a>:</p>\n\n<blockquote><figure data-orig-width=\"2069\" data-orig-height=\"1279\" class=\"tmblr-full\"><img src=\"http://31.media.tumblr.com/47940dab1e1addc8044d546dd9480668/tumblr_inline_nq7e3vcsqP1ql75n8_540.gif\" data-orig-width=\"2069\" data-orig-height=\"1279\"/></figure><p>Today we are releasing some updates to our observation maps. The most obvious change is that we have replaced the grids representing observation location and density with a different view using circles instead of grids. Every circle represents an observation, and now they are clickable so you can click through to all observations shown on any map.</p><figure data-orig-width=\"1464\" data-orig-height=\"1280\" class=\"tmblr-full\"><img src=\"http://31.media.tumblr.com/153cef78e775f073e54f63218a94b37b/tumblr_inline_nq7ew3kjY41ql75n8_540.gif\" data-orig-width=\"1464\" data-orig-height=\"1280\"/></figure><p>There are many more technical behind-the-scenes changes that hopefully you will not notice, yet. We have been incorporating <a href=\"https://www.elastic.co/products/elasticsearch\">Elasticsearch</a>Â deeper into our infrastructure, and since Elasticsearch also supports geospatial data, we were able to build our new mapping system on top of it. This will allow us, in time, to be able to map observations resulting from nearly query or combination of filters of observations, such as results from the search form onÂ <a href=\"http://www.inaturalist.org/observations\">http://www.inaturalist.org/observations</a>Â .</p><p>In addition to the querying power provided by Elasticsearch, its built-in data replication has allowed us to take full advantage of some hardware kindly donated to iNaturalist by the cloud hosting company <a href=\"http://www.gogrid.com/\">GoGrid</a>. We are replicating all observation search indices in near-realtime to a second data center, and all the hardware powering the new maps is separated from the rest of our production servers.</p><p>We hope you enjoy these changes, and stay tuned for more map improvements over the coming weeks and months!</p></blockquote>",
    "tags" : [
       "cool",
       "biodiversity"
    ],
-   "slug" : "updates-to-maps",
-   "from-feed-id" : 0,
+   "reblog-key" : "rCidIqut",
+   "unix-timestamp" : 1434740468,
+   "format" : "html",
+   "date" : "Fri, 19 Jun 2015 13:01:08",
    "bookmarklet" : 0,
+   "regular-title" : "Updates to Maps",
+   "slug" : "updates-to-maps",
    "id" : "121938094869",
    "mobile" : 0,
-   "unix-timestamp" : 1434740468,
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/121938094869/updates-to-maps",
-   "reblog-key" : "rCidIqut",
-   "format" : "html",
+   "from-feed-id" : 0,
+   "feed-item" : "",
    "date-gmt" : "2015-06-19 19:01:08 GMT",
-   "regular-title" : "Updates to Maps",
-   "regular-body" : "<p><a href=\"http://inaturalist.tumblr.com/post/121937745483/updates-to-maps\" class=\"tumblr_blog\">inaturalist</a>:</p>\n\n<blockquote><figure data-orig-width=\"2069\" data-orig-height=\"1279\" class=\"tmblr-full\"><img src=\"https://31.media.tumblr.com/47940dab1e1addc8044d546dd9480668/tumblr_inline_nq7e3vcsqP1ql75n8_540.gif\" data-orig-width=\"2069\" data-orig-height=\"1279\"/></figure><p>Today we are releasing some updates to our observation maps. The most obvious change is that we have replaced the grids representing observation location and density with a different view using circles instead of grids. Every circle represents an observation, and now they are clickable so you can click through to all observations shown on any map.</p><figure data-orig-width=\"1464\" data-orig-height=\"1280\" class=\"tmblr-full\"><img src=\"https://31.media.tumblr.com/153cef78e775f073e54f63218a94b37b/tumblr_inline_nq7ew3kjY41ql75n8_540.gif\" data-orig-width=\"1464\" data-orig-height=\"1280\"/></figure><p>There are many more technical behind-the-scenes changes that hopefully you will not notice, yet. We have been incorporating <a href=\"https://www.elastic.co/products/elasticsearch\">Elasticsearch</a>Â deeper into our infrastructure, and since Elasticsearch also supports geospatial data, we were able to build our new mapping system on top of it. This will allow us, in time, to be able to map observations resulting from nearly query or combination of filters of observations, such as results from the search form onÂ <a href=\"http://www.inaturalist.org/observations\">http://www.inaturalist.org/observations</a>Â .</p><p>In addition to the querying power provided by Elasticsearch, its built-in data replication has allowed us to take full advantage of some hardware kindly donated to iNaturalist by the cloud hosting company <a href=\"http://www.gogrid.com/\">GoGrid</a>. We are replicating all observation search indices in near-realtime to a second data center, and all the hardware powering the new maps is separated from the rest of our production servers.</p><p>We hope you enjoy these changes, and stay tuned for more map improvements over the coming weeks and months!</p></blockquote>",
-   "date" : "Fri, 19 Jun 2015 13:01:08",
    "type" : "regular",
-   "url" : "http://tumblr.ggvaidya.com/post/121938094869",
-   "feed-item" : ""
+   "url" : "http://tumblr.ggvaidya.com/post/121938094869"
 }
 

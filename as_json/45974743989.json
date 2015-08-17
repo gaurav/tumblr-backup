@@ -1,44 +1,44 @@
 {
-   "url" : "http://tumblr.ggvaidya.com/post/45974743989",
-   "feed-item" : "",
-   "date" : "Thu, 21 Mar 2013 23:42:34",
-   "type" : "conversation",
-   "format" : "html",
-   "conversation-title" : null,
-   "date-gmt" : "2013-03-22 05:42:34 GMT",
-   "unix-timestamp" : 1363930954,
-   "mobile" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/45974743989/child-me-wow-when-im-a-teenager-im-gonna-go-out",
-   "reblog-key" : "lNp00D8v",
-   "from-feed-id" : 0,
-   "bookmarklet" : 0,
-   "id" : "45974743989",
-   "slug" : "child-me-wow-when-im-a-teenager-im-gonna-go-out",
    "conversation-text" : "Child me: WOW WHEN IM A TEENAGER IM GONNA GO OUT WITH MY FRIENDS TO THE MALL AND PARTY AND DATE HOT PEOPLE AND BE POPULAR AND COOL\r\nTeenage me: *hisses at sunlight*\r\nTeenage me: When I'm an adult I'm going to be so mature and be self-sufficient and do what I want!\r\nAdult me: *eats ice cream out of the tub and watches children's cartoons*",
+   "slug" : "child-me-wow-when-im-a-teenager-im-gonna-go-out",
+   "bookmarklet" : 0,
+   "date" : "Thu, 21 Mar 2013 23:42:34",
+   "format" : "html",
+   "unix-timestamp" : 1363930954,
+   "tags" : [
+      "gpom"
+   ],
+   "reblog-key" : "lNp00D8v",
+   "date-gmt" : "2013-03-22 05:42:34 GMT",
+   "from-feed-id" : 0,
+   "feed-item" : "",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/45974743989/child-me-wow-when-im-a-teenager-im-gonna-go-out",
+   "mobile" : 0,
+   "conversation-title" : null,
+   "id" : "45974743989",
+   "url" : "http://tumblr.ggvaidya.com/post/45974743989",
+   "type" : "conversation",
    "conversation" : [
       {
+         "phrase" : "WOW WHEN IM A TEENAGER IM GONNA GO OUT WITH MY FRIENDS TO THE MALL AND PARTY AND DATE HOT PEOPLE AND BE POPULAR AND COOL\r",
          "name" : "Child me",
-         "label" : "Child me:",
-         "phrase" : "WOW WHEN IM A TEENAGER IM GONNA GO OUT WITH MY FRIENDS TO THE MALL AND PARTY AND DATE HOT PEOPLE AND BE POPULAR AND COOL\r"
+         "label" : "Child me:"
+      },
+      {
+         "name" : "Teenage me",
+         "phrase" : "*hisses at sunlight*\r",
+         "label" : "Teenage me:"
       },
       {
          "label" : "Teenage me:",
          "name" : "Teenage me",
-         "phrase" : "*hisses at sunlight*\r"
-      },
-      {
-         "phrase" : "When I'm an adult I'm going to be so mature and be self-sufficient and do what I want!\r",
-         "name" : "Teenage me",
-         "label" : "Teenage me:"
+         "phrase" : "When I'm an adult I'm going to be so mature and be self-sufficient and do what I want!\r"
       },
       {
          "phrase" : "*eats ice cream out of the tub and watches children's cartoons*",
          "name" : "Adult me",
          "label" : "Adult me:"
       }
-   ],
-   "tags" : [
-      "gpom"
    ]
 }
 

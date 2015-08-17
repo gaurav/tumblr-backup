@@ -1,22 +1,22 @@
 {
-   "from-feed-id" : 0,
-   "bookmarklet" : 0,
-   "id" : "43017435266",
-   "slug" : "case-in-point-recently-i-encountered-some-test",
    "quote-source" : "Ovid, <em><a href=\"http://blogs.perl.org/users/ovid/2013/01/how-to-write-a-test-description.html\">How to write a test description</a></em>, blogs.perl.org, January 5, 2013.",
    "quote-text" : "<p>Case in point: recently I encountered some test output like this:</p>\n\n<blockquote><code>\nok 1 - redirect<br/>\nok 2 - transparent gif<br/>\nok 3 - cookies ok<br/>\nok 4 - log data\n</code></blockquote>\n\n<p>Can you tell what that means? Me neither. In fact, this code was a bit confusing and in the process of understanding it, I wound up rewriting the test messages similar to this:</p>\n\n<blockquote><code>\nok 1 - If no cookies are found, we should redirect the user<br/>\nok 2 - ... to a transparent gif<br/>\nok 3 - ... and the cookie should have a value of 0<br/>\nok 4 - ... and the log should have default values and be marked as not valid\n</code></blockquote>\n\n<p>Which of those would you rather read as a maintenance programmer?</p>",
    "tags" : [
       "testing"
    ],
-   "url" : "http://tumblr.ggvaidya.com/post/43017435266",
-   "feed-item" : "",
-   "type" : "quote",
-   "date" : "Wed, 13 Feb 2013 12:40:28",
-   "date-gmt" : "2013-02-13 19:40:28 GMT",
+   "reblog-key" : "H8h42JJN",
    "format" : "html",
    "unix-timestamp" : 1360784428,
+   "date" : "Wed, 13 Feb 2013 12:40:28",
+   "bookmarklet" : 0,
+   "slug" : "case-in-point-recently-i-encountered-some-test",
+   "id" : "43017435266",
    "mobile" : 0,
-   "reblog-key" : "H8h42JJN",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/43017435266/case-in-point-recently-i-encountered-some-test"
+   "feed-item" : "",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/43017435266/case-in-point-recently-i-encountered-some-test",
+   "from-feed-id" : 0,
+   "date-gmt" : "2013-02-13 19:40:28 GMT",
+   "type" : "quote",
+   "url" : "http://tumblr.ggvaidya.com/post/43017435266"
 }
 

@@ -1,24 +1,16 @@
 {
-   "unix-timestamp" : 1367801590,
    "mobile" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/49735082494/person-she-me-its-he-person",
-   "reblog-key" : "GyUCUNvR",
    "conversation-title" : null,
+   "id" : "49735082494",
    "date-gmt" : "2013-05-06 00:53:10 GMT",
-   "format" : "html",
-   "type" : "conversation",
-   "date" : "Sun, 05 May 2013 18:53:10",
-   "url" : "http://tumblr.ggvaidya.com/post/49735082494",
+   "from-feed-id" : 0,
    "feed-item" : "",
-   "tags" : [
-      "haha",
-      "lgbt"
-   ],
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/49735082494/person-she-me-its-he-person",
    "conversation" : [
       {
+         "label" : "person:",
          "phrase" : "she--\r",
-         "name" : "person",
-         "label" : "person:"
+         "name" : "person"
       },
       {
          "label" : "me:",
@@ -32,14 +24,22 @@
       },
       {
          "name" : "me",
-         "label" : "me:",
-         "phrase" : "yeah, it also says ' 8lbs, 6 oz ' -- a lot has changed over the years"
+         "phrase" : "yeah, it also says ' 8lbs, 6 oz ' -- a lot has changed over the years",
+         "label" : "me:"
       }
    ],
-   "slug" : "person-she-me-its-he-person",
+   "type" : "conversation",
+   "url" : "http://tumblr.ggvaidya.com/post/49735082494",
    "conversation-text" : "person: she--\r\nme: it's he.\r\nperson: *condescending smile* well, on your birth certificate--\r\nme: yeah, it also says ' 8lbs, 6 oz ' -- a lot has changed over the years",
-   "from-feed-id" : 0,
-   "bookmarklet" : 0,
-   "id" : "49735082494"
+   "format" : "html",
+   "date" : "Sun, 05 May 2013 18:53:10",
+   "unix-timestamp" : 1367801590,
+   "reblog-key" : "GyUCUNvR",
+   "tags" : [
+      "haha",
+      "lgbt"
+   ],
+   "slug" : "person-she-me-its-he-person",
+   "bookmarklet" : 0
 }
 

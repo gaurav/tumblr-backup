@@ -1,26 +1,26 @@
 {
-   "bookmarklet" : 0,
-   "from-feed-id" : 0,
-   "video-player-250" : "<iframe width=\"250\" height=\"141\" src=\"https://www.youtube.com/embed/LrAS20mNZUE?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "id" : "20705008494",
-   "slug" : "take-my-love-take-my-land-take-me-where-i",
-   "video-player" : "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/LrAS20mNZUE?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
-   "video-player-500" : "<iframe width=\"500\" height=\"281\" src=\"https://www.youtube.com/embed/LrAS20mNZUE?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+   "url" : "http://tumblr.ggvaidya.com/post/20705008494",
    "video-caption" : "<p>&ldquo;Take my love, take my land, take me where I cannot stand; I don&rsquo;t care, I&rsquo;m still free, you can&rsquo;t take the sky from me&rdquo; &ndash; Firefly opening credits</p>",
+   "video-source" : "http://www.youtube.com/watch?v=LrAS20mNZUE",
+   "type" : "video",
+   "feed-item" : "",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/20705008494/take-my-love-take-my-land-take-me-where-i",
+   "from-feed-id" : 0,
+   "video-player-500" : "<iframe width=\"500\" height=\"281\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/LrAS20mNZUE?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-player-250" : "<iframe width=\"250\" height=\"141\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/LrAS20mNZUE?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "date-gmt" : "2012-04-08 08:30:00 GMT",
+   "video-player" : "<iframe width=\"400\" height=\"225\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/LrAS20mNZUE?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "id" : "20705008494",
+   "mobile" : 0,
+   "bookmarklet" : 0,
+   "slug" : "take-my-love-take-my-land-take-me-where-i",
    "tags" : [
       "firefly",
       "opening credits"
    ],
-   "url" : "http://tumblr.ggvaidya.com/post/20705008494",
-   "feed-item" : "",
-   "date" : "Sun, 08 Apr 2012 02:30:00",
-   "type" : "video",
-   "date-gmt" : "2012-04-08 08:30:00 GMT",
-   "format" : "html",
-   "video-source" : "http://www.youtube.com/watch?v=LrAS20mNZUE",
-   "mobile" : 0,
-   "unix-timestamp" : 1333873800,
    "reblog-key" : "IWU8Tao6",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/20705008494/take-my-love-take-my-land-take-me-where-i"
+   "unix-timestamp" : 1333873800,
+   "format" : "html",
+   "date" : "Sun, 08 Apr 2012 02:30:00"
 }
 

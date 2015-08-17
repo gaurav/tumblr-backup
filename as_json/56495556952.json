@@ -1,29 +1,18 @@
 {
-   "type" : "conversation",
-   "date" : "Thu, 25 Jul 2013 23:54:34",
    "feed-item" : "",
-   "url" : "http://tumblr.ggvaidya.com/post/56495556952",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/56495556952/i-meant-that",
-   "reblog-key" : "JzFbYj4Q",
-   "unix-timestamp" : 1374818074,
-   "mobile" : 0,
-   "format" : "html",
-   "date-gmt" : "2013-07-26 05:54:34 GMT",
-   "conversation-title" : "I meant that",
-   "conversation-text" : "[Jane Marple has been interviewing friends of the deceased]\r\nPolice Superintendent: Any luck?\r\nJane Marple: Oh no, Superintendent, just years of experience.",
-   "slug" : "i-meant-that",
-   "id" : "56495556952",
    "from-feed-id" : 0,
-   "bookmarklet" : 0,
-   "tags" : [
-      "Agatha Christie's Marple",
-      "Jane Marple"
-   ],
+   "date-gmt" : "2013-07-26 05:54:34 GMT",
+   "id" : "56495556952",
+   "mobile" : 0,
+   "conversation-title" : "I meant that",
+   "url" : "http://tumblr.ggvaidya.com/post/56495556952",
+   "type" : "conversation",
    "conversation" : [
       {
          "phrase" : "[Jane Marple has been interviewing friends of the deceased]\r",
-         "label" : "",
-         "name" : ""
+         "name" : "",
+         "label" : ""
       },
       {
          "phrase" : "Any luck?\r",
@@ -31,10 +20,21 @@
          "label" : "Police Superintendent:"
       },
       {
-         "name" : "Jane Marple",
          "label" : "Jane Marple:",
+         "name" : "Jane Marple",
          "phrase" : "Oh no, Superintendent, just years of experience."
       }
-   ]
+   ],
+   "conversation-text" : "[Jane Marple has been interviewing friends of the deceased]\r\nPolice Superintendent: Any luck?\r\nJane Marple: Oh no, Superintendent, just years of experience.",
+   "bookmarklet" : 0,
+   "slug" : "i-meant-that",
+   "reblog-key" : "JzFbYj4Q",
+   "tags" : [
+      "Agatha Christie's Marple",
+      "Jane Marple"
+   ],
+   "date" : "Thu, 25 Jul 2013 23:54:34",
+   "format" : "html",
+   "unix-timestamp" : 1374818074
 }
 

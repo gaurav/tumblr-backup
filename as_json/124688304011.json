@@ -1,43 +1,37 @@
 {
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/124688304011/person-a-i-love-science-person-b-hands-them-a",
-   "reblog-key" : "IiXGpbgP",
-   "unix-timestamp" : 1437511224,
-   "mobile" : 0,
-   "date-gmt" : "2015-07-21 20:40:24 GMT",
-   "format" : "html",
-   "conversation-title" : null,
-   "date" : "Tue, 21 Jul 2015 14:40:24",
-   "type" : "conversation",
+   "from-feed-id" : 0,
    "feed-item" : "",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/124688304011/person-a-i-love-science-person-b-hands-them-a",
+   "date-gmt" : "2015-07-21 20:40:24 GMT",
+   "id" : "124688304011",
+   "conversation-title" : null,
+   "mobile" : 0,
    "url" : "http://tumblr.ggvaidya.com/post/124688304011",
-   "tags" : [
-      "fact",
-      "science"
-   ],
+   "type" : "conversation",
    "conversation" : [
       {
-         "phrase" : "I love science!",
          "name" : "Person A",
+         "phrase" : "I love science!",
          "label" : "Person A:"
       },
       {
-         "phrase" : "*hands them a peer-reviewed journal*",
          "label" : "Person B:",
-         "name" : "Person B"
+         "name" : "Person B",
+         "phrase" : "*hands them a peer-reviewed journal*"
       },
       {
          "name" : "Person A",
-         "label" : "Person A:",
-         "phrase" : "It takes a lot of time and energy to develop literacy in those. People's enjoyment of the things science can do for them shouldn't be dismissed or shamed because of their lack of education, or their appreciation of the \"shiny\" parts of science. Those parts are important, both for bringing the benefits of science to more people, and simply for bringing more beauty to life. But you knew that, didn't you... BARON VON DESTRUCTOID!"
+         "phrase" : "It takes a lot of time and energy to develop literacy in those. People's enjoyment of the things science can do for them shouldn't be dismissed or shamed because of their lack of education, or their appreciation of the \"shiny\" parts of science. Those parts are important, both for bringing the benefits of science to more people, and simply for bringing more beauty to life. But you knew that, didn't you... BARON VON DESTRUCTOID!",
+         "label" : "Person A:"
       },
       {
+         "phrase" : "CURSES! My attempt to stifle youth appreciation of science - foiled again! Get him, my Destructrons!",
          "name" : "Person B (actually Baron von Destructoid)",
-         "label" : "Person B (actually Baron von Destructoid):",
-         "phrase" : "CURSES! My attempt to stifle youth appreciation of science - foiled again! Get him, my Destructrons!"
+         "label" : "Person B (actually Baron von Destructoid):"
       },
       {
-         "phrase" : "Ha ha! *wzap* *kbam* *pow*",
          "label" : "Person A (actually Captain Science):",
+         "phrase" : "Ha ha! *wzap* *kbam* *pow*",
          "name" : "Person A (actually Captain Science)"
       },
       {
@@ -47,9 +41,15 @@
       }
    ],
    "conversation-text" : "Person A: I love science!\nPerson B: *hands them a peer-reviewed journal*\nPerson A: It takes a lot of time and energy to develop literacy in those. People's enjoyment of the things science can do for them shouldn't be dismissed or shamed because of their lack of education, or their appreciation of the \"shiny\" parts of science. Those parts are important, both for bringing the benefits of science to more people, and simply for bringing more beauty to life. But you knew that, didn't you... BARON VON DESTRUCTOID!\nPerson B (actually Baron von Destructoid): CURSES! My attempt to stifle youth appreciation of science - foiled again! Get him, my Destructrons!\nPerson A (actually Captain Science): Ha ha! *wzap* *kbam* *pow*\nAnd once again the day is saved, by Science!, and by Not Being Judgmental About Other People's Engagement With the World!",
-   "slug" : "person-a-i-love-science-person-b-hands-them-a",
-   "id" : "124688304011",
    "bookmarklet" : 0,
-   "from-feed-id" : 0
+   "slug" : "person-a-i-love-science-person-b-hands-them-a",
+   "reblog-key" : "IiXGpbgP",
+   "tags" : [
+      "fact",
+      "science"
+   ],
+   "unix-timestamp" : 1437511224,
+   "format" : "html",
+   "date" : "Tue, 21 Jul 2015 14:40:24"
 }
 

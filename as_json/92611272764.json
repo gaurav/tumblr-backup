@@ -1,9 +1,12 @@
 {
-   "from-feed-id" : 0,
-   "bookmarklet" : 0,
    "id" : "92611272764",
-   "slug" : "normality",
-   "conversation-text" : "House: Gummi bears. You hate gummi bears.\r\nWilson: People can change.\r\nHouse: No. And more importantly, I hate gummi bears.\r\nWilson: Oh, fine -- then I won't offer you any. [smiles]\r\nHouse: [starting to smile] You manipulative bitch.\r\nHouse: You're not suddenly eating healthy because you want to. You're eating healthy because you know I don't want to. I've been mooching food for ten years; now, either it suddenly started bothering you this week, or you're --\r\nWilson: -- screwing with you.\r\nWilson: It needed to be done. After Amber died, I withdrew, tried to change everything, hoping I'd sort it out, find some deeper truth. It was a mistake. I should have gone back to normal, to here and now, because that's all we can ever really count on. Things need to get back to normal in your life, and ... what could be more normal than me screwing with you? And you figuring it out?\r\nHouse: You manipulative bitch.",
+   "conversation-title" : "Normality",
+   "mobile" : 0,
+   "from-feed-id" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/92611272764/normality",
+   "feed-item" : "",
+   "date-gmt" : "2014-07-23 06:34:01 GMT",
+   "type" : "conversation",
    "conversation" : [
       {
          "phrase" : "Gummi bears. You hate gummi bears.\r",
@@ -16,9 +19,9 @@
          "phrase" : "People can change.\r"
       },
       {
-         "phrase" : "No. And more importantly, I hate gummi bears.\r",
          "label" : "House:",
-         "name" : "House"
+         "name" : "House",
+         "phrase" : "No. And more importantly, I hate gummi bears.\r"
       },
       {
          "label" : "Wilson:",
@@ -26,31 +29,34 @@
          "phrase" : "Oh, fine -- then I won't offer you any. [smiles]\r"
       },
       {
+         "name" : "House",
          "phrase" : "[starting to smile] You manipulative bitch.\r",
-         "label" : "House:",
-         "name" : "House"
+         "label" : "House:"
       },
       {
          "name" : "House",
-         "label" : "House:",
-         "phrase" : "You're not suddenly eating healthy because you want to. You're eating healthy because you know I don't want to. I've been mooching food for ten years; now, either it suddenly started bothering you this week, or you're --\r"
+         "phrase" : "You're not suddenly eating healthy because you want to. You're eating healthy because you know I don't want to. I've been mooching food for ten years; now, either it suddenly started bothering you this week, or you're --\r",
+         "label" : "House:"
       },
       {
-         "name" : "Wilson",
-         "label" : "Wilson:",
-         "phrase" : "-- screwing with you.\r"
-      },
-      {
-         "phrase" : "It needed to be done. After Amber died, I withdrew, tried to change everything, hoping I'd sort it out, find some deeper truth. It was a mistake. I should have gone back to normal, to here and now, because that's all we can ever really count on. Things need to get back to normal in your life, and ... what could be more normal than me screwing with you? And you figuring it out?\r",
+         "phrase" : "-- screwing with you.\r",
          "name" : "Wilson",
          "label" : "Wilson:"
       },
       {
-         "name" : "House",
+         "label" : "Wilson:",
+         "phrase" : "It needed to be done. After Amber died, I withdrew, tried to change everything, hoping I'd sort it out, find some deeper truth. It was a mistake. I should have gone back to normal, to here and now, because that's all we can ever really count on. Things need to get back to normal in your life, and ... what could be more normal than me screwing with you? And you figuring it out?\r",
+         "name" : "Wilson"
+      },
+      {
          "label" : "House:",
+         "name" : "House",
          "phrase" : "You manipulative bitch."
       }
    ],
+   "url" : "http://tumblr.ggvaidya.com/post/92611272764",
+   "conversation-text" : "House: Gummi bears. You hate gummi bears.\r\nWilson: People can change.\r\nHouse: No. And more importantly, I hate gummi bears.\r\nWilson: Oh, fine -- then I won't offer you any. [smiles]\r\nHouse: [starting to smile] You manipulative bitch.\r\nHouse: You're not suddenly eating healthy because you want to. You're eating healthy because you know I don't want to. I've been mooching food for ten years; now, either it suddenly started bothering you this week, or you're --\r\nWilson: -- screwing with you.\r\nWilson: It needed to be done. After Amber died, I withdrew, tried to change everything, hoping I'd sort it out, find some deeper truth. It was a mistake. I should have gone back to normal, to here and now, because that's all we can ever really count on. Things need to get back to normal in your life, and ... what could be more normal than me screwing with you? And you figuring it out?\r\nHouse: You manipulative bitch.",
+   "reblog-key" : "hqFxdEmW",
    "tags" : [
       "house md",
       "s5e21",
@@ -58,16 +64,10 @@
       "death",
       "advice"
    ],
-   "url" : "http://tumblr.ggvaidya.com/post/92611272764",
-   "feed-item" : "",
-   "type" : "conversation",
    "date" : "Wed, 23 Jul 2014 00:34:01",
    "format" : "html",
-   "conversation-title" : "Normality",
-   "date-gmt" : "2014-07-23 06:34:01 GMT",
    "unix-timestamp" : 1406097241,
-   "mobile" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/92611272764/normality",
-   "reblog-key" : "hqFxdEmW"
+   "bookmarklet" : 0,
+   "slug" : "normality"
 }
 

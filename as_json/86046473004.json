@@ -1,63 +1,55 @@
 {
-   "unix-timestamp" : 1400364395,
    "mobile" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/86046473004/mixed-messages",
-   "reblog-key" : "vR8dcTht",
-   "date-gmt" : "2014-05-17 22:06:35 GMT",
-   "format" : "html",
    "conversation-title" : "Mixed messages",
-   "type" : "conversation",
-   "date" : "Sat, 17 May 2014 16:06:35",
-   "url" : "http://tumblr.ggvaidya.com/post/86046473004",
+   "id" : "86046473004",
+   "date-gmt" : "2014-05-17 22:06:35 GMT",
    "feed-item" : "",
-   "tags" : [
-      "full metal panic",
-      "of shoeboxes and glasses"
-   ],
+   "from-feed-id" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/86046473004/mixed-messages",
    "conversation" : [
       {
          "phrase" : "[attacking various students] Sousuke? Sousuke? Sousuke? Sousuke?!\r",
-         "label" : "Tsubaki:",
-         "name" : "Tsubaki"
-      },
-      {
-         "label" : "Sousuke:",
-         "name" : "Sousuke",
-         "phrase" : "Wear your glasses first, Tsubaki.\r"
-      },
-      {
-         "phrase" : "Shut up. Why didn't you answer my challenge?\r",
          "name" : "Tsubaki",
          "label" : "Tsubaki:"
       },
       {
-         "phrase" : "What are you talking about?\r",
          "label" : "Sousuke:",
+         "phrase" : "Wear your glasses first, Tsubaki.\r",
          "name" : "Sousuke"
       },
       {
-         "label" : "Tsubaki:",
          "name" : "Tsubaki",
-         "phrase" : "Don't act like you don't know? I put a challenge letter in your shoe box!\r"
+         "phrase" : "Shut up. Why didn't you answer my challenge?\r",
+         "label" : "Tsubaki:"
+      },
+      {
+         "label" : "Sousuke:",
+         "phrase" : "What are you talking about?\r",
+         "name" : "Sousuke"
+      },
+      {
+         "name" : "Tsubaki",
+         "phrase" : "Don't act like you don't know? I put a challenge letter in your shoe box!\r",
+         "label" : "Tsubaki:"
       },
       {
          "label" : "Chidoi:",
-         "name" : "Chidoi",
-         "phrase" : "So it was a challenge letter?\r"
+         "phrase" : "So it was a challenge letter?\r",
+         "name" : "Chidoi"
       },
       {
-         "phrase" : "I just knew about it just now.\r",
          "label" : "Sousuke:",
-         "name" : "Sousuke"
+         "name" : "Sousuke",
+         "phrase" : "I just knew about it just now.\r"
       },
       {
-         "phrase" : "You didn't read it?\r",
          "label" : "Tsubaki:",
+         "phrase" : "You didn't read it?\r",
          "name" : "Tsubaki"
       },
       {
-         "phrase" : "I COULDN'T read it.\r",
          "name" : "Sousuke",
+         "phrase" : "I COULDN'T read it.\r",
          "label" : "Sousuke:"
       },
       {
@@ -66,15 +58,23 @@
          "phrase" : "Because I blew it up.\r"
       },
       {
+         "name" : "Tsubaki",
          "phrase" : "You blew it up? How dare you! I'll kill you!",
-         "label" : "Tsubaki:",
-         "name" : "Tsubaki"
+         "label" : "Tsubaki:"
       }
    ],
-   "slug" : "mixed-messages",
+   "type" : "conversation",
+   "url" : "http://tumblr.ggvaidya.com/post/86046473004",
    "conversation-text" : "Tsubaki: [attacking various students] Sousuke? Sousuke? Sousuke? Sousuke?!\r\nSousuke: Wear your glasses first, Tsubaki.\r\nTsubaki: Shut up. Why didn't you answer my challenge?\r\nSousuke: What are you talking about?\r\nTsubaki: Don't act like you don't know? I put a challenge letter in your shoe box!\r\nChidoi: So it was a challenge letter?\r\nSousuke: I just knew about it just now.\r\nTsubaki: You didn't read it?\r\nSousuke: I COULDN'T read it.\r\nSousuke: Because I blew it up.\r\nTsubaki: You blew it up? How dare you! I'll kill you!",
-   "from-feed-id" : 0,
-   "bookmarklet" : 0,
-   "id" : "86046473004"
+   "format" : "html",
+   "unix-timestamp" : 1400364395,
+   "date" : "Sat, 17 May 2014 16:06:35",
+   "reblog-key" : "vR8dcTht",
+   "tags" : [
+      "full metal panic",
+      "of shoeboxes and glasses"
+   ],
+   "slug" : "mixed-messages",
+   "bookmarklet" : 0
 }
 

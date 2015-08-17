@@ -1,38 +1,52 @@
 {
+   "conversation-text" : "Jim Henson: I think Ms. Rand and my character Oscar the Grouch would have a lot to talk about actually. I am laughing out loud at this idea. \r\nAyn Rand: Why would I want to talk to him. What has he achieved or trying to achieve. \r\nJim Henson: He has achieved what I think is the ultimate goal of your way of thinking.\r\n[...]\r\nJim Henson: Isolation. Contempt for others. A hard heart. Yet even he can muster a bit of empathy every now and then.\r\nSidney Nolan: When Ms. Rands idea of individualism is amplified to the extreme things like Vietnam happen. \r\nAyn Rand: I am not isolated. I have no contempt for others. Millions of people read my books and find my thoughts inspirational. I hardly spend my time on the sidelines in a trash can grumping. \r\nJim Henson: Not yet anyway.",
+   "format" : "html",
+   "date" : "Sun, 16 Dec 2012 14:40:28",
+   "unix-timestamp" : 1355694028,
+   "reblog-key" : "LoVb8m2Z",
+   "slug" : "ayn-rand-vs-jim-henson-part-3-oscar-the-grouch",
+   "bookmarklet" : 0,
+   "conversation-title" : "Ayn Rand vs Jim Henson, part 3: \"Oscar the Grouch\"",
+   "mobile" : 0,
+   "id" : "38093131463",
+   "date-gmt" : "2012-12-16 21:40:28 GMT",
+   "feed-item" : "",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/38093131463/ayn-rand-vs-jim-henson-part-3-oscar-the-grouch",
+   "from-feed-id" : 0,
    "conversation" : [
       {
-         "phrase" : "I think Ms. Rand and my character Oscar the Grouch would have a lot to talk about actually. I am laughing out loud at this idea. \r",
          "label" : "Jim Henson:",
-         "name" : "Jim Henson"
-      },
-      {
-         "name" : "Ayn Rand",
-         "label" : "Ayn Rand:",
-         "phrase" : "Why would I want to talk to him. What has he achieved or trying to achieve. \r"
-      },
-      {
-         "phrase" : "He has achieved what I think is the ultimate goal of your way of thinking.\r",
          "name" : "Jim Henson",
-         "label" : "Jim Henson:"
+         "phrase" : "I think Ms. Rand and my character Oscar the Grouch would have a lot to talk about actually. I am laughing out loud at this idea. \r"
       },
       {
-         "phrase" : "[...]\r",
-         "label" : "",
-         "name" : ""
+         "phrase" : "Why would I want to talk to him. What has he achieved or trying to achieve. \r",
+         "name" : "Ayn Rand",
+         "label" : "Ayn Rand:"
       },
       {
-         "phrase" : "Isolation. Contempt for others. A hard heart. Yet even he can muster a bit of empathy every now and then.\r",
          "label" : "Jim Henson:",
+         "name" : "Jim Henson",
+         "phrase" : "He has achieved what I think is the ultimate goal of your way of thinking.\r"
+      },
+      {
+         "label" : "",
+         "name" : "",
+         "phrase" : "[...]\r"
+      },
+      {
+         "label" : "Jim Henson:",
+         "phrase" : "Isolation. Contempt for others. A hard heart. Yet even he can muster a bit of empathy every now and then.\r",
          "name" : "Jim Henson"
       },
       {
-         "name" : "Sidney Nolan",
          "label" : "Sidney Nolan:",
+         "name" : "Sidney Nolan",
          "phrase" : "When Ms. Rands idea of individualism is amplified to the extreme things like Vietnam happen. \r"
       },
       {
-         "name" : "Ayn Rand",
          "label" : "Ayn Rand:",
+         "name" : "Ayn Rand",
          "phrase" : "I am not isolated. I have no contempt for others. Millions of people read my books and find my thoughts inspirational. I hardly spend my time on the sidelines in a trash can grumping. \r"
       },
       {
@@ -41,21 +55,7 @@
          "phrase" : "Not yet anyway."
       }
    ],
-   "conversation-text" : "Jim Henson: I think Ms. Rand and my character Oscar the Grouch would have a lot to talk about actually. I am laughing out loud at this idea. \r\nAyn Rand: Why would I want to talk to him. What has he achieved or trying to achieve. \r\nJim Henson: He has achieved what I think is the ultimate goal of your way of thinking.\r\n[...]\r\nJim Henson: Isolation. Contempt for others. A hard heart. Yet even he can muster a bit of empathy every now and then.\r\nSidney Nolan: When Ms. Rands idea of individualism is amplified to the extreme things like Vietnam happen. \r\nAyn Rand: I am not isolated. I have no contempt for others. Millions of people read my books and find my thoughts inspirational. I hardly spend my time on the sidelines in a trash can grumping. \r\nJim Henson: Not yet anyway.",
-   "slug" : "ayn-rand-vs-jim-henson-part-3-oscar-the-grouch",
-   "id" : "38093131463",
-   "bookmarklet" : 0,
-   "from-feed-id" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/38093131463/ayn-rand-vs-jim-henson-part-3-oscar-the-grouch",
-   "reblog-key" : "LoVb8m2Z",
-   "unix-timestamp" : 1355694028,
-   "mobile" : 0,
-   "conversation-title" : "Ayn Rand vs Jim Henson, part 3: \"Oscar the Grouch\"",
-   "date-gmt" : "2012-12-16 21:40:28 GMT",
-   "format" : "html",
-   "date" : "Sun, 16 Dec 2012 14:40:28",
    "type" : "conversation",
-   "feed-item" : "",
    "url" : "http://tumblr.ggvaidya.com/post/38093131463"
 }
 
