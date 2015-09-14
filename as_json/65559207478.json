@@ -1,23 +1,23 @@
 {
-   "bookmarklet" : 0,
+   "mobile" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/65559207478/its-famously-said-that-there-are-only-two-hard",
    "slug" : "its-famously-said-that-there-are-only-two-hard",
-   "quote-text" : "Itâs famously said that there are only two hard problems in computer science: cache invalidation, naming things, and off-by-one errors.",
+   "type" : "quote",
+   "format" : "html",
+   "reblog-key" : "Zk8KNilD",
    "tags" : [
       "hee hee",
       "programmer jokes"
    ],
-   "reblog-key" : "Zk8KNilD",
-   "format" : "html",
-   "unix-timestamp" : 1383172695,
-   "date" : "Wed, 30 Oct 2013 16:38:15",
-   "quote-source" : "<p>Some <a href=\"https://github.com/robrix/Postmodern-Programming/blob/master/Postmodern%20Programming.md\">articles</a> are infinitely quotable.</p>\n<p>Iâl have to try real hard not to flood you with one-liners from this one.</p>\n<p>(via <a class=\"tumblr_blog\" href=\"http://slashnull.tumblr.com/\">slashnull</a>)</p>",
    "url" : "http://tumblr.ggvaidya.com/post/65559207478",
-   "type" : "quote",
-   "feed-item" : "",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/65559207478/its-famously-said-that-there-are-only-two-hard",
-   "from-feed-id" : 0,
-   "date-gmt" : "2013-10-30 22:38:15 GMT",
    "id" : "65559207478",
-   "mobile" : 0
+   "unix-timestamp" : 1383172695,
+   "feed-item" : "",
+   "from-feed-id" : 0,
+   "date" : "Wed, 30 Oct 2013 16:38:15",
+   "quote-text" : "Itâs famously said that there are only two hard problems in computer science: cache invalidation, naming things, and off-by-one errors.",
+   "bookmarklet" : 0,
+   "date-gmt" : "2013-10-30 22:38:15 GMT",
+   "quote-source" : "<p>Some <a href=\"https://github.com/robrix/Postmodern-Programming/blob/master/Postmodern%20Programming.md\">articles</a> are infinitely quotable.</p>\n<p>Iâl have to try real hard not to flood you with one-liners from this one.</p>\n<p>(via <a class=\"tumblr_blog\" href=\"http://slashnull.tumblr.com/\">slashnull</a>)</p>"
 }
 

@@ -1,26 +1,32 @@
 {
+   "slug" : "the-daily-show-with-jon-stewart-january-22-2013",
+   "type" : "conversation",
+   "mobile" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/41416272712/the-daily-show-with-jon-stewart-january-22-2013",
+   "reblog-key" : "epF6CEDa",
    "format" : "html",
-   "unix-timestamp" : 1359086696,
-   "date" : "Thu, 24 Jan 2013 21:04:56",
    "tags" : [
       "LGBT",
       "Jon Stewart"
    ],
-   "reblog-key" : "epF6CEDa",
-   "slug" : "the-daily-show-with-jon-stewart-january-22-2013",
-   "bookmarklet" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/41416272712",
    "conversation-text" : "Jonathan Capehart: (on MSNBC) The most powerful moment in [his inauguration] speech, among many, was when [President Obama] mentioned the word \"Stonewall\".\r\nPat Buchanan: (on Fox) What's he talking about? Stonewall?\r\nJonathan Capehart: (cut to MSNBC) The Stonewall riots, the flashpoint of the gay rights movement.\r\nPat Buchanan: (cut to Fox) That's a bar room brawl in Greenwich village in 1969, does that belong in a presidential inaugural?\r\nJon Stewart: (cut to the Daily Show) \"For the losing side of history, I'm Pat Buchanan.\"",
-   "type" : "conversation",
+   "id" : "41416272712",
+   "unix-timestamp" : 1359086696,
+   "date" : "Thu, 24 Jan 2013 21:04:56",
+   "conversation-title" : "The Daily Show with Jon Stewart, January 22, 2013",
+   "date-gmt" : "2013-01-25 04:04:56 GMT",
+   "bookmarklet" : 0,
    "conversation" : [
       {
-         "label" : "Jonathan Capehart:",
          "phrase" : "(on MSNBC) The most powerful moment in [his inauguration] speech, among many, was when [President Obama] mentioned the word \"Stonewall\".\r",
-         "name" : "Jonathan Capehart"
+         "name" : "Jonathan Capehart",
+         "label" : "Jonathan Capehart:"
       },
       {
          "label" : "Pat Buchanan:",
-         "phrase" : "(on Fox) What's he talking about? Stonewall?\r",
-         "name" : "Pat Buchanan"
+         "name" : "Pat Buchanan",
+         "phrase" : "(on Fox) What's he talking about? Stonewall?\r"
       },
       {
          "phrase" : "(cut to MSNBC) The Stonewall riots, the flashpoint of the gay rights movement.\r",
@@ -28,9 +34,9 @@
          "label" : "Jonathan Capehart:"
       },
       {
-         "label" : "Pat Buchanan:",
          "phrase" : "(cut to Fox) That's a bar room brawl in Greenwich village in 1969, does that belong in a presidential inaugural?\r",
-         "name" : "Pat Buchanan"
+         "name" : "Pat Buchanan",
+         "label" : "Pat Buchanan:"
       },
       {
          "phrase" : "(cut to the Daily Show) \"For the losing side of history, I'm Pat Buchanan.\"",
@@ -38,12 +44,6 @@
          "label" : "Jon Stewart:"
       }
    ],
-   "url" : "http://tumblr.ggvaidya.com/post/41416272712",
-   "conversation-title" : "The Daily Show with Jon Stewart, January 22, 2013",
-   "mobile" : 0,
-   "id" : "41416272712",
-   "date-gmt" : "2013-01-25 04:04:56 GMT",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/41416272712/the-daily-show-with-jon-stewart-january-22-2013",
    "feed-item" : "",
    "from-feed-id" : 0
 }

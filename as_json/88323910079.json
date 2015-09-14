@@ -1,23 +1,23 @@
 {
-   "from-feed-id" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/88323910079/stop-saying-sorry-say-thank-you-instead-when-you",
-   "feed-item" : "",
-   "date-gmt" : "2014-06-10 00:23:18 GMT",
    "id" : "88323910079",
-   "mobile" : 0,
    "url" : "http://tumblr.ggvaidya.com/post/88323910079",
-   "type" : "quote",
+   "unix-timestamp" : 1402359798,
+   "date" : "Mon, 09 Jun 2014 18:23:18",
+   "quote-text" : "Stop saying sorry. Say thank you instead. When you say, âsorry for being a jerkâ the other person is forced to either call you a jerk or say it wasnt a big deal. Instead, say âthank you for being so patient with meâ so the other person has a reason to say they love you.",
    "quote-source" : "I saw this gem on Reddit tonight. Â It was posted under a topic of âWhat âlittleâ things you can do to improve your relationship with your significant other.â Â Iâm definitely taking this piece of advice with me into my next relationship. (via <a class=\"tumblr_blog\" href=\"http://blakebaggott.tumblr.com/\">blakebaggott</a>)",
+   "date-gmt" : "2014-06-10 00:23:18 GMT",
    "bookmarklet" : 0,
+   "feed-item" : "",
+   "from-feed-id" : 0,
    "slug" : "stop-saying-sorry-say-thank-you-instead-when-you",
+   "type" : "quote",
+   "mobile" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/88323910079/stop-saying-sorry-say-thank-you-instead-when-you",
    "tags" : [
       "advice",
       "relationships"
    ],
-   "quote-text" : "Stop saying sorry. Say thank you instead. When you say, âsorry for being a jerkâ the other person is forced to either call you a jerk or say it wasnt a big deal. Instead, say âthank you for being so patient with meâ so the other person has a reason to say they love you.",
    "reblog-key" : "vrfTX14G",
-   "date" : "Mon, 09 Jun 2014 18:23:18",
-   "format" : "html",
-   "unix-timestamp" : 1402359798
+   "format" : "html"
 }
 

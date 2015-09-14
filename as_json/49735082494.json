@@ -1,21 +1,30 @@
 {
-   "mobile" : 0,
-   "conversation-title" : null,
-   "id" : "49735082494",
-   "date-gmt" : "2013-05-06 00:53:10 GMT",
-   "from-feed-id" : 0,
-   "feed-item" : "",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/49735082494/person-she-me-its-he-person",
+   "mobile" : 0,
+   "type" : "conversation",
+   "slug" : "person-she-me-its-he-person",
+   "tags" : [
+      "haha",
+      "lgbt"
+   ],
+   "reblog-key" : "GyUCUNvR",
+   "format" : "html",
+   "unix-timestamp" : 1367801590,
+   "id" : "49735082494",
+   "conversation-text" : "person: she--\r\nme: it's he.\r\nperson: *condescending smile* well, on your birth certificate--\r\nme: yeah, it also says ' 8lbs, 6 oz ' -- a lot has changed over the years",
+   "url" : "http://tumblr.ggvaidya.com/post/49735082494",
+   "feed-item" : "",
+   "from-feed-id" : 0,
    "conversation" : [
       {
          "label" : "person:",
-         "phrase" : "she--\r",
-         "name" : "person"
+         "name" : "person",
+         "phrase" : "she--\r"
       },
       {
          "label" : "me:",
-         "name" : "me",
-         "phrase" : "it's he.\r"
+         "phrase" : "it's he.\r",
+         "name" : "me"
       },
       {
          "phrase" : "*condescending smile* well, on your birth certificate--\r",
@@ -23,23 +32,14 @@
          "label" : "person:"
       },
       {
+         "label" : "me:",
          "name" : "me",
-         "phrase" : "yeah, it also says ' 8lbs, 6 oz ' -- a lot has changed over the years",
-         "label" : "me:"
+         "phrase" : "yeah, it also says ' 8lbs, 6 oz ' -- a lot has changed over the years"
       }
    ],
-   "type" : "conversation",
-   "url" : "http://tumblr.ggvaidya.com/post/49735082494",
-   "conversation-text" : "person: she--\r\nme: it's he.\r\nperson: *condescending smile* well, on your birth certificate--\r\nme: yeah, it also says ' 8lbs, 6 oz ' -- a lot has changed over the years",
-   "format" : "html",
-   "date" : "Sun, 05 May 2013 18:53:10",
-   "unix-timestamp" : 1367801590,
-   "reblog-key" : "GyUCUNvR",
-   "tags" : [
-      "haha",
-      "lgbt"
-   ],
-   "slug" : "person-she-me-its-he-person",
-   "bookmarklet" : 0
+   "bookmarklet" : 0,
+   "date-gmt" : "2013-05-06 00:53:10 GMT",
+   "conversation-title" : null,
+   "date" : "Sun, 05 May 2013 18:53:10"
 }
 

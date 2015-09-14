@@ -1,12 +1,10 @@
 {
+   "unix-timestamp" : 1411192482,
+   "url" : "http://tumblr.ggvaidya.com/post/97947270584",
    "id" : "97947270584",
-   "mobile" : 0,
-   "conversation-title" : null,
-   "from-feed-id" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/97947270584/them-i-dont-think-kids-should-be-exposed-to-gay",
+   "conversation-text" : "Them: I don't think kids should be exposed to gay relationships.\r\nYou: Why not?\r\nThem: It's introducing children to sexuality! They're too young for that!\r\nYou: So when a prince and princess kiss in a Disney movie, are they introduced to sexuality? When the prince and the princess get married and have a child, is that introducing your child to sexuality?\r\nThem: NO! But if they see a man and a man, or a woman and a woman together... they're going to start asking questions! Like how a man and a man can... you know, do anything together.\r\nYou: You think the only thing people think when they see a gay couple is \"I wonder how they have sex\"? Furthermore, you think a CHILD is going to even know what that means? When the prince and the princess kiss, does your 4 year old daughter ask, \"mommy, how do people have intercourse\"? No. She just sees two people in love. If you remember when you were a kid, you probably didn't think about sex every time you saw two people happy together. \r\nThem: But it'll bring up all kinds of questions, it'll confuse my child!\r\nYou: Then be a fucking parent and explain it to your child. The only question that might be brought up is \"mom, why don't you want gay people to be happy?\". And when you don't have a good answer for that question, you can look your child in the eye and say \"It's because I'm a bigot\". ",
    "feed-item" : "",
-   "date-gmt" : "2014-09-20 05:54:42 GMT",
-   "type" : "conversation",
+   "from-feed-id" : 0,
    "conversation" : [
       {
          "label" : "Them:",
@@ -14,9 +12,9 @@
          "phrase" : "I don't think kids should be exposed to gay relationships.\r"
       },
       {
-         "label" : "You:",
+         "phrase" : "Why not?\r",
          "name" : "You",
-         "phrase" : "Why not?\r"
+         "label" : "You:"
       },
       {
          "label" : "Them:",
@@ -25,18 +23,18 @@
       },
       {
          "label" : "You:",
-         "phrase" : "So when a prince and princess kiss in a Disney movie, are they introduced to sexuality? When the prince and the princess get married and have a child, is that introducing your child to sexuality?\r",
-         "name" : "You"
-      },
-      {
-         "label" : "Them:",
-         "phrase" : "NO! But if they see a man and a man, or a woman and a woman together... they're going to start asking questions! Like how a man and a man can... you know, do anything together.\r",
-         "name" : "Them"
-      },
-      {
-         "label" : "You:",
          "name" : "You",
-         "phrase" : "You think the only thing people think when they see a gay couple is \"I wonder how they have sex\"? Furthermore, you think a CHILD is going to even know what that means? When the prince and the princess kiss, does your 4 year old daughter ask, \"mommy, how do people have intercourse\"? No. She just sees two people in love. If you remember when you were a kid, you probably didn't think about sex every time you saw two people happy together. \r"
+         "phrase" : "So when a prince and princess kiss in a Disney movie, are they introduced to sexuality? When the prince and the princess get married and have a child, is that introducing your child to sexuality?\r"
+      },
+      {
+         "phrase" : "NO! But if they see a man and a man, or a woman and a woman together... they're going to start asking questions! Like how a man and a man can... you know, do anything together.\r",
+         "name" : "Them",
+         "label" : "Them:"
+      },
+      {
+         "name" : "You",
+         "phrase" : "You think the only thing people think when they see a gay couple is \"I wonder how they have sex\"? Furthermore, you think a CHILD is going to even know what that means? When the prince and the princess kiss, does your 4 year old daughter ask, \"mommy, how do people have intercourse\"? No. She just sees two people in love. If you remember when you were a kid, you probably didn't think about sex every time you saw two people happy together. \r",
+         "label" : "You:"
       },
       {
          "phrase" : "But it'll bring up all kinds of questions, it'll confuse my child!\r",
@@ -44,21 +42,23 @@
          "label" : "Them:"
       },
       {
+         "label" : "You:",
          "phrase" : "Then be a fucking parent and explain it to your child. The only question that might be brought up is \"mom, why don't you want gay people to be happy?\". And when you don't have a good answer for that question, you can look your child in the eye and say \"It's because I'm a bigot\".",
-         "name" : "You",
-         "label" : "You:"
+         "name" : "You"
       }
    ],
-   "url" : "http://tumblr.ggvaidya.com/post/97947270584",
-   "conversation-text" : "Them: I don't think kids should be exposed to gay relationships.\r\nYou: Why not?\r\nThem: It's introducing children to sexuality! They're too young for that!\r\nYou: So when a prince and princess kiss in a Disney movie, are they introduced to sexuality? When the prince and the princess get married and have a child, is that introducing your child to sexuality?\r\nThem: NO! But if they see a man and a man, or a woman and a woman together... they're going to start asking questions! Like how a man and a man can... you know, do anything together.\r\nYou: You think the only thing people think when they see a gay couple is \"I wonder how they have sex\"? Furthermore, you think a CHILD is going to even know what that means? When the prince and the princess kiss, does your 4 year old daughter ask, \"mommy, how do people have intercourse\"? No. She just sees two people in love. If you remember when you were a kid, you probably didn't think about sex every time you saw two people happy together. \r\nThem: But it'll bring up all kinds of questions, it'll confuse my child!\r\nYou: Then be a fucking parent and explain it to your child. The only question that might be brought up is \"mom, why don't you want gay people to be happy?\". And when you don't have a good answer for that question, you can look your child in the eye and say \"It's because I'm a bigot\". ",
+   "date-gmt" : "2014-09-20 05:54:42 GMT",
+   "bookmarklet" : 0,
+   "date" : "Fri, 19 Sep 2014 23:54:42",
+   "conversation-title" : null,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/97947270584/them-i-dont-think-kids-should-be-exposed-to-gay",
+   "mobile" : 0,
+   "type" : "conversation",
+   "slug" : "them-i-dont-think-kids-should-be-exposed-to-gay",
+   "reblog-key" : "086sMgFd",
+   "format" : "html",
    "tags" : [
       "nice"
-   ],
-   "reblog-key" : "086sMgFd",
-   "unix-timestamp" : 1411192482,
-   "format" : "html",
-   "date" : "Fri, 19 Sep 2014 23:54:42",
-   "bookmarklet" : 0,
-   "slug" : "them-i-dont-think-kids-should-be-exposed-to-gay"
+   ]
 }
 

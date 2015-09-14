@@ -1,23 +1,23 @@
 {
-   "mobile" : 0,
-   "id" : "54042976123",
+   "bookmarklet" : 0,
    "date-gmt" : "2013-06-27 21:12:22 GMT",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/54042976123/using-the-implicit-booleanness-of-the-empty-list",
+   "quote-source" : "Patrick, <a href=\"http://stackoverflow.com/a/53522\">in an answer on StackOverflow</a>, September 10, 2008",
+   "quote-text" : "Using the implicit booleanness of the empty list is quite pythonic.",
+   "date" : "Thu, 27 Jun 2013 15:12:22",
    "feed-item" : "",
    "from-feed-id" : 0,
-   "type" : "quote",
-   "url" : "http://tumblr.ggvaidya.com/post/54042976123",
-   "quote-source" : "Patrick, <a href=\"http://stackoverflow.com/a/53522\">in an answer on StackOverflow</a>, September 10, 2008",
-   "format" : "html",
-   "date" : "Thu, 27 Jun 2013 15:12:22",
    "unix-timestamp" : 1372367542,
+   "url" : "http://tumblr.ggvaidya.com/post/54042976123",
+   "id" : "54042976123",
    "reblog-key" : "z5WePAlc",
+   "format" : "html",
    "tags" : [
       "python",
       "pythonic"
    ],
-   "quote-text" : "Using the implicit booleanness of the empty list is quite pythonic.",
+   "type" : "quote",
    "slug" : "using-the-implicit-booleanness-of-the-empty-list",
-   "bookmarklet" : 0
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/54042976123/using-the-implicit-booleanness-of-the-empty-list",
+   "mobile" : 0
 }
 

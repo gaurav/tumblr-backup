@@ -1,23 +1,23 @@
 {
-   "type" : "quote",
-   "url" : "http://tumblr.ggvaidya.com/post/117880565314",
+   "unix-timestamp" : 1430512826,
    "id" : "117880565314",
-   "mobile" : 0,
-   "feed-item" : "",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/117880565314/you-enquire-about-the-cold-i-will-tell-you",
-   "from-feed-id" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/117880565314",
+   "quote-source" : "Kala Khan (Punjabi Muslim) to Iltaf Hussain (Bhatinda, Patiala, Punjab States), [Urdu] Indian Labour Corps, France, 27th December 1917 according to David Omissi, <a href=\"http://www.caravanmagazine.in/vantage/what-indian-soldiers-first-world-war-wrote-home-about\"><em>What Indian soldiers in the First World War wrote home about</em></a>, August 20, 2014.",
    "date-gmt" : "2015-05-01 20:40:26 GMT",
+   "bookmarklet" : 0,
+   "date" : "Fri, 01 May 2015 14:40:26",
    "quote-text" : "You enquire about the cold? I will tell you plainly what the cold in France is like when I meet you. At present I can only say that the earth is white, the sky is white, the trees are white, the stones are white, the mud is white, the water is white, oneâs spittle freezes into a solid white lump, the water is as hard as stones or bricks, [and] the water in the rivers and canals and on the roads is like thick plate glass. What more am I to say? Our kind-hearted Sirkar has done everything possible for us to protect us from the cold. We are each provided with two pairs of strong, expensive boots. We have whale oil to rub in our feet, and for food we are provided with live Spanish sheep. In short, the Sirkar has accumulated many good and wonderful things for our use.",
+   "feed-item" : "",
+   "from-feed-id" : 0,
+   "type" : "quote",
+   "slug" : "you-enquire-about-the-cold-i-will-tell-you",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/117880565314/you-enquire-about-the-cold-i-will-tell-you",
+   "mobile" : 0,
    "tags" : [
       "wwi",
       "cold"
    ],
    "reblog-key" : "PVrxfLc8",
-   "unix-timestamp" : 1430512826,
-   "format" : "html",
-   "date" : "Fri, 01 May 2015 14:40:26",
-   "bookmarklet" : 0,
-   "slug" : "you-enquire-about-the-cold-i-will-tell-you",
-   "quote-source" : "Kala Khan (Punjabi Muslim) to Iltaf Hussain (Bhatinda, Patiala, Punjab States), [Urdu] Indian Labour Corps, France, 27th December 1917 according to David Omissi, <a href=\"http://www.caravanmagazine.in/vantage/what-indian-soldiers-first-world-war-wrote-home-about\"><em>What Indian soldiers in the First World War wrote home about</em></a>, August 20, 2014."
+   "format" : "html"
 }
 

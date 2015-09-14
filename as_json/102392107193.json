@@ -1,14 +1,17 @@
 {
+   "unix-timestamp" : 1415742009,
+   "id" : "102392107193",
+   "url" : "http://tumblr.ggvaidya.com/post/102392107193",
    "from-feed-id" : 0,
    "feed-item" : "",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/102392107193/this-was-years-ago-before-you-were-born-before",
-   "date-gmt" : "2014-11-11 21:40:09 GMT",
-   "id" : "102392107193",
-   "mobile" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/102392107193",
-   "type" : "quote",
    "quote-source" : "Philip Levine, <a href=\"http://www.poetryfoundation.org/poetrymagazine/poem/29440\"><em>Smoke</em></a>, <em>Poetry</em> (June 1998).",
    "bookmarklet" : 0,
+   "date-gmt" : "2014-11-11 21:40:09 GMT",
+   "date" : "Tue, 11 Nov 2014 14:40:09",
+   "quote-text" : "<p>This was years ago, before you were born, before<br/>\nyour parents met in a bus station downtown.<br/>\nShe&rsquo;d come on Friday after work all the way<br/>\nfrom Toledo, and he&rsquo;d dressed in his only suit.</p>\n\n<p>Back then we called this a date, some times<br/>\na blind date, though they&rsquo;d written back and forth<br/>\nfor weeks. What actually took place is now lost.<br/>\nIt&rsquo;s become part of the mythology of a family,</p>\n\n<p>the stories told by children around the dinner table.</p>",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/102392107193/this-was-years-ago-before-you-were-born-before",
+   "mobile" : 0,
+   "type" : "quote",
    "slug" : "this-was-years-ago-before-you-were-born-before",
    "tags" : [
       "history",
@@ -16,9 +19,6 @@
       "writing"
    ],
    "reblog-key" : "gBspoXcx",
-   "quote-text" : "<p>This was years ago, before you were born, before<br/>\nyour parents met in a bus station downtown.<br/>\nShe&rsquo;d come on Friday after work all the way<br/>\nfrom Toledo, and he&rsquo;d dressed in his only suit.</p>\n\n<p>Back then we called this a date, some times<br/>\na blind date, though they&rsquo;d written back and forth<br/>\nfor weeks. What actually took place is now lost.<br/>\nIt&rsquo;s become part of the mythology of a family,</p>\n\n<p>the stories told by children around the dinner table.</p>",
-   "date" : "Tue, 11 Nov 2014 14:40:09",
-   "format" : "html",
-   "unix-timestamp" : 1415742009
+   "format" : "html"
 }
 

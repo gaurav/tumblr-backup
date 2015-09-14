@@ -1,18 +1,27 @@
 {
-   "from-feed-id" : 0,
-   "feed-item" : "",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/124688304011/person-a-i-love-science-person-b-hands-them-a",
-   "date-gmt" : "2015-07-21 20:40:24 GMT",
-   "id" : "124688304011",
-   "conversation-title" : null,
-   "mobile" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/124688304011",
+   "slug" : "person-a-i-love-science-person-b-hands-them-a",
    "type" : "conversation",
+   "mobile" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/124688304011/person-a-i-love-science-person-b-hands-them-a",
+   "reblog-key" : "IiXGpbgP",
+   "format" : "html",
+   "tags" : [
+      "fact",
+      "science"
+   ],
+   "url" : "http://tumblr.ggvaidya.com/post/124688304011",
+   "id" : "124688304011",
+   "conversation-text" : "Person A: I love science!\nPerson B: *hands them a peer-reviewed journal*\nPerson A: It takes a lot of time and energy to develop literacy in those. People's enjoyment of the things science can do for them shouldn't be dismissed or shamed because of their lack of education, or their appreciation of the \"shiny\" parts of science. Those parts are important, both for bringing the benefits of science to more people, and simply for bringing more beauty to life. But you knew that, didn't you... BARON VON DESTRUCTOID!\nPerson B (actually Baron von Destructoid): CURSES! My attempt to stifle youth appreciation of science - foiled again! Get him, my Destructrons!\nPerson A (actually Captain Science): Ha ha! *wzap* *kbam* *pow*\nAnd once again the day is saved, by Science!, and by Not Being Judgmental About Other People's Engagement With the World!",
+   "unix-timestamp" : 1437511224,
+   "conversation-title" : null,
+   "date" : "Tue, 21 Jul 2015 14:40:24",
+   "date-gmt" : "2015-07-21 20:40:24 GMT",
+   "bookmarklet" : 0,
    "conversation" : [
       {
-         "name" : "Person A",
+         "label" : "Person A:",
          "phrase" : "I love science!",
-         "label" : "Person A:"
+         "name" : "Person A"
       },
       {
          "label" : "Person B:",
@@ -25,9 +34,9 @@
          "label" : "Person A:"
       },
       {
+         "label" : "Person B (actually Baron von Destructoid):",
          "phrase" : "CURSES! My attempt to stifle youth appreciation of science - foiled again! Get him, my Destructrons!",
-         "name" : "Person B (actually Baron von Destructoid)",
-         "label" : "Person B (actually Baron von Destructoid):"
+         "name" : "Person B (actually Baron von Destructoid)"
       },
       {
          "label" : "Person A (actually Captain Science):",
@@ -40,16 +49,7 @@
          "label" : ""
       }
    ],
-   "conversation-text" : "Person A: I love science!\nPerson B: *hands them a peer-reviewed journal*\nPerson A: It takes a lot of time and energy to develop literacy in those. People's enjoyment of the things science can do for them shouldn't be dismissed or shamed because of their lack of education, or their appreciation of the \"shiny\" parts of science. Those parts are important, both for bringing the benefits of science to more people, and simply for bringing more beauty to life. But you knew that, didn't you... BARON VON DESTRUCTOID!\nPerson B (actually Baron von Destructoid): CURSES! My attempt to stifle youth appreciation of science - foiled again! Get him, my Destructrons!\nPerson A (actually Captain Science): Ha ha! *wzap* *kbam* *pow*\nAnd once again the day is saved, by Science!, and by Not Being Judgmental About Other People's Engagement With the World!",
-   "bookmarklet" : 0,
-   "slug" : "person-a-i-love-science-person-b-hands-them-a",
-   "reblog-key" : "IiXGpbgP",
-   "tags" : [
-      "fact",
-      "science"
-   ],
-   "unix-timestamp" : 1437511224,
-   "format" : "html",
-   "date" : "Tue, 21 Jul 2015 14:40:24"
+   "from-feed-id" : 0,
+   "feed-item" : ""
 }
 

@@ -1,25 +1,25 @@
 {
-   "bookmarklet" : 0,
-   "regular-title" : "Urk",
-   "slug" : "urk",
    "reblog-key" : "YoxTICHF",
+   "format" : "html",
    "tags" : [
       ":-(",
       "me",
       "at least the Friend Machine is still working",
       "if anything happens to it I shall sit down and cry"
    ],
-   "unix-timestamp" : 1403252320,
-   "format" : "html",
-   "date" : "Fri, 20 Jun 2014 02:18:40",
-   "regular-body" : "<p>So right as one of my busiest summers in grad school really gets going, my laptopâs built-in wifi goes dead.</p>\n\n<p>Yay! Or, possibly, the other thing.</p>",
-   "url" : "http://tumblr.ggvaidya.com/post/89344571249",
-   "type" : "regular",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/89344571249/urk",
+   "mobile" : 0,
+   "type" : "regular",
+   "slug" : "urk",
+   "regular-body" : "<p>So right as one of my busiest summers in grad school really gets going, my laptopâs built-in wifi goes dead.</p>\n\n<p>Yay! Or, possibly, the other thing.</p>",
    "from-feed-id" : 0,
    "feed-item" : "",
+   "bookmarklet" : 0,
    "date-gmt" : "2014-06-20 08:18:40 GMT",
-   "id" : "89344571249",
-   "mobile" : 0
+   "regular-title" : "Urk",
+   "date" : "Fri, 20 Jun 2014 02:18:40",
+   "unix-timestamp" : 1403252320,
+   "url" : "http://tumblr.ggvaidya.com/post/89344571249",
+   "id" : "89344571249"
 }
 

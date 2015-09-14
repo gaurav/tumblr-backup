@@ -1,25 +1,25 @@
 {
-   "url" : "http://tumblr.ggvaidya.com/post/80254258385",
    "type" : "regular",
-   "date-gmt" : "2014-03-21 12:04:00 GMT",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/80254258385/gsoc-2014",
-   "feed-item" : "",
-   "from-feed-id" : 0,
-   "mobile" : 0,
-   "id" : "80254258385",
+   "regular-body" : "<p>After 4 hours 45 minutes of straight writing, I have something that looks kind of like a GSoC proposal if you squint at it just right. And now to bed, then a final round of edits tomorrow, and then I can get back to my own thesis proposal.</p>",
    "slug" : "gsoc-2014",
-   "bookmarklet" : 0,
-   "regular-title" : "GSoC 2014",
-   "unix-timestamp" : 1395403440,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/80254258385/gsoc-2014",
+   "mobile" : 0,
    "format" : "html",
-   "date" : "Fri, 21 Mar 2014 06:04:00",
+   "reblog-key" : "049aw3Ka",
    "tags" : [
       "life",
       "gsoc",
       "all-nighter",
       "me"
    ],
-   "reblog-key" : "049aw3Ka",
-   "regular-body" : "<p>After 4 hours 45 minutes of straight writing, I have something that looks kind of like a GSoC proposal if you squint at it just right. And now to bed, then a final round of edits tomorrow, and then I can get back to my own thesis proposal.</p>"
+   "unix-timestamp" : 1395403440,
+   "url" : "http://tumblr.ggvaidya.com/post/80254258385",
+   "id" : "80254258385",
+   "date-gmt" : "2014-03-21 12:04:00 GMT",
+   "bookmarklet" : 0,
+   "date" : "Fri, 21 Mar 2014 06:04:00",
+   "regular-title" : "GSoC 2014",
+   "feed-item" : "",
+   "from-feed-id" : 0
 }
 

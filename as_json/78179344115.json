@@ -1,35 +1,35 @@
 {
+   "slug" : "words-to-live-by",
    "type" : "conversation",
-   "conversation" : [
-      {
-         "label" : "Hacker:",
-         "name" : "Hacker",
-         "phrase" : "Do you mean to tell me, that when the chips are down, you're on MY side, not Humphrey's?\r"
-      },
-      {
-         "label" : "Bernard:",
-         "phrase" : "Minister, it's my job to see the chips stay up.",
-         "name" : "Bernard"
-      }
-   ],
-   "url" : "http://tumblr.ggvaidya.com/post/78179344115",
-   "id" : "78179344115",
    "mobile" : 0,
-   "conversation-title" : "Words to live by",
-   "feed-item" : "",
-   "from-feed-id" : 0,
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/78179344115/words-to-live-by",
-   "date-gmt" : "2014-03-01 04:57:52 GMT",
-   "reblog-key" : "8gF39SIw",
    "tags" : [
       "yes minister",
       "S1E6"
    ],
-   "date" : "Fri, 28 Feb 2014 21:57:52",
+   "reblog-key" : "8gF39SIw",
    "format" : "html",
+   "conversation-text" : "Hacker: Do you mean to tell me, that when the chips are down, you're on MY side, not Humphrey's?\r\nBernard: Minister, it's my job to see the chips stay up.",
+   "id" : "78179344115",
+   "url" : "http://tumblr.ggvaidya.com/post/78179344115",
    "unix-timestamp" : 1393649872,
+   "date" : "Fri, 28 Feb 2014 21:57:52",
+   "conversation-title" : "Words to live by",
    "bookmarklet" : 0,
-   "slug" : "words-to-live-by",
-   "conversation-text" : "Hacker: Do you mean to tell me, that when the chips are down, you're on MY side, not Humphrey's?\r\nBernard: Minister, it's my job to see the chips stay up."
+   "date-gmt" : "2014-03-01 04:57:52 GMT",
+   "conversation" : [
+      {
+         "label" : "Hacker:",
+         "phrase" : "Do you mean to tell me, that when the chips are down, you're on MY side, not Humphrey's?\r",
+         "name" : "Hacker"
+      },
+      {
+         "name" : "Bernard",
+         "phrase" : "Minister, it's my job to see the chips stay up.",
+         "label" : "Bernard:"
+      }
+   ],
+   "from-feed-id" : 0,
+   "feed-item" : ""
 }
 

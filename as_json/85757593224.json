@@ -1,14 +1,17 @@
 {
-   "reblog-key" : "nc0JpO2Y",
    "tags" : [
       "history geek time"
    ],
-   "unix-timestamp" : 1400104885,
+   "reblog-key" : "nc0JpO2Y",
    "format" : "html",
-   "date" : "Wed, 14 May 2014 16:01:25",
-   "bookmarklet" : 0,
    "slug" : "time-for-a-history-based-questionnaire",
-   "conversation-text" : " 1. Who is your favourite historical person?\r\n 2. What is your country most famous for in history?\r\n 3. What is your country most infamous for in history?\r\n 4. What is your favourite historical era?\r\n 5. What is your favourite weapon?\r\n 6. What is your favourite military unit?\r\n 7. What is your favourite historical dressing, uniform or costume?\r\n 8. What was the last thing you have read or listened to about history?\r\n 9. What is your favourite historical film?\r\n 10. What piece(s) of art (painting, sculpture, lithograph, etc.) related to history you most like most?\r\n 11. Have you participated in a historical re-enactment? What was it like?\r\n 12. Would you take part in re-enactment? In what era and as whom?\r\n 13. Tell us something random about some random historical person in an equally random random era.\r\n 14. Why you are interested in history?\r\n 15. Were/Are the history classes taught in an interesting way in your school/university? What would you do to improve them if you were the teacher/lecturer?\r\n 16. Do you own any historical item? (coin, clothing, weapons, books, etc.) If yes, which one is your favourite?\r\n 17. What particular historical item would you like to own?\r\n 18. Look at the clock. The numbers are forming a historical year (e.g. 17: 58 would be 1758). What year is it? Are any important historical events going to happen in that year?\r\n 19. What is your favourite historical book?\r\n 20. Who is your historical crush?\r\n 21. What is your favourite history-based video game?\r\n 22. Tell us a random historical fact about the town or city you're in at the moment.\r\n 23. What is your favourite historical song or song containing historical references?\r\n 24. Who do you consider to be the most underrated historical figure?\r\n 25. Who do you consider to be the most overrated historical figure?\r\n 26. What is your favourite historical \"What if...\" scenario?\r\n 27. What particular group of individuals are your favourite historical \"dream team\"?\r\n 28. What, if any, great historical mystery you are interested in?\r\n 29. {Ask me a question of your own.}",
+   "type" : "conversation",
+   "mobile" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/85757593224/time-for-a-history-based-questionnaire",
+   "conversation-title" : "Time for a history-based questionnaire!",
+   "date" : "Wed, 14 May 2014 16:01:25",
+   "date-gmt" : "2014-05-14 22:01:25 GMT",
+   "bookmarklet" : 0,
    "conversation" : [
       {
          "name" : "",
@@ -26,9 +29,9 @@
          "name" : ""
       },
       {
-         "phrase" : " 4. What is your favourite historical era?\r",
+         "label" : "",
          "name" : "",
-         "label" : ""
+         "phrase" : " 4. What is your favourite historical era?\r"
       },
       {
          "label" : "",
@@ -36,29 +39,29 @@
          "phrase" : " 5. What is your favourite weapon?\r"
       },
       {
-         "name" : "",
          "phrase" : " 6. What is your favourite military unit?\r",
+         "name" : "",
          "label" : ""
       },
       {
-         "label" : "",
          "phrase" : " 7. What is your favourite historical dressing, uniform or costume?\r",
-         "name" : ""
-      },
-      {
          "name" : "",
-         "phrase" : " 8. What was the last thing you have read or listened to about history?\r",
          "label" : ""
       },
       {
          "label" : "",
-         "phrase" : " 9. What is your favourite historical film?\r",
-         "name" : ""
+         "name" : "",
+         "phrase" : " 8. What was the last thing you have read or listened to about history?\r"
       },
       {
-         "label" : "",
+         "phrase" : " 9. What is your favourite historical film?\r",
          "name" : "",
-         "phrase" : " 10. What piece(s) of art (painting, sculpture, lithograph, etc.) related to history you most like most?\r"
+         "label" : ""
+      },
+      {
+         "name" : "",
+         "phrase" : " 10. What piece(s) of art (painting, sculpture, lithograph, etc.) related to history you most like most?\r",
+         "label" : ""
       },
       {
          "name" : "",
@@ -66,8 +69,8 @@
          "label" : ""
       },
       {
-         "name" : "",
          "phrase" : " 12. Would you take part in re-enactment? In what era and as whom?\r",
+         "name" : "",
          "label" : ""
       },
       {
@@ -76,59 +79,59 @@
          "label" : ""
       },
       {
-         "phrase" : " 14. Why you are interested in history?\r",
+         "label" : "",
          "name" : "",
-         "label" : ""
+         "phrase" : " 14. Why you are interested in history?\r"
       },
       {
-         "name" : "",
          "phrase" : " 15. Were/Are the history classes taught in an interesting way in your school/university? What would you do to improve them if you were the teacher/lecturer?\r",
+         "name" : "",
          "label" : ""
+      },
+      {
+         "label" : "",
+         "name" : "",
+         "phrase" : " 16. Do you own any historical item? (coin, clothing, weapons, books, etc.) If yes, which one is your favourite?\r"
       },
       {
          "name" : "",
-         "phrase" : " 16. Do you own any historical item? (coin, clothing, weapons, books, etc.) If yes, which one is your favourite?\r",
-         "label" : ""
-      },
-      {
          "phrase" : " 17. What particular historical item would you like to own?\r",
-         "name" : "",
          "label" : ""
       },
       {
-         "phrase" : "58 would be 1758). What year is it? Are any important historical events going to happen in that year?\r",
          "name" : " 18. Look at the clock. The numbers are forming a historical year (e.g. 17",
+         "phrase" : "58 would be 1758). What year is it? Are any important historical events going to happen in that year?\r",
          "label" : " 18. Look at the clock. The numbers are forming a historical year (e.g. 17:"
       },
       {
          "label" : "",
-         "phrase" : " 19. What is your favourite historical book?\r",
-         "name" : ""
+         "name" : "",
+         "phrase" : " 19. What is your favourite historical book?\r"
       },
       {
-         "label" : "",
+         "phrase" : " 20. Who is your historical crush?\r",
          "name" : "",
-         "phrase" : " 20. Who is your historical crush?\r"
-      },
-      {
-         "name" : "",
-         "phrase" : " 21. What is your favourite history-based video game?\r",
          "label" : ""
       },
       {
          "label" : "",
+         "name" : "",
+         "phrase" : " 21. What is your favourite history-based video game?\r"
+      },
+      {
+         "name" : "",
          "phrase" : " 22. Tell us a random historical fact about the town or city you're in at the moment.\r",
-         "name" : ""
-      },
-      {
-         "name" : "",
-         "phrase" : " 23. What is your favourite historical song or song containing historical references?\r",
          "label" : ""
       },
       {
          "label" : "",
-         "phrase" : " 24. Who do you consider to be the most underrated historical figure?\r",
-         "name" : ""
+         "name" : "",
+         "phrase" : " 23. What is your favourite historical song or song containing historical references?\r"
+      },
+      {
+         "label" : "",
+         "name" : "",
+         "phrase" : " 24. Who do you consider to be the most underrated historical figure?\r"
       },
       {
          "name" : "",
@@ -136,14 +139,14 @@
          "label" : ""
       },
       {
-         "label" : "",
          "name" : "",
-         "phrase" : " 26. What is your favourite historical \"What if...\" scenario?\r"
+         "phrase" : " 26. What is your favourite historical \"What if...\" scenario?\r",
+         "label" : ""
       },
       {
+         "label" : "",
          "name" : "",
-         "phrase" : " 27. What particular group of individuals are your favourite historical \"dream team\"?\r",
-         "label" : ""
+         "phrase" : " 27. What particular group of individuals are your favourite historical \"dream team\"?\r"
       },
       {
          "label" : "",
@@ -151,19 +154,16 @@
          "phrase" : " 28. What, if any, great historical mystery you are interested in?\r"
       },
       {
-         "label" : "",
+         "name" : "",
          "phrase" : " 29. {Ask me a question of your own.}",
-         "name" : ""
+         "label" : ""
       }
    ],
-   "type" : "conversation",
-   "url" : "http://tumblr.ggvaidya.com/post/85757593224",
-   "id" : "85757593224",
-   "mobile" : 0,
-   "conversation-title" : "Time for a history-based questionnaire!",
-   "feed-item" : "",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/85757593224/time-for-a-history-based-questionnaire",
    "from-feed-id" : 0,
-   "date-gmt" : "2014-05-14 22:01:25 GMT"
+   "feed-item" : "",
+   "id" : "85757593224",
+   "conversation-text" : " 1. Who is your favourite historical person?\r\n 2. What is your country most famous for in history?\r\n 3. What is your country most infamous for in history?\r\n 4. What is your favourite historical era?\r\n 5. What is your favourite weapon?\r\n 6. What is your favourite military unit?\r\n 7. What is your favourite historical dressing, uniform or costume?\r\n 8. What was the last thing you have read or listened to about history?\r\n 9. What is your favourite historical film?\r\n 10. What piece(s) of art (painting, sculpture, lithograph, etc.) related to history you most like most?\r\n 11. Have you participated in a historical re-enactment? What was it like?\r\n 12. Would you take part in re-enactment? In what era and as whom?\r\n 13. Tell us something random about some random historical person in an equally random random era.\r\n 14. Why you are interested in history?\r\n 15. Were/Are the history classes taught in an interesting way in your school/university? What would you do to improve them if you were the teacher/lecturer?\r\n 16. Do you own any historical item? (coin, clothing, weapons, books, etc.) If yes, which one is your favourite?\r\n 17. What particular historical item would you like to own?\r\n 18. Look at the clock. The numbers are forming a historical year (e.g. 17: 58 would be 1758). What year is it? Are any important historical events going to happen in that year?\r\n 19. What is your favourite historical book?\r\n 20. Who is your historical crush?\r\n 21. What is your favourite history-based video game?\r\n 22. Tell us a random historical fact about the town or city you're in at the moment.\r\n 23. What is your favourite historical song or song containing historical references?\r\n 24. Who do you consider to be the most underrated historical figure?\r\n 25. Who do you consider to be the most overrated historical figure?\r\n 26. What is your favourite historical \"What if...\" scenario?\r\n 27. What particular group of individuals are your favourite historical \"dream team\"?\r\n 28. What, if any, great historical mystery you are interested in?\r\n 29. {Ask me a question of your own.}",
+   "url" : "http://tumblr.ggvaidya.com/post/85757593224",
+   "unix-timestamp" : 1400104885
 }
 

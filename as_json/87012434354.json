@@ -1,27 +1,27 @@
 {
-   "video-source" : "<iframe width=\"400\" height=\"500\" frameborder=\"0\" src=\"http://www.bbc.co.uk/emp/embed/smpEmbed.html?playlist=http%3A%2F%2Fwww.bbc.co.uk%2Fiplayer%2Fplaylist%2Fp01zk57r&title=Today%3A%2027%2F05%2F2014%3A%20Clive%20James%3A%20'I've%20started%20saying%20goodbye'&product=iplayer\"></iframe>",
-   "type" : "video",
+   "unix-timestamp" : 1401209686,
    "url" : "http://tumblr.ggvaidya.com/post/87012434354",
-   "video-caption" : "<p>Clive James on luck, life, death and aspirations. &ldquo;You&rsquo;re going to have to soft-peddle this &lsquo;Death&rsquo;s door&rsquo; stuff, Clive, otherwise people are going to get impatient&rdquo;</p>",
    "id" : "87012434354",
-   "video-player" : "<iframe width=\"400\" height=\"500\" frameborder=\"0\" src=\"http://www.bbc.co.uk/emp/embed/smpEmbed.html?playlist=http%3A%2F%2Fwww.bbc.co.uk%2Fiplayer%2Fplaylist%2Fp01zk57r&title=Today%3A%2027%2F05%2F2014%3A%20Clive%20James%3A%20'I've%20started%20saying%20goodbye'&product=iplayer\"></iframe>",
-   "mobile" : 0,
-   "video-player-500" : "<iframe width=\"500\" height=\"625\" frameborder=\"0\" src=\"http://www.bbc.co.uk/emp/embed/smpEmbed.html?playlist=http%3A%2F%2Fwww.bbc.co.uk%2Fiplayer%2Fplaylist%2Fp01zk57r&title=Today%3A%2027%2F05%2F2014%3A%20Clive%20James%3A%20'I've%20started%20saying%20goodbye'&product=iplayer\"></iframe>",
+   "video-source" : "<iframe width=\"400\" height=\"500\" frameborder=\"0\" src=\"http://www.bbc.co.uk/emp/embed/smpEmbed.html?playlist=http%3A%2F%2Fwww.bbc.co.uk%2Fiplayer%2Fplaylist%2Fp01zk57r&title=Today%3A%2027%2F05%2F2014%3A%20Clive%20James%3A%20'I've%20started%20saying%20goodbye'&product=iplayer\"></iframe>",
+   "date-gmt" : "2014-05-27 16:54:46 GMT",
+   "bookmarklet" : 0,
+   "video-caption" : "<p>Clive James on luck, life, death and aspirations. &ldquo;You&rsquo;re going to have to soft-peddle this &lsquo;Death&rsquo;s door&rsquo; stuff, Clive, otherwise people are going to get impatient&rdquo;</p>",
+   "date" : "Tue, 27 May 2014 10:54:46",
    "from-feed-id" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/87012434354/clive-james-on-luck-life-death-and-aspirations",
    "feed-item" : "",
    "video-player-250" : "<iframe width=\"250\" height=\"313\" frameborder=\"0\" src=\"http://www.bbc.co.uk/emp/embed/smpEmbed.html?playlist=http%3A%2F%2Fwww.bbc.co.uk%2Fiplayer%2Fplaylist%2Fp01zk57r&title=Today%3A%2027%2F05%2F2014%3A%20Clive%20James%3A%20'I've%20started%20saying%20goodbye'&product=iplayer\"></iframe>",
-   "date-gmt" : "2014-05-27 16:54:46 GMT",
+   "video-player" : "<iframe width=\"400\" height=\"500\" frameborder=\"0\" src=\"http://www.bbc.co.uk/emp/embed/smpEmbed.html?playlist=http%3A%2F%2Fwww.bbc.co.uk%2Fiplayer%2Fplaylist%2Fp01zk57r&title=Today%3A%2027%2F05%2F2014%3A%20Clive%20James%3A%20'I've%20started%20saying%20goodbye'&product=iplayer\"></iframe>",
+   "type" : "video",
+   "slug" : "clive-james-on-luck-life-death-and-aspirations",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/87012434354/clive-james-on-luck-life-death-and-aspirations",
+   "video-player-500" : "<iframe width=\"500\" height=\"625\" frameborder=\"0\" src=\"http://www.bbc.co.uk/emp/embed/smpEmbed.html?playlist=http%3A%2F%2Fwww.bbc.co.uk%2Fiplayer%2Fplaylist%2Fp01zk57r&title=Today%3A%2027%2F05%2F2014%3A%20Clive%20James%3A%20'I've%20started%20saying%20goodbye'&product=iplayer\"></iframe>",
+   "mobile" : 0,
+   "reblog-key" : "2qRkNe4b",
+   "format" : "html",
    "tags" : [
       "clive james",
       "bbc radio 4",
       "the today programme"
-   ],
-   "reblog-key" : "2qRkNe4b",
-   "unix-timestamp" : 1401209686,
-   "format" : "html",
-   "date" : "Tue, 27 May 2014 10:54:46",
-   "bookmarklet" : 0,
-   "slug" : "clive-james-on-luck-life-death-and-aspirations"
+   ]
 }
 

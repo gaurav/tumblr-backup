@@ -1,31 +1,24 @@
 {
-   "conversation-text" : "Me: Okay so if orientation is a choice, choose to be gay, right now.\r\n\r\nHim: No.\r\n\r\nMe: Why not?\r\n\r\nHim: Because I don't find men attractive\r\n\r\nMe: So CHOOSE to find them attractive\r\n\r\nHim: ....... I can't.\r\n\r\nMe: Sorry, WHAT was that? You CAN'T????",
-   "slug" : "a-guy-in-my-psychology-class-said-he-thought",
-   "bookmarklet" : 0,
+   "reblog-key" : "BvdDQOQ9",
    "format" : "html",
-   "unix-timestamp" : 1367274928,
-   "date" : "Mon, 29 Apr 2013 16:35:28",
    "tags" : [
       "lgbt"
    ],
-   "reblog-key" : "BvdDQOQ9",
-   "date-gmt" : "2013-04-29 22:35:28 GMT",
-   "feed-item" : "",
-   "from-feed-id" : 0,
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/49209866911/a-guy-in-my-psychology-class-said-he-thought",
-   "conversation-title" : "A guy in my psychology class said he thought orientation could possibly be a choice;",
    "mobile" : 0,
-   "id" : "49209866911",
-   "url" : "http://tumblr.ggvaidya.com/post/49209866911",
+   "type" : "conversation",
+   "slug" : "a-guy-in-my-psychology-class-said-he-thought",
+   "from-feed-id" : 0,
+   "feed-item" : "",
    "conversation" : [
       {
-         "name" : "Me",
+         "label" : "Me:",
          "phrase" : "Okay so if orientation is a choice, choose to be gay, right now.\r",
-         "label" : "Me:"
+         "name" : "Me"
       },
       {
-         "phrase" : "No.\r",
          "name" : "Him",
+         "phrase" : "No.\r",
          "label" : "Him:"
       },
       {
@@ -35,25 +28,32 @@
       },
       {
          "label" : "Him:",
-         "phrase" : "Because I don't find men attractive\r",
-         "name" : "Him"
-      },
-      {
-         "name" : "Me",
-         "phrase" : "So CHOOSE to find them attractive\r",
-         "label" : "Me:"
-      },
-      {
-         "phrase" : "....... I can't.\r",
          "name" : "Him",
-         "label" : "Him:"
+         "phrase" : "Because I don't find men attractive\r"
       },
       {
          "label" : "Me:",
+         "phrase" : "So CHOOSE to find them attractive\r",
+         "name" : "Me"
+      },
+      {
+         "label" : "Him:",
+         "name" : "Him",
+         "phrase" : "....... I can't.\r"
+      },
+      {
          "name" : "Me",
-         "phrase" : "Sorry, WHAT was that? You CAN'T????"
+         "phrase" : "Sorry, WHAT was that? You CAN'T????",
+         "label" : "Me:"
       }
    ],
-   "type" : "conversation"
+   "date-gmt" : "2013-04-29 22:35:28 GMT",
+   "bookmarklet" : 0,
+   "conversation-title" : "A guy in my psychology class said he thought orientation could possibly be a choice;",
+   "date" : "Mon, 29 Apr 2013 16:35:28",
+   "unix-timestamp" : 1367274928,
+   "url" : "http://tumblr.ggvaidya.com/post/49209866911",
+   "conversation-text" : "Me: Okay so if orientation is a choice, choose to be gay, right now.\r\n\r\nHim: No.\r\n\r\nMe: Why not?\r\n\r\nHim: Because I don't find men attractive\r\n\r\nMe: So CHOOSE to find them attractive\r\n\r\nHim: ....... I can't.\r\n\r\nMe: Sorry, WHAT was that? You CAN'T????",
+   "id" : "49209866911"
 }
 

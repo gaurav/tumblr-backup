@@ -6,31 +6,31 @@
    ],
    "reblog-key" : "YPM4lOxh",
    "format" : "html",
-   "date" : "Tue, 21 May 2013 23:26:50",
-   "unix-timestamp" : 1369200410,
-   "bookmarklet" : 0,
-   "slug" : "fantasy-novelist-alright-time-to-create-my",
-   "conversation-text" : "Fantasy novelist: Alright, time to create my fantasy world. Great thing about this genre is that I can make it anything I want. Could be based on any culture in any place from any time. Could be a mix of places and times, or something newly invented by me. Yup, there is literally nothing out of bounds here.\r\nFantasy novelist: I'm gonna go with medieval England.",
    "type" : "conversation",
+   "slug" : "fantasy-novelist-alright-time-to-create-my",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/51051797334/fantasy-novelist-alright-time-to-create-my",
+   "mobile" : 0,
+   "bookmarklet" : 0,
+   "date-gmt" : "2013-05-22 05:26:50 GMT",
+   "conversation-title" : null,
+   "date" : "Tue, 21 May 2013 23:26:50",
+   "feed-item" : "",
+   "from-feed-id" : 0,
    "conversation" : [
       {
-         "name" : "Fantasy novelist",
          "phrase" : "Alright, time to create my fantasy world. Great thing about this genre is that I can make it anything I want. Could be based on any culture in any place from any time. Could be a mix of places and times, or something newly invented by me. Yup, there is literally nothing out of bounds here.\r",
+         "name" : "Fantasy novelist",
          "label" : "Fantasy novelist:"
       },
       {
-         "label" : "Fantasy novelist:",
          "phrase" : "I'm gonna go with medieval England.",
-         "name" : "Fantasy novelist"
+         "name" : "Fantasy novelist",
+         "label" : "Fantasy novelist:"
       }
    ],
-   "url" : "http://tumblr.ggvaidya.com/post/51051797334",
+   "unix-timestamp" : 1369200410,
+   "conversation-text" : "Fantasy novelist: Alright, time to create my fantasy world. Great thing about this genre is that I can make it anything I want. Could be based on any culture in any place from any time. Could be a mix of places and times, or something newly invented by me. Yup, there is literally nothing out of bounds here.\r\nFantasy novelist: I'm gonna go with medieval England.",
    "id" : "51051797334",
-   "mobile" : 0,
-   "conversation-title" : null,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/51051797334/fantasy-novelist-alright-time-to-create-my",
-   "feed-item" : "",
-   "from-feed-id" : 0,
-   "date-gmt" : "2013-05-22 05:26:50 GMT"
+   "url" : "http://tumblr.ggvaidya.com/post/51051797334"
 }
 
