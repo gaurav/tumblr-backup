@@ -1,23 +1,23 @@
 {
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/69505249888/you-are-not-a-problem-that-needs-solving",
+   "bookmarklet" : 0,
    "mobile" : 0,
-   "type" : "quote",
-   "slug" : "you-are-not-a-problem-that-needs-solving",
-   "reblog-key" : "ig70kW3l",
+   "quote-text" : "You are not a problem that needs solving.",
+   "date-gmt" : "2013-12-09 19:12:36 GMT",
+   "from-feed-id" : 0,
    "format" : "html",
+   "reblog-key" : "ig70kW3l",
+   "slug" : "you-are-not-a-problem-that-needs-solving",
+   "unix-timestamp" : 1386616356,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/69505249888/you-are-not-a-problem-that-needs-solving",
+   "url" : "http://tumblr.ggvaidya.com/post/69505249888",
+   "type" : "quote",
    "tags" : [
       "importance",
       "advice"
    ],
-   "unix-timestamp" : 1386616356,
-   "url" : "http://tumblr.ggvaidya.com/post/69505249888",
-   "id" : "69505249888",
-   "from-feed-id" : 0,
    "feed-item" : "",
-   "date-gmt" : "2013-12-09 19:12:36 GMT",
-   "bookmarklet" : 0,
-   "quote-source" : "Eckhart Tolle (via <a class=\"tumblr_blog\" href=\"http://lazyyogi.org/\">lazyyogi</a>)",
+   "id" : "69505249888",
    "date" : "Mon, 09 Dec 2013 12:12:36",
-   "quote-text" : "You are not a problem that needs solving."
+   "quote-source" : "Eckhart Tolle (via <a class=\"tumblr_blog\" href=\"http://lazyyogi.org/\">lazyyogi</a>)"
 }
 

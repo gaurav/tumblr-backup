@@ -1,19 +1,19 @@
 {
-   "mobile" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/65760560100/ceaselessly-improving-the-void",
-   "slug" : "ceaselessly-improving-the-void",
-   "type" : "quote",
-   "reblog-key" : "9X6hF0zY",
-   "format" : "html",
    "url" : "http://tumblr.ggvaidya.com/post/65760560100",
-   "id" : "65760560100",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/65760560100/ceaselessly-improving-the-void",
    "unix-timestamp" : 1383367952,
-   "feed-item" : "",
-   "from-feed-id" : 0,
-   "quote-text" : "Ceaselessly improving the void.",
+   "type" : "quote",
+   "quote-source" : "Reagan Library",
    "date" : "Fri, 01 Nov 2013 22:52:32",
-   "date-gmt" : "2013-11-02 04:52:32 GMT",
+   "id" : "65760560100",
+   "feed-item" : "",
+   "quote-text" : "Ceaselessly improving the void.",
+   "mobile" : 0,
    "bookmarklet" : 0,
-   "quote-source" : "Reagan Library"
+   "date-gmt" : "2013-11-02 04:52:32 GMT",
+   "format" : "html",
+   "from-feed-id" : 0,
+   "slug" : "ceaselessly-improving-the-void",
+   "reblog-key" : "9X6hF0zY"
 }
 

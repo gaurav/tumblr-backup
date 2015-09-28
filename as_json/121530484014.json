@@ -1,23 +1,23 @@
 {
-   "id" : "121530484014",
-   "url" : "http://tumblr.ggvaidya.com/post/121530484014",
-   "unix-timestamp" : 1434313204,
-   "regular-title" : null,
-   "date" : "Sun, 14 Jun 2015 14:20:04",
-   "date-gmt" : "2015-06-14 20:20:04 GMT",
-   "bookmarklet" : 0,
-   "feed-item" : "",
+   "format" : "html",
    "from-feed-id" : 0,
    "slug" : "kingjamesprogramming-why-does-the-method-hang",
-   "regular-body" : "<p><a class=\"tumblr_blog\" href=\"http://kingjamesprogramming.tumblr.com/post/116381053598\">kingjamesprogramming</a>:</p>\n<blockquote>\n<p>Why does the method hang? Well, the while loop waits until all the processes have reached the end of the world; and the reapers are the angels.</p>\n</blockquote>",
-   "type" : "regular",
+   "reblog-key" : "oOrPHx2q",
    "mobile" : 0,
+   "regular-body" : "<p><a class=\"tumblr_blog\" href=\"http://kingjamesprogramming.tumblr.com/post/116381053598\">kingjamesprogramming</a>:</p>\n<blockquote>\n<p>Why does the method hang? Well, the while loop waits until all the processes have reached the end of the world; and the reapers are the angels.</p>\n</blockquote>",
+   "regular-title" : null,
+   "bookmarklet" : 0,
+   "date-gmt" : "2015-06-14 20:20:04 GMT",
+   "date" : "Sun, 14 Jun 2015 14:20:04",
+   "feed-item" : "",
+   "id" : "121530484014",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/121530484014/kingjamesprogramming-why-does-the-method-hang",
+   "url" : "http://tumblr.ggvaidya.com/post/121530484014",
+   "unix-timestamp" : 1434313204,
    "tags" : [
       "why indeed",
       "those while loops"
    ],
-   "reblog-key" : "oOrPHx2q",
-   "format" : "html"
+   "type" : "regular"
 }
 

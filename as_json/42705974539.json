@@ -1,10 +1,5 @@
 {
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/42705974539/but-when-i-ate-i-could-hear-her-howling-see-her",
-   "mobile" : 0,
    "type" : "quote",
-   "slug" : "but-when-i-ate-i-could-hear-her-howling-see-her",
-   "reblog-key" : "Be5UGntn",
-   "format" : "html",
    "tags" : [
       "greek",
       "mythology",
@@ -13,13 +8,18 @@
    ],
    "unix-timestamp" : 1360454309,
    "url" : "http://tumblr.ggvaidya.com/post/42705974539",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/42705974539/but-when-i-ate-i-could-hear-her-howling-see-her",
    "id" : "42705974539",
    "feed-item" : "",
-   "from-feed-id" : 0,
+   "quote-source" : "spuffyduds, <em><a href=\"http://spuffyduds.livejournal.com/38351.html\">Persephone Lied</a></em>, October 30, 2006.",
+   "date" : "Sat, 09 Feb 2013 16:58:29",
    "date-gmt" : "2013-02-09 23:58:29 GMT",
    "bookmarklet" : 0,
-   "quote-source" : "spuffyduds, <em><a href=\"http://spuffyduds.livejournal.com/38351.html\">Persephone Lied</a></em>, October 30, 2006.",
    "quote-text" : "<p>But when I ate I could hear her howling,<br/>\nSee her spreading winter on the world.<br/>\nMy poor mother, who missed me after all;<br/>\nMy poor swineherd, starving.<br/>\nHuddled up for warmth with the few he hadnât eaten.</p>\n\n<p>I spat out half the seeds.</p>\n\n<p>So now I suffer through the summers,<br/>\nSmile at the swineherd who tells me<br/>\nWhich shoat is off its feed.<br/>\nSmile at my mother and walk behind her.<br/>\nMy powers have come to me now, and in her candy-colored wake I scatter<br/>\nSundew and flytrap, nettles and belladonna.</p>\n\n<p>I smile and wait for November,<br/>\nFor when I come back to you.<br/>\nYour clever cold hands and your hard black boots.<br/>\nI donât ask what the leather is made from. <br/>\nI donât think I want to know.</p>",
-   "date" : "Sat, 09 Feb 2013 16:58:29"
+   "mobile" : 0,
+   "slug" : "but-when-i-ate-i-could-hear-her-howling-see-her",
+   "reblog-key" : "Be5UGntn",
+   "from-feed-id" : 0,
+   "format" : "html"
 }
 

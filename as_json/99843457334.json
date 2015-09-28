@@ -1,23 +1,23 @@
 {
-   "url" : "http://tumblr.ggvaidya.com/post/99843457334",
-   "id" : "99843457334",
-   "unix-timestamp" : 1413145203,
-   "date" : "Sun, 12 Oct 2014 14:20:03",
+   "mobile" : 0,
    "quote-text" : "The poison leaves bit by bit, not all at once. Be patient. You are healing.",
-   "date-gmt" : "2014-10-12 20:20:03 GMT",
    "bookmarklet" : 0,
-   "quote-source" : "Yasmin Mogahed (via <a class=\"tumblr_blog\" href=\"http://thekatediary.tumblr.com/\">thekatediary</a>)",
-   "feed-item" : "",
+   "date-gmt" : "2014-10-12 20:20:03 GMT",
+   "format" : "html",
    "from-feed-id" : 0,
    "slug" : "the-poison-leaves-bit-by-bit-not-all-at-once-be",
-   "type" : "quote",
-   "mobile" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/99843457334/the-poison-leaves-bit-by-bit-not-all-at-once-be",
    "reblog-key" : "53opUsXA",
-   "format" : "html",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/99843457334/the-poison-leaves-bit-by-bit-not-all-at-once-be",
+   "url" : "http://tumblr.ggvaidya.com/post/99843457334",
+   "unix-timestamp" : 1413145203,
    "tags" : [
       "healing",
       "advice"
-   ]
+   ],
+   "type" : "quote",
+   "date" : "Sun, 12 Oct 2014 14:20:03",
+   "quote-source" : "Yasmin Mogahed (via <a class=\"tumblr_blog\" href=\"http://thekatediary.tumblr.com/\">thekatediary</a>)",
+   "feed-item" : "",
+   "id" : "99843457334"
 }
 

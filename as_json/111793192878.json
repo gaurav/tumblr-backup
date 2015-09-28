@@ -1,23 +1,23 @@
 {
-   "slug" : "the-first-thing-i-felt-upon-seeing-the-wombat",
-   "type" : "quote",
-   "mobile" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/111793192878/the-first-thing-i-felt-upon-seeing-the-wombat",
-   "reblog-key" : "Fv6pkuSe",
+   "from-feed-id" : 0,
    "format" : "html",
+   "slug" : "the-first-thing-i-felt-upon-seeing-the-wombat",
+   "reblog-key" : "Fv6pkuSe",
+   "bookmarklet" : 0,
+   "quote-text" : "<p>The first thing I felt upon seeing the wombat writing was embarrassment. It was like sneaking into a bar before noon to start drinking way too early. And seeing somebody you knew doing the same thing.</p>\n\n<p>It was as if we had reached across the millenia, he and I, across uncounted years and immeasurable distance, made eye contact, and looked quickly away, thinking &ldquo;aww, crap, did they see me?&rdquo;</p>",
+   "mobile" : 0,
+   "date-gmt" : "2015-02-22 21:20:07 GMT",
+   "id" : "111793192878",
+   "feed-item" : "",
+   "quote-source" : "Digger, <em><a href=\"http://diggercomic.com/blog/2007/09/16/digger-191/\">September 16, 2007</a>.</em>",
+   "date" : "Sun, 22 Feb 2015 14:20:07",
+   "unix-timestamp" : 1424640007,
+   "url" : "http://tumblr.ggvaidya.com/post/111793192878",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/111793192878/the-first-thing-i-felt-upon-seeing-the-wombat",
+   "type" : "quote",
    "tags" : [
       "digger",
       "huh"
-   ],
-   "url" : "http://tumblr.ggvaidya.com/post/111793192878",
-   "id" : "111793192878",
-   "unix-timestamp" : 1424640007,
-   "date" : "Sun, 22 Feb 2015 14:20:07",
-   "quote-text" : "<p>The first thing I felt upon seeing the wombat writing was embarrassment. It was like sneaking into a bar before noon to start drinking way too early. And seeing somebody you knew doing the same thing.</p>\n\n<p>It was as if we had reached across the millenia, he and I, across uncounted years and immeasurable distance, made eye contact, and looked quickly away, thinking &ldquo;aww, crap, did they see me?&rdquo;</p>",
-   "bookmarklet" : 0,
-   "date-gmt" : "2015-02-22 21:20:07 GMT",
-   "quote-source" : "Digger, <em><a href=\"http://diggercomic.com/blog/2007/09/16/digger-191/\">September 16, 2007</a>.</em>",
-   "from-feed-id" : 0,
-   "feed-item" : ""
+   ]
 }
 

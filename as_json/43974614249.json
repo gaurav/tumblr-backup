@@ -1,47 +1,52 @@
 {
+   "type" : "conversation",
+   "unix-timestamp" : 1361783819,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/43974614249/what-you-should-say-to-people-dealing-with-any-of",
+   "url" : "http://tumblr.ggvaidya.com/post/43974614249",
+   "feed-item" : "",
    "conversation-text" : "Anxiety: This too shall pass, even if that sounds corny and cliche. Your anxiety will subside, you are not dying, you will not die from this, everything is going to be fine. Keep taking deep breaths, try and stay focused.\r\nDepression: You are valid and your emotions are valid. You are a good, strong person, even if you don't feel like you are right now. Things DO get better, and I know you can get through this.\r\nSexual Orientation: Your body, your life, your bedroom. You choose what you do with it, and I get no say in the matter, because I am not you. I'll respect you no matter what.\r\nBipolar: The sun also rises. For all your bad days, weeks, or longer-- you also have good ones just beyond the horizon. You know better than anyone what it means to finally hit those \"highs\" in your life, and I hope that you just keep growing and strengthening yourself through your treatment to extend those happy moments.\r\nSelf harm: This is your body and I'll never pass judgement over you for the things you choose to do with it. However, you should really consider speaking with a counselor about this. Not because you're \"bad\", but because I just want you to be safe.\r\nEating disorders: It's okay to eat, you have permission. Eating will not make you fat, ugly, or worthless. Eating will make you strong, healthy, and lively. You deserve to eat, you deserve happiness.\r\nAbuse: What they did was wrong, and you had no consenting part in it. You have no need to feel guilty or shamed, although I understand that may be exactly how you are feeling right now. They're the ones at fault here, and the ball is entirely in your court if you choose to report them for that, which you are rightfully entitled to do.\r\nSuicide: Suicide is a permanent solution to a temporary problem. You are valuable and your existence is valuable. There are billions of people on this planet, and even if you think everyone hates you and no one cares, they do and they will. You can find so many friends and loved ones if you just allow yourself the time to look for them. The world turns out to be a beautiful place and you deserve to be alive to see that.\r\nSexual assault: What they did was vile and disgusting. Yes, you're now left with this horrible, traumatic event to move on from, but your life is not entirely lost. Recovery is possible, and an unfortunately large number of people have to go through that-- but they make it to the other side. So can you, you can do this. You're not dirty, you're not a \"slut\" or a \"whore\", you are a human being whose rights were violated. But you are strong, and I know you can move past this in due time.\r\nMultiple Personality Disorder: I'll always love you no matter who you are. I only hope the absolute best for you during your recovery and treatment, and maybe one day I'll be so privileged as to love you as one whole.\r\nPost Traumatic Stress Disorder: The pain of suddenly reliving horrific events is almost unimaginable for me. Please try and remember that although it feels like it's real and it's happening right now, that it's not. You are okay, you are fine, and you are safe. You are in the present here and now, and that past can't manifest itself again to come and physically hurt you. Everything is just fine, these feelings will pass and you're going to be okay.\r\nSchizophrenia: I am real and I can promise you that. I care. Try and find something grounding for you, an object that you can cling to to help you distinguish between whether or not you're hallucinating. You are not a freak, you are not a monster. You're a human being with rights and emotions who happens to be ill right now.\r\n\r\nI saw the what \"not\" to say post and had to make my own variant of that. I lava you <3",
    "id" : "43974614249",
-   "url" : "http://tumblr.ggvaidya.com/post/43974614249",
-   "unix-timestamp" : 1361783819,
    "date" : "Mon, 25 Feb 2013 02:16:59",
-   "conversation-title" : "What you SHOULD say to people dealing with any of these",
-   "bookmarklet" : 0,
    "date-gmt" : "2013-02-25 09:16:59 GMT",
+   "bookmarklet" : 0,
+   "mobile" : 0,
+   "slug" : "what-you-should-say-to-people-dealing-with-any-of",
+   "reblog-key" : "RPEYNAsg",
    "conversation" : [
       {
-         "name" : "Anxiety",
          "phrase" : "This too shall pass, even if that sounds corny and cliche. Your anxiety will subside, you are not dying, you will not die from this, everything is going to be fine. Keep taking deep breaths, try and stay focused.\r",
+         "name" : "Anxiety",
          "label" : "Anxiety:"
       },
       {
-         "label" : "Depression:",
          "phrase" : "You are valid and your emotions are valid. You are a good, strong person, even if you don't feel like you are right now. Things DO get better, and I know you can get through this.\r",
-         "name" : "Depression"
+         "name" : "Depression",
+         "label" : "Depression:"
       },
       {
-         "label" : "Sexual Orientation:",
          "name" : "Sexual Orientation",
-         "phrase" : "Your body, your life, your bedroom. You choose what you do with it, and I get no say in the matter, because I am not you. I'll respect you no matter what.\r"
+         "phrase" : "Your body, your life, your bedroom. You choose what you do with it, and I get no say in the matter, because I am not you. I'll respect you no matter what.\r",
+         "label" : "Sexual Orientation:"
       },
       {
-         "label" : "Bipolar:",
+         "name" : "Bipolar",
          "phrase" : "The sun also rises. For all your bad days, weeks, or longer-- you also have good ones just beyond the horizon. You know better than anyone what it means to finally hit those \"highs\" in your life, and I hope that you just keep growing and strengthening yourself through your treatment to extend those happy moments.\r",
-         "name" : "Bipolar"
+         "label" : "Bipolar:"
       },
       {
-         "phrase" : "This is your body and I'll never pass judgement over you for the things you choose to do with it. However, you should really consider speaking with a counselor about this. Not because you're \"bad\", but because I just want you to be safe.\r",
          "name" : "Self harm",
+         "phrase" : "This is your body and I'll never pass judgement over you for the things you choose to do with it. However, you should really consider speaking with a counselor about this. Not because you're \"bad\", but because I just want you to be safe.\r",
          "label" : "Self harm:"
       },
       {
-         "label" : "Eating disorders:",
+         "name" : "Eating disorders",
          "phrase" : "It's okay to eat, you have permission. Eating will not make you fat, ugly, or worthless. Eating will make you strong, healthy, and lively. You deserve to eat, you deserve happiness.\r",
-         "name" : "Eating disorders"
+         "label" : "Eating disorders:"
       },
       {
-         "label" : "Abuse:",
+         "phrase" : "What they did was wrong, and you had no consenting part in it. You have no need to feel guilty or shamed, although I understand that may be exactly how you are feeling right now. They're the ones at fault here, and the ball is entirely in your court if you choose to report them for that, which you are rightfully entitled to do.\r",
          "name" : "Abuse",
-         "phrase" : "What they did was wrong, and you had no consenting part in it. You have no need to feel guilty or shamed, although I understand that may be exactly how you are feeling right now. They're the ones at fault here, and the ball is entirely in your court if you choose to report them for that, which you are rightfully entitled to do.\r"
+         "label" : "Abuse:"
       },
       {
          "label" : "Suicide:",
@@ -49,38 +54,33 @@
          "name" : "Suicide"
       },
       {
-         "label" : "Sexual assault:",
          "name" : "Sexual assault",
-         "phrase" : "What they did was vile and disgusting. Yes, you're now left with this horrible, traumatic event to move on from, but your life is not entirely lost. Recovery is possible, and an unfortunately large number of people have to go through that-- but they make it to the other side. So can you, you can do this. You're not dirty, you're not a \"slut\" or a \"whore\", you are a human being whose rights were violated. But you are strong, and I know you can move past this in due time.\r"
+         "phrase" : "What they did was vile and disgusting. Yes, you're now left with this horrible, traumatic event to move on from, but your life is not entirely lost. Recovery is possible, and an unfortunately large number of people have to go through that-- but they make it to the other side. So can you, you can do this. You're not dirty, you're not a \"slut\" or a \"whore\", you are a human being whose rights were violated. But you are strong, and I know you can move past this in due time.\r",
+         "label" : "Sexual assault:"
       },
       {
+         "label" : "Multiple Personality Disorder:",
          "name" : "Multiple Personality Disorder",
-         "phrase" : "I'll always love you no matter who you are. I only hope the absolute best for you during your recovery and treatment, and maybe one day I'll be so privileged as to love you as one whole.\r",
-         "label" : "Multiple Personality Disorder:"
+         "phrase" : "I'll always love you no matter who you are. I only hope the absolute best for you during your recovery and treatment, and maybe one day I'll be so privileged as to love you as one whole.\r"
       },
       {
          "label" : "Post Traumatic Stress Disorder:",
-         "name" : "Post Traumatic Stress Disorder",
-         "phrase" : "The pain of suddenly reliving horrific events is almost unimaginable for me. Please try and remember that although it feels like it's real and it's happening right now, that it's not. You are okay, you are fine, and you are safe. You are in the present here and now, and that past can't manifest itself again to come and physically hurt you. Everything is just fine, these feelings will pass and you're going to be okay.\r"
+         "phrase" : "The pain of suddenly reliving horrific events is almost unimaginable for me. Please try and remember that although it feels like it's real and it's happening right now, that it's not. You are okay, you are fine, and you are safe. You are in the present here and now, and that past can't manifest itself again to come and physically hurt you. Everything is just fine, these feelings will pass and you're going to be okay.\r",
+         "name" : "Post Traumatic Stress Disorder"
       },
       {
-         "name" : "Schizophrenia",
+         "label" : "Schizophrenia:",
          "phrase" : "I am real and I can promise you that. I care. Try and find something grounding for you, an object that you can cling to to help you distinguish between whether or not you're hallucinating. You are not a freak, you are not a monster. You're a human being with rights and emotions who happens to be ill right now.\r",
-         "label" : "Schizophrenia:"
+         "name" : "Schizophrenia"
       },
       {
-         "name" : "",
          "phrase" : "I saw the what \"not\" to say post and had to make my own variant of that. I lava you <3",
+         "name" : "",
          "label" : ""
       }
    ],
+   "conversation-title" : "What you SHOULD say to people dealing with any of these",
    "from-feed-id" : 0,
-   "feed-item" : "",
-   "slug" : "what-you-should-say-to-people-dealing-with-any-of",
-   "type" : "conversation",
-   "mobile" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/43974614249/what-you-should-say-to-people-dealing-with-any-of",
-   "reblog-key" : "RPEYNAsg",
    "format" : "html"
 }
 

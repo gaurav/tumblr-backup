@@ -1,26 +1,26 @@
 {
-   "video-source" : "http://www.youtube.com/watch?v=bxch-yi14BE&feature=colike",
-   "unix-timestamp" : 1332269285,
-   "url" : "http://tumblr.ggvaidya.com/post/19634595904",
-   "id" : "19634595904",
    "from-feed-id" : 0,
-   "feed-item" : "",
-   "bookmarklet" : 0,
-   "date-gmt" : "2012-03-20 18:48:05 GMT",
-   "video-caption" : "<p>&lsquo;tis the season for political music videos! And this one is pretty darn awesome.</p>",
-   "date" : "Tue, 20 Mar 2012 12:48:05",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/19634595904/tis-the-season-for-political-music-videos-and",
-   "video-player-500" : "<iframe width=\"500\" height=\"281\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/bxch-yi14BE?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "mobile" : 0,
    "video-player-250" : "<iframe width=\"250\" height=\"141\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/bxch-yi14BE?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "type" : "video",
-   "video-player" : "<iframe width=\"400\" height=\"225\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/bxch-yi14BE?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "slug" : "tis-the-season-for-political-music-videos-and",
-   "reblog-key" : "5gnKqkvT",
    "format" : "html",
+   "reblog-key" : "5gnKqkvT",
+   "slug" : "tis-the-season-for-political-music-videos-and",
+   "video-caption" : "<p>&lsquo;tis the season for political music videos! And this one is pretty darn awesome.</p>",
+   "bookmarklet" : 0,
+   "mobile" : 0,
+   "date-gmt" : "2012-03-20 18:48:05 GMT",
+   "id" : "19634595904",
+   "feed-item" : "",
+   "video-source" : "http://www.youtube.com/watch?v=bxch-yi14BE&feature=colike",
+   "date" : "Tue, 20 Mar 2012 12:48:05",
+   "unix-timestamp" : 1332269285,
+   "video-player-500" : "<iframe width=\"500\" height=\"281\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/bxch-yi14BE?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "url" : "http://tumblr.ggvaidya.com/post/19634595904",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/19634595904/tis-the-season-for-political-music-videos-and",
+   "type" : "video",
    "tags" : [
       "mitt romney",
       "funny"
-   ]
+   ],
+   "video-player" : "<iframe width=\"400\" height=\"225\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/bxch-yi14BE?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>"
 }
 

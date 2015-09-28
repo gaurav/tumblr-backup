@@ -1,32 +1,32 @@
 {
-   "unix-timestamp" : 1381639486,
-   "url" : "http://tumblr.ggvaidya.com/post/63890448544",
-   "conversation-text" : "Me: Laziness is one of the three virtues of a programmer.\r\nIsarra: Laziness is good, but it needs sensibility and brilliance to back it up, and some semblance of perfectionism to counter it.",
-   "id" : "63890448544",
-   "feed-item" : "",
-   "from-feed-id" : 0,
+   "conversation-title" : "Programming virtues",
    "conversation" : [
       {
-         "name" : "Me",
+         "label" : "Me:",
          "phrase" : "Laziness is one of the three virtues of a programmer.\r",
-         "label" : "Me:"
+         "name" : "Me"
       },
       {
-         "label" : "Isarra:",
          "name" : "Isarra",
-         "phrase" : "Laziness is good, but it needs sensibility and brilliance to back it up, and some semblance of perfectionism to counter it."
+         "phrase" : "Laziness is good, but it needs sensibility and brilliance to back it up, and some semblance of perfectionism to counter it.",
+         "label" : "Isarra:"
       }
    ],
-   "bookmarklet" : 0,
-   "date-gmt" : "2013-10-13 04:44:46 GMT",
-   "conversation-title" : "Programming virtues",
-   "date" : "Sat, 12 Oct 2013 22:44:46",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/63890448544/programming-virtues",
-   "mobile" : 0,
-   "type" : "conversation",
-   "slug" : "programming-virtues",
-   "reblog-key" : "isA0q88p",
+   "from-feed-id" : 0,
    "format" : "html",
+   "reblog-key" : "isA0q88p",
+   "slug" : "programming-virtues",
+   "bookmarklet" : 0,
+   "mobile" : 0,
+   "date-gmt" : "2013-10-13 04:44:46 GMT",
+   "id" : "63890448544",
+   "conversation-text" : "Me: Laziness is one of the three virtues of a programmer.\r\nIsarra: Laziness is good, but it needs sensibility and brilliance to back it up, and some semblance of perfectionism to counter it.",
+   "feed-item" : "",
+   "date" : "Sat, 12 Oct 2013 22:44:46",
+   "unix-timestamp" : 1381639486,
+   "url" : "http://tumblr.ggvaidya.com/post/63890448544",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/63890448544/programming-virtues",
+   "type" : "conversation",
    "tags" : [
       "programming"
    ]

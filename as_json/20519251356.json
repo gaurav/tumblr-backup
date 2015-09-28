@@ -1,9 +1,17 @@
 {
-   "unix-timestamp" : 1333618168,
-   "conversation-text" : "Giles: [cough] What I'm proposing is, -- and I don't mean to appear indecorous -- is, is, umm, a, a social engagement, a date, if you're amenable. [frustrated] You, you idiot.\r\nBuffy: Boy. I guess we never realized how much you like that chair.\r\nGiles: I .. I was just working on --\r\nBuffy: -- your pick up lines?\r\nGiles: Um, in a manner of speaking, yes.\r\nBuffy: Then if you wouldn't mind a little Gene and Roger, you might want to leave off the \"idiot\" part. Being called an idiot tends to take people out of the dating mood.\r\nXander: Hmm. It actually kinda turns me on.\r\nBuffy: I fear you.\r\nBuffy: [to Giles] You might also want to avoid words like \"amenable\" and \"indecorous\", you know. Speak English, not whatever they speak in, um, ...\r\nGiles: ... England?\r\nBuffy: Yeah. You just say, Hey, I got a thing, you maybe have a thing, maybe we could have a thing. \r\nGiles: Well, thank you, Cyrano.\r\nBuffy: I'm not finished. Then you say, how do you feel about Mexican.\r\nGiles: Why Mexicans?\r\nBuffy: Mexican. Food. You take her for food, for which you then pay.\r\nGiles: Oh. Right.",
    "id" : "20519251356",
-   "url" : "http://tumblr.ggvaidya.com/post/20519251356",
+   "conversation-text" : "Giles: [cough] What I'm proposing is, -- and I don't mean to appear indecorous -- is, is, umm, a, a social engagement, a date, if you're amenable. [frustrated] You, you idiot.\r\nBuffy: Boy. I guess we never realized how much you like that chair.\r\nGiles: I .. I was just working on --\r\nBuffy: -- your pick up lines?\r\nGiles: Um, in a manner of speaking, yes.\r\nBuffy: Then if you wouldn't mind a little Gene and Roger, you might want to leave off the \"idiot\" part. Being called an idiot tends to take people out of the dating mood.\r\nXander: Hmm. It actually kinda turns me on.\r\nBuffy: I fear you.\r\nBuffy: [to Giles] You might also want to avoid words like \"amenable\" and \"indecorous\", you know. Speak English, not whatever they speak in, um, ...\r\nGiles: ... England?\r\nBuffy: Yeah. You just say, Hey, I got a thing, you maybe have a thing, maybe we could have a thing. \r\nGiles: Well, thank you, Cyrano.\r\nBuffy: I'm not finished. Then you say, how do you feel about Mexican.\r\nGiles: Why Mexicans?\r\nBuffy: Mexican. Food. You take her for food, for which you then pay.\r\nGiles: Oh. Right.",
    "feed-item" : "",
+   "date" : "Thu, 05 Apr 2012 03:29:28",
+   "unix-timestamp" : 1333618168,
+   "url" : "http://tumblr.ggvaidya.com/post/20519251356",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/20519251356/buffys-advice-on-dating",
+   "type" : "conversation",
+   "tags" : [
+      "dating",
+      "relationships",
+      "Buffy The Vampire Slayer"
+   ],
    "from-feed-id" : 0,
    "conversation" : [
       {
@@ -13,8 +21,8 @@
       },
       {
          "label" : "Buffy:",
-         "name" : "Buffy",
-         "phrase" : "Boy. I guess we never realized how much you like that chair.\r"
+         "phrase" : "Boy. I guess we never realized how much you like that chair.\r",
+         "name" : "Buffy"
       },
       {
          "label" : "Giles:",
@@ -22,14 +30,14 @@
          "phrase" : "I .. I was just working on --\r"
       },
       {
-         "name" : "Buffy",
+         "label" : "Buffy:",
          "phrase" : "-- your pick up lines?\r",
-         "label" : "Buffy:"
+         "name" : "Buffy"
       },
       {
          "label" : "Giles:",
-         "phrase" : "Um, in a manner of speaking, yes.\r",
-         "name" : "Giles"
+         "name" : "Giles",
+         "phrase" : "Um, in a manner of speaking, yes.\r"
       },
       {
          "phrase" : "Then if you wouldn't mind a little Gene and Roger, you might want to leave off the \"idiot\" part. Being called an idiot tends to take people out of the dating mood.\r",
@@ -37,14 +45,14 @@
          "label" : "Buffy:"
       },
       {
+         "label" : "Xander:",
          "name" : "Xander",
-         "phrase" : "Hmm. It actually kinda turns me on.\r",
-         "label" : "Xander:"
+         "phrase" : "Hmm. It actually kinda turns me on.\r"
       },
       {
-         "name" : "Buffy",
+         "label" : "Buffy:",
          "phrase" : "I fear you.\r",
-         "label" : "Buffy:"
+         "name" : "Buffy"
       },
       {
          "name" : "Buffy",
@@ -52,24 +60,24 @@
          "label" : "Buffy:"
       },
       {
-         "label" : "Giles:",
-         "name" : "Giles",
-         "phrase" : "... England?\r"
-      },
-      {
-         "phrase" : "Yeah. You just say, Hey, I got a thing, you maybe have a thing, maybe we could have a thing. \r",
-         "name" : "Buffy",
-         "label" : "Buffy:"
-      },
-      {
-         "phrase" : "Well, thank you, Cyrano.\r",
+         "phrase" : "... England?\r",
          "name" : "Giles",
          "label" : "Giles:"
       },
       {
          "label" : "Buffy:",
          "name" : "Buffy",
-         "phrase" : "I'm not finished. Then you say, how do you feel about Mexican.\r"
+         "phrase" : "Yeah. You just say, Hey, I got a thing, you maybe have a thing, maybe we could have a thing. \r"
+      },
+      {
+         "label" : "Giles:",
+         "name" : "Giles",
+         "phrase" : "Well, thank you, Cyrano.\r"
+      },
+      {
+         "name" : "Buffy",
+         "phrase" : "I'm not finished. Then you say, how do you feel about Mexican.\r",
+         "label" : "Buffy:"
       },
       {
          "label" : "Giles:",
@@ -77,30 +85,22 @@
          "phrase" : "Why Mexicans?\r"
       },
       {
-         "label" : "Buffy:",
          "name" : "Buffy",
-         "phrase" : "Mexican. Food. You take her for food, for which you then pay.\r"
+         "phrase" : "Mexican. Food. You take her for food, for which you then pay.\r",
+         "label" : "Buffy:"
       },
       {
-         "phrase" : "Oh. Right.",
          "name" : "Giles",
+         "phrase" : "Oh. Right.",
          "label" : "Giles:"
       }
    ],
-   "bookmarklet" : 0,
-   "date-gmt" : "2012-04-05 09:29:28 GMT",
-   "date" : "Thu, 05 Apr 2012 03:29:28",
    "conversation-title" : "Buffy's advice on dating",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/20519251356/buffys-advice-on-dating",
-   "mobile" : 0,
-   "type" : "conversation",
-   "slug" : "buffys-advice-on-dating",
-   "tags" : [
-      "dating",
-      "relationships",
-      "Buffy The Vampire Slayer"
-   ],
+   "format" : "html",
    "reblog-key" : "M6q9usdM",
-   "format" : "html"
+   "slug" : "buffys-advice-on-dating",
+   "bookmarklet" : 0,
+   "mobile" : 0,
+   "date-gmt" : "2012-04-05 09:29:28 GMT"
 }
 

@@ -1,10 +1,12 @@
 {
-   "mobile" : 0,
+   "feed-item" : "",
+   "conversation-text" : "Becca Moody: We don't have to do what she says, you know.\nHank Moody: What who says?\nBecca: Her. The Enemy.\nHank: Your mom is not the Enemy. She loves you. She wants what's best for you.\nBecca: Mom doesn't understand, she never will. This is it, okay? I'm not just going to wake up one day and be like her. Six feet tall and beautiful.\nHank: You already are beautiful.\nBecca: Chelsea is the only friend I've ever had. The only one who accepts me for who I really am.\nHank: That is not true.\nBecca: It is. Do you know what it's like to have no one and nothing? How totally awful that feels?\nHank: Yes, I think I do, once upon a time, I felt like that. Now I have you.\nBecca: Yet, somehow, I still have nothing.",
+   "id" : "122614884446",
+   "date" : "Sat, 27 Jun 2015 14:20:17",
+   "unix-timestamp" : 1435436417,
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/122614884446/the-only-friend-ive-ever-had",
-   "slug" : "the-only-friend-ive-ever-had",
+   "url" : "http://tumblr.ggvaidya.com/post/122614884446",
    "type" : "conversation",
-   "reblog-key" : "qlDKE9zO",
-   "format" : "html",
    "tags" : [
       "californication",
       "S3E6",
@@ -12,25 +14,21 @@
       "relationships",
       "friends"
    ],
-   "url" : "http://tumblr.ggvaidya.com/post/122614884446",
-   "conversation-text" : "Becca Moody: We don't have to do what she says, you know.\nHank Moody: What who says?\nBecca: Her. The Enemy.\nHank: Your mom is not the Enemy. She loves you. She wants what's best for you.\nBecca: Mom doesn't understand, she never will. This is it, okay? I'm not just going to wake up one day and be like her. Six feet tall and beautiful.\nHank: You already are beautiful.\nBecca: Chelsea is the only friend I've ever had. The only one who accepts me for who I really am.\nHank: That is not true.\nBecca: It is. Do you know what it's like to have no one and nothing? How totally awful that feels?\nHank: Yes, I think I do, once upon a time, I felt like that. Now I have you.\nBecca: Yet, somehow, I still have nothing.",
-   "id" : "122614884446",
-   "unix-timestamp" : 1435436417,
    "conversation" : [
       {
+         "label" : "Becca Moody:",
          "phrase" : "We don't have to do what she says, you know.",
-         "name" : "Becca Moody",
-         "label" : "Becca Moody:"
+         "name" : "Becca Moody"
       },
       {
-         "label" : "Hank Moody:",
+         "name" : "Hank Moody",
          "phrase" : "What who says?",
-         "name" : "Hank Moody"
+         "label" : "Hank Moody:"
       },
       {
-         "label" : "Becca:",
          "name" : "Becca",
-         "phrase" : "Her. The Enemy."
+         "phrase" : "Her. The Enemy.",
+         "label" : "Becca:"
       },
       {
          "label" : "Hank:",
@@ -38,24 +36,24 @@
          "phrase" : "Your mom is not the Enemy. She loves you. She wants what's best for you."
       },
       {
-         "phrase" : "Mom doesn't understand, she never will. This is it, okay? I'm not just going to wake up one day and be like her. Six feet tall and beautiful.",
          "name" : "Becca",
+         "phrase" : "Mom doesn't understand, she never will. This is it, okay? I'm not just going to wake up one day and be like her. Six feet tall and beautiful.",
+         "label" : "Becca:"
+      },
+      {
+         "label" : "Hank:",
+         "phrase" : "You already are beautiful.",
+         "name" : "Hank"
+      },
+      {
+         "name" : "Becca",
+         "phrase" : "Chelsea is the only friend I've ever had. The only one who accepts me for who I really am.",
          "label" : "Becca:"
       },
       {
          "label" : "Hank:",
          "name" : "Hank",
-         "phrase" : "You already are beautiful."
-      },
-      {
-         "phrase" : "Chelsea is the only friend I've ever had. The only one who accepts me for who I really am.",
-         "name" : "Becca",
-         "label" : "Becca:"
-      },
-      {
-         "phrase" : "That is not true.",
-         "name" : "Hank",
-         "label" : "Hank:"
+         "phrase" : "That is not true."
       },
       {
          "label" : "Becca:",
@@ -64,20 +62,22 @@
       },
       {
          "label" : "Hank:",
-         "phrase" : "Yes, I think I do, once upon a time, I felt like that. Now I have you.",
-         "name" : "Hank"
+         "name" : "Hank",
+         "phrase" : "Yes, I think I do, once upon a time, I felt like that. Now I have you."
       },
       {
-         "label" : "Becca:",
+         "name" : "Becca",
          "phrase" : "Yet, somehow, I still have nothing.",
-         "name" : "Becca"
+         "label" : "Becca:"
       }
    ],
-   "from-feed-id" : 0,
-   "feed-item" : "",
    "conversation-title" : "The only friend I've ever had",
-   "date" : "Sat, 27 Jun 2015 14:20:17",
-   "date-gmt" : "2015-06-27 20:20:17 GMT",
-   "bookmarklet" : 0
+   "from-feed-id" : 0,
+   "format" : "html",
+   "reblog-key" : "qlDKE9zO",
+   "slug" : "the-only-friend-ive-ever-had",
+   "bookmarklet" : 0,
+   "mobile" : 0,
+   "date-gmt" : "2015-06-27 20:20:17 GMT"
 }
 

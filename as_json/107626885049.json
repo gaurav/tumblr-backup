@@ -1,25 +1,25 @@
 {
-   "feed-item" : "",
-   "from-feed-id" : 0,
-   "quote-source" : "<a href=\"http://www.prequeladventure.com/2012/09/katia-examine-surrounding/\"><em>Prequel</em>, September 27, 2012</a>",
    "bookmarklet" : 0,
-   "date-gmt" : "2015-01-09 21:40:22 GMT",
    "quote-text" : "You &hellip; guess thereâs nothing to do now but move forward. One foot in front of the other, picking up the pieces and seeing what comes next. You might be bad at everything you try, but at least youâre turning out to be pretty bad at giving up.",
-   "date" : "Fri, 09 Jan 2015 14:40:22",
+   "mobile" : 0,
+   "date-gmt" : "2015-01-09 21:40:22 GMT",
+   "from-feed-id" : 0,
+   "format" : "html",
+   "slug" : "you-guess-theres-nothing-to-do-now-but-move",
+   "reblog-key" : "Xlh0apmB",
    "unix-timestamp" : 1420839622,
-   "id" : "107626885049",
    "url" : "http://tumblr.ggvaidya.com/post/107626885049",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/107626885049/you-guess-theres-nothing-to-do-now-but-move",
+   "type" : "quote",
    "tags" : [
       "prequel adventure",
       "life motto",
       "words to live by",
       "advice"
    ],
-   "reblog-key" : "Xlh0apmB",
-   "format" : "html",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/107626885049/you-guess-theres-nothing-to-do-now-but-move",
-   "mobile" : 0,
-   "type" : "quote",
-   "slug" : "you-guess-theres-nothing-to-do-now-but-move"
+   "id" : "107626885049",
+   "feed-item" : "",
+   "quote-source" : "<a href=\"http://www.prequeladventure.com/2012/09/katia-examine-surrounding/\"><em>Prequel</em>, September 27, 2012</a>",
+   "date" : "Fri, 09 Jan 2015 14:40:22"
 }
 

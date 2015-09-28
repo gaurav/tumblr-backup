@@ -1,24 +1,24 @@
 {
-   "slug" : "make-all",
-   "regular-body" : "<p>Is there anything more satisfying than getting a Makefile <i>just right</i>?</p>",
-   "type" : "regular",
+   "regular-title" : "make all",
+   "bookmarklet" : 0,
    "mobile" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/55131815979/make-all",
-   "reblog-key" : "xGw131xf",
+   "regular-body" : "<p>Is there anything more satisfying than getting a Makefile <i>just right</i>?</p>",
+   "date-gmt" : "2013-07-11 01:16:25 GMT",
+   "from-feed-id" : 0,
    "format" : "html",
+   "slug" : "make-all",
+   "reblog-key" : "xGw131xf",
+   "unix-timestamp" : 1373505385,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/55131815979/make-all",
+   "url" : "http://tumblr.ggvaidya.com/post/55131815979",
+   "type" : "regular",
    "tags" : [
       "Makefile",
       "make",
       "gmake"
    ],
-   "url" : "http://tumblr.ggvaidya.com/post/55131815979",
+   "feed-item" : "",
    "id" : "55131815979",
-   "unix-timestamp" : 1373505385,
-   "date" : "Wed, 10 Jul 2013 19:16:25",
-   "regular-title" : "make all",
-   "bookmarklet" : 0,
-   "date-gmt" : "2013-07-11 01:16:25 GMT",
-   "from-feed-id" : 0,
-   "feed-item" : ""
+   "date" : "Wed, 10 Jul 2013 19:16:25"
 }
 
