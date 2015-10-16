@@ -1,27 +1,27 @@
 {
-   "date-gmt" : "2014-05-09 20:40:10 GMT",
-   "mobile" : 0,
-   "bookmarklet" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/85245831869/whee",
    "video-caption" : "<p>Whee!</p>",
-   "reblog-key" : "IRgE1BF3",
-   "slug" : "whee",
-   "format" : "html",
-   "from-feed-id" : 0,
-   "video-player-250" : "<iframe width=\"250\" height=\"141\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/_YEyzvtMx3s?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "feed-item" : "",
+   "video-source" : "http://www.youtube.com/watch?v=_YEyzvtMx3s",
    "tags" : [
       "flying",
       "pelican",
       "gopro"
    ],
-   "video-player" : "<iframe width=\"400\" height=\"225\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/_YEyzvtMx3s?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "bookmarklet" : 0,
+   "video-player-250" : "<iframe width=\"250\" height=\"141\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/_YEyzvtMx3s?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
    "type" : "video",
-   "url" : "http://tumblr.ggvaidya.com/post/85245831869",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/85245831869/whee",
-   "unix-timestamp" : 1399668010,
-   "video-player-500" : "<iframe width=\"500\" height=\"281\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/_YEyzvtMx3s?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "date" : "Fri, 09 May 2014 14:40:10",
    "id" : "85245831869",
-   "video-source" : "http://www.youtube.com/watch?v=_YEyzvtMx3s",
-   "feed-item" : ""
+   "format" : "html",
+   "video-player" : "<iframe width=\"400\" height=\"225\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/_YEyzvtMx3s?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "date-gmt" : "2014-05-09 20:40:10 GMT",
+   "date" : "Fri, 09 May 2014 14:40:10",
+   "from-feed-id" : 0,
+   "mobile" : 0,
+   "slug" : "whee",
+   "url" : "http://tumblr.ggvaidya.com/post/85245831869",
+   "reblog-key" : "IRgE1BF3",
+   "video-player-500" : "<iframe width=\"500\" height=\"281\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/_YEyzvtMx3s?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "unix-timestamp" : 1399668010
 }
 

@@ -1,27 +1,42 @@
 {
    "bookmarklet" : 0,
-   "mobile" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/63245579279/toby-what-i-didnt-support-you-cj-no-im",
+   "feed-item" : "",
+   "tags" : [
+      "The West Wing",
+      "S5E16",
+      "relationships"
+   ],
    "date-gmt" : "2013-10-06 05:39:00 GMT",
+   "type" : "conversation",
+   "id" : "63245579279",
+   "format" : "html",
+   "date" : "Sat, 05 Oct 2013 23:39:00",
+   "conversation-title" : null,
+   "url" : "http://tumblr.ggvaidya.com/post/63245579279",
+   "reblog-key" : "FR8cxT66",
+   "conversation-text" : "Toby: What? I didn't support you?\r\nC.J.: No, I'm just tired. I thought I'd have somewhere to go tonight other than my office. I wore perfume.\r\nToby: What happened with Ben?\r\nC.J.: [sighs] I wrecked it.\r\nToby: Wow. [beat] Is that a record?\r\nC.J.: Personal best. [turns to go]\r\nToby: Did you like him?\r\nC.J.: [turns back] Yeah.\r\nToby: Really?\r\nC.J.: Yeah.\r\nToby: [shrugs] Go fix it. [turns to go]\r\nC.J.: But ...\r\nToby: It's all I got.",
+   "unix-timestamp" : 1381037940,
    "conversation" : [
       {
-         "label" : "Toby:",
          "name" : "Toby",
-         "phrase" : "What? I didn't support you?\r"
+         "phrase" : "What? I didn't support you?\r",
+         "label" : "Toby:"
       },
       {
-         "name" : "C.J.",
+         "label" : "C.J.:",
          "phrase" : "No, I'm just tired. I thought I'd have somewhere to go tonight other than my office. I wore perfume.\r",
-         "label" : "C.J.:"
+         "name" : "C.J."
       },
       {
          "label" : "Toby:",
-         "name" : "Toby",
-         "phrase" : "What happened with Ben?\r"
+         "phrase" : "What happened with Ben?\r",
+         "name" : "Toby"
       },
       {
+         "label" : "C.J.:",
          "phrase" : "[sighs] I wrecked it.\r",
-         "name" : "C.J.",
-         "label" : "C.J.:"
+         "name" : "C.J."
       },
       {
          "name" : "Toby",
@@ -29,63 +44,48 @@
          "label" : "Toby:"
       },
       {
-         "label" : "C.J.:",
          "name" : "C.J.",
-         "phrase" : "Personal best. [turns to go]\r"
+         "phrase" : "Personal best. [turns to go]\r",
+         "label" : "C.J.:"
       },
       {
          "name" : "Toby",
-         "phrase" : "Did you like him?\r",
-         "label" : "Toby:"
+         "label" : "Toby:",
+         "phrase" : "Did you like him?\r"
       },
       {
+         "name" : "C.J.",
          "phrase" : "[turns back] Yeah.\r",
-         "name" : "C.J.",
          "label" : "C.J.:"
       },
       {
+         "name" : "Toby",
          "phrase" : "Really?\r",
-         "name" : "Toby",
          "label" : "Toby:"
       },
       {
-         "label" : "C.J.:",
-         "phrase" : "Yeah.\r",
-         "name" : "C.J."
-      },
-      {
-         "phrase" : "[shrugs] Go fix it. [turns to go]\r",
-         "name" : "Toby",
-         "label" : "Toby:"
-      },
-      {
-         "phrase" : "But ...\r",
          "name" : "C.J.",
+         "label" : "C.J.:",
+         "phrase" : "Yeah.\r"
+      },
+      {
+         "label" : "Toby:",
+         "phrase" : "[shrugs] Go fix it. [turns to go]\r",
+         "name" : "Toby"
+      },
+      {
+         "name" : "C.J.",
+         "phrase" : "But ...\r",
          "label" : "C.J.:"
       },
       {
          "name" : "Toby",
-         "phrase" : "It's all I got.",
-         "label" : "Toby:"
+         "label" : "Toby:",
+         "phrase" : "It's all I got."
       }
    ],
    "from-feed-id" : 0,
-   "conversation-title" : null,
-   "format" : "html",
-   "slug" : "toby-what-i-didnt-support-you-cj-no-im",
-   "reblog-key" : "FR8cxT66",
-   "unix-timestamp" : 1381037940,
-   "url" : "http://tumblr.ggvaidya.com/post/63245579279",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/63245579279/toby-what-i-didnt-support-you-cj-no-im",
-   "type" : "conversation",
-   "tags" : [
-      "The West Wing",
-      "S5E16",
-      "relationships"
-   ],
-   "id" : "63245579279",
-   "conversation-text" : "Toby: What? I didn't support you?\r\nC.J.: No, I'm just tired. I thought I'd have somewhere to go tonight other than my office. I wore perfume.\r\nToby: What happened with Ben?\r\nC.J.: [sighs] I wrecked it.\r\nToby: Wow. [beat] Is that a record?\r\nC.J.: Personal best. [turns to go]\r\nToby: Did you like him?\r\nC.J.: [turns back] Yeah.\r\nToby: Really?\r\nC.J.: Yeah.\r\nToby: [shrugs] Go fix it. [turns to go]\r\nC.J.: But ...\r\nToby: It's all I got.",
-   "feed-item" : "",
-   "date" : "Sat, 05 Oct 2013 23:39:00"
+   "mobile" : 0,
+   "slug" : "toby-what-i-didnt-support-you-cj-no-im"
 }
 

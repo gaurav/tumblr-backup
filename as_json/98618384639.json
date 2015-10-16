@@ -1,28 +1,28 @@
 {
-   "date-gmt" : "2014-09-28 07:58:25 GMT",
    "bookmarklet" : 0,
-   "mobile" : 0,
-   "reblog-key" : "gNBnJW7d",
-   "slug" : "",
-   "video-caption" : "",
    "video-player-250" : "<iframe width=\"250\" height=\"141\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/sYsw0KVRjCM?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "from-feed-id" : 0,
-   "format" : "html",
-   "type" : "video",
+   "video-caption" : "",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/98618384639",
    "tags" : [
       "the dude abides",
       "the big lebowski",
       "life",
       "advice"
    ],
-   "video-player" : "<iframe width=\"400\" height=\"225\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/sYsw0KVRjCM?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "unix-timestamp" : 1411891105,
-   "video-player-500" : "<iframe width=\"500\" height=\"281\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/sYsw0KVRjCM?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "url" : "http://tumblr.ggvaidya.com/post/98618384639",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/98618384639",
-   "id" : "98618384639",
    "video-source" : "https://www.youtube.com/watch?v=sYsw0KVRjCM",
    "feed-item" : "",
-   "date" : "Sun, 28 Sep 2014 01:58:25"
+   "date-gmt" : "2014-09-28 07:58:25 GMT",
+   "video-player" : "<iframe width=\"400\" height=\"225\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/sYsw0KVRjCM?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "id" : "98618384639",
+   "format" : "html",
+   "type" : "video",
+   "date" : "Sun, 28 Sep 2014 01:58:25",
+   "url" : "http://tumblr.ggvaidya.com/post/98618384639",
+   "unix-timestamp" : 1411891105,
+   "video-player-500" : "<iframe width=\"500\" height=\"281\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/sYsw0KVRjCM?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "reblog-key" : "gNBnJW7d",
+   "slug" : "",
+   "from-feed-id" : 0,
+   "mobile" : 0
 }
 

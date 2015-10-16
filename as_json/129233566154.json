@@ -1,9 +1,5 @@
 {
-   "date-gmt" : "2015-09-16 20:20:08 GMT",
-   "bookmarklet" : 0,
-   "mobile" : 0,
-   "slug" : "the-importance-of-paying-attention",
-   "reblog-key" : "DRjEQyWh",
+   "date" : "Wed, 16 Sep 2015 14:20:08",
    "conversation-title" : "The importance of paying attention",
    "conversation" : [
       {
@@ -13,37 +9,37 @@
       },
       {
          "phrase" : "[beat, then] A *part*. A *part* of something bigger.",
-         "name" : "Nick Fury",
-         "label" : "Nick Fury:"
-      },
-      {
-         "name" : "John",
-         "phrase" : "Is that how it went?",
-         "label" : "John:"
-      },
-      {
-         "phrase" : "Not a great listener.",
-         "name" : "Phil Coulson",
-         "label" : "Phil Coulson:"
-      },
-      {
          "label" : "Nick Fury:",
-         "phrase" : "If you tell me this whole Hydra path thing you took is because you *misheard* my damn \"One Man\" speech ...",
          "name" : "Nick Fury"
       },
       {
+         "phrase" : "Is that how it went?",
          "label" : "John:",
-         "phrase" : "I am the key to the future of the universe. I'm the origin --",
          "name" : "John"
       },
       {
-         "name" : "Nick",
-         "phrase" : "(over him) You got it, right?",
-         "label" : "Nick:"
+         "label" : "Phil Coulson:",
+         "phrase" : "Not a great listener.",
+         "name" : "Phil Coulson"
       },
       {
-         "phrase" : "-- of all things.",
+         "name" : "Nick Fury",
+         "label" : "Nick Fury:",
+         "phrase" : "If you tell me this whole Hydra path thing you took is because you *misheard* my damn \"One Man\" speech ..."
+      },
+      {
          "name" : "John",
+         "phrase" : "I am the key to the future of the universe. I'm the origin --",
+         "label" : "John:"
+      },
+      {
+         "name" : "Nick",
+         "label" : "Nick:",
+         "phrase" : "(over him) You got it, right?"
+      },
+      {
+         "name" : "John",
+         "phrase" : "-- of all things.",
          "label" : "John:"
       },
       {
@@ -52,20 +48,24 @@
          "name" : "Phil"
       }
    ],
+   "mobile" : 0,
    "from-feed-id" : 0,
-   "format" : "html",
-   "type" : "conversation",
+   "slug" : "the-importance-of-paying-attention",
+   "url" : "http://tumblr.ggvaidya.com/post/129233566154",
+   "reblog-key" : "DRjEQyWh",
+   "conversation-text" : "John Garrett: You remember that speech you used to give us, Nick? About how one man can accomplish anything once he realizes he can be something bigger? Well. Now I am.\nNick Fury: [beat, then] A *part*. A *part* of something bigger.\nJohn: Is that how it went?\nPhil Coulson: Not a great listener.\nNick Fury: If you tell me this whole Hydra path thing you took is because you *misheard* my damn \"One Man\" speech ...\nJohn: I am the key to the future of the universe. I'm the origin --\nNick: (over him) You got it, right?\nJohn: -- of all things.\nPhil: Totally. Loud and clear.",
+   "unix-timestamp" : 1442434808,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/129233566154/the-importance-of-paying-attention",
+   "feed-item" : "",
    "tags" : [
       "spoilers",
       "marvel",
       "agents of shield"
    ],
-   "unix-timestamp" : 1442434808,
-   "url" : "http://tumblr.ggvaidya.com/post/129233566154",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/129233566154/the-importance-of-paying-attention",
+   "bookmarklet" : 0,
+   "type" : "conversation",
+   "format" : "html",
    "id" : "129233566154",
-   "conversation-text" : "John Garrett: You remember that speech you used to give us, Nick? About how one man can accomplish anything once he realizes he can be something bigger? Well. Now I am.\nNick Fury: [beat, then] A *part*. A *part* of something bigger.\nJohn: Is that how it went?\nPhil Coulson: Not a great listener.\nNick Fury: If you tell me this whole Hydra path thing you took is because you *misheard* my damn \"One Man\" speech ...\nJohn: I am the key to the future of the universe. I'm the origin --\nNick: (over him) You got it, right?\nJohn: -- of all things.\nPhil: Totally. Loud and clear.",
-   "feed-item" : "",
-   "date" : "Wed, 16 Sep 2015 14:20:08"
+   "date-gmt" : "2015-09-16 20:20:08 GMT"
 }
 

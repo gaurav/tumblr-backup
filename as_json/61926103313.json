@@ -1,22 +1,9 @@
 {
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/61926103313/dumbledore-the-dark-forest-is-strictly-forbidden",
-   "url" : "http://tumblr.ggvaidya.com/post/61926103313",
-   "unix-timestamp" : 1379828267,
-   "tags" : [
-      "hahaha",
-      "albus dumbledore",
-      "harry potter"
-   ],
-   "type" : "conversation",
-   "date" : "Sat, 21 Sep 2013 23:37:47",
-   "feed-item" : "",
-   "id" : "61926103313",
-   "conversation-text" : "Dumbledore: The dark forest is strictly forbidden to all students\r\nDumbledore: Except for detention\r\nDumbledore: Where you will be forced to wander around when it's darkest and scariest\r\nDumbledore: Doesn't that make so much sense\r\nDumbledore: I'm so good at rules\r\nDumbledore: Ten points to Dumbledore",
-   "mobile" : 0,
-   "bookmarklet" : 0,
-   "date-gmt" : "2013-09-22 05:37:47 GMT",
-   "format" : "html",
    "conversation-title" : null,
+   "date" : "Sat, 21 Sep 2013 23:37:47",
+   "slug" : "dumbledore-the-dark-forest-is-strictly-forbidden",
+   "mobile" : 0,
+   "from-feed-id" : 0,
    "conversation" : [
       {
          "name" : "Dumbledore",
@@ -24,9 +11,9 @@
          "label" : "Dumbledore:"
       },
       {
-         "label" : "Dumbledore:",
          "name" : "Dumbledore",
-         "phrase" : "Except for detention\r"
+         "phrase" : "Except for detention\r",
+         "label" : "Dumbledore:"
       },
       {
          "label" : "Dumbledore:",
@@ -34,23 +21,36 @@
          "name" : "Dumbledore"
       },
       {
-         "label" : "Dumbledore:",
          "name" : "Dumbledore",
-         "phrase" : "Doesn't that make so much sense\r"
+         "phrase" : "Doesn't that make so much sense\r",
+         "label" : "Dumbledore:"
       },
       {
-         "label" : "Dumbledore:",
          "phrase" : "I'm so good at rules\r",
+         "label" : "Dumbledore:",
          "name" : "Dumbledore"
       },
       {
-         "name" : "Dumbledore",
+         "label" : "Dumbledore:",
          "phrase" : "Ten points to Dumbledore",
-         "label" : "Dumbledore:"
+         "name" : "Dumbledore"
       }
    ],
-   "from-feed-id" : 0,
-   "slug" : "dumbledore-the-dark-forest-is-strictly-forbidden",
-   "reblog-key" : "d64iQeKB"
+   "conversation-text" : "Dumbledore: The dark forest is strictly forbidden to all students\r\nDumbledore: Except for detention\r\nDumbledore: Where you will be forced to wander around when it's darkest and scariest\r\nDumbledore: Doesn't that make so much sense\r\nDumbledore: I'm so good at rules\r\nDumbledore: Ten points to Dumbledore",
+   "unix-timestamp" : 1379828267,
+   "reblog-key" : "d64iQeKB",
+   "url" : "http://tumblr.ggvaidya.com/post/61926103313",
+   "tags" : [
+      "hahaha",
+      "albus dumbledore",
+      "harry potter"
+   ],
+   "feed-item" : "",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/61926103313/dumbledore-the-dark-forest-is-strictly-forbidden",
+   "bookmarklet" : 0,
+   "id" : "61926103313",
+   "format" : "html",
+   "type" : "conversation",
+   "date-gmt" : "2013-09-22 05:37:47 GMT"
 }
 

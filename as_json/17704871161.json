@@ -1,23 +1,23 @@
 {
-   "format" : "html",
-   "from-feed-id" : 0,
-   "reblog-key" : "5V3i2Dnm",
-   "slug" : "discussions-like-this-are-one-reason-i-cant-take",
-   "quote-text" : "Discussions like this are one reason I can&rsquo;t take the phylocode seriously. Of all the things we should be doing, renaming perfectly usable names connected to lots of existing data is not one of them. We have enough problems in retrieving biological data without introducing new ones.",
-   "mobile" : 0,
-   "bookmarklet" : 0,
    "date-gmt" : "2012-02-16 08:51:47 GMT",
-   "quote-source" : "@rdmpage on <a href=\"http://3lbmonkeybrain.blogspot.com/2012/02/emending-phylocode-species-problem.html\">a proposal</a> changing how species names work under the PhyloCode.",
-   "date" : "Thu, 16 Feb 2012 01:51:47",
+   "type" : "quote",
    "id" : "17704871161",
-   "feed-item" : "",
-   "url" : "http://tumblr.ggvaidya.com/post/17704871161",
+   "format" : "html",
+   "bookmarklet" : 0,
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/17704871161/discussions-like-this-are-one-reason-i-cant-take",
-   "unix-timestamp" : 1329382307,
+   "quote-source" : "@rdmpage on <a href=\"http://3lbmonkeybrain.blogspot.com/2012/02/emending-phylocode-species-problem.html\">a proposal</a> changing how species names work under the PhyloCode.",
+   "feed-item" : "",
    "tags" : [
       "taxonomy",
       "phylocode"
    ],
-   "type" : "quote"
+   "url" : "http://tumblr.ggvaidya.com/post/17704871161",
+   "reblog-key" : "5V3i2Dnm",
+   "unix-timestamp" : 1329382307,
+   "quote-text" : "Discussions like this are one reason I can&rsquo;t take the phylocode seriously. Of all the things we should be doing, renaming perfectly usable names connected to lots of existing data is not one of them. We have enough problems in retrieving biological data without introducing new ones.",
+   "from-feed-id" : 0,
+   "mobile" : 0,
+   "slug" : "discussions-like-this-are-one-reason-i-cant-take",
+   "date" : "Thu, 16 Feb 2012 01:51:47"
 }
 

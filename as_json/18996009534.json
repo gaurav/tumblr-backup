@@ -1,22 +1,22 @@
 {
-   "id" : "18996009534",
-   "feed-item" : "",
-   "quote-source" : "Bebber <em>et al.</em> (2010) <em><a href=\"http://www.pnas.org/content/107/51/22169.full\">Herbaria are a major frontier for species discovery</a></em>, PNAS <strong>107</strong>(51): 22169-22171.",
    "date" : "Fri, 09 Mar 2012 02:07:00",
    "unix-timestamp" : 1331284020,
+   "reblog-key" : "DgQF3N3s",
    "url" : "http://tumblr.ggvaidya.com/post/18996009534",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/18996009534/extrapolation-of-these-results-suggest-that-of",
-   "type" : "quote",
+   "slug" : "extrapolation-of-these-results-suggest-that-of",
+   "from-feed-id" : 0,
+   "mobile" : 0,
+   "quote-text" : "Extrapolation of these results suggest that, of the estimated 70,000 species still to be described, more than half already have been collected and are stored in herbaria.",
+   "bookmarklet" : 0,
    "tags" : [
       "species discovery"
    ],
-   "from-feed-id" : 0,
+   "feed-item" : "",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/18996009534/extrapolation-of-these-results-suggest-that-of",
+   "quote-source" : "Bebber <em>et al.</em> (2010) <em><a href=\"http://www.pnas.org/content/107/51/22169.full\">Herbaria are a major frontier for species discovery</a></em>, PNAS <strong>107</strong>(51): 22169-22171.",
+   "date-gmt" : "2012-03-09 09:07:00 GMT",
+   "id" : "18996009534",
    "format" : "html",
-   "slug" : "extrapolation-of-these-results-suggest-that-of",
-   "reblog-key" : "DgQF3N3s",
-   "bookmarklet" : 0,
-   "quote-text" : "Extrapolation of these results suggest that, of the estimated 70,000 species still to be described, more than half already have been collected and are stored in herbaria.",
-   "mobile" : 0,
-   "date-gmt" : "2012-03-09 09:07:00 GMT"
+   "type" : "quote"
 }
 

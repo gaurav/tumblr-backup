@@ -1,19 +1,19 @@
 {
-   "from-feed-id" : 0,
-   "format" : "html",
-   "slug" : "you-cant-have-a-stats-party-without-the-normal",
-   "reblog-key" : "md684uhp",
    "bookmarklet" : 0,
-   "quote-text" : "You can&rsquo;t have a stats party without the normal distribution.",
-   "mobile" : 0,
+   "quote-source" : "Me, while contemplating biostatistics homework.",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/17723624795/you-cant-have-a-stats-party-without-the-normal",
+   "feed-item" : "",
    "date-gmt" : "2012-02-16 20:32:58 GMT",
    "id" : "17723624795",
-   "feed-item" : "",
-   "quote-source" : "Me, while contemplating biostatistics homework.",
+   "format" : "html",
+   "type" : "quote",
    "date" : "Thu, 16 Feb 2012 13:32:58",
-   "unix-timestamp" : 1329424378,
    "url" : "http://tumblr.ggvaidya.com/post/17723624795",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/17723624795/you-cant-have-a-stats-party-without-the-normal",
-   "type" : "quote"
+   "unix-timestamp" : 1329424378,
+   "reblog-key" : "md684uhp",
+   "quote-text" : "You can&rsquo;t have a stats party without the normal distribution.",
+   "slug" : "you-cant-have-a-stats-party-without-the-normal",
+   "from-feed-id" : 0,
+   "mobile" : 0
 }
 

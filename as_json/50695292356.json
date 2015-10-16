@@ -1,19 +1,19 @@
 {
-   "type" : "regular",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/50695292356/televista",
-   "url" : "http://tumblr.ggvaidya.com/post/50695292356",
-   "unix-timestamp" : 1368842348,
-   "date" : "Fri, 17 May 2013 19:59:08",
    "feed-item" : "",
+   "bookmarklet" : 0,
+   "type" : "regular",
+   "format" : "html",
    "id" : "50695292356",
    "date-gmt" : "2013-05-18 01:59:08 GMT",
+   "date" : "Fri, 17 May 2013 19:59:08",
    "mobile" : 0,
-   "regular-body" : "<p>Right now, my hotel TV is showing Full House, Home Alone 2, Indiana Jones (in Shanghai 1935?), a decent episode of L&amp;O SVU, and, oh yes, the Fellowship of the Ring, where a certain hobbit is about to offer to take it, though he does not know the way. And they say American television is dead.</p>",
    "regular-title" : "Televista!",
-   "bookmarklet" : 0,
+   "from-feed-id" : 0,
+   "regular-body" : "<p>Right now, my hotel TV is showing Full House, Home Alone 2, Indiana Jones (in Shanghai 1935?), a decent episode of L&amp;O SVU, and, oh yes, the Fellowship of the Ring, where a certain hobbit is about to offer to take it, though he does not know the way. And they say American television is dead.</p>",
    "slug" : "televista",
+   "url" : "http://tumblr.ggvaidya.com/post/50695292356",
    "reblog-key" : "9LMFn2V9",
-   "format" : "html",
-   "from-feed-id" : 0
+   "unix-timestamp" : 1368842348
 }
 

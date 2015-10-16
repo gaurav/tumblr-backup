@@ -1,9 +1,15 @@
 {
+   "date-gmt" : "2012-06-18 22:43:57 GMT",
+   "video-player" : "<iframe width=\"400\" height=\"225\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/CPWc18LswRM?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "type" : "video",
    "id" : "25392320832",
+   "format" : "html",
+   "bookmarklet" : 0,
+   "video-player-250" : "<iframe width=\"250\" height=\"141\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/CPWc18LswRM?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-caption" : "<p>How Creative Commons licensing and <a href=\"http://glamwiki.org/\">working with Wikipedia</a> can help galleries, libraries, museums and archives do more with their money.</p>",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/25392320832/how-creative-commons-licensing-and-working-with",
    "video-source" : "http://www.youtube.com/watch?v=CPWc18LswRM",
    "feed-item" : "",
-   "date" : "Mon, 18 Jun 2012 16:43:57",
-   "type" : "video",
    "tags" : [
       "GLAMwiki",
       "GLAM",
@@ -11,19 +17,13 @@
       "wikipedia",
       "wikimedia commons"
    ],
-   "video-player" : "<iframe width=\"400\" height=\"225\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/CPWc18LswRM?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "url" : "http://tumblr.ggvaidya.com/post/25392320832",
+   "reblog-key" : "efSAaf7z",
    "unix-timestamp" : 1340059437,
    "video-player-500" : "<iframe width=\"500\" height=\"281\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/CPWc18LswRM?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "url" : "http://tumblr.ggvaidya.com/post/25392320832",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/25392320832/how-creative-commons-licensing-and-working-with",
-   "reblog-key" : "efSAaf7z",
-   "slug" : "how-creative-commons-licensing-and-working-with",
-   "video-caption" : "<p>How Creative Commons licensing and <a href=\"http://glamwiki.org/\">working with Wikipedia</a> can help galleries, libraries, museums and archives do more with their money.</p>",
    "from-feed-id" : 0,
-   "video-player-250" : "<iframe width=\"250\" height=\"141\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/CPWc18LswRM?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "format" : "html",
-   "date-gmt" : "2012-06-18 22:43:57 GMT",
-   "bookmarklet" : 0,
-   "mobile" : 0
+   "mobile" : 0,
+   "slug" : "how-creative-commons-licensing-and-working-with",
+   "date" : "Mon, 18 Jun 2012 16:43:57"
 }
 

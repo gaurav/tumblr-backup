@@ -1,17 +1,9 @@
 {
-   "reblog-key" : "oU6LRsS8",
-   "slug" : "there-is-a-kind-of-crying-i-hope-you-have-not",
-   "from-feed-id" : 0,
+   "type" : "quote",
+   "id" : "64880945869",
    "format" : "html",
    "date-gmt" : "2013-10-23 18:25:49 GMT",
-   "bookmarklet" : 0,
-   "mobile" : 0,
-   "quote-text" : "There is a kind of crying I hope you have not experienced, and it is not just crying about something terrible that has happened, but a crying for all of the terrible things that have happened, not just to you but to everyone you know and to everyone you donât know and even the people you donât want to know, a crying that cannot be diluted by a brave deed or a kind word, but only by someone holding you as your shoulders shake and your tears run down your face.",
    "feed-item" : "",
-   "id" : "64880945869",
-   "date" : "Wed, 23 Oct 2013 12:25:49",
-   "quote-source" : "Lemony Snicket, The End (via <a class=\"tumblr_blog\" href=\"http://wanweird-of-an-argonaut.tumblr.com/\">wanweird-of-an-argonaut</a>)",
-   "type" : "quote",
    "tags" : [
       "crying",
       "truth",
@@ -20,8 +12,16 @@
       "oh gosh",
       "so much truth"
    ],
-   "unix-timestamp" : 1382552749,
+   "quote-source" : "Lemony Snicket, The End (via <a class=\"tumblr_blog\" href=\"http://wanweird-of-an-argonaut.tumblr.com/\">wanweird-of-an-argonaut</a>)",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/64880945869/there-is-a-kind-of-crying-i-hope-you-have-not",
-   "url" : "http://tumblr.ggvaidya.com/post/64880945869"
+   "bookmarklet" : 0,
+   "mobile" : 0,
+   "from-feed-id" : 0,
+   "slug" : "there-is-a-kind-of-crying-i-hope-you-have-not",
+   "quote-text" : "There is a kind of crying I hope you have not experienced, and it is not just crying about something terrible that has happened, but a crying for all of the terrible things that have happened, not just to you but to everyone you know and to everyone you donât know and even the people you donât want to know, a crying that cannot be diluted by a brave deed or a kind word, but only by someone holding you as your shoulders shake and your tears run down your face.",
+   "reblog-key" : "oU6LRsS8",
+   "unix-timestamp" : 1382552749,
+   "url" : "http://tumblr.ggvaidya.com/post/64880945869",
+   "date" : "Wed, 23 Oct 2013 12:25:49"
 }
 

@@ -1,6 +1,8 @@
 {
-   "date" : "Wed, 06 Aug 2014 22:10:16",
+   "type" : "regular",
+   "format" : "html",
    "id" : "94034915134",
+   "date-gmt" : "2014-08-07 04:10:16 GMT",
    "feed-item" : "",
    "tags" : [
       "Douglas Adams",
@@ -9,18 +11,16 @@
       "grammar",
       "the problem is grammar"
    ],
-   "type" : "regular",
-   "url" : "http://tumblr.ggvaidya.com/post/94034915134",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/94034915134/lobsterhateblog-so-if-you-watch-the-star-trek",
-   "unix-timestamp" : 1407384616,
-   "slug" : "lobsterhateblog-so-if-you-watch-the-star-trek",
-   "reblog-key" : "bLG2JOix",
-   "format" : "html",
-   "from-feed-id" : 0,
-   "date-gmt" : "2014-08-07 04:10:16 GMT",
-   "regular-body" : "<p><a class=\"tumblr_blog\" href=\"http://lobsterhateblog.tumblr.com/post/57930326881/so-if-you-watch-the-star-trek-episode-space\">lobsterhateblog</a>:</p>\n<blockquote>\n<p>so if you watch the star trek episode âspace seed.â</p>\n<p>you, in 2014, are watching an episode that aired in 1967, that takes place in the 23rd century, about people frozen since the 1990s, which was the future to people in the sixties, but canonically the past to the characters in TOS, and now the past to you.</p>\n<p>so youâre watching a show from the past about the future about the past which was then the future but is now the past again.</p>\n</blockquote>",
-   "mobile" : 0,
    "bookmarklet" : 0,
-   "regular-title" : null
+   "regular-title" : null,
+   "mobile" : 0,
+   "from-feed-id" : 0,
+   "slug" : "lobsterhateblog-so-if-you-watch-the-star-trek",
+   "regular-body" : "<p><a class=\"tumblr_blog\" href=\"http://lobsterhateblog.tumblr.com/post/57930326881/so-if-you-watch-the-star-trek-episode-space\">lobsterhateblog</a>:</p>\n<blockquote>\n<p>so if you watch the star trek episode âspace seed.â</p>\n<p>you, in 2014, are watching an episode that aired in 1967, that takes place in the 23rd century, about people frozen since the 1990s, which was the future to people in the sixties, but canonically the past to the characters in TOS, and now the past to you.</p>\n<p>so youâre watching a show from the past about the future about the past which was then the future but is now the past again.</p>\n</blockquote>",
+   "reblog-key" : "bLG2JOix",
+   "unix-timestamp" : 1407384616,
+   "url" : "http://tumblr.ggvaidya.com/post/94034915134",
+   "date" : "Wed, 06 Aug 2014 22:10:16"
 }
 

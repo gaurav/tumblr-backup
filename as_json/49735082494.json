@@ -1,25 +1,11 @@
 {
-   "unix-timestamp" : 1367801590,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/49735082494/person-she-me-its-he-person",
-   "url" : "http://tumblr.ggvaidya.com/post/49735082494",
-   "type" : "conversation",
-   "tags" : [
-      "haha",
-      "lgbt"
-   ],
-   "feed-item" : "",
-   "conversation-text" : "person: she--\r\nme: it's he.\r\nperson: *condescending smile* well, on your birth certificate--\r\nme: yeah, it also says ' 8lbs, 6 oz ' -- a lot has changed over the years",
-   "id" : "49735082494",
    "date" : "Sun, 05 May 2013 18:53:10",
-   "bookmarklet" : 0,
-   "mobile" : 0,
-   "date-gmt" : "2013-05-06 00:53:10 GMT",
    "conversation-title" : null,
    "conversation" : [
       {
-         "name" : "person",
          "phrase" : "she--\r",
-         "label" : "person:"
+         "label" : "person:",
+         "name" : "person"
       },
       {
          "label" : "me:",
@@ -27,19 +13,33 @@
          "name" : "me"
       },
       {
-         "label" : "person:",
+         "name" : "person",
          "phrase" : "*condescending smile* well, on your birth certificate--\r",
-         "name" : "person"
+         "label" : "person:"
       },
       {
-         "label" : "me:",
+         "name" : "me",
          "phrase" : "yeah, it also says ' 8lbs, 6 oz ' -- a lot has changed over the years",
-         "name" : "me"
+         "label" : "me:"
       }
    ],
+   "mobile" : 0,
    "from-feed-id" : 0,
-   "format" : "html",
+   "slug" : "person-she-me-its-he-person",
+   "url" : "http://tumblr.ggvaidya.com/post/49735082494",
    "reblog-key" : "GyUCUNvR",
-   "slug" : "person-she-me-its-he-person"
+   "unix-timestamp" : 1367801590,
+   "conversation-text" : "person: she--\r\nme: it's he.\r\nperson: *condescending smile* well, on your birth certificate--\r\nme: yeah, it also says ' 8lbs, 6 oz ' -- a lot has changed over the years",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/49735082494/person-she-me-its-he-person",
+   "feed-item" : "",
+   "tags" : [
+      "haha",
+      "lgbt"
+   ],
+   "bookmarklet" : 0,
+   "type" : "conversation",
+   "id" : "49735082494",
+   "format" : "html",
+   "date-gmt" : "2013-05-06 00:53:10 GMT"
 }
 

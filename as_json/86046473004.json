@@ -1,32 +1,42 @@
 {
+   "type" : "conversation",
+   "id" : "86046473004",
+   "format" : "html",
+   "date-gmt" : "2014-05-17 22:06:35 GMT",
+   "feed-item" : "",
+   "tags" : [
+      "full metal panic",
+      "of shoeboxes and glasses"
+   ],
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/86046473004/mixed-messages",
    "bookmarklet" : 0,
    "mobile" : 0,
-   "date-gmt" : "2014-05-17 22:06:35 GMT",
    "from-feed-id" : 0,
+   "slug" : "mixed-messages",
    "conversation" : [
       {
+         "name" : "Tsubaki",
          "label" : "Tsubaki:",
-         "phrase" : "[attacking various students] Sousuke? Sousuke? Sousuke? Sousuke?!\r",
-         "name" : "Tsubaki"
+         "phrase" : "[attacking various students] Sousuke? Sousuke? Sousuke? Sousuke?!\r"
       },
       {
-         "label" : "Sousuke:",
          "name" : "Sousuke",
+         "label" : "Sousuke:",
          "phrase" : "Wear your glasses first, Tsubaki.\r"
       },
       {
-         "phrase" : "Shut up. Why didn't you answer my challenge?\r",
          "name" : "Tsubaki",
+         "phrase" : "Shut up. Why didn't you answer my challenge?\r",
          "label" : "Tsubaki:"
       },
       {
-         "phrase" : "What are you talking about?\r",
          "name" : "Sousuke",
+         "phrase" : "What are you talking about?\r",
          "label" : "Sousuke:"
       },
       {
-         "label" : "Tsubaki:",
          "name" : "Tsubaki",
+         "label" : "Tsubaki:",
          "phrase" : "Don't act like you don't know? I put a challenge letter in your shoe box!\r"
       },
       {
@@ -35,46 +45,36 @@
          "name" : "Chidoi"
       },
       {
-         "label" : "Sousuke:",
-         "phrase" : "I just knew about it just now.\r",
-         "name" : "Sousuke"
-      },
-      {
-         "label" : "Tsubaki:",
-         "phrase" : "You didn't read it?\r",
-         "name" : "Tsubaki"
-      },
-      {
          "name" : "Sousuke",
-         "phrase" : "I COULDN'T read it.\r",
+         "phrase" : "I just knew about it just now.\r",
          "label" : "Sousuke:"
       },
       {
+         "name" : "Tsubaki",
+         "label" : "Tsubaki:",
+         "phrase" : "You didn't read it?\r"
+      },
+      {
          "label" : "Sousuke:",
+         "phrase" : "I COULDN'T read it.\r",
+         "name" : "Sousuke"
+      },
+      {
          "name" : "Sousuke",
-         "phrase" : "Because I blew it up.\r"
+         "phrase" : "Because I blew it up.\r",
+         "label" : "Sousuke:"
       },
       {
          "phrase" : "You blew it up? How dare you! I'll kill you!",
-         "name" : "Tsubaki",
-         "label" : "Tsubaki:"
+         "label" : "Tsubaki:",
+         "name" : "Tsubaki"
       }
    ],
-   "conversation-title" : "Mixed messages",
-   "format" : "html",
-   "slug" : "mixed-messages",
    "reblog-key" : "vR8dcTht",
-   "unix-timestamp" : 1400364395,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/86046473004/mixed-messages",
-   "url" : "http://tumblr.ggvaidya.com/post/86046473004",
-   "type" : "conversation",
-   "tags" : [
-      "full metal panic",
-      "of shoeboxes and glasses"
-   ],
-   "feed-item" : "",
    "conversation-text" : "Tsubaki: [attacking various students] Sousuke? Sousuke? Sousuke? Sousuke?!\r\nSousuke: Wear your glasses first, Tsubaki.\r\nTsubaki: Shut up. Why didn't you answer my challenge?\r\nSousuke: What are you talking about?\r\nTsubaki: Don't act like you don't know? I put a challenge letter in your shoe box!\r\nChidoi: So it was a challenge letter?\r\nSousuke: I just knew about it just now.\r\nTsubaki: You didn't read it?\r\nSousuke: I COULDN'T read it.\r\nSousuke: Because I blew it up.\r\nTsubaki: You blew it up? How dare you! I'll kill you!",
-   "id" : "86046473004",
+   "unix-timestamp" : 1400364395,
+   "url" : "http://tumblr.ggvaidya.com/post/86046473004",
+   "conversation-title" : "Mixed messages",
    "date" : "Sat, 17 May 2014 16:06:35"
 }
 

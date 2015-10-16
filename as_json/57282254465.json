@@ -1,25 +1,25 @@
 {
-   "date" : "Sat, 03 Aug 2013 17:09:52",
-   "feed-item" : "",
+   "date-gmt" : "2013-08-03 23:09:52 GMT",
+   "type" : "conversation",
    "id" : "57282254465",
-   "conversation-text" : "Congressman Katzenmoyer: What is your point?\r\nJosh Lyman: Forgive my bluntness,  and ... I say this with all due respect, Congressman, but ... vote \"yes\", or you're not even going to be on the ballot two years from now.\r\nKatzenmoyer: How do you figure?\r\nJosh: You're going to lose in the primary.\r\nKatzenmoyer: There's no Democrat running against me.\r\nJosh: Sure there is.\r\nKatzenmoyer: Who?\r\nJosh:  Whomever we pick.\r\nKatzenmoyer: You're bluffing.\r\nJosh: Okay. [walks away]\r\nKatzenmoyer: [follows] I-I'm in your own party!\r\nJosh: It doesn't seem to be doing us much good now, does it?\r\nKatzenmoyer: Against an incumbent democrat? You'd go to the press and endorse a challenger?\r\nJosh:  No, sir, we're going to do it in person. See, you won with 52%, but the President took your district with 59, and -- I think it's high time we come back and say thanks. Do you have any idea how much noise Air Force One makes when it lands in Eau Claire, Wisconsin? We're going to have a party, Congressman -- you should come, it's going to be great, and when the watermelon's done, right in town square, right in the band gazebo --  you guys got a band gazebo?\r\nKatzenmoyer: Josh ...\r\nJosh: Doesn't matter, we'll build one -- right in the band gazebo, that's where the President's gonna drape his arm around the shoulder of some assistant DA we like, and you should have your camera with you, you should get a picture of that,  'cos that's going to be moment you're finished in Democratic politics. [beat] President Bartlet's a good man. He's got a good heart. He doesn't hold a grudge. [walks away, then turns back] That's what he pays me for.",
+   "format" : "html",
+   "bookmarklet" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/57282254465/political-threater",
+   "feed-item" : "",
    "tags" : [
       "The West Wing",
       "S1E4",
       "Josh Lyman"
    ],
-   "type" : "conversation",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/57282254465/political-threater",
    "url" : "http://tumblr.ggvaidya.com/post/57282254465",
-   "unix-timestamp" : 1375571392,
    "reblog-key" : "yysh8oHz",
-   "slug" : "political-threater",
-   "format" : "html",
+   "conversation-text" : "Congressman Katzenmoyer: What is your point?\r\nJosh Lyman: Forgive my bluntness,  and ... I say this with all due respect, Congressman, but ... vote \"yes\", or you're not even going to be on the ballot two years from now.\r\nKatzenmoyer: How do you figure?\r\nJosh: You're going to lose in the primary.\r\nKatzenmoyer: There's no Democrat running against me.\r\nJosh: Sure there is.\r\nKatzenmoyer: Who?\r\nJosh:  Whomever we pick.\r\nKatzenmoyer: You're bluffing.\r\nJosh: Okay. [walks away]\r\nKatzenmoyer: [follows] I-I'm in your own party!\r\nJosh: It doesn't seem to be doing us much good now, does it?\r\nKatzenmoyer: Against an incumbent democrat? You'd go to the press and endorse a challenger?\r\nJosh:  No, sir, we're going to do it in person. See, you won with 52%, but the President took your district with 59, and -- I think it's high time we come back and say thanks. Do you have any idea how much noise Air Force One makes when it lands in Eau Claire, Wisconsin? We're going to have a party, Congressman -- you should come, it's going to be great, and when the watermelon's done, right in town square, right in the band gazebo --  you guys got a band gazebo?\r\nKatzenmoyer: Josh ...\r\nJosh: Doesn't matter, we'll build one -- right in the band gazebo, that's where the President's gonna drape his arm around the shoulder of some assistant DA we like, and you should have your camera with you, you should get a picture of that,  'cos that's going to be moment you're finished in Democratic politics. [beat] President Bartlet's a good man. He's got a good heart. He doesn't hold a grudge. [walks away, then turns back] That's what he pays me for.",
+   "unix-timestamp" : 1375571392,
    "conversation" : [
       {
          "label" : "Congressman Katzenmoyer:",
-         "name" : "Congressman Katzenmoyer",
-         "phrase" : "What is your point?\r"
+         "phrase" : "What is your point?\r",
+         "name" : "Congressman Katzenmoyer"
       },
       {
          "label" : "Josh Lyman:",
@@ -27,80 +27,80 @@
          "name" : "Josh Lyman"
       },
       {
-         "name" : "Katzenmoyer",
          "phrase" : "How do you figure?\r",
-         "label" : "Katzenmoyer:"
+         "label" : "Katzenmoyer:",
+         "name" : "Katzenmoyer"
       },
       {
          "label" : "Josh:",
-         "name" : "Josh",
-         "phrase" : "You're going to lose in the primary.\r"
-      },
-      {
-         "phrase" : "There's no Democrat running against me.\r",
-         "name" : "Katzenmoyer",
-         "label" : "Katzenmoyer:"
-      },
-      {
-         "label" : "Josh:",
-         "phrase" : "Sure there is.\r",
+         "phrase" : "You're going to lose in the primary.\r",
          "name" : "Josh"
       },
       {
-         "label" : "Katzenmoyer:",
-         "phrase" : "Who?\r",
-         "name" : "Katzenmoyer"
-      },
-      {
-         "name" : "Josh",
-         "phrase" : "Whomever we pick.\r",
-         "label" : "Josh:"
-      },
-      {
-         "label" : "Katzenmoyer:",
-         "phrase" : "You're bluffing.\r",
-         "name" : "Katzenmoyer"
-      },
-      {
-         "name" : "Josh",
-         "phrase" : "Okay. [walks away]\r",
-         "label" : "Josh:"
-      },
-      {
-         "label" : "Katzenmoyer:",
-         "phrase" : "[follows] I-I'm in your own party!\r",
-         "name" : "Katzenmoyer"
-      },
-      {
-         "name" : "Josh",
-         "phrase" : "It doesn't seem to be doing us much good now, does it?\r",
-         "label" : "Josh:"
-      },
-      {
          "name" : "Katzenmoyer",
-         "phrase" : "Against an incumbent democrat? You'd go to the press and endorse a challenger?\r",
+         "phrase" : "There's no Democrat running against me.\r",
          "label" : "Katzenmoyer:"
       },
       {
-         "phrase" : "No, sir, we're going to do it in person. See, you won with 52%, but the President took your district with 59, and -- I think it's high time we come back and say thanks. Do you have any idea how much noise Air Force One makes when it lands in Eau Claire, Wisconsin? We're going to have a party, Congressman -- you should come, it's going to be great, and when the watermelon's done, right in town square, right in the band gazebo --  you guys got a band gazebo?\r",
          "name" : "Josh",
+         "phrase" : "Sure there is.\r",
          "label" : "Josh:"
       },
       {
+         "phrase" : "Who?\r",
          "label" : "Katzenmoyer:",
-         "phrase" : "Josh ...\r",
          "name" : "Katzenmoyer"
       },
       {
          "name" : "Josh",
+         "label" : "Josh:",
+         "phrase" : "Whomever we pick.\r"
+      },
+      {
+         "name" : "Katzenmoyer",
+         "phrase" : "You're bluffing.\r",
+         "label" : "Katzenmoyer:"
+      },
+      {
+         "phrase" : "Okay. [walks away]\r",
+         "label" : "Josh:",
+         "name" : "Josh"
+      },
+      {
+         "phrase" : "[follows] I-I'm in your own party!\r",
+         "label" : "Katzenmoyer:",
+         "name" : "Katzenmoyer"
+      },
+      {
+         "phrase" : "It doesn't seem to be doing us much good now, does it?\r",
+         "label" : "Josh:",
+         "name" : "Josh"
+      },
+      {
+         "name" : "Katzenmoyer",
+         "label" : "Katzenmoyer:",
+         "phrase" : "Against an incumbent democrat? You'd go to the press and endorse a challenger?\r"
+      },
+      {
+         "label" : "Josh:",
+         "phrase" : "No, sir, we're going to do it in person. See, you won with 52%, but the President took your district with 59, and -- I think it's high time we come back and say thanks. Do you have any idea how much noise Air Force One makes when it lands in Eau Claire, Wisconsin? We're going to have a party, Congressman -- you should come, it's going to be great, and when the watermelon's done, right in town square, right in the band gazebo --  you guys got a band gazebo?\r",
+         "name" : "Josh"
+      },
+      {
+         "phrase" : "Josh ...\r",
+         "label" : "Katzenmoyer:",
+         "name" : "Katzenmoyer"
+      },
+      {
          "phrase" : "Doesn't matter, we'll build one -- right in the band gazebo, that's where the President's gonna drape his arm around the shoulder of some assistant DA we like, and you should have your camera with you, you should get a picture of that,  'cos that's going to be moment you're finished in Democratic politics. [beat] President Bartlet's a good man. He's got a good heart. He doesn't hold a grudge. [walks away, then turns back] That's what he pays me for.",
-         "label" : "Josh:"
+         "label" : "Josh:",
+         "name" : "Josh"
       }
    ],
-   "conversation-title" : "Political threater",
-   "from-feed-id" : 0,
-   "date-gmt" : "2013-08-03 23:09:52 GMT",
    "mobile" : 0,
-   "bookmarklet" : 0
+   "from-feed-id" : 0,
+   "slug" : "political-threater",
+   "date" : "Sat, 03 Aug 2013 17:09:52",
+   "conversation-title" : "Political threater"
 }
 

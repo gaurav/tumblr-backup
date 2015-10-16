@@ -1,0 +1,51 @@
+{
+   "conversation-title" : "\"Foyle's War\", Season 3, Episode 1. \"The French Drop\"",
+   "date" : "Sat, 03 Oct 2015 14:40:05",
+   "reblog-key" : "A1rzvBO8",
+   "conversation-text" : "Christopher Foyle: (barging in on a closed meeting) Good morning.\nJames Wintringham: Mr. Foyle. I'm afraid this isn't a very good moment.\nFoyle: Well, not for you, perhaps. Perfectly good one for me. \nWintringham: What can I do for you?\nFoyle: You can start by apologizing for wasting my time and <em>perhaps</em> explain how you manage to achieve the, uh, levels of incompetence you regularly do.",
+   "unix-timestamp" : 1443904805,
+   "url" : "http://tumblr.ggvaidya.com/post/130425232937",
+   "from-feed-id" : 0,
+   "mobile" : 0,
+   "slug" : "foyles-war-season-3-episode-1-the-french",
+   "conversation" : [
+      {
+         "name" : "Christopher Foyle",
+         "phrase" : "(barging in on a closed meeting) Good morning.",
+         "label" : "Christopher Foyle:"
+      },
+      {
+         "name" : "James Wintringham",
+         "label" : "James Wintringham:",
+         "phrase" : "Mr. Foyle. I'm afraid this isn't a very good moment."
+      },
+      {
+         "phrase" : "Well, not for you, perhaps. Perfectly good one for me. ",
+         "label" : "Foyle:",
+         "name" : "Foyle"
+      },
+      {
+         "phrase" : "What can I do for you?",
+         "label" : "Wintringham:",
+         "name" : "Wintringham"
+      },
+      {
+         "name" : "Foyle",
+         "phrase" : "You can start by apologizing for wasting my time and <em>perhaps</em> explain how you manage to achieve the, uh, levels of incompetence you regularly do.",
+         "label" : "Foyle:"
+      }
+   ],
+   "bookmarklet" : 0,
+   "feed-item" : "",
+   "tags" : [
+      "foyles war",
+      "s3e1",
+      "oh dear"
+   ],
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/130425232937/foyles-war-season-3-episode-1-the-french",
+   "date-gmt" : "2015-10-03 20:40:05 GMT",
+   "type" : "conversation",
+   "format" : "html",
+   "id" : "130425232937"
+}
+

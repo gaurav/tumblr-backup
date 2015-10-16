@@ -1,24 +1,24 @@
 {
-   "id" : "42535346910",
-   "feed-item" : "",
-   "quote-source" : "The Economist, <em><a href=\"http://www.economist.com/blogs/babbage/2013/02/voyager-mission\">Postcards from the edge</a></em>, February 7, 2013.",
    "date" : "Thu, 07 Feb 2013 16:19:00",
-   "type" : "quote",
+   "url" : "http://tumblr.ggvaidya.com/post/42535346910",
+   "unix-timestamp" : 1360279140,
+   "reblog-key" : "glzKKPNB",
+   "quote-text" : "<p>The hope was that [Voyagers 1 and 2] would be sturdy and resilient enough to withstand the predicted trip across the termination shock and buffeting in the heliosheath, as well as other cosmic vagaries on their journeys, which took both perilously close to Jupiter and Saturn, with Voyager 2 making a detour past Uranus and Neptune. So when in 1973 Pioneer 10, launched a year earlier, measured radiation around Jupiter to be substantially higher than anticipated, Dr Stone&rsquo;s team spent nine months replacing and even redesigning many of the components of the Voyagers, already well in the works in the early 1970s. Of course, the probes were engineered with plenty of redundancy. For example, each carries two copies of three separate computer systems. So far, though, few of the back-up systems ever needed to be deployed. Dr Stone, a glint of paternal pride in his eye, boasts that both vehicles have far exceeded expectations.</p>\n\n<p>[..]</p>\n\n\n\n<p>The Voyagers&rsquo; radioisotope thermoelectric generators, ticking away with the decay of their plutonium-238 fuel, should keep the instruments and transponders going until at least 2021. Then, around 2025, after nearly half a century of boldly going where no manmade object had gone before, the team will shut down the probes while communications are still available in a somewhat sentimental effort to keep the Voyagers aimed straight and true. And they will drift deeper into interstellar darkness.</p>",
+   "slug" : "the-hope-was-that-voyagers-1-and-2-would-be",
+   "mobile" : 0,
+   "from-feed-id" : 0,
+   "bookmarklet" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/42535346910/the-hope-was-that-voyagers-1-and-2-would-be",
+   "quote-source" : "The Economist, <em><a href=\"http://www.economist.com/blogs/babbage/2013/02/voyager-mission\">Postcards from the edge</a></em>, February 7, 2013.",
    "tags" : [
       "Voyager 1",
       "Voyager 2",
       "space robots"
    ],
-   "unix-timestamp" : 1360279140,
-   "url" : "http://tumblr.ggvaidya.com/post/42535346910",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/42535346910/the-hope-was-that-voyagers-1-and-2-would-be",
-   "reblog-key" : "glzKKPNB",
-   "slug" : "the-hope-was-that-voyagers-1-and-2-would-be",
-   "from-feed-id" : 0,
-   "format" : "html",
+   "feed-item" : "",
    "date-gmt" : "2013-02-07 23:19:00 GMT",
-   "bookmarklet" : 0,
-   "quote-text" : "<p>The hope was that [Voyagers 1 and 2] would be sturdy and resilient enough to withstand the predicted trip across the termination shock and buffeting in the heliosheath, as well as other cosmic vagaries on their journeys, which took both perilously close to Jupiter and Saturn, with Voyager 2 making a detour past Uranus and Neptune. So when in 1973 Pioneer 10, launched a year earlier, measured radiation around Jupiter to be substantially higher than anticipated, Dr Stone&rsquo;s team spent nine months replacing and even redesigning many of the components of the Voyagers, already well in the works in the early 1970s. Of course, the probes were engineered with plenty of redundancy. For example, each carries two copies of three separate computer systems. So far, though, few of the back-up systems ever needed to be deployed. Dr Stone, a glint of paternal pride in his eye, boasts that both vehicles have far exceeded expectations.</p>\n\n<p>[..]</p>\n\n\n\n<p>The Voyagers&rsquo; radioisotope thermoelectric generators, ticking away with the decay of their plutonium-238 fuel, should keep the instruments and transponders going until at least 2021. Then, around 2025, after nearly half a century of boldly going where no manmade object had gone before, the team will shut down the probes while communications are still available in a somewhat sentimental effort to keep the Voyagers aimed straight and true. And they will drift deeper into interstellar darkness.</p>",
-   "mobile" : 0
+   "format" : "html",
+   "id" : "42535346910",
+   "type" : "quote"
 }
 

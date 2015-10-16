@@ -1,22 +1,21 @@
 {
+   "mobile" : 0,
+   "from-feed-id" : 0,
    "slug" : "child-me-wow-when-im-a-teenager-im-gonna-go-out",
-   "reblog-key" : "lNp00D8v",
-   "format" : "html",
-   "conversation-title" : null,
    "conversation" : [
       {
          "name" : "Child me",
-         "phrase" : "WOW WHEN IM A TEENAGER IM GONNA GO OUT WITH MY FRIENDS TO THE MALL AND PARTY AND DATE HOT PEOPLE AND BE POPULAR AND COOL\r",
-         "label" : "Child me:"
+         "label" : "Child me:",
+         "phrase" : "WOW WHEN IM A TEENAGER IM GONNA GO OUT WITH MY FRIENDS TO THE MALL AND PARTY AND DATE HOT PEOPLE AND BE POPULAR AND COOL\r"
       },
       {
-         "label" : "Teenage me:",
+         "name" : "Teenage me",
          "phrase" : "*hisses at sunlight*\r",
-         "name" : "Teenage me"
+         "label" : "Teenage me:"
       },
       {
-         "label" : "Teenage me:",
          "phrase" : "When I'm an adult I'm going to be so mature and be self-sufficient and do what I want!\r",
+         "label" : "Teenage me:",
          "name" : "Teenage me"
       },
       {
@@ -25,20 +24,21 @@
          "label" : "Adult me:"
       }
    ],
-   "from-feed-id" : 0,
-   "date-gmt" : "2013-03-22 05:42:34 GMT",
-   "mobile" : 0,
-   "bookmarklet" : 0,
-   "date" : "Thu, 21 Mar 2013 23:42:34",
-   "feed-item" : "",
+   "reblog-key" : "lNp00D8v",
    "conversation-text" : "Child me: WOW WHEN IM A TEENAGER IM GONNA GO OUT WITH MY FRIENDS TO THE MALL AND PARTY AND DATE HOT PEOPLE AND BE POPULAR AND COOL\r\nTeenage me: *hisses at sunlight*\r\nTeenage me: When I'm an adult I'm going to be so mature and be self-sufficient and do what I want!\r\nAdult me: *eats ice cream out of the tub and watches children's cartoons*",
+   "unix-timestamp" : 1363930954,
+   "url" : "http://tumblr.ggvaidya.com/post/45974743989",
+   "conversation-title" : null,
+   "date" : "Thu, 21 Mar 2013 23:42:34",
+   "type" : "conversation",
    "id" : "45974743989",
+   "format" : "html",
+   "date-gmt" : "2013-03-22 05:42:34 GMT",
+   "feed-item" : "",
    "tags" : [
       "gpom"
    ],
-   "type" : "conversation",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/45974743989/child-me-wow-when-im-a-teenager-im-gonna-go-out",
-   "url" : "http://tumblr.ggvaidya.com/post/45974743989",
-   "unix-timestamp" : 1363930954
+   "bookmarklet" : 0
 }
 
