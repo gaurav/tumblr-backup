@@ -1,27 +1,27 @@
 {
-   "video-player-250" : "<iframe width=\"250\" height=\"141\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/5eg4-1L9YG4?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "bookmarklet" : 0,
+   "mobile" : 0,
    "feed-item" : "",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/94833565449",
    "video-source" : "https://www.youtube.com/watch?v=5eg4-1L9YG4",
+   "from-feed-id" : 0,
    "tags" : [
       "skyrim",
       "glitch",
       "huh"
    ],
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/94833565449",
-   "video-caption" : "",
-   "date-gmt" : "2014-08-15 17:53:47 GMT",
-   "video-player" : "<iframe width=\"400\" height=\"225\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/5eg4-1L9YG4?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
    "type" : "video",
-   "id" : "94833565449",
-   "format" : "html",
-   "date" : "Fri, 15 Aug 2014 11:53:47",
+   "slug" : "",
+   "video-player-250" : "<iframe width=\"250\" height=\"141\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/5eg4-1L9YG4?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "date-gmt" : "2014-08-15 17:53:47 GMT",
+   "bookmarklet" : 0,
    "reblog-key" : "xkI1l5vt",
+   "date" : "Fri, 15 Aug 2014 11:53:47",
    "unix-timestamp" : 1408125227,
-   "video-player-500" : "<iframe width=\"500\" height=\"281\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/5eg4-1L9YG4?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
    "url" : "http://tumblr.ggvaidya.com/post/94833565449",
-   "mobile" : 0,
-   "from-feed-id" : 0,
-   "slug" : ""
+   "id" : "94833565449",
+   "video-player" : "<iframe width=\"400\" height=\"225\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/5eg4-1L9YG4?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-player-500" : "<iframe width=\"500\" height=\"281\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/5eg4-1L9YG4?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-caption" : "",
+   "format" : "html"
 }
 

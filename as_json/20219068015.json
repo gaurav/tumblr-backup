@@ -1,23 +1,23 @@
 {
+   "mobile" : 0,
+   "feed-item" : "",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/20219068015/the-marshal-of-the-diplomatic-corps-is-along-with",
    "quote-source" : "<a href=\"http://en.wikipedia.org/w/index.php?title=Marshal_of_the_Diplomatic_Corps&amp;oldid=470208039\"><em>Marshal of the Diplomatic Corps</em></a> on Wikipedia",
-   "feed-item" : "",
+   "from-feed-id" : 0,
    "tags" : [
       "british monarchy",
       "health and safety"
    ],
-   "bookmarklet" : 0,
    "type" : "quote",
-   "format" : "html",
-   "id" : "20219068015",
-   "date-gmt" : "2012-03-31 10:42:24 GMT",
-   "date" : "Sat, 31 Mar 2012 04:42:24",
-   "quote-text" : "The Marshal of the Diplomatic Corps is, along with the Queen&rsquo;s Equerry, expected to walk backwards discreetly when leaving the presence of the monarch. They are the only two visitors who are expected to do this today, as the ancient tradition that all who had the honor of a meeting with the monarch were expected to walk discreetly backwards when leaving the Sovereign&rsquo;s presence has been dropped for health and safety reasons.",
-   "mobile" : 0,
-   "from-feed-id" : 0,
    "slug" : "the-marshal-of-the-diplomatic-corps-is-along-with",
-   "url" : "http://tumblr.ggvaidya.com/post/20219068015",
+   "date-gmt" : "2012-03-31 10:42:24 GMT",
+   "bookmarklet" : 0,
    "reblog-key" : "YNIzwaOb",
-   "unix-timestamp" : 1333190544
+   "date" : "Sat, 31 Mar 2012 04:42:24",
+   "unix-timestamp" : 1333190544,
+   "url" : "http://tumblr.ggvaidya.com/post/20219068015",
+   "id" : "20219068015",
+   "quote-text" : "The Marshal of the Diplomatic Corps is, along with the Queen&rsquo;s Equerry, expected to walk backwards discreetly when leaving the presence of the monarch. They are the only two visitors who are expected to do this today, as the ancient tradition that all who had the honor of a meeting with the monarch were expected to walk discreetly backwards when leaving the Sovereign&rsquo;s presence has been dropped for health and safety reasons.",
+   "format" : "html"
 }
 

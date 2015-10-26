@@ -1,23 +1,23 @@
 {
-   "reblog-key" : "tB8d4FvP",
-   "unix-timestamp" : 1375302045,
-   "url" : "http://tumblr.ggvaidya.com/post/56996698573",
-   "from-feed-id" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/56996698573/there-is-no-duty-we-so-much-underrate-as-the-duty",
    "mobile" : 0,
-   "slug" : "there-is-no-duty-we-so-much-underrate-as-the-duty",
-   "quote-text" : "There is no duty we so much underrate as the duty of being happy.",
-   "date" : "Wed, 31 Jul 2013 14:20:45",
-   "date-gmt" : "2013-07-31 20:20:45 GMT",
-   "type" : "quote",
-   "id" : "56996698573",
-   "format" : "html",
-   "bookmarklet" : 0,
    "feed-item" : "",
+   "quote-source" : "Robert Louis Stevenson (via <a href=\"http://wilde4words.tumblr.com/\" class=\"tumblr_blog\">wilde4words</a>)",
+   "from-feed-id" : 0,
    "tags" : [
       "amen",
       "happiness"
    ],
-   "quote-source" : "Robert Louis Stevenson (via <a href=\"http://wilde4words.tumblr.com/\" class=\"tumblr_blog\">wilde4words</a>)",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/56996698573/there-is-no-duty-we-so-much-underrate-as-the-duty"
+   "slug" : "there-is-no-duty-we-so-much-underrate-as-the-duty",
+   "type" : "quote",
+   "unix-timestamp" : 1375302045,
+   "url" : "http://tumblr.ggvaidya.com/post/56996698573",
+   "id" : "56996698573",
+   "date-gmt" : "2013-07-31 20:20:45 GMT",
+   "bookmarklet" : 0,
+   "reblog-key" : "tB8d4FvP",
+   "date" : "Wed, 31 Jul 2013 14:20:45",
+   "format" : "html",
+   "quote-text" : "There is no duty we so much underrate as the duty of being happy."
 }
 

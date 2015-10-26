@@ -1,34 +1,34 @@
 {
-   "type" : "conversation",
-   "format" : "html",
-   "id" : "63890448544",
+   "date" : "Sat, 12 Oct 2013 22:44:46",
+   "reblog-key" : "isA0q88p",
    "date-gmt" : "2013-10-13 04:44:46 GMT",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/63890448544/programming-virtues",
+   "bookmarklet" : 0,
+   "id" : "63890448544",
+   "url" : "http://tumblr.ggvaidya.com/post/63890448544",
+   "unix-timestamp" : 1381639486,
+   "conversation-text" : "Me: Laziness is one of the three virtues of a programmer.\r\nIsarra: Laziness is good, but it needs sensibility and brilliance to back it up, and some semblance of perfectionism to counter it.",
+   "format" : "html",
    "feed-item" : "",
+   "conversation-title" : "Programming virtues",
+   "mobile" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/63890448544/programming-virtues",
+   "conversation" : [
+      {
+         "phrase" : "Laziness is one of the three virtues of a programmer.\r",
+         "name" : "Me",
+         "label" : "Me:"
+      },
+      {
+         "label" : "Isarra:",
+         "name" : "Isarra",
+         "phrase" : "Laziness is good, but it needs sensibility and brilliance to back it up, and some semblance of perfectionism to counter it."
+      }
+   ],
    "tags" : [
       "programming"
    ],
-   "bookmarklet" : 0,
-   "conversation" : [
-      {
-         "name" : "Me",
-         "label" : "Me:",
-         "phrase" : "Laziness is one of the three virtues of a programmer.\r"
-      },
-      {
-         "name" : "Isarra",
-         "phrase" : "Laziness is good, but it needs sensibility and brilliance to back it up, and some semblance of perfectionism to counter it.",
-         "label" : "Isarra:"
-      }
-   ],
-   "from-feed-id" : 0,
-   "mobile" : 0,
    "slug" : "programming-virtues",
-   "url" : "http://tumblr.ggvaidya.com/post/63890448544",
-   "reblog-key" : "isA0q88p",
-   "unix-timestamp" : 1381639486,
-   "conversation-text" : "Me: Laziness is one of the three virtues of a programmer.\r\nIsarra: Laziness is good, but it needs sensibility and brilliance to back it up, and some semblance of perfectionism to counter it.",
-   "date" : "Sat, 12 Oct 2013 22:44:46",
-   "conversation-title" : "Programming virtues"
+   "type" : "conversation",
+   "from-feed-id" : 0
 }
 

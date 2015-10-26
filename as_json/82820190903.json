@@ -1,22 +1,22 @@
 {
+   "format" : "html",
    "quote-text" : "If you wait long enough, everything changes.",
-   "slug" : "if-you-wait-long-enough-everything-changes",
-   "from-feed-id" : 0,
-   "mobile" : 0,
+   "id" : "82820190903",
    "url" : "http://tumblr.ggvaidya.com/post/82820190903",
    "unix-timestamp" : 1397593920,
-   "reblog-key" : "9TECFHd0",
    "date" : "Tue, 15 Apr 2014 14:32:00",
-   "id" : "82820190903",
-   "format" : "html",
-   "type" : "quote",
+   "reblog-key" : "9TECFHd0",
+   "bookmarklet" : 0,
    "date-gmt" : "2014-04-15 20:32:00 GMT",
-   "quote-source" : "<strong>Carl Sagan</strong>,Â <em>Cosmos</em> (via <a class=\"tumblr_blog\" href=\"http://lawngirl.tumblr.com/\">lawngirl</a>)",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/82820190903/if-you-wait-long-enough-everything-changes",
+   "type" : "quote",
    "tags" : [
       "that's what I'm afraid of"
    ],
+   "slug" : "if-you-wait-long-enough-everything-changes",
+   "from-feed-id" : 0,
+   "quote-source" : "<strong>Carl Sagan</strong>,Â <em>Cosmos</em> (via <a class=\"tumblr_blog\" href=\"http://lawngirl.tumblr.com/\">lawngirl</a>)",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/82820190903/if-you-wait-long-enough-everything-changes",
    "feed-item" : "",
-   "bookmarklet" : 0
+   "mobile" : 0
 }
 

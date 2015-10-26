@@ -1,26 +1,43 @@
 {
    "date" : "Wed, 16 Sep 2015 14:20:08",
+   "reblog-key" : "DRjEQyWh",
+   "bookmarklet" : 0,
+   "date-gmt" : "2015-09-16 20:20:08 GMT",
+   "id" : "129233566154",
+   "url" : "http://tumblr.ggvaidya.com/post/129233566154",
+   "unix-timestamp" : 1442434808,
+   "conversation-text" : "John Garrett: You remember that speech you used to give us, Nick? About how one man can accomplish anything once he realizes he can be something bigger? Well. Now I am.\nNick Fury: [beat, then] A *part*. A *part* of something bigger.\nJohn: Is that how it went?\nPhil Coulson: Not a great listener.\nNick Fury: If you tell me this whole Hydra path thing you took is because you *misheard* my damn \"One Man\" speech ...\nJohn: I am the key to the future of the universe. I'm the origin --\nNick: (over him) You got it, right?\nJohn: -- of all things.\nPhil: Totally. Loud and clear.",
+   "format" : "html",
+   "feed-item" : "",
    "conversation-title" : "The importance of paying attention",
+   "mobile" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/129233566154/the-importance-of-paying-attention",
+   "tags" : [
+      "spoilers",
+      "marvel",
+      "agents of shield"
+   ],
+   "type" : "conversation",
    "conversation" : [
       {
          "name" : "John Garrett",
-         "phrase" : "You remember that speech you used to give us, Nick? About how one man can accomplish anything once he realizes he can be something bigger? Well. Now I am.",
-         "label" : "John Garrett:"
+         "label" : "John Garrett:",
+         "phrase" : "You remember that speech you used to give us, Nick? About how one man can accomplish anything once he realizes he can be something bigger? Well. Now I am."
       },
       {
          "phrase" : "[beat, then] A *part*. A *part* of something bigger.",
-         "label" : "Nick Fury:",
-         "name" : "Nick Fury"
+         "name" : "Nick Fury",
+         "label" : "Nick Fury:"
       },
       {
-         "phrase" : "Is that how it went?",
+         "name" : "John",
          "label" : "John:",
-         "name" : "John"
+         "phrase" : "Is that how it went?"
       },
       {
          "label" : "Phil Coulson:",
-         "phrase" : "Not a great listener.",
-         "name" : "Phil Coulson"
+         "name" : "Phil Coulson",
+         "phrase" : "Not a great listener."
       },
       {
          "name" : "Nick Fury",
@@ -29,8 +46,8 @@
       },
       {
          "name" : "John",
-         "phrase" : "I am the key to the future of the universe. I'm the origin --",
-         "label" : "John:"
+         "label" : "John:",
+         "phrase" : "I am the key to the future of the universe. I'm the origin --"
       },
       {
          "name" : "Nick",
@@ -38,34 +55,17 @@
          "phrase" : "(over him) You got it, right?"
       },
       {
-         "name" : "John",
          "phrase" : "-- of all things.",
-         "label" : "John:"
+         "label" : "John:",
+         "name" : "John"
       },
       {
+         "name" : "Phil",
          "label" : "Phil:",
-         "phrase" : "Totally. Loud and clear.",
-         "name" : "Phil"
+         "phrase" : "Totally. Loud and clear."
       }
    ],
-   "mobile" : 0,
-   "from-feed-id" : 0,
    "slug" : "the-importance-of-paying-attention",
-   "url" : "http://tumblr.ggvaidya.com/post/129233566154",
-   "reblog-key" : "DRjEQyWh",
-   "conversation-text" : "John Garrett: You remember that speech you used to give us, Nick? About how one man can accomplish anything once he realizes he can be something bigger? Well. Now I am.\nNick Fury: [beat, then] A *part*. A *part* of something bigger.\nJohn: Is that how it went?\nPhil Coulson: Not a great listener.\nNick Fury: If you tell me this whole Hydra path thing you took is because you *misheard* my damn \"One Man\" speech ...\nJohn: I am the key to the future of the universe. I'm the origin --\nNick: (over him) You got it, right?\nJohn: -- of all things.\nPhil: Totally. Loud and clear.",
-   "unix-timestamp" : 1442434808,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/129233566154/the-importance-of-paying-attention",
-   "feed-item" : "",
-   "tags" : [
-      "spoilers",
-      "marvel",
-      "agents of shield"
-   ],
-   "bookmarklet" : 0,
-   "type" : "conversation",
-   "format" : "html",
-   "id" : "129233566154",
-   "date-gmt" : "2015-09-16 20:20:08 GMT"
+   "from-feed-id" : 0
 }
 

@@ -1,5 +1,82 @@
 {
-   "bookmarklet" : 0,
+   "from-feed-id" : 0,
+   "conversation" : [
+      {
+         "phrase" : "a scruffy but clean young couple and another gentleman. The woman in the young couple is very heavily pregnant, and her partner is picking up the range of baby hats we carry and holding them up against her stomach, then looking at the prices and sadly putting them back. They pick up a packet of the cheapest pain medication we carry and bring it to the counter.)\r",
+         "label" : "(I am working late at night in a 24-hour pharmacy. There are only three customers in the store:",
+         "name" : "(I am working late at night in a 24-hour pharmacy. There are only three customers in the store"
+      },
+      {
+         "phrase" : "âIâm sorry, but can you please ask the pharmacist if these are safe for me to take?â\r",
+         "label" : "Female Customer:",
+         "name" : "Female Customer"
+      },
+      {
+         "label" : "Me:",
+         "name" : "Me",
+         "phrase" : "âOf course!â\r"
+      },
+      {
+         "phrase" : "(While weâre waiting for the pharmacist to come out, they tell me theyâre expecting their daughter any day now. The pharmacist has been watching the young couple since they came in.)\r",
+         "label" : "",
+         "name" : ""
+      },
+      {
+         "phrase" : "âThese are fine, but can I ask why you need them?â\r",
+         "name" : "Pharmacist",
+         "label" : "Pharmacist:"
+      },
+      {
+         "phrase" : "âOh, I have a horrible cough thatâs making my back ache even worse. I canât get to sleep.â\r",
+         "name" : "Female Customer",
+         "label" : "Female Customer:"
+      },
+      {
+         "phrase" : "(The pharmacist goes through a list of cough medicines safe for her to take, before the young man shakes his head with tears in his eyes.)\r",
+         "label" : "",
+         "name" : ""
+      },
+      {
+         "name" : "Male Customer",
+         "label" : "Male Customer:",
+         "phrase" : "âIâm sorry, Iâve just lost my job and we really canât afford any of those. Sorry for wasting your time.â\r"
+      },
+      {
+         "label" : "Pharmacist:",
+         "name" : "Pharmacist",
+         "phrase" : "âThatâs okay, but this packet is damaged, and legally I canât let you take it. Seeing as it was the last one, let me and [my name] go look in the back for some more.â\r"
+      },
+      {
+         "label" : "",
+         "name" : "",
+         "phrase" : "(The pharmacist takes me out the back, where he puts three packets of name brand painkillers, four bottles of name brand cough syrup, a wheat bag for her back, a tin of formula, a packet of newborn nappies and a few of the hats the couple was looking at into a box. He hands me the box and tells me to take it out to them. I do and they both burst into tears, thanking us over and over again. They leave with huge smiles on their faces.)\r"
+      },
+      {
+         "name" : "Female Customer",
+         "label" : "Female Customer:",
+         "phrase" : "âThank you again!â\r"
+      },
+      {
+         "name" : "Other Customer",
+         "label" : "Other Customer:",
+         "phrase" : "âIâm sorry, I couldnât help but over hear. Did you say you just lost your job at [local company]?â\r"
+      },
+      {
+         "phrase" : "âYes, I was an IT tech.â\r",
+         "name" : "Male Customer",
+         "label" : "Male Customer:"
+      },
+      {
+         "label" : "Other Customer:",
+         "name" : "Other Customer",
+         "phrase" : "âI own [other computer store in the area], and Iâm looking for a new tech. Can you start tomorrow?â\r"
+      },
+      {
+         "label" : "",
+         "name" : "",
+         "phrase" : "(There were tears all round that night. A week later, the young woman brought in her beautiful daughter and a giant batch of cupcakes for the pharmacy staff. Best night at work ever!)"
+      }
+   ],
    "tags" : [
       "aw yeah",
       "life",
@@ -8,97 +85,20 @@
       "it's such a lovely story that I want it to be true",
       "and that's how you change the world"
    ],
-   "feed-item" : "",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/53781784154/i-am-working-late-at-night-in-a-24-hour-pharmacy",
-   "date-gmt" : "2013-06-24 20:20:33 GMT",
-   "format" : "html",
-   "id" : "53781784154",
    "type" : "conversation",
-   "conversation-title" : null,
-   "date" : "Mon, 24 Jun 2013 14:20:33",
-   "conversation-text" : "(I am working late at night in a 24-hour pharmacy. There are only three customers in the store: a scruffy but clean young couple and another gentleman. The woman in the young couple is very heavily pregnant, and her partner is picking up the range of baby hats we carry and holding them up against her stomach, then looking at the prices and sadly putting them back. They pick up a packet of the cheapest pain medication we carry and bring it to the counter.)\r\n\r\nFemale Customer: âIâm sorry, but can you please ask the pharmacist if these are safe for me to take?â\r\n\r\nMe: âOf course!â\r\n\r\n(While weâre waiting for the pharmacist to come out, they tell me theyâre expecting their daughter any day now. The pharmacist has been watching the young couple since they came in.)\r\n\r\nPharmacist: âThese are fine, but can I ask why you need them?â\r\n\r\nFemale Customer: âOh, I have a horrible cough thatâs making my back ache even worse. I canât get to sleep.â\r\n\r\n(The pharmacist goes through a list of cough medicines safe for her to take, before the young man shakes his head with tears in his eyes.)\r\n\r\nMale Customer: âIâm sorry, Iâve just lost my job and we really canât afford any of those. Sorry for wasting your time.â\r\n\r\nPharmacist: âThatâs okay, but this packet is damaged, and legally I canât let you take it. Seeing as it was the last one, let me and [my name] go look in the back for some more.â\r\n\r\n(The pharmacist takes me out the back, where he puts three packets of name brand painkillers, four bottles of name brand cough syrup, a wheat bag for her back, a tin of formula, a packet of newborn nappies and a few of the hats the couple was looking at into a box. He hands me the box and tells me to take it out to them. I do and they both burst into tears, thanking us over and over again. They leave with huge smiles on their faces.)\r\n\r\nFemale Customer: âThank you again!â\r\n\r\nOther Customer: âIâm sorry, I couldnât help but over hear. Did you say you just lost your job at [local company]?â\r\n\r\nMale Customer: âYes, I was an IT tech.â\r\n\r\nOther Customer: âI own [other computer store in the area], and Iâm looking for a new tech. Can you start tomorrow?â\r\n\r\n(There were tears all round that night. A week later, the young woman brought in her beautiful daughter and a giant batch of cupcakes for the pharmacy staff. Best night at work ever!)\r\n",
-   "unix-timestamp" : 1372105233,
-   "reblog-key" : "qPssYUvQ",
-   "url" : "http://tumblr.ggvaidya.com/post/53781784154",
    "slug" : "i-am-working-late-at-night-in-a-24-hour-pharmacy",
-   "from-feed-id" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/53781784154/i-am-working-late-at-night-in-a-24-hour-pharmacy",
    "mobile" : 0,
-   "conversation" : [
-      {
-         "label" : "(I am working late at night in a 24-hour pharmacy. There are only three customers in the store:",
-         "phrase" : "a scruffy but clean young couple and another gentleman. The woman in the young couple is very heavily pregnant, and her partner is picking up the range of baby hats we carry and holding them up against her stomach, then looking at the prices and sadly putting them back. They pick up a packet of the cheapest pain medication we carry and bring it to the counter.)\r",
-         "name" : "(I am working late at night in a 24-hour pharmacy. There are only three customers in the store"
-      },
-      {
-         "name" : "Female Customer",
-         "phrase" : "âIâm sorry, but can you please ask the pharmacist if these are safe for me to take?â\r",
-         "label" : "Female Customer:"
-      },
-      {
-         "phrase" : "âOf course!â\r",
-         "label" : "Me:",
-         "name" : "Me"
-      },
-      {
-         "name" : "",
-         "phrase" : "(While weâre waiting for the pharmacist to come out, they tell me theyâre expecting their daughter any day now. The pharmacist has been watching the young couple since they came in.)\r",
-         "label" : ""
-      },
-      {
-         "name" : "Pharmacist",
-         "phrase" : "âThese are fine, but can I ask why you need them?â\r",
-         "label" : "Pharmacist:"
-      },
-      {
-         "phrase" : "âOh, I have a horrible cough thatâs making my back ache even worse. I canât get to sleep.â\r",
-         "label" : "Female Customer:",
-         "name" : "Female Customer"
-      },
-      {
-         "label" : "",
-         "phrase" : "(The pharmacist goes through a list of cough medicines safe for her to take, before the young man shakes his head with tears in his eyes.)\r",
-         "name" : ""
-      },
-      {
-         "name" : "Male Customer",
-         "phrase" : "âIâm sorry, Iâve just lost my job and we really canât afford any of those. Sorry for wasting your time.â\r",
-         "label" : "Male Customer:"
-      },
-      {
-         "phrase" : "âThatâs okay, but this packet is damaged, and legally I canât let you take it. Seeing as it was the last one, let me and [my name] go look in the back for some more.â\r",
-         "label" : "Pharmacist:",
-         "name" : "Pharmacist"
-      },
-      {
-         "name" : "",
-         "label" : "",
-         "phrase" : "(The pharmacist takes me out the back, where he puts three packets of name brand painkillers, four bottles of name brand cough syrup, a wheat bag for her back, a tin of formula, a packet of newborn nappies and a few of the hats the couple was looking at into a box. He hands me the box and tells me to take it out to them. I do and they both burst into tears, thanking us over and over again. They leave with huge smiles on their faces.)\r"
-      },
-      {
-         "phrase" : "âThank you again!â\r",
-         "label" : "Female Customer:",
-         "name" : "Female Customer"
-      },
-      {
-         "name" : "Other Customer",
-         "phrase" : "âIâm sorry, I couldnât help but over hear. Did you say you just lost your job at [local company]?â\r",
-         "label" : "Other Customer:"
-      },
-      {
-         "name" : "Male Customer",
-         "label" : "Male Customer:",
-         "phrase" : "âYes, I was an IT tech.â\r"
-      },
-      {
-         "name" : "Other Customer",
-         "phrase" : "âI own [other computer store in the area], and Iâm looking for a new tech. Can you start tomorrow?â\r",
-         "label" : "Other Customer:"
-      },
-      {
-         "name" : "",
-         "label" : "",
-         "phrase" : "(There were tears all round that night. A week later, the young woman brought in her beautiful daughter and a giant batch of cupcakes for the pharmacy staff. Best night at work ever!)"
-      }
-   ]
+   "feed-item" : "",
+   "conversation-title" : null,
+   "conversation-text" : "(I am working late at night in a 24-hour pharmacy. There are only three customers in the store: a scruffy but clean young couple and another gentleman. The woman in the young couple is very heavily pregnant, and her partner is picking up the range of baby hats we carry and holding them up against her stomach, then looking at the prices and sadly putting them back. They pick up a packet of the cheapest pain medication we carry and bring it to the counter.)\r\n\r\nFemale Customer: âIâm sorry, but can you please ask the pharmacist if these are safe for me to take?â\r\n\r\nMe: âOf course!â\r\n\r\n(While weâre waiting for the pharmacist to come out, they tell me theyâre expecting their daughter any day now. The pharmacist has been watching the young couple since they came in.)\r\n\r\nPharmacist: âThese are fine, but can I ask why you need them?â\r\n\r\nFemale Customer: âOh, I have a horrible cough thatâs making my back ache even worse. I canât get to sleep.â\r\n\r\n(The pharmacist goes through a list of cough medicines safe for her to take, before the young man shakes his head with tears in his eyes.)\r\n\r\nMale Customer: âIâm sorry, Iâve just lost my job and we really canât afford any of those. Sorry for wasting your time.â\r\n\r\nPharmacist: âThatâs okay, but this packet is damaged, and legally I canât let you take it. Seeing as it was the last one, let me and [my name] go look in the back for some more.â\r\n\r\n(The pharmacist takes me out the back, where he puts three packets of name brand painkillers, four bottles of name brand cough syrup, a wheat bag for her back, a tin of formula, a packet of newborn nappies and a few of the hats the couple was looking at into a box. He hands me the box and tells me to take it out to them. I do and they both burst into tears, thanking us over and over again. They leave with huge smiles on their faces.)\r\n\r\nFemale Customer: âThank you again!â\r\n\r\nOther Customer: âIâm sorry, I couldnât help but over hear. Did you say you just lost your job at [local company]?â\r\n\r\nMale Customer: âYes, I was an IT tech.â\r\n\r\nOther Customer: âI own [other computer store in the area], and Iâm looking for a new tech. Can you start tomorrow?â\r\n\r\n(There were tears all round that night. A week later, the young woman brought in her beautiful daughter and a giant batch of cupcakes for the pharmacy staff. Best night at work ever!)\r\n",
+   "format" : "html",
+   "url" : "http://tumblr.ggvaidya.com/post/53781784154",
+   "unix-timestamp" : 1372105233,
+   "id" : "53781784154",
+   "reblog-key" : "qPssYUvQ",
+   "bookmarklet" : 0,
+   "date-gmt" : "2013-06-24 20:20:33 GMT",
+   "date" : "Mon, 24 Jun 2013 14:20:33"
 }
 

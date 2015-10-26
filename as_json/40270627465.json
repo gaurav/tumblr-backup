@@ -1,24 +1,15 @@
 {
    "type" : "conversation",
-   "id" : "40270627465",
-   "format" : "html",
-   "date-gmt" : "2013-01-11 19:40:27 GMT",
-   "feed-item" : "",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/40270627465/interview-be-honest-did-you-steal-a-tribble",
-   "bookmarklet" : 0,
-   "from-feed-id" : 0,
-   "mobile" : 0,
-   "slug" : "interview-be-honest-did-you-steal-a-tribble",
    "conversation" : [
       {
          "phrase" : "Be honest... did you steal a Tribble once the shoot wrapped? \r",
-         "label" : "Interview:",
-         "name" : "Interview"
+         "name" : "Interview",
+         "label" : "Interview:"
       },
       {
          "name" : "Nichelle Nichols",
-         "phrase" : "I didn't wait until the end. I got mine the first day!\r",
-         "label" : "Nichelle Nichols:"
+         "label" : "Nichelle Nichols:",
+         "phrase" : "I didn't wait until the end. I got mine the first day!\r"
       },
       {
          "name" : "Walter Koenig",
@@ -26,11 +17,20 @@
          "phrase" : "I didn't steal a Tribble. I did, however, have several of them burned in what can only be described as a heretical cult ceremony."
       }
    ],
-   "reblog-key" : "OxdCbhcO",
-   "conversation-text" : "Interview: Be honest... did you steal a Tribble once the shoot wrapped? \r\nNichelle Nichols: I didn't wait until the end. I got mine the first day!\r\nWalter Koenig: I didn't steal a Tribble. I did, however, have several of them burned in what can only be described as a heretical cult ceremony.",
-   "unix-timestamp" : 1357933227,
-   "url" : "http://tumblr.ggvaidya.com/post/40270627465",
+   "slug" : "interview-be-honest-did-you-steal-a-tribble",
+   "from-feed-id" : 0,
+   "feed-item" : "",
    "conversation-title" : null,
-   "date" : "Fri, 11 Jan 2013 12:40:27"
+   "mobile" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/40270627465/interview-be-honest-did-you-steal-a-tribble",
+   "conversation-text" : "Interview: Be honest... did you steal a Tribble once the shoot wrapped? \r\nNichelle Nichols: I didn't wait until the end. I got mine the first day!\r\nWalter Koenig: I didn't steal a Tribble. I did, however, have several of them burned in what can only be described as a heretical cult ceremony.",
+   "format" : "html",
+   "date" : "Fri, 11 Jan 2013 12:40:27",
+   "reblog-key" : "OxdCbhcO",
+   "bookmarklet" : 0,
+   "date-gmt" : "2013-01-11 19:40:27 GMT",
+   "id" : "40270627465",
+   "url" : "http://tumblr.ggvaidya.com/post/40270627465",
+   "unix-timestamp" : 1357933227
 }
 

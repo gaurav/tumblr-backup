@@ -1,48 +1,22 @@
 {
+   "feed-item" : "",
+   "conversation-title" : "Ayn Rand vs Jim Henson, part 1: \"Senseless Entertainment\"",
+   "mobile" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/38009728775/ayn-rand-vs-jim-henson-part-1-senseless",
    "conversation" : [
       {
          "phrase" : "Who is your favourite puppet from the line of characters you have created Jim. \r",
-         "label" : "Sidney Nolan:",
-         "name" : "Sidney Nolan"
+         "name" : "Sidney Nolan",
+         "label" : "Sidney Nolan:"
       },
       {
          "label" : "Jim Henson:",
-         "phrase" : "Each character is special for me they represent different aspects of myself. Kermit the frog is perhaps closest to me. An altar ego of sorts. \r",
-         "name" : "Jim Henson"
-      },
-      {
-         "label" : "Ayn Rand:",
-         "phrase" : "What does that say about you. \r",
-         "name" : "Ayn Rand"
-      },
-      {
-         "name" : "",
-         "label" : "",
-         "phrase" : "[..]\r"
-      },
-      {
          "name" : "Jim Henson",
-         "phrase" : "I dont know. I donât think too much about it.\r",
-         "label" : "Jim Henson:"
+         "phrase" : "Each character is special for me they represent different aspects of myself. Kermit the frog is perhaps closest to me. An altar ego of sorts. \r"
       },
       {
-         "name" : "",
-         "label" : "",
-         "phrase" : "[..]\r"
-      },
-      {
+         "phrase" : "What does that say about you. \r",
          "label" : "Ayn Rand:",
-         "phrase" : "To be honest I find it to be senseless entertainment. I prefer the celebration of men and what they can achieve. \r",
-         "name" : "Ayn Rand"
-      },
-      {
-         "phrase" : "Do you have children Ms Rand. \r",
-         "label" : "Jim Henson:",
-         "name" : "Jim Henson"
-      },
-      {
-         "label" : "Ayn Rand:",
-         "phrase" : "What do children have to do with what I prefer.\r",
          "name" : "Ayn Rand"
       },
       {
@@ -51,26 +25,52 @@
          "name" : ""
       },
       {
+         "name" : "Jim Henson",
          "label" : "Jim Henson:",
+         "phrase" : "I dont know. I donât think too much about it.\r"
+      },
+      {
+         "phrase" : "[..]\r",
+         "label" : "",
+         "name" : ""
+      },
+      {
+         "phrase" : "To be honest I find it to be senseless entertainment. I prefer the celebration of men and what they can achieve. \r",
+         "label" : "Ayn Rand:",
+         "name" : "Ayn Rand"
+      },
+      {
+         "label" : "Jim Henson:",
+         "name" : "Jim Henson",
+         "phrase" : "Do you have children Ms Rand. \r"
+      },
+      {
+         "phrase" : "What do children have to do with what I prefer.\r",
+         "name" : "Ayn Rand",
+         "label" : "Ayn Rand:"
+      },
+      {
+         "label" : "",
+         "name" : "",
+         "phrase" : "[..]\r"
+      },
+      {
          "phrase" : "I find that being a parent being close to children has broadened my perspective allowed me to empathize and understand more than I ever did before. I hope that empathy comes through in my senseless entertainment.",
-         "name" : "Jim Henson"
+         "name" : "Jim Henson",
+         "label" : "Jim Henson:"
       }
    ],
-   "mobile" : 0,
-   "from-feed-id" : 0,
-   "slug" : "ayn-rand-vs-jim-henson-part-1-senseless",
-   "url" : "http://tumblr.ggvaidya.com/post/38009728775",
-   "reblog-key" : "M3hj62nH",
-   "conversation-text" : "Sidney Nolan: Who is your favourite puppet from the line of characters you have created Jim. \r\nJim Henson: Each character is special for me they represent different aspects of myself. Kermit the frog is perhaps closest to me. An altar ego of sorts. \r\nAyn Rand: What does that say about you. \r\n[..]\r\nJim Henson: I dont know. I donât think too much about it.\r\n[..]\r\nAyn Rand: To be honest I find it to be senseless entertainment. I prefer the celebration of men and what they can achieve. \r\nJim Henson: Do you have children Ms Rand. \r\nAyn Rand: What do children have to do with what I prefer.\r\n[..]\r\nJim Henson: I find that being a parent being close to children has broadened my perspective allowed me to empathize and understand more than I ever did before. I hope that empathy comes through in my senseless entertainment.",
-   "unix-timestamp" : 1355607631,
-   "date" : "Sat, 15 Dec 2012 14:40:31",
-   "conversation-title" : "Ayn Rand vs Jim Henson, part 1: \"Senseless Entertainment\"",
    "type" : "conversation",
-   "id" : "38009728775",
-   "format" : "html",
+   "slug" : "ayn-rand-vs-jim-henson-part-1-senseless",
+   "from-feed-id" : 0,
+   "date" : "Sat, 15 Dec 2012 14:40:31",
+   "reblog-key" : "M3hj62nH",
+   "bookmarklet" : 0,
    "date-gmt" : "2012-12-15 21:40:31 GMT",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/38009728775/ayn-rand-vs-jim-henson-part-1-senseless",
-   "feed-item" : "",
-   "bookmarklet" : 0
+   "id" : "38009728775",
+   "url" : "http://tumblr.ggvaidya.com/post/38009728775",
+   "unix-timestamp" : 1355607631,
+   "conversation-text" : "Sidney Nolan: Who is your favourite puppet from the line of characters you have created Jim. \r\nJim Henson: Each character is special for me they represent different aspects of myself. Kermit the frog is perhaps closest to me. An altar ego of sorts. \r\nAyn Rand: What does that say about you. \r\n[..]\r\nJim Henson: I dont know. I donât think too much about it.\r\n[..]\r\nAyn Rand: To be honest I find it to be senseless entertainment. I prefer the celebration of men and what they can achieve. \r\nJim Henson: Do you have children Ms Rand. \r\nAyn Rand: What do children have to do with what I prefer.\r\n[..]\r\nJim Henson: I find that being a parent being close to children has broadened my perspective allowed me to empathize and understand more than I ever did before. I hope that empathy comes through in my senseless entertainment.",
+   "format" : "html"
 }
 

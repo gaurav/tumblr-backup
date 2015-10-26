@@ -1,25 +1,14 @@
 {
-   "feed-item" : "",
+   "type" : "conversation",
    "tags" : [
       "aww",
       "relationships"
    ],
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/89528597149/frank-its-that-kind-of-talk-that-will-spur-me-to",
-   "bookmarklet" : 0,
-   "type" : "conversation",
-   "id" : "89528597149",
-   "format" : "html",
-   "date-gmt" : "2014-06-22 05:58:30 GMT",
-   "conversation-title" : null,
-   "date" : "Sat, 21 Jun 2014 23:58:30",
-   "mobile" : 0,
-   "from-feed-id" : 0,
-   "slug" : "frank-its-that-kind-of-talk-that-will-spur-me-to",
    "conversation" : [
       {
          "phrase" : "Itâs that kind of talk that will spur me to make you a drink, as a reward for marrying well!\r",
-         "label" : "Frank:",
-         "name" : "Frank"
+         "name" : "Frank",
+         "label" : "Frank:"
       },
       {
          "phrase" : "I did marry well, didnât I?\r",
@@ -28,13 +17,24 @@
       },
       {
          "phrase" : "Not as well as I did, but very nearly.",
-         "label" : "Frank:",
-         "name" : "Frank"
+         "name" : "Frank",
+         "label" : "Frank:"
       }
    ],
-   "reblog-key" : "hNbD6DXr",
-   "unix-timestamp" : 1403416710,
+   "slug" : "frank-its-that-kind-of-talk-that-will-spur-me-to",
+   "from-feed-id" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/89528597149/frank-its-that-kind-of-talk-that-will-spur-me-to",
+   "conversation-title" : null,
+   "feed-item" : "",
+   "mobile" : 0,
+   "format" : "html",
    "conversation-text" : "Frank: Itâs that kind of talk that will spur me to make you a drink, as a reward for marrying well!\r\nSadie: I did marry well, didnât I?\r\nFrank: Not as well as I did, but very nearly.",
-   "url" : "http://tumblr.ggvaidya.com/post/89528597149"
+   "id" : "89528597149",
+   "unix-timestamp" : 1403416710,
+   "url" : "http://tumblr.ggvaidya.com/post/89528597149",
+   "date" : "Sat, 21 Jun 2014 23:58:30",
+   "bookmarklet" : 0,
+   "date-gmt" : "2014-06-22 05:58:30 GMT",
+   "reblog-key" : "hNbD6DXr"
 }
 
