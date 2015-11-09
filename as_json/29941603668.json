@@ -1,23 +1,23 @@
 {
-   "quote-text" : "All programmers are optimists.  Perhaps this modern sorcery especially attracts those who believe in happy endings and fairy godmothers.  Perhaps the hundreds of nitty frustrations drive away all but those who habitually focus on the end goal.  Perhaps it is merely that computers are young, programmers are younger, and the young are always optimists.",
-   "format" : "html",
    "reblog-key" : "K3mtPTJA",
-   "bookmarklet" : 0,
-   "date-gmt" : "2012-08-22 02:55:00 GMT",
    "date" : "Tue, 21 Aug 2012 20:55:00",
+   "quote-text" : "All programmers are optimists.  Perhaps this modern sorcery especially attracts those who believe in happy endings and fairy godmothers.  Perhaps the hundreds of nitty frustrations drive away all but those who habitually focus on the end goal.  Perhaps it is merely that computers are young, programmers are younger, and the young are always optimists.",
+   "type" : "quote",
    "url" : "http://tumblr.ggvaidya.com/post/29941603668",
-   "unix-timestamp" : 1345604100,
-   "id" : "29941603668",
-   "from-feed-id" : 0,
-   "quote-source" : "Frederick Brooks, Jr. in <em><a href=\"http://en.wikipedia.org/wiki/The_Mythical_Man-Month\">The Mythical Man Month</a></em>",
    "tags" : [
       "programmers",
       "young"
    ],
-   "type" : "quote",
-   "slug" : "all-programmers-are-optimists-perhaps-this",
-   "mobile" : 0,
    "feed-item" : "",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/29941603668/all-programmers-are-optimists-perhaps-this"
+   "mobile" : 0,
+   "unix-timestamp" : 1345604100,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/29941603668/all-programmers-are-optimists-perhaps-this",
+   "format" : "html",
+   "bookmarklet" : 0,
+   "from-feed-id" : 0,
+   "quote-source" : "Frederick Brooks, Jr. in <em><a href=\"http://en.wikipedia.org/wiki/The_Mythical_Man-Month\">The Mythical Man Month</a></em>",
+   "date-gmt" : "2012-08-22 02:55:00 GMT",
+   "id" : "29941603668",
+   "slug" : "all-programmers-are-optimists-perhaps-this"
 }
 

@@ -1,19 +1,10 @@
 {
-   "unix-timestamp" : 1435436417,
+   "conversation-title" : "The only friend I've ever had",
    "url" : "http://tumblr.ggvaidya.com/post/122614884446",
-   "id" : "122614884446",
-   "date-gmt" : "2015-06-27 20:20:17 GMT",
-   "bookmarklet" : 0,
+   "type" : "conversation",
    "reblog-key" : "qlDKE9zO",
    "date" : "Sat, 27 Jun 2015 14:20:17",
-   "conversation-text" : "Becca Moody: We don't have to do what she says, you know.\nHank Moody: What who says?\nBecca: Her. The Enemy.\nHank: Your mom is not the Enemy. She loves you. She wants what's best for you.\nBecca: Mom doesn't understand, she never will. This is it, okay? I'm not just going to wake up one day and be like her. Six feet tall and beautiful.\nHank: You already are beautiful.\nBecca: Chelsea is the only friend I've ever had. The only one who accepts me for who I really am.\nHank: That is not true.\nBecca: It is. Do you know what it's like to have no one and nothing? How totally awful that feels?\nHank: Yes, I think I do, once upon a time, I felt like that. Now I have you.\nBecca: Yet, somehow, I still have nothing.",
-   "format" : "html",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/122614884446/the-only-friend-ive-ever-had",
    "mobile" : 0,
-   "conversation-title" : "The only friend I've ever had",
-   "feed-item" : "",
-   "from-feed-id" : 0,
-   "slug" : "the-only-friend-ive-ever-had",
    "tags" : [
       "californication",
       "S3E6",
@@ -21,56 +12,59 @@
       "relationships",
       "friends"
    ],
+   "feed-item" : "",
+   "bookmarklet" : 0,
+   "from-feed-id" : 0,
    "conversation" : [
       {
          "name" : "Becca Moody",
-         "label" : "Becca Moody:",
-         "phrase" : "We don't have to do what she says, you know."
+         "phrase" : "We don't have to do what she says, you know.",
+         "label" : "Becca Moody:"
       },
       {
+         "name" : "Hank Moody",
          "phrase" : "What who says?",
-         "label" : "Hank Moody:",
-         "name" : "Hank Moody"
+         "label" : "Hank Moody:"
       },
       {
          "label" : "Becca:",
-         "name" : "Becca",
-         "phrase" : "Her. The Enemy."
-      },
-      {
-         "phrase" : "Your mom is not the Enemy. She loves you. She wants what's best for you.",
-         "label" : "Hank:",
-         "name" : "Hank"
-      },
-      {
-         "name" : "Becca",
-         "label" : "Becca:",
-         "phrase" : "Mom doesn't understand, she never will. This is it, okay? I'm not just going to wake up one day and be like her. Six feet tall and beautiful."
-      },
-      {
-         "label" : "Hank:",
-         "name" : "Hank",
-         "phrase" : "You already are beautiful."
-      },
-      {
-         "phrase" : "Chelsea is the only friend I've ever had. The only one who accepts me for who I really am.",
-         "label" : "Becca:",
+         "phrase" : "Her. The Enemy.",
          "name" : "Becca"
       },
       {
+         "phrase" : "Your mom is not the Enemy. She loves you. She wants what's best for you.",
          "name" : "Hank",
+         "label" : "Hank:"
+      },
+      {
+         "label" : "Becca:",
+         "phrase" : "Mom doesn't understand, she never will. This is it, okay? I'm not just going to wake up one day and be like her. Six feet tall and beautiful.",
+         "name" : "Becca"
+      },
+      {
          "label" : "Hank:",
+         "phrase" : "You already are beautiful.",
+         "name" : "Hank"
+      },
+      {
+         "label" : "Becca:",
+         "phrase" : "Chelsea is the only friend I've ever had. The only one who accepts me for who I really am.",
+         "name" : "Becca"
+      },
+      {
+         "label" : "Hank:",
+         "name" : "Hank",
          "phrase" : "That is not true."
       },
       {
          "label" : "Becca:",
-         "name" : "Becca",
-         "phrase" : "It is. Do you know what it's like to have no one and nothing? How totally awful that feels?"
+         "phrase" : "It is. Do you know what it's like to have no one and nothing? How totally awful that feels?",
+         "name" : "Becca"
       },
       {
+         "label" : "Hank:",
          "phrase" : "Yes, I think I do, once upon a time, I felt like that. Now I have you.",
-         "name" : "Hank",
-         "label" : "Hank:"
+         "name" : "Hank"
       },
       {
          "label" : "Becca:",
@@ -78,6 +72,12 @@
          "phrase" : "Yet, somehow, I still have nothing."
       }
    ],
-   "type" : "conversation"
+   "conversation-text" : "Becca Moody: We don't have to do what she says, you know.\nHank Moody: What who says?\nBecca: Her. The Enemy.\nHank: Your mom is not the Enemy. She loves you. She wants what's best for you.\nBecca: Mom doesn't understand, she never will. This is it, okay? I'm not just going to wake up one day and be like her. Six feet tall and beautiful.\nHank: You already are beautiful.\nBecca: Chelsea is the only friend I've ever had. The only one who accepts me for who I really am.\nHank: That is not true.\nBecca: It is. Do you know what it's like to have no one and nothing? How totally awful that feels?\nHank: Yes, I think I do, once upon a time, I felt like that. Now I have you.\nBecca: Yet, somehow, I still have nothing.",
+   "unix-timestamp" : 1435436417,
+   "format" : "html",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/122614884446/the-only-friend-ive-ever-had",
+   "id" : "122614884446",
+   "slug" : "the-only-friend-ive-ever-had",
+   "date-gmt" : "2015-06-27 20:20:17 GMT"
 }
 

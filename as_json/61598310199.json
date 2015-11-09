@@ -1,23 +1,23 @@
 {
-   "id" : "61598310199",
-   "url" : "http://tumblr.ggvaidya.com/post/61598310199",
-   "unix-timestamp" : 1379524737,
-   "date" : "Wed, 18 Sep 2013 11:18:57",
-   "reblog-key" : "7oPYp49a",
-   "date-gmt" : "2013-09-18 17:18:57 GMT",
+   "from-feed-id" : 0,
    "bookmarklet" : 0,
-   "format" : "html",
-   "quote-text" : "War does not determine who is right - only who is left.",
+   "quote-source" : "Bertrand Russell (via <a class=\"tumblr_blog\" href=\"http://larmoyante.com/\">larmoyante</a>)",
+   "unix-timestamp" : 1379524737,
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/61598310199/war-does-not-determine-who-is-right-only-who-is",
-   "feed-item" : "",
+   "format" : "html",
+   "date-gmt" : "2013-09-18 17:18:57 GMT",
+   "id" : "61598310199",
+   "slug" : "war-does-not-determine-who-is-right-only-who-is",
+   "type" : "quote",
+   "url" : "http://tumblr.ggvaidya.com/post/61598310199",
+   "reblog-key" : "7oPYp49a",
+   "date" : "Wed, 18 Sep 2013 11:18:57",
+   "quote-text" : "War does not determine who is right - only who is left.",
    "mobile" : 0,
    "tags" : [
       "bertrand russell",
       "war"
    ],
-   "type" : "quote",
-   "slug" : "war-does-not-determine-who-is-right-only-who-is",
-   "from-feed-id" : 0,
-   "quote-source" : "Bertrand Russell (via <a class=\"tumblr_blog\" href=\"http://larmoyante.com/\">larmoyante</a>)"
+   "feed-item" : ""
 }
 

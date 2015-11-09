@@ -1,22 +1,31 @@
 {
+   "reblog-key" : "bq7VwufA",
+   "date" : "Sun, 13 Oct 2013 15:24:21",
    "conversation-title" : "My class today",
+   "type" : "conversation",
+   "url" : "http://tumblr.ggvaidya.com/post/63957955596",
+   "tags" : [
+      "damn",
+      "truth",
+      "feminism"
+   ],
    "feed-item" : "",
    "mobile" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/63957955596/my-class-today",
+   "unix-timestamp" : 1381699461,
    "conversation" : [
       {
-         "phrase" : "So when you see the 4 year old boy pull the little girl's hair...\r",
-         "name" : "Me",
-         "label" : "Me:"
-      },
-      {
-         "phrase" : "He likes her!\r",
-         "name" : "Students",
-         "label" : "Students:"
-      },
-      {
-         "name" : "Me",
          "label" : "Me:",
+         "phrase" : "So when you see the 4 year old boy pull the little girl's hair...\r",
+         "name" : "Me"
+      },
+      {
+         "label" : "Students:",
+         "phrase" : "He likes her!\r",
+         "name" : "Students"
+      },
+      {
+         "label" : "Me:",
+         "name" : "Me",
          "phrase" : "Now they are around 11 or 12 and he grabs her arm and wrestles her to the ground even though she calls him a jerk and yells at him to leave her alone.\r"
       },
       {
@@ -30,42 +39,33 @@
          "phrase" : "Now they are 18 and he grabs her arm and--\r"
       },
       {
-         "phrase" : "Oh, that's not okay.\r",
+         "label" : "Students:",
          "name" : "Students",
-         "label" : "Students:"
+         "phrase" : "Oh, that's not okay.\r"
       },
       {
+         "name" : "Me",
          "phrase" : "Really?   How would he know?  How would she know?  How would you know?  You just told me that for the first 17 years of these children's lives that you thought it was cute, sweet, and natural for a boy to grab a girl and be rough with her. \r",
-         "label" : "Me:",
-         "name" : "Me"
+         "label" : "Me:"
       },
       {
          "label" : "Students:",
-         "name" : "Students",
-         "phrase" : "Oh.\r"
+         "phrase" : "Oh.\r",
+         "name" : "Students"
       },
       {
+         "label" : "Me:",
          "phrase" : "Oh, is right.",
-         "name" : "Me",
-         "label" : "Me:"
+         "name" : "Me"
       }
    ],
-   "tags" : [
-      "damn",
-      "truth",
-      "feminism"
-   ],
-   "slug" : "my-class-today",
-   "type" : "conversation",
-   "from-feed-id" : 0,
-   "date" : "Sun, 13 Oct 2013 15:24:21",
-   "bookmarklet" : 0,
-   "date-gmt" : "2013-10-13 21:24:21 GMT",
-   "reblog-key" : "bq7VwufA",
-   "id" : "63957955596",
-   "unix-timestamp" : 1381699461,
-   "url" : "http://tumblr.ggvaidya.com/post/63957955596",
+   "conversation-text" : "Me:  So when you see the 4 year old boy pull the little girl's hair...\r\nStudents:  He likes her!\r\nMe:  Now they are around 11 or 12 and he grabs her arm and wrestles her to the ground even though she calls him a jerk and yells at him to leave her alone.\r\nStudents:  That is just how boys are.  \r\nMe:  Now they are 18 and he grabs her arm and--\r\nStudents:  Oh, that's not okay.\r\nMe:   Really?   How would he know?  How would she know?  How would you know?  You just told me that for the first 17 years of these children's lives that you thought it was cute, sweet, and natural for a boy to grab a girl and be rough with her. \r\nStudents:  Oh.\r\nMe:   Oh, is right.  \r\n",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/63957955596/my-class-today",
    "format" : "html",
-   "conversation-text" : "Me:  So when you see the 4 year old boy pull the little girl's hair...\r\nStudents:  He likes her!\r\nMe:  Now they are around 11 or 12 and he grabs her arm and wrestles her to the ground even though she calls him a jerk and yells at him to leave her alone.\r\nStudents:  That is just how boys are.  \r\nMe:  Now they are 18 and he grabs her arm and--\r\nStudents:  Oh, that's not okay.\r\nMe:   Really?   How would he know?  How would she know?  How would you know?  You just told me that for the first 17 years of these children's lives that you thought it was cute, sweet, and natural for a boy to grab a girl and be rough with her. \r\nStudents:  Oh.\r\nMe:   Oh, is right.  \r\n"
+   "bookmarklet" : 0,
+   "from-feed-id" : 0,
+   "date-gmt" : "2013-10-13 21:24:21 GMT",
+   "slug" : "my-class-today",
+   "id" : "63957955596"
 }
 

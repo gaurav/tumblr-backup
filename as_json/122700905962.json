@@ -1,23 +1,23 @@
 {
-   "feed-item" : "",
-   "mobile" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/122700905962/this-thing-you-just-did-in-addition-to-solving",
+   "id" : "122700905962",
    "slug" : "this-thing-you-just-did-in-addition-to-solving",
+   "date-gmt" : "2015-06-28 20:20:13 GMT",
+   "format" : "html",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/122700905962/this-thing-you-just-did-in-addition-to-solving",
+   "unix-timestamp" : 1435522813,
+   "quote-source" : "<a href=\"http://www.prequeladventure.com/2015/05/katia-unscrew-handle/\"><em>Prequel</em>, May 18, 2015</a>",
+   "bookmarklet" : 0,
+   "from-feed-id" : 0,
+   "feed-item" : "",
    "tags" : [
       "life",
       "prequel adventure"
    ],
-   "type" : "quote",
-   "from-feed-id" : 0,
-   "quote-source" : "<a href=\"http://www.prequeladventure.com/2015/05/katia-unscrew-handle/\"><em>Prequel</em>, May 18, 2015</a>",
+   "mobile" : 0,
+   "quote-text" : "This thing you just did, in addition to solving nothing, had the unique effect of making this entire situation slightly more inconvenient in every conceivable way.",
    "date" : "Sun, 28 Jun 2015 14:20:13",
    "reblog-key" : "s7zAdpRc",
-   "date-gmt" : "2015-06-28 20:20:13 GMT",
-   "bookmarklet" : 0,
-   "id" : "122700905962",
    "url" : "http://tumblr.ggvaidya.com/post/122700905962",
-   "unix-timestamp" : 1435522813,
-   "quote-text" : "This thing you just did, in addition to solving nothing, had the unique effect of making this entire situation slightly more inconvenient in every conceivable way.",
-   "format" : "html"
+   "type" : "quote"
 }
 

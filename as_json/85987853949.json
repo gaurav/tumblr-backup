@@ -1,46 +1,46 @@
 {
-   "bookmarklet" : 0,
-   "date-gmt" : "2014-05-17 07:05:23 GMT",
-   "reblog-key" : "je1jQAgz",
-   "date" : "Sat, 17 May 2014 01:05:23",
-   "unix-timestamp" : 1400310323,
-   "url" : "http://tumblr.ggvaidya.com/post/85987853949",
-   "id" : "85987853949",
-   "conversation-text" : "Chidori: If the capture of Sousuke is extended, we'll be completely destroyed. But we must get him at all costs! For our sacrificed comrades! For the fate of mankind! And most important of all, for our GRADES!\r\nChidori: Now we'll enter enemy lines! If you meet a person you shall slay him! If you meet a god, you shall kill it! No need for questions and answers! Don't stop and continue! Don't worry about casualties and move forward!\r\n[The attack fails]\r\nSousuke: It is finished. Art is so brutal.",
-   "format" : "html",
-   "mobile" : 0,
-   "conversation-title" : "It was inevitable",
-   "feed-item" : "",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/85987853949/it-was-inevitable",
-   "from-feed-id" : 0,
+   "format" : "html",
+   "unix-timestamp" : 1400310323,
    "conversation" : [
       {
          "name" : "Chidori",
-         "label" : "Chidori:",
-         "phrase" : "If the capture of Sousuke is extended, we'll be completely destroyed. But we must get him at all costs! For our sacrificed comrades! For the fate of mankind! And most important of all, for our GRADES!\r"
+         "phrase" : "If the capture of Sousuke is extended, we'll be completely destroyed. But we must get him at all costs! For our sacrificed comrades! For the fate of mankind! And most important of all, for our GRADES!\r",
+         "label" : "Chidori:"
       },
       {
          "name" : "Chidori",
-         "label" : "Chidori:",
-         "phrase" : "Now we'll enter enemy lines! If you meet a person you shall slay him! If you meet a god, you shall kill it! No need for questions and answers! Don't stop and continue! Don't worry about casualties and move forward!\r"
+         "phrase" : "Now we'll enter enemy lines! If you meet a person you shall slay him! If you meet a god, you shall kill it! No need for questions and answers! Don't stop and continue! Don't worry about casualties and move forward!\r",
+         "label" : "Chidori:"
       },
       {
-         "phrase" : "[The attack fails]\r",
          "name" : "",
+         "phrase" : "[The attack fails]\r",
          "label" : ""
       },
       {
-         "phrase" : "It is finished. Art is so brutal.",
+         "label" : "Sousuke:",
          "name" : "Sousuke",
-         "label" : "Sousuke:"
+         "phrase" : "It is finished. Art is so brutal."
       }
    ],
+   "conversation-text" : "Chidori: If the capture of Sousuke is extended, we'll be completely destroyed. But we must get him at all costs! For our sacrificed comrades! For the fate of mankind! And most important of all, for our GRADES!\r\nChidori: Now we'll enter enemy lines! If you meet a person you shall slay him! If you meet a god, you shall kill it! No need for questions and answers! Don't stop and continue! Don't worry about casualties and move forward!\r\n[The attack fails]\r\nSousuke: It is finished. Art is so brutal.",
+   "bookmarklet" : 0,
+   "from-feed-id" : 0,
+   "date-gmt" : "2014-05-17 07:05:23 GMT",
+   "id" : "85987853949",
+   "slug" : "it-was-inevitable",
+   "date" : "Sat, 17 May 2014 01:05:23",
+   "reblog-key" : "je1jQAgz",
+   "type" : "conversation",
+   "url" : "http://tumblr.ggvaidya.com/post/85987853949",
+   "conversation-title" : "It was inevitable",
+   "feed-item" : "",
    "tags" : [
       "full metal panic",
       "oh dear",
       "gods and everything"
    ],
-   "slug" : "it-was-inevitable",
-   "type" : "conversation"
+   "mobile" : 0
 }
 

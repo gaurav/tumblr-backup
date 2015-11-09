@@ -1,14 +1,15 @@
 {
+   "date-gmt" : "2014-05-17 07:06:57 GMT",
+   "id" : "85987926679",
+   "slug" : "too-good-for-him",
    "from-feed-id" : 0,
-   "tags" : [
-      "full metal panic",
-      "kids these days"
-   ],
+   "bookmarklet" : 0,
+   "unix-timestamp" : 1400310417,
    "conversation" : [
       {
          "label" : "Chidori:",
-         "name" : "Chidori",
-         "phrase" : "We've finally got you, Sousuke!\r"
+         "phrase" : "We've finally got you, Sousuke!\r",
+         "name" : "Chidori"
       },
       {
          "label" : "Sousuke:",
@@ -16,25 +17,24 @@
          "phrase" : "[defeated] Just kill me.\r"
       },
       {
-         "label" : "Chidori:",
          "name" : "Chidori",
-         "phrase" : "Heh, you still have a job. We'll kill you later."
+         "phrase" : "Heh, you still have a job. We'll kill you later.",
+         "label" : "Chidori:"
       }
    ],
-   "slug" : "too-good-for-him",
-   "type" : "conversation",
-   "mobile" : 0,
-   "feed-item" : "",
-   "conversation-title" : "Too good for him",
+   "conversation-text" : "Chidori: We've finally got you, Sousuke!\r\nSousuke: [defeated] Just kill me.\r\nChidori: Heh, you still have a job. We'll kill you later.",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/85987926679/too-good-for-him",
    "format" : "html",
-   "conversation-text" : "Chidori: We've finally got you, Sousuke!\r\nSousuke: [defeated] Just kill me.\r\nChidori: Heh, you still have a job. We'll kill you later.",
-   "reblog-key" : "DmK92SIA",
-   "date-gmt" : "2014-05-17 07:06:57 GMT",
-   "bookmarklet" : 0,
-   "date" : "Sat, 17 May 2014 01:06:57",
+   "mobile" : 0,
+   "tags" : [
+      "full metal panic",
+      "kids these days"
+   ],
+   "feed-item" : "",
+   "conversation-title" : "Too good for him",
+   "type" : "conversation",
    "url" : "http://tumblr.ggvaidya.com/post/85987926679",
-   "unix-timestamp" : 1400310417,
-   "id" : "85987926679"
+   "reblog-key" : "DmK92SIA",
+   "date" : "Sat, 17 May 2014 01:06:57"
 }
 

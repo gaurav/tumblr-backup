@@ -1,9 +1,7 @@
 {
-   "type" : "conversation",
-   "tags" : [
-      "aww",
-      "relationships"
-   ],
+   "bookmarklet" : 0,
+   "from-feed-id" : 0,
+   "conversation-text" : "Frank: Itâs that kind of talk that will spur me to make you a drink, as a reward for marrying well!\r\nSadie: I did marry well, didnât I?\r\nFrank: Not as well as I did, but very nearly.",
    "conversation" : [
       {
          "phrase" : "Itâs that kind of talk that will spur me to make you a drink, as a reward for marrying well!\r",
@@ -12,8 +10,8 @@
       },
       {
          "phrase" : "I did marry well, didnât I?\r",
-         "label" : "Sadie:",
-         "name" : "Sadie"
+         "name" : "Sadie",
+         "label" : "Sadie:"
       },
       {
          "phrase" : "Not as well as I did, but very nearly.",
@@ -21,20 +19,22 @@
          "label" : "Frank:"
       }
    ],
-   "slug" : "frank-its-that-kind-of-talk-that-will-spur-me-to",
-   "from-feed-id" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/89528597149/frank-its-that-kind-of-talk-that-will-spur-me-to",
-   "conversation-title" : null,
-   "feed-item" : "",
-   "mobile" : 0,
-   "format" : "html",
-   "conversation-text" : "Frank: Itâs that kind of talk that will spur me to make you a drink, as a reward for marrying well!\r\nSadie: I did marry well, didnât I?\r\nFrank: Not as well as I did, but very nearly.",
-   "id" : "89528597149",
    "unix-timestamp" : 1403416710,
-   "url" : "http://tumblr.ggvaidya.com/post/89528597149",
-   "date" : "Sat, 21 Jun 2014 23:58:30",
-   "bookmarklet" : 0,
+   "format" : "html",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/89528597149/frank-its-that-kind-of-talk-that-will-spur-me-to",
+   "slug" : "frank-its-that-kind-of-talk-that-will-spur-me-to",
+   "id" : "89528597149",
    "date-gmt" : "2014-06-22 05:58:30 GMT",
-   "reblog-key" : "hNbD6DXr"
+   "conversation-title" : null,
+   "url" : "http://tumblr.ggvaidya.com/post/89528597149",
+   "type" : "conversation",
+   "reblog-key" : "hNbD6DXr",
+   "date" : "Sat, 21 Jun 2014 23:58:30",
+   "mobile" : 0,
+   "tags" : [
+      "aww",
+      "relationships"
+   ],
+   "feed-item" : ""
 }
 
