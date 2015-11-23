@@ -1,24 +1,24 @@
 {
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/62792469348/the-page-fault-weird-machine-lessons-in",
-   "format" : "html",
    "unix-timestamp" : 1380609198,
-   "link-description" : "<p><a href=\"http://dghost.tumblr.com/post/62791914318/the-page-fault-weird-machine-lessons-in\" class=\"tumblr_blog\">dghost</a>:</p>\n\n<blockquote><blockquote>\n<p>Trust Analysis, i.e. determining that a system will not execute some class of computations, typically assumes that all computation is captured by an instruction trace. We show that powerful computation on x86 processors is possible without executing any CPU instructions. We demonstrate a Turing-complete execution environment driven solely by the IA32 architectureâs interrupt handling and memory translation tables, in which the processor is trapped in a series of page faults and double faults, without ever successfully dispatching any instructions. The âhard-wiredâ logic of handling these faults is used to perform arithmetic and logic primitives, as well as memory reads and writes. This mechanism can also perform branches and loops if the memory is set up and mapped just right. We discuss the lessons of this execution model for future trustworthy architectures.</p>\n</blockquote>\n<p>Whoa.</p></blockquote>\n\n<p>&ldquo;Constructing the Weird Machine&rdquo;</p>",
-   "bookmarklet" : 0,
-   "from-feed-id" : 0,
+   "mobile" : 0,
    "link-text" : "The Page-Fault Weird Machine: Lessons in Instruction-less Computation",
    "date-gmt" : "2013-10-01 06:33:18 GMT",
-   "id" : "62792469348",
-   "slug" : "the-page-fault-weird-machine-lessons-in",
-   "date" : "Tue, 01 Oct 2013 00:33:18",
-   "link-url" : "https://www.usenix.org/conference/woot13/page-fault-weird-machine-lessons-instruction-less-computation",
-   "reblog-key" : "nLBGVwOy",
-   "type" : "link",
-   "url" : "http://tumblr.ggvaidya.com/post/62792469348",
-   "feed-item" : "",
    "tags" : [
       "x86",
       "turing machine"
    ],
-   "mobile" : 0
+   "slug" : "the-page-fault-weird-machine-lessons-in",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/62792469348/the-page-fault-weird-machine-lessons-in",
+   "bookmarklet" : 0,
+   "from-feed-id" : 0,
+   "id" : "62792469348",
+   "link-description" : "<p><a href=\"http://dghost.tumblr.com/post/62791914318/the-page-fault-weird-machine-lessons-in\" class=\"tumblr_blog\">dghost</a>:</p>\n\n<blockquote><blockquote>\n<p>Trust Analysis, i.e. determining that a system will not execute some class of computations, typically assumes that all computation is captured by an instruction trace. We show that powerful computation on x86 processors is possible without executing any CPU instructions. We demonstrate a Turing-complete execution environment driven solely by the IA32 architectureâs interrupt handling and memory translation tables, in which the processor is trapped in a series of page faults and double faults, without ever successfully dispatching any instructions. The âhard-wiredâ logic of handling these faults is used to perform arithmetic and logic primitives, as well as memory reads and writes. This mechanism can also perform branches and loops if the memory is set up and mapped just right. We discuss the lessons of this execution model for future trustworthy architectures.</p>\n</blockquote>\n<p>Whoa.</p></blockquote>\n\n<p>&ldquo;Constructing the Weird Machine&rdquo;</p>",
+   "link-url" : "https://www.usenix.org/conference/woot13/page-fault-weird-machine-lessons-instruction-less-computation",
+   "date" : "Tue, 01 Oct 2013 00:33:18",
+   "format" : "html",
+   "feed-item" : "",
+   "url" : "http://tumblr.ggvaidya.com/post/62792469348",
+   "type" : "link",
+   "reblog-key" : "nLBGVwOy"
 }
 

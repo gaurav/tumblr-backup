@@ -1,19 +1,17 @@
 {
-   "bookmarklet" : 0,
-   "from-feed-id" : 0,
-   "quote-source" : "Jasper Fforde, <em><a href=\"http://en.wikipedia.org/wiki/Something_Rotten\">Something Rotten</a></em>",
-   "unix-timestamp" : 1401235561,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/87049539599/that-evening-as-i-was-reading-pinocchio-to",
-   "format" : "html",
-   "date-gmt" : "2014-05-28 00:06:01 GMT",
-   "slug" : "that-evening-as-i-was-reading-pinocchio-to",
-   "id" : "87049539599",
-   "type" : "quote",
+   "feed-item" : "",
    "url" : "http://tumblr.ggvaidya.com/post/87049539599",
+   "type" : "quote",
    "reblog-key" : "4uFdA8KT",
    "date" : "Tue, 27 May 2014 18:06:01",
-   "quote-text" : "<p>That evening, as I was reading <em>Pinocchio</em> to Friday, a large tabby cat appeared on the wardrobe in my bedroom. He didn&rsquo;t appear instantly, either &ndash; he faded in from the tip of his tail all the way up to his very large grin. When he first started working in <em>Alice in Wonderland</em>, he was known as the Cheshire Cat, but the authorities moved the Cheshire county boundaries, and he thus became the Unitary Authority of Warrington Cat, but that was a bit of a mouthful, so he was known more affectionately as the Cat formerly known as Cheshire or, more simply, the Cat. His real name was Archibald, but that was reserved for his mother when she was cross with him.</p>\n\n<p>He worked very closely with us at Jurisfiction, where he was in charge of the Great Library, a cavernous and almost infinite depository of every book ever written. But to call the Cat a library would be an injustice. He was an Ã¼berlibrarian &ndash; he knew about all the books in his charge. When they were being read, by whom &ndash; everything.</p>",
-   "mobile" : 0,
+   "format" : "html",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/87049539599/that-evening-as-i-was-reading-pinocchio-to",
+   "bookmarklet" : 0,
+   "quote-source" : "Jasper Fforde, <em><a href=\"http://en.wikipedia.org/wiki/Something_Rotten\">Something Rotten</a></em>",
+   "from-feed-id" : 0,
+   "id" : "87049539599",
+   "slug" : "that-evening-as-i-was-reading-pinocchio-to",
+   "date-gmt" : "2014-05-28 00:06:01 GMT",
    "tags" : [
       "Thursday Next",
       "Cheshire Cat",
@@ -21,6 +19,8 @@
       "Something Rotten",
       "Jasper Fforde"
    ],
-   "feed-item" : ""
+   "quote-text" : "<p>That evening, as I was reading <em>Pinocchio</em> to Friday, a large tabby cat appeared on the wardrobe in my bedroom. He didn&rsquo;t appear instantly, either &ndash; he faded in from the tip of his tail all the way up to his very large grin. When he first started working in <em>Alice in Wonderland</em>, he was known as the Cheshire Cat, but the authorities moved the Cheshire county boundaries, and he thus became the Unitary Authority of Warrington Cat, but that was a bit of a mouthful, so he was known more affectionately as the Cat formerly known as Cheshire or, more simply, the Cat. His real name was Archibald, but that was reserved for his mother when she was cross with him.</p>\n\n<p>He worked very closely with us at Jurisfiction, where he was in charge of the Great Library, a cavernous and almost infinite depository of every book ever written. But to call the Cat a library would be an injustice. He was an Ã¼berlibrarian &ndash; he knew about all the books in his charge. When they were being read, by whom &ndash; everything.</p>",
+   "unix-timestamp" : 1401235561,
+   "mobile" : 0
 }
 

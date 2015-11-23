@@ -1,27 +1,27 @@
 {
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/86796930524/happy-towel-day-everybody",
    "format" : "html",
-   "unix-timestamp" : 1401030465,
-   "video-player" : "<iframe src=\"https://player.vimeo.com/video/18150761?title=0&byline=0&portrait=0\" width=\"400\" height=\"300\" frameborder=\"0\" title=\"Interview with the late Douglas Adams speaking about artificial life\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
-   "from-feed-id" : 0,
-   "bookmarklet" : 0,
-   "video-player-500" : "<iframe src=\"https://player.vimeo.com/video/18150761?title=0&byline=0&portrait=0\" width=\"500\" height=\"375\" frameborder=\"0\" title=\"Interview with the late Douglas Adams speaking about artificial life\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
-   "date-gmt" : "2014-05-25 15:07:45 GMT",
-   "slug" : "happy-towel-day-everybody",
-   "id" : "86796930524",
-   "video-caption" : "<p>Happy <a href=\"http://towelday.org/\">Towel Day</a>, everybody.</p>",
+   "video-source" : "http://vimeo.com/18150761",
    "date" : "Sun, 25 May 2014 09:07:45",
    "video-player-250" : "<iframe src=\"https://player.vimeo.com/video/18150761?title=0&byline=0&portrait=0\" width=\"250\" height=\"188\" frameborder=\"0\" title=\"Interview with the late Douglas Adams speaking about artificial life\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
    "reblog-key" : "QnCWUrFQ",
-   "type" : "video",
    "url" : "http://tumblr.ggvaidya.com/post/86796930524",
    "feed-item" : "",
-   "video-source" : "http://vimeo.com/18150761",
+   "type" : "video",
+   "slug" : "happy-towel-day-everybody",
+   "from-feed-id" : 0,
+   "id" : "86796930524",
+   "video-caption" : "<p>Happy <a href=\"http://towelday.org/\">Towel Day</a>, everybody.</p>",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/86796930524/happy-towel-day-everybody",
+   "bookmarklet" : 0,
+   "date-gmt" : "2014-05-25 15:07:45 GMT",
    "tags" : [
       "towel day",
       "douglas adams",
       "douglas noel adams"
    ],
-   "mobile" : 0
+   "mobile" : 0,
+   "video-player" : "<iframe src=\"https://player.vimeo.com/video/18150761?title=0&byline=0&portrait=0\" width=\"400\" height=\"300\" frameborder=\"0\" title=\"Interview with the late Douglas Adams speaking about artificial life\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+   "unix-timestamp" : 1401030465,
+   "video-player-500" : "<iframe src=\"https://player.vimeo.com/video/18150761?title=0&byline=0&portrait=0\" width=\"500\" height=\"375\" frameborder=\"0\" title=\"Interview with the late Douglas Adams speaking about artificial life\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
 }
 

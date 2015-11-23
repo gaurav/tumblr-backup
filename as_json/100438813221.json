@@ -1,24 +1,24 @@
 {
-   "bookmarklet" : 0,
+   "id" : "100438813221",
    "from-feed-id" : 0,
+   "bookmarklet" : 0,
    "quote-source" : "A Somali student, on what has surprised her most about the United States.Â  (via <a class=\"tumblr_blog\" href=\"http://33113.tumblr.com/\">33113</a>)",
-   "unix-timestamp" : 1413751214,
-   "format" : "html",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/100438813221/when-people-say-this-is-my-baby-they-dont",
    "slug" : "when-people-say-this-is-my-baby-they-dont",
-   "id" : "100438813221",
-   "date-gmt" : "2014-10-19 20:40:14 GMT",
-   "url" : "http://tumblr.ggvaidya.com/post/100438813221",
-   "type" : "quote",
    "reblog-key" : "dvo1rHto",
-   "quote-text" : "When people say âThis is my baby,â they donât always mean a baby. Sometimes they mean a dog.",
+   "type" : "quote",
+   "feed-item" : "",
+   "url" : "http://tumblr.ggvaidya.com/post/100438813221",
+   "format" : "html",
    "date" : "Sun, 19 Oct 2014 14:40:14",
    "mobile" : 0,
+   "unix-timestamp" : 1413751214,
    "tags" : [
       "hee",
       "dogs",
       "a very boulder thing"
    ],
-   "feed-item" : ""
+   "date-gmt" : "2014-10-19 20:40:14 GMT",
+   "quote-text" : "When people say âThis is my baby,â they donât always mean a baby. Sometimes they mean a dog."
 }
 

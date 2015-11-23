@@ -1,22 +1,16 @@
 {
-   "date-gmt" : "2012-05-24 04:22:05 GMT",
-   "slug" : "i-love-dr-fishman-truly-madly-deeply",
-   "id" : "23655940933",
-   "from-feed-id" : 0,
-   "bookmarklet" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/23655940933/i-love-dr-fishman-truly-madly-deeply",
    "format" : "html",
-   "unix-timestamp" : 1337833325,
    "conversation-text" : "Michael: How is he, doctor?\r\nDr. Fishman: It looks like heâs dead.\r\nLucille: Oh my god!\r\nG.O.B.: Oh little guy. The tears arenât coming. The tears just arenât coming.\r\nMichael: Just to be clear. Looks like heâs dead, or he is dead?\r\nDr. Fishman: It just looks like heâs dead. Heâs got like blue paint on him or something. But heâs going to be fine.\r\nG.O.B.: What is wrong with you?\r\nMaeby: This bleeping doctor!\r\nDr. Fishman: Iâll let you celebrate privately.\r\nLucille: We want this comped!",
+   "date" : "Wed, 23 May 2012 22:22:05",
    "conversation" : [
       {
+         "label" : "Michael:",
          "phrase" : "How is he, doctor?\r",
-         "name" : "Michael",
-         "label" : "Michael:"
+         "name" : "Michael"
       },
       {
-         "phrase" : "It looks like heâs dead.\r",
          "name" : "Dr. Fishman",
+         "phrase" : "It looks like heâs dead.\r",
          "label" : "Dr. Fishman:"
       },
       {
@@ -26,18 +20,18 @@
       },
       {
          "name" : "G.O.B.",
-         "phrase" : "Oh little guy. The tears arenât coming. The tears just arenât coming.\r",
-         "label" : "G.O.B.:"
+         "label" : "G.O.B.:",
+         "phrase" : "Oh little guy. The tears arenât coming. The tears just arenât coming.\r"
       },
       {
+         "label" : "Michael:",
          "phrase" : "Just to be clear. Looks like heâs dead, or he is dead?\r",
-         "name" : "Michael",
-         "label" : "Michael:"
+         "name" : "Michael"
       },
       {
+         "label" : "Dr. Fishman:",
          "phrase" : "It just looks like heâs dead. Heâs got like blue paint on him or something. But heâs going to be fine.\r",
-         "name" : "Dr. Fishman",
-         "label" : "Dr. Fishman:"
+         "name" : "Dr. Fishman"
       },
       {
          "label" : "G.O.B.:",
@@ -46,31 +40,37 @@
       },
       {
          "phrase" : "This bleeping doctor!\r",
-         "name" : "Maeby",
-         "label" : "Maeby:"
+         "label" : "Maeby:",
+         "name" : "Maeby"
       },
       {
-         "phrase" : "Iâll let you celebrate privately.\r",
          "name" : "Dr. Fishman",
+         "phrase" : "Iâll let you celebrate privately.\r",
          "label" : "Dr. Fishman:"
       },
       {
          "label" : "Lucille:",
-         "name" : "Lucille",
-         "phrase" : "We want this comped!"
+         "phrase" : "We want this comped!",
+         "name" : "Lucille"
       }
    ],
-   "mobile" : 0,
+   "reblog-key" : "LcMdVrf2",
+   "type" : "conversation",
+   "url" : "http://tumblr.ggvaidya.com/post/23655940933",
    "feed-item" : "",
+   "slug" : "i-love-dr-fishman-truly-madly-deeply",
+   "from-feed-id" : 0,
+   "id" : "23655940933",
+   "bookmarklet" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/23655940933/i-love-dr-fishman-truly-madly-deeply",
+   "conversation-title" : "I love Dr. Fishman truly, madly, deeply",
    "tags" : [
       "dr fishman",
       "the literal doctor",
       "arrested development"
    ],
-   "type" : "conversation",
-   "url" : "http://tumblr.ggvaidya.com/post/23655940933",
-   "conversation-title" : "I love Dr. Fishman truly, madly, deeply",
-   "date" : "Wed, 23 May 2012 22:22:05",
-   "reblog-key" : "LcMdVrf2"
+   "date-gmt" : "2012-05-24 04:22:05 GMT",
+   "mobile" : 0,
+   "unix-timestamp" : 1337833325
 }
 

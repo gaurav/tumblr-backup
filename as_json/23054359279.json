@@ -1,11 +1,20 @@
 {
-   "slug" : "is-there-an-upper-limit-to-willows-adorkability",
-   "id" : "23054359279",
+   "conversation-title" : "Is there an upper limit to Willow's adorkability? (Buffy S2 E14)",
+   "tags" : [
+      "Buffy The Vampire Slayer",
+      "Willow",
+      "adorkable"
+   ],
    "date-gmt" : "2012-05-14 20:24:50 GMT",
-   "from-feed-id" : 0,
-   "bookmarklet" : 0,
+   "mobile" : 0,
+   "unix-timestamp" : 1337027090,
+   "reblog-key" : "mtunQ4hD",
+   "type" : "conversation",
+   "feed-item" : "",
+   "url" : "http://tumblr.ggvaidya.com/post/23054359279",
    "format" : "html",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/23054359279/is-there-an-upper-limit-to-willows-adorkability",
+   "conversation-text" : "Xander: Willow, come on!\r\nWillow: I knew it. I knew it. Well, not \"knew it\" in the sense of having the slightest idea, but I knew there was something I didn't know. You two were fighting way too much, it's not natural.\r\nXander: I know it's weird.\r\nWillow: Weird? It's against all laws of God and man. It's Cordelia. Remember? The We Hate Cordelia club of which you are the treasurer.\r\nXander: I was going to tell you.\r\nWillow: Gee, what stopped you, could it be shame?",
+   "date" : "Mon, 14 May 2012 14:24:50",
    "conversation" : [
       {
          "label" : "Xander:",
@@ -13,14 +22,14 @@
          "name" : "Xander"
       },
       {
-         "phrase" : "I knew it. I knew it. Well, not \"knew it\" in the sense of having the slightest idea, but I knew there was something I didn't know. You two were fighting way too much, it's not natural.\r",
          "name" : "Willow",
+         "phrase" : "I knew it. I knew it. Well, not \"knew it\" in the sense of having the slightest idea, but I knew there was something I didn't know. You two were fighting way too much, it's not natural.\r",
          "label" : "Willow:"
       },
       {
-         "name" : "Xander",
          "phrase" : "I know it's weird.\r",
-         "label" : "Xander:"
+         "label" : "Xander:",
+         "name" : "Xander"
       },
       {
          "name" : "Willow",
@@ -29,28 +38,19 @@
       },
       {
          "name" : "Xander",
-         "phrase" : "I was going to tell you.\r",
-         "label" : "Xander:"
+         "label" : "Xander:",
+         "phrase" : "I was going to tell you.\r"
       },
       {
-         "name" : "Willow",
          "phrase" : "Gee, what stopped you, could it be shame?",
-         "label" : "Willow:"
+         "label" : "Willow:",
+         "name" : "Willow"
       }
    ],
-   "conversation-text" : "Xander: Willow, come on!\r\nWillow: I knew it. I knew it. Well, not \"knew it\" in the sense of having the slightest idea, but I knew there was something I didn't know. You two were fighting way too much, it's not natural.\r\nXander: I know it's weird.\r\nWillow: Weird? It's against all laws of God and man. It's Cordelia. Remember? The We Hate Cordelia club of which you are the treasurer.\r\nXander: I was going to tell you.\r\nWillow: Gee, what stopped you, could it be shame?",
-   "unix-timestamp" : 1337027090,
-   "mobile" : 0,
-   "feed-item" : "",
-   "tags" : [
-      "Buffy The Vampire Slayer",
-      "Willow",
-      "adorkable"
-   ],
-   "url" : "http://tumblr.ggvaidya.com/post/23054359279",
-   "type" : "conversation",
-   "conversation-title" : "Is there an upper limit to Willow's adorkability? (Buffy S2 E14)",
-   "date" : "Mon, 14 May 2012 14:24:50",
-   "reblog-key" : "mtunQ4hD"
+   "id" : "23054359279",
+   "from-feed-id" : 0,
+   "bookmarklet" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/23054359279/is-there-an-upper-limit-to-willows-adorkability",
+   "slug" : "is-there-an-upper-limit-to-willows-adorkability"
 }
 

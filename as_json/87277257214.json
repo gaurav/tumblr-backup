@@ -1,24 +1,24 @@
 {
-   "bookmarklet" : 0,
-   "from-feed-id" : 0,
-   "quote-source" : "The Economist, <a href=\"http://www.economist.com/news/obituary/21602177-nina-cassian-romanian-born-poet-exiled-new-york-died-april-14th-aged-89-nina-cassian?frsc=dg%7Cc\">Obituary: Nina Cassian</a>, May 17, 2014.",
-   "unix-timestamp" : 1401430375,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/87277257214/i-stood-during-the-entire-journey-nobody-offered",
    "format" : "html",
-   "date-gmt" : "2014-05-30 06:12:55 GMT",
+   "date" : "Fri, 30 May 2014 00:12:55",
+   "reblog-key" : "ct0zGSOr",
+   "feed-item" : "",
+   "url" : "http://tumblr.ggvaidya.com/post/87277257214",
+   "type" : "quote",
    "slug" : "i-stood-during-the-entire-journey-nobody-offered",
    "id" : "87277257214",
-   "type" : "quote",
-   "url" : "http://tumblr.ggvaidya.com/post/87277257214",
-   "reblog-key" : "ct0zGSOr",
-   "date" : "Fri, 30 May 2014 00:12:55",
+   "from-feed-id" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/87277257214/i-stood-during-the-entire-journey-nobody-offered",
+   "bookmarklet" : 0,
+   "quote-source" : "The Economist, <a href=\"http://www.economist.com/news/obituary/21602177-nina-cassian-romanian-born-poet-exiled-new-york-died-april-14th-aged-89-nina-cassian?frsc=dg%7Cc\">Obituary: Nina Cassian</a>, May 17, 2014.",
    "quote-text" : "I stood during the entire journey:<br/>\nnobody offered me a seat<br/>\nalthough I was at least a hundred years older than anyone else on board,<br/>\nalthough the signs of least three serious afflictions were visible on me:<br/>\nPride, Loneliness, and Art.",
-   "mobile" : 0,
+   "date-gmt" : "2014-05-30 06:12:55 GMT",
    "tags" : [
       "the economist",
       "poetry",
       "nina cassian"
    ],
-   "feed-item" : ""
+   "mobile" : 0,
+   "unix-timestamp" : 1401430375
 }
 

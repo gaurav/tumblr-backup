@@ -1,57 +1,57 @@
 {
-   "date" : "Thu, 26 Sep 2013 14:40:29",
-   "reblog-key" : "ULga6sY9",
+   "unix-timestamp" : 1380228029,
    "width" : 991,
-   "photos" : [
-      {
-         "offset" : "o1",
-         "photo-url-250" : "http://41.media.tumblr.com/5aa5cab76f890a2a944a2a40b9c87925/tumblr_mrsb40CYh51soj7s4o1_250.jpg",
-         "photo-url-500" : "http://40.media.tumblr.com/5aa5cab76f890a2a944a2a40b9c87925/tumblr_mrsb40CYh51soj7s4o1_500.jpg",
-         "photo-url-400" : "http://40.media.tumblr.com/5aa5cab76f890a2a944a2a40b9c87925/tumblr_mrsb40CYh51soj7s4o1_400.jpg",
-         "caption" : "",
-         "photo-url-75" : "http://40.media.tumblr.com/5aa5cab76f890a2a944a2a40b9c87925/tumblr_mrsb40CYh51soj7s4o1_75sq.jpg",
-         "width" : 991,
-         "height" : 1372,
-         "photo-url-100" : "http://40.media.tumblr.com/5aa5cab76f890a2a944a2a40b9c87925/tumblr_mrsb40CYh51soj7s4o1_100.jpg",
-         "photo-url-1280" : "http://40.media.tumblr.com/5aa5cab76f890a2a944a2a40b9c87925/tumblr_mrsb40CYh51soj7s4o1_1280.jpg"
-      },
-      {
-         "offset" : "o2",
-         "photo-url-250" : "http://40.media.tumblr.com/4b1f5786e69df3537a8accf85c93f7b9/tumblr_mrsb40CYh51soj7s4o2_250.jpg",
-         "photo-url-500" : "http://41.media.tumblr.com/4b1f5786e69df3537a8accf85c93f7b9/tumblr_mrsb40CYh51soj7s4o2_500.jpg",
-         "photo-url-400" : "http://36.media.tumblr.com/4b1f5786e69df3537a8accf85c93f7b9/tumblr_mrsb40CYh51soj7s4o2_400.jpg",
-         "photo-url-75" : "http://41.media.tumblr.com/4b1f5786e69df3537a8accf85c93f7b9/tumblr_mrsb40CYh51soj7s4o2_75sq.jpg",
-         "caption" : "",
-         "width" : 1562,
-         "height" : 1505,
-         "photo-url-100" : "http://40.media.tumblr.com/4b1f5786e69df3537a8accf85c93f7b9/tumblr_mrsb40CYh51soj7s4o2_100.jpg",
-         "photo-url-1280" : "http://40.media.tumblr.com/4b1f5786e69df3537a8accf85c93f7b9/tumblr_mrsb40CYh51soj7s4o2_1280.jpg"
-      }
-   ],
-   "url" : "http://tumblr.ggvaidya.com/post/62356835896",
-   "type" : "photo",
-   "height" : 1372,
-   "feed-item" : "",
-   "photo-url-400" : "http://40.media.tumblr.com/5aa5cab76f890a2a944a2a40b9c87925/tumblr_mrsb40CYh51soj7s4o1_400.jpg",
+   "mobile" : 0,
+   "date-gmt" : "2013-09-26 20:40:29 GMT",
+   "photo-url-1280" : "http://40.media.tumblr.com/5aa5cab76f890a2a944a2a40b9c87925/tumblr_mrsb40CYh51soj7s4o1_1280.jpg",
    "tags" : [
       "omg",
       "octopus",
       "doodles"
    ],
-   "photo-url-500" : "http://40.media.tumblr.com/5aa5cab76f890a2a944a2a40b9c87925/tumblr_mrsb40CYh51soj7s4o1_500.jpg",
-   "mobile" : 0,
-   "format" : "html",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/62356835896/erikkwakkel-octopus-fingers-as-we-still-do",
-   "unix-timestamp" : 1380228029,
    "photo-url-100" : "http://40.media.tumblr.com/5aa5cab76f890a2a944a2a40b9c87925/tumblr_mrsb40CYh51soj7s4o1_100.jpg",
-   "photo-url-1280" : "http://40.media.tumblr.com/5aa5cab76f890a2a944a2a40b9c87925/tumblr_mrsb40CYh51soj7s4o1_1280.jpg",
-   "from-feed-id" : 0,
-   "bookmarklet" : 0,
-   "photo-url-250" : "http://41.media.tumblr.com/5aa5cab76f890a2a944a2a40b9c87925/tumblr_mrsb40CYh51soj7s4o1_250.jpg",
-   "id" : "62356835896",
+   "photo-url-500" : "http://40.media.tumblr.com/5aa5cab76f890a2a944a2a40b9c87925/tumblr_mrsb40CYh51soj7s4o1_500.jpg",
    "slug" : "erikkwakkel-octopus-fingers-as-we-still-do",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/62356835896/erikkwakkel-octopus-fingers-as-we-still-do",
+   "bookmarklet" : 0,
+   "photos" : [
+      {
+         "width" : 991,
+         "photo-url-500" : "http://40.media.tumblr.com/5aa5cab76f890a2a944a2a40b9c87925/tumblr_mrsb40CYh51soj7s4o1_500.jpg",
+         "photo-url-75" : "http://40.media.tumblr.com/5aa5cab76f890a2a944a2a40b9c87925/tumblr_mrsb40CYh51soj7s4o1_75sq.jpg",
+         "offset" : "o1",
+         "height" : 1372,
+         "photo-url-250" : "http://41.media.tumblr.com/5aa5cab76f890a2a944a2a40b9c87925/tumblr_mrsb40CYh51soj7s4o1_250.jpg",
+         "photo-url-400" : "http://40.media.tumblr.com/5aa5cab76f890a2a944a2a40b9c87925/tumblr_mrsb40CYh51soj7s4o1_400.jpg",
+         "photo-url-1280" : "http://40.media.tumblr.com/5aa5cab76f890a2a944a2a40b9c87925/tumblr_mrsb40CYh51soj7s4o1_1280.jpg",
+         "photo-url-100" : "http://40.media.tumblr.com/5aa5cab76f890a2a944a2a40b9c87925/tumblr_mrsb40CYh51soj7s4o1_100.jpg",
+         "caption" : ""
+      },
+      {
+         "photo-url-500" : "http://41.media.tumblr.com/4b1f5786e69df3537a8accf85c93f7b9/tumblr_mrsb40CYh51soj7s4o2_500.jpg",
+         "width" : 1562,
+         "photo-url-1280" : "http://40.media.tumblr.com/4b1f5786e69df3537a8accf85c93f7b9/tumblr_mrsb40CYh51soj7s4o2_1280.jpg",
+         "photo-url-100" : "http://40.media.tumblr.com/4b1f5786e69df3537a8accf85c93f7b9/tumblr_mrsb40CYh51soj7s4o2_100.jpg",
+         "caption" : "",
+         "photo-url-250" : "http://40.media.tumblr.com/4b1f5786e69df3537a8accf85c93f7b9/tumblr_mrsb40CYh51soj7s4o2_250.jpg",
+         "photo-url-400" : "http://36.media.tumblr.com/4b1f5786e69df3537a8accf85c93f7b9/tumblr_mrsb40CYh51soj7s4o2_400.jpg",
+         "photo-url-75" : "http://41.media.tumblr.com/4b1f5786e69df3537a8accf85c93f7b9/tumblr_mrsb40CYh51soj7s4o2_75sq.jpg",
+         "height" : 1505,
+         "offset" : "o2"
+      }
+   ],
+   "from-feed-id" : 0,
+   "id" : "62356835896",
    "photo-caption" : "<p><a href=\"http://erikkwakkel.tumblr.com/post/58711788590/octopus-fingers-as-we-still-do-today-medieval\" class=\"tumblr_blog\">erikkwakkel</a>:</p>\n\n<blockquote><p><b>Octopus fingers</b></p>\n<p>As we still do today, medieval readers liked to mark, with a pen, passages they deemed important, useful or entertaining. While we tend to draw a thin vertical line next to the text, in medieval books this practice is often far less subtle. The pages above are from a 14th-century book with Ciceroâs <em>Paradoxa stoicorum</em>. A reader from the 15th century was apparently very fond of this text. As he read it he marked important passages in a variety of ways. The two above are most remarkable: in one case he drew an octopus whose wide-spread tentacles âgrabâ an important passage; in the other he drew a variation on the widely-used pointing finger: a hand whose long fingers are twisting and turning in an attempt to mark a long passage. The parallel between the two is striking: the tentacles are like fingers, the fingers like tentacles.</p>\n<p>Pic: Berkeley, Bancroft Library, BANC MS UCB 085 (Italy, 1350-1400). More information about the manuscript <a href=\"http://ucblibrary4.berkeley.edu:8088/xtf22/search?rmode=digscript;shelfmark=085;smode=basic;docsPerPage=1;startDoc=1;fullview=yes\">here</a>.</p></blockquote>",
-   "date-gmt" : "2013-09-26 20:40:29 GMT",
-   "photo-url-75" : "http://40.media.tumblr.com/5aa5cab76f890a2a944a2a40b9c87925/tumblr_mrsb40CYh51soj7s4o1_75sq.jpg"
+   "date" : "Thu, 26 Sep 2013 14:40:29",
+   "photo-url-75" : "http://40.media.tumblr.com/5aa5cab76f890a2a944a2a40b9c87925/tumblr_mrsb40CYh51soj7s4o1_75sq.jpg",
+   "height" : 1372,
+   "format" : "html",
+   "feed-item" : "",
+   "url" : "http://tumblr.ggvaidya.com/post/62356835896",
+   "type" : "photo",
+   "photo-url-250" : "http://41.media.tumblr.com/5aa5cab76f890a2a944a2a40b9c87925/tumblr_mrsb40CYh51soj7s4o1_250.jpg",
+   "photo-url-400" : "http://40.media.tumblr.com/5aa5cab76f890a2a944a2a40b9c87925/tumblr_mrsb40CYh51soj7s4o1_400.jpg",
+   "reblog-key" : "ULga6sY9"
 }
 
