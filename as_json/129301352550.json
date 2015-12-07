@@ -1,12 +1,19 @@
 {
-   "date-gmt" : "2015-09-17 20:20:22 GMT",
+   "reblog-key" : "FNWB9sdq",
+   "conversation-title" : "Moar XP moar problems",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/129301352550/moar-xp-moar-problems",
+   "slug" : "moar-xp-moar-problems",
+   "id" : "129301352550",
    "tags" : [
       "oots",
       "oots292"
    ],
-   "conversation-title" : "Moar XP moar problems",
-   "unix-timestamp" : 1442521222,
-   "mobile" : 0,
+   "type" : "conversation",
+   "url" : "http://tumblr.ggvaidya.com/post/129301352550",
+   "date-gmt" : "2015-09-17 20:20:22 GMT",
+   "feed-item" : "",
+   "from-feed-id" : 0,
+   "date" : "Thu, 17 Sep 2015 14:20:22",
    "conversation" : [
       {
          "name" : "Eugene Greenhilt",
@@ -14,24 +21,24 @@
          "phrase" : "Xykon is alive!"
       },
       {
-         "label" : "Roy Greenhilt:",
+         "name" : "Roy Greenhilt",
          "phrase" : "*gasps* What??",
-         "name" : "Roy Greenhilt"
-      },
-      {
-         "label" : "Eugene:",
-         "phrase" : "Well, I don't mean actually alive. Technically, he's still dead, just not, you know, DEAD-dead.",
-         "name" : "Eugene"
-      },
-      {
-         "phrase" : "He's undead, right, so he's up and moving around, even though he's still life signs: negative. But it's not like he just spontaneously came back to live.",
-         "label" : "Eugene:",
-         "name" : "Eugene"
+         "label" : "Roy Greenhilt:"
       },
       {
          "name" : "Eugene",
          "label" : "Eugene:",
-         "phrase" : "I mean, he DID come back spontaneously, but back to, uh, undeath, I suppose."
+         "phrase" : "Well, I don't mean actually alive. Technically, he's still dead, just not, you know, DEAD-dead."
+      },
+      {
+         "label" : "Eugene:",
+         "phrase" : "He's undead, right, so he's up and moving around, even though he's still life signs: negative. But it's not like he just spontaneously came back to live.",
+         "name" : "Eugene"
+      },
+      {
+         "label" : "Eugene:",
+         "phrase" : "I mean, he DID come back spontaneously, but back to, uh, undeath, I suppose.",
+         "name" : "Eugene"
       },
       {
          "name" : "Roy",
@@ -39,17 +46,10 @@
          "label" : "Roy:"
       }
    ],
-   "date" : "Thu, 17 Sep 2015 14:20:22",
-   "conversation-text" : "Eugene Greenhilt: Xykon is alive!\nRoy Greenhilt: *gasps* What??\nEugene: Well, I don't mean actually alive. Technically, he's still dead, just not, you know, DEAD-dead.\nEugene: He's undead, right, so he's up and moving around, even though he's still life signs: negative. But it's not like he just spontaneously came back to live.\nEugene: I mean, he DID come back spontaneously, but back to, uh, undeath, I suppose.\nRoy: Just curious, do you get XP for killing this dramatic moment?",
-   "format" : "html",
-   "url" : "http://tumblr.ggvaidya.com/post/129301352550",
-   "feed-item" : "",
-   "type" : "conversation",
-   "reblog-key" : "FNWB9sdq",
-   "slug" : "moar-xp-moar-problems",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/129301352550/moar-xp-moar-problems",
    "bookmarklet" : 0,
-   "from-feed-id" : 0,
-   "id" : "129301352550"
+   "conversation-text" : "Eugene Greenhilt: Xykon is alive!\nRoy Greenhilt: *gasps* What??\nEugene: Well, I don't mean actually alive. Technically, he's still dead, just not, you know, DEAD-dead.\nEugene: He's undead, right, so he's up and moving around, even though he's still life signs: negative. But it's not like he just spontaneously came back to live.\nEugene: I mean, he DID come back spontaneously, but back to, uh, undeath, I suppose.\nRoy: Just curious, do you get XP for killing this dramatic moment?",
+   "unix-timestamp" : 1442521222,
+   "mobile" : 0,
+   "format" : "html"
 }
 

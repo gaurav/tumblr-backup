@@ -1,23 +1,23 @@
 {
+   "from-feed-id" : 0,
+   "feed-item" : "",
    "date-gmt" : "2015-05-12 19:09:42 GMT",
+   "url" : "http://tumblr.ggvaidya.com/post/118798602304",
+   "format" : "html",
+   "mobile" : 0,
+   "unix-timestamp" : 1431457782,
+   "bookmarklet" : 0,
+   "date" : "Tue, 12 May 2015 13:09:42",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/118798602304/writing-a-good-discussion-is-the-critical-act-of",
+   "reblog-key" : "aJ75brQn",
+   "quote-source" : "Joshua Schimel, <em>Writing Science</em>, Oxford University Press, 2012.",
+   "type" : "quote",
    "tags" : [
       "gee thanks",
       "that was very helpful"
    ],
-   "quote-text" : "Writing a good Discussion is <em>the</em> critical act of creativity in science that no book can teach.",
-   "mobile" : 0,
-   "unix-timestamp" : 1431457782,
-   "reblog-key" : "aJ75brQn",
-   "url" : "http://tumblr.ggvaidya.com/post/118798602304",
-   "feed-item" : "",
-   "type" : "quote",
-   "format" : "html",
-   "date" : "Tue, 12 May 2015 13:09:42",
    "id" : "118798602304",
-   "from-feed-id" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/118798602304/writing-a-good-discussion-is-the-critical-act-of",
-   "quote-source" : "Joshua Schimel, <em>Writing Science</em>, Oxford University Press, 2012.",
-   "bookmarklet" : 0,
+   "quote-text" : "Writing a good Discussion is <em>the</em> critical act of creativity in science that no book can teach.",
    "slug" : "writing-a-good-discussion-is-the-critical-act-of"
 }
 

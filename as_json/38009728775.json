@@ -1,28 +1,29 @@
 {
-   "conversation-title" : "Ayn Rand vs Jim Henson, part 1: \"Senseless Entertainment\"",
-   "date-gmt" : "2012-12-15 21:40:31 GMT",
-   "mobile" : 0,
-   "unix-timestamp" : 1355607631,
-   "reblog-key" : "M3hj62nH",
    "type" : "conversation",
-   "url" : "http://tumblr.ggvaidya.com/post/38009728775",
-   "feed-item" : "",
+   "id" : "38009728775",
+   "slug" : "ayn-rand-vs-jim-henson-part-1-senseless",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/38009728775/ayn-rand-vs-jim-henson-part-1-senseless",
+   "conversation-title" : "Ayn Rand vs Jim Henson, part 1: \"Senseless Entertainment\"",
+   "reblog-key" : "M3hj62nH",
    "format" : "html",
+   "unix-timestamp" : 1355607631,
+   "mobile" : 0,
+   "bookmarklet" : 0,
    "conversation-text" : "Sidney Nolan: Who is your favourite puppet from the line of characters you have created Jim. \r\nJim Henson: Each character is special for me they represent different aspects of myself. Kermit the frog is perhaps closest to me. An altar ego of sorts. \r\nAyn Rand: What does that say about you. \r\n[..]\r\nJim Henson: I dont know. I donât think too much about it.\r\n[..]\r\nAyn Rand: To be honest I find it to be senseless entertainment. I prefer the celebration of men and what they can achieve. \r\nJim Henson: Do you have children Ms Rand. \r\nAyn Rand: What do children have to do with what I prefer.\r\n[..]\r\nJim Henson: I find that being a parent being close to children has broadened my perspective allowed me to empathize and understand more than I ever did before. I hope that empathy comes through in my senseless entertainment.",
    "conversation" : [
       {
-         "label" : "Sidney Nolan:",
          "phrase" : "Who is your favourite puppet from the line of characters you have created Jim. \r",
+         "label" : "Sidney Nolan:",
          "name" : "Sidney Nolan"
       },
       {
-         "name" : "Jim Henson",
          "phrase" : "Each character is special for me they represent different aspects of myself. Kermit the frog is perhaps closest to me. An altar ego of sorts. \r",
-         "label" : "Jim Henson:"
+         "label" : "Jim Henson:",
+         "name" : "Jim Henson"
       },
       {
-         "label" : "Ayn Rand:",
          "phrase" : "What does that say about you. \r",
+         "label" : "Ayn Rand:",
          "name" : "Ayn Rand"
       },
       {
@@ -32,18 +33,18 @@
       },
       {
          "name" : "Jim Henson",
-         "label" : "Jim Henson:",
-         "phrase" : "I dont know. I donât think too much about it.\r"
+         "phrase" : "I dont know. I donât think too much about it.\r",
+         "label" : "Jim Henson:"
       },
       {
-         "name" : "",
+         "phrase" : "[..]\r",
          "label" : "",
-         "phrase" : "[..]\r"
+         "name" : ""
       },
       {
-         "label" : "Ayn Rand:",
+         "name" : "Ayn Rand",
          "phrase" : "To be honest I find it to be senseless entertainment. I prefer the celebration of men and what they can achieve. \r",
-         "name" : "Ayn Rand"
+         "label" : "Ayn Rand:"
       },
       {
          "name" : "Jim Henson",
@@ -52,8 +53,8 @@
       },
       {
          "name" : "Ayn Rand",
-         "phrase" : "What do children have to do with what I prefer.\r",
-         "label" : "Ayn Rand:"
+         "label" : "Ayn Rand:",
+         "phrase" : "What do children have to do with what I prefer.\r"
       },
       {
          "name" : "",
@@ -61,16 +62,15 @@
          "phrase" : "[..]\r"
       },
       {
-         "phrase" : "I find that being a parent being close to children has broadened my perspective allowed me to empathize and understand more than I ever did before. I hope that empathy comes through in my senseless entertainment.",
+         "name" : "Jim Henson",
          "label" : "Jim Henson:",
-         "name" : "Jim Henson"
+         "phrase" : "I find that being a parent being close to children has broadened my perspective allowed me to empathize and understand more than I ever did before. I hope that empathy comes through in my senseless entertainment."
       }
    ],
    "date" : "Sat, 15 Dec 2012 14:40:31",
-   "id" : "38009728775",
    "from-feed-id" : 0,
-   "bookmarklet" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/38009728775/ayn-rand-vs-jim-henson-part-1-senseless",
-   "slug" : "ayn-rand-vs-jim-henson-part-1-senseless"
+   "date-gmt" : "2012-12-15 21:40:31 GMT",
+   "feed-item" : "",
+   "url" : "http://tumblr.ggvaidya.com/post/38009728775"
 }
 

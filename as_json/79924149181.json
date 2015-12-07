@@ -1,8 +1,10 @@
 {
-   "mobile" : 0,
-   "unix-timestamp" : 1395104826,
+   "reblog-key" : "qq6KWMD3",
+   "quote-source" : "Sarah Clinton, <em><a href=\"http://www.dumbingofage.com/2014/comic/book-4/02-i-was-a-teenage-churchmouse/talk-3/\">Talk</a></em>, Dumbing of Age, March 9, 2014.",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/79924149181/words-change-things-and-and-so-i-dont-want-the",
+   "slug" : "words-change-things-and-and-so-i-dont-want-the",
    "quote-text" : "Words <em>change</em> things, and &ndash; and so I don&rsquo;t want the things I like to go away.",
-   "date-gmt" : "2014-03-18 01:07:06 GMT",
+   "id" : "79924149181",
    "tags" : [
       "dumbing of age",
       "words",
@@ -10,17 +12,15 @@
       "life",
       "relationships"
    ],
-   "slug" : "words-change-things-and-and-so-i-dont-want-the",
-   "id" : "79924149181",
-   "from-feed-id" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/79924149181/words-change-things-and-and-so-i-dont-want-the",
-   "quote-source" : "Sarah Clinton, <em><a href=\"http://www.dumbingofage.com/2014/comic/book-4/02-i-was-a-teenage-churchmouse/talk-3/\">Talk</a></em>, Dumbing of Age, March 9, 2014.",
-   "bookmarklet" : 0,
-   "format" : "html",
-   "date" : "Mon, 17 Mar 2014 19:07:06",
-   "reblog-key" : "qq6KWMD3",
+   "type" : "quote",
    "url" : "http://tumblr.ggvaidya.com/post/79924149181",
    "feed-item" : "",
-   "type" : "quote"
+   "date-gmt" : "2014-03-18 01:07:06 GMT",
+   "from-feed-id" : 0,
+   "date" : "Mon, 17 Mar 2014 19:07:06",
+   "bookmarklet" : 0,
+   "unix-timestamp" : 1395104826,
+   "mobile" : 0,
+   "format" : "html"
 }
 

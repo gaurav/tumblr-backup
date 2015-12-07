@@ -1,19 +1,8 @@
 {
-   "video-source" : "http://www.youtube.com/watch?v=UrQM9cLGdU8",
-   "format" : "html",
-   "date" : "Sun, 10 Nov 2013 16:19:29",
-   "video-player-250" : "<iframe width=\"250\" height=\"187\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/UrQM9cLGdU8?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "reblog-key" : "2CtGvAqb",
-   "url" : "http://tumblr.ggvaidya.com/post/66618833160",
-   "feed-item" : "",
-   "type" : "video",
-   "slug" : "all-the-hammy-acting-in-dil-chahta-hain-reminds-me",
+   "video-player-500" : "<iframe width=\"500\" height=\"375\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/UrQM9cLGdU8?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
    "id" : "66618833160",
-   "from-feed-id" : 0,
-   "video-caption" : "<p>All the hammy acting in <em>Dil Chahta Hain</em> reminds me of this awesomely hammy TV advertisement from my childhood. They repeat the name of the product three times AND have a scare chord in the middle of the thing! Perfection.</p>",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/66618833160/all-the-hammy-acting-in-dil-chahta-hain-reminds-me",
-   "bookmarklet" : 0,
-   "date-gmt" : "2013-11-10 23:19:29 GMT",
+   "slug" : "all-the-hammy-acting-in-dil-chahta-hain-reminds-me",
+   "type" : "video",
    "tags" : [
       "Ashok Kumar",
       "Shammi Kapoor",
@@ -21,9 +10,20 @@
       "advertisement",
       "hindi"
    ],
-   "mobile" : 0,
+   "reblog-key" : "2CtGvAqb",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/66618833160/all-the-hammy-acting-in-dil-chahta-hain-reminds-me",
    "video-player" : "<iframe width=\"400\" height=\"300\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/UrQM9cLGdU8?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-source" : "http://www.youtube.com/watch?v=UrQM9cLGdU8",
+   "bookmarklet" : 0,
+   "date" : "Sun, 10 Nov 2013 16:19:29",
+   "video-player-250" : "<iframe width=\"250\" height=\"187\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/UrQM9cLGdU8?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "format" : "html",
    "unix-timestamp" : 1384125569,
-   "video-player-500" : "<iframe width=\"500\" height=\"375\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/UrQM9cLGdU8?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>"
+   "mobile" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/66618833160",
+   "video-caption" : "<p>All the hammy acting in <em>Dil Chahta Hain</em> reminds me of this awesomely hammy TV advertisement from my childhood. They repeat the name of the product three times AND have a scare chord in the middle of the thing! Perfection.</p>",
+   "from-feed-id" : 0,
+   "date-gmt" : "2013-11-10 23:19:29 GMT",
+   "feed-item" : ""
 }
 

@@ -1,23 +1,23 @@
 {
+   "bookmarklet" : 0,
    "date" : "Tue, 06 Jan 2015 11:03:19",
    "format" : "html",
-   "type" : "regular",
-   "feed-item" : "",
+   "mobile" : 0,
+   "unix-timestamp" : 1420567399,
    "url" : "http://tumblr.ggvaidya.com/post/107328339739",
-   "reblog-key" : "PlDy8mbt",
-   "regular-body" : "<p><a class=\"tumblr_blog\" href=\"http://lifeofaprofessionalstudent.tumblr.com/post/97773405622/trying-to-prioritize\">lifeofaprofessionalstudent</a>:</p>\n<blockquote>\n<p><img alt=\"image\" src=\"http://38.media.tumblr.com/b4c90cfea4d1cb49dc16730bd58a5e7e/tumblr_inline_nc2o91VvJb1sbr933.gif\"/></p>\n</blockquote>",
-   "slug" : "trying-to-prioritize",
-   "bookmarklet" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/107328339739/trying-to-prioritize",
    "from-feed-id" : 0,
-   "id" : "107328339739",
+   "date-gmt" : "2015-01-06 18:03:19 GMT",
+   "feed-item" : "",
    "regular-title" : "TRYING TO PRIORITIZE ",
+   "id" : "107328339739",
+   "slug" : "trying-to-prioritize",
+   "type" : "regular",
+   "regular-body" : "<p><a class=\"tumblr_blog\" href=\"http://lifeofaprofessionalstudent.tumblr.com/post/97773405622/trying-to-prioritize\">lifeofaprofessionalstudent</a>:</p>\n<blockquote>\n<p><img alt=\"image\" src=\"http://38.media.tumblr.com/b4c90cfea4d1cb49dc16730bd58a5e7e/tumblr_inline_nc2o91VvJb1sbr933.gif\"/></p>\n</blockquote>",
    "tags" : [
       "HA",
       "graduate school"
    ],
-   "date-gmt" : "2015-01-06 18:03:19 GMT",
-   "unix-timestamp" : 1420567399,
-   "mobile" : 0
+   "reblog-key" : "PlDy8mbt",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/107328339739/trying-to-prioritize"
 }
 
