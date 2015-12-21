@@ -1,27 +1,21 @@
 {
-   "conversation-title" : "Programming virtues",
-   "feed-item" : "",
+   "conversation-text" : "Me: Laziness is one of the three virtues of a programmer.\r\nIsarra: Laziness is good, but it needs sensibility and brilliance to back it up, and some semblance of perfectionism to counter it.",
+   "bookmarklet" : 0,
+   "slug" : "programming-virtues",
+   "from-feed-id" : 0,
+   "type" : "conversation",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/63890448544/programming-virtues",
+   "reblog-key" : "isA0q88p",
+   "format" : "html",
    "tags" : [
       "programming"
    ],
-   "id" : "63890448544",
-   "format" : "html",
-   "reblog-key" : "isA0q88p",
-   "mobile" : 0,
    "date-gmt" : "2013-10-13 04:44:46 GMT",
-   "url" : "http://tumblr.ggvaidya.com/post/63890448544",
-   "bookmarklet" : 0,
-   "conversation-text" : "Me: Laziness is one of the three virtues of a programmer.\r\nIsarra: Laziness is good, but it needs sensibility and brilliance to back it up, and some semblance of perfectionism to counter it.",
-   "date" : "Sat, 12 Oct 2013 22:44:46",
-   "unix-timestamp" : 1381639486,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/63890448544/programming-virtues",
-   "slug" : "programming-virtues",
-   "type" : "conversation",
    "conversation" : [
       {
-         "phrase" : "Laziness is one of the three virtues of a programmer.\r",
+         "label" : "Me:",
          "name" : "Me",
-         "label" : "Me:"
+         "phrase" : "Laziness is one of the three virtues of a programmer.\r"
       },
       {
          "name" : "Isarra",
@@ -29,6 +23,12 @@
          "phrase" : "Laziness is good, but it needs sensibility and brilliance to back it up, and some semblance of perfectionism to counter it."
       }
    ],
-   "from-feed-id" : 0
+   "feed-item" : "",
+   "unix-timestamp" : 1381639486,
+   "date" : "Sat, 12 Oct 2013 22:44:46",
+   "mobile" : 0,
+   "conversation-title" : "Programming virtues",
+   "url" : "http://tumblr.ggvaidya.com/post/63890448544",
+   "id" : "63890448544"
 }
 

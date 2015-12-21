@@ -1,23 +1,23 @@
 {
+   "unix-timestamp" : 1383172695,
+   "feed-item" : "",
+   "date" : "Wed, 30 Oct 2013 16:38:15",
    "mobile" : 0,
-   "reblog-key" : "Zk8KNilD",
-   "format" : "html",
-   "date-gmt" : "2013-10-30 22:38:15 GMT",
+   "id" : "65559207478",
+   "url" : "http://tumblr.ggvaidya.com/post/65559207478",
+   "quote-text" : "Itâs famously said that there are only two hard problems in computer science: cache invalidation, naming things, and off-by-one errors.",
+   "quote-source" : "<p>Some <a href=\"https://github.com/robrix/Postmodern-Programming/blob/master/Postmodern%20Programming.md\">articles</a> are infinitely quotable.</p>\n<p>Iâl have to try real hard not to flood you with one-liners from this one.</p>\n<p>(via <a class=\"tumblr_blog\" href=\"http://slashnull.tumblr.com/\">slashnull</a>)</p>",
+   "bookmarklet" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/65559207478/its-famously-said-that-there-are-only-two-hard",
+   "type" : "quote",
+   "from-feed-id" : 0,
+   "slug" : "its-famously-said-that-there-are-only-two-hard",
    "tags" : [
       "hee hee",
       "programmer jokes"
    ],
-   "quote-source" : "<p>Some <a href=\"https://github.com/robrix/Postmodern-Programming/blob/master/Postmodern%20Programming.md\">articles</a> are infinitely quotable.</p>\n<p>Iâl have to try real hard not to flood you with one-liners from this one.</p>\n<p>(via <a class=\"tumblr_blog\" href=\"http://slashnull.tumblr.com/\">slashnull</a>)</p>",
-   "feed-item" : "",
-   "id" : "65559207478",
-   "type" : "quote",
-   "slug" : "its-famously-said-that-there-are-only-two-hard",
-   "quote-text" : "Itâs famously said that there are only two hard problems in computer science: cache invalidation, naming things, and off-by-one errors.",
-   "from-feed-id" : 0,
-   "date" : "Wed, 30 Oct 2013 16:38:15",
-   "url" : "http://tumblr.ggvaidya.com/post/65559207478",
-   "bookmarklet" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/65559207478/its-famously-said-that-there-are-only-two-hard",
-   "unix-timestamp" : 1383172695
+   "date-gmt" : "2013-10-30 22:38:15 GMT",
+   "format" : "html",
+   "reblog-key" : "Zk8KNilD"
 }
 

@@ -1,40 +1,40 @@
 {
-   "type" : "conversation",
-   "conversation" : [
-      {
-         "phrase" : "Itâs that kind of talk that will spur me to make you a drink, as a reward for marrying well!\r",
-         "name" : "Frank",
-         "label" : "Frank:"
-      },
-      {
-         "name" : "Sadie",
-         "label" : "Sadie:",
-         "phrase" : "I did marry well, didnât I?\r"
-      },
-      {
-         "name" : "Frank",
-         "label" : "Frank:",
-         "phrase" : "Not as well as I did, but very nearly."
-      }
-   ],
-   "slug" : "frank-its-that-kind-of-talk-that-will-spur-me-to",
    "from-feed-id" : 0,
-   "date" : "Sat, 21 Jun 2014 23:58:30",
-   "bookmarklet" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/89528597149",
-   "conversation-text" : "Frank: Itâs that kind of talk that will spur me to make you a drink, as a reward for marrying well!\r\nSadie: I did marry well, didnât I?\r\nFrank: Not as well as I did, but very nearly.",
-   "unix-timestamp" : 1403416710,
+   "slug" : "frank-its-that-kind-of-talk-that-will-spur-me-to",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/89528597149/frank-its-that-kind-of-talk-that-will-spur-me-to",
-   "mobile" : 0,
-   "format" : "html",
+   "type" : "conversation",
    "reblog-key" : "hNbD6DXr",
-   "date-gmt" : "2014-06-22 05:58:30 GMT",
    "tags" : [
       "aww",
       "relationships"
    ],
+   "conversation" : [
+      {
+         "phrase" : "Itâs that kind of talk that will spur me to make you a drink, as a reward for marrying well!\r",
+         "label" : "Frank:",
+         "name" : "Frank"
+      },
+      {
+         "phrase" : "I did marry well, didnât I?\r",
+         "label" : "Sadie:",
+         "name" : "Sadie"
+      },
+      {
+         "phrase" : "Not as well as I did, but very nearly.",
+         "label" : "Frank:",
+         "name" : "Frank"
+      }
+   ],
+   "date-gmt" : "2014-06-22 05:58:30 GMT",
+   "format" : "html",
+   "conversation-text" : "Frank: Itâs that kind of talk that will spur me to make you a drink, as a reward for marrying well!\r\nSadie: I did marry well, didnât I?\r\nFrank: Not as well as I did, but very nearly.",
+   "bookmarklet" : 0,
+   "mobile" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/89528597149",
    "conversation-title" : null,
+   "id" : "89528597149",
    "feed-item" : "",
-   "id" : "89528597149"
+   "unix-timestamp" : 1403416710,
+   "date" : "Sat, 21 Jun 2014 23:58:30"
 }
 

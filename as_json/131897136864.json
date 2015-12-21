@@ -1,23 +1,23 @@
 {
-   "type" : "quote",
-   "from-feed-id" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/131897136864",
    "date" : "Sun, 25 Oct 2015 13:19:57",
    "feed-item" : "",
+   "unix-timestamp" : 1445800797,
+   "url" : "http://tumblr.ggvaidya.com/post/131897136864",
+   "quote-text" : "New Jersey Governor Chris Christie is having a bad morning. First, he nearly missed his 9:55 Amtrak train from DC to New York. Then, he didnât get the seat he wanted on the train. Then, to make things even worse, he got kicked out of the quiet car!",
+   "id" : "131897136864",
+   "mobile" : 0,
+   "bookmarklet" : 0,
+   "quote-source" : "<p><a href=\"http://gawker.com/chris-christie-sipping-a-smoothie-was-kicked-off-an-a-1738543549\">Chris Christie, Sipping a Smoothie, Was Kicked Off an Amtrak Car For Screaming on His Phone</a></p><p>Somehow Iâm not surprised my governor would get kicked off the quiet car for a loud phone conversation.</p><p>Also, good for the conductors for not letting him do what he wanted just because heâs a governor/presidential candidate.<br/></p><p>(via <a href=\"http://dendroica.tumblr.com/\" class=\"tumblr_blog\">dendroica</a>)</p>",
    "reblog-key" : "WVbSVUmm",
    "tags" : [
       "hee",
       "Amtrak"
    ],
-   "bookmarklet" : 0,
-   "mobile" : 0,
    "date-gmt" : "2015-10-25 19:19:57 GMT",
    "format" : "html",
+   "from-feed-id" : 0,
    "slug" : "new-jersey-governor-chris-christie-is-having-a-bad",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/131897136864/new-jersey-governor-chris-christie-is-having-a-bad",
-   "unix-timestamp" : 1445800797,
-   "quote-text" : "New Jersey Governor Chris Christie is having a bad morning. First, he nearly missed his 9:55 Amtrak train from DC to New York. Then, he didnât get the seat he wanted on the train. Then, to make things even worse, he got kicked out of the quiet car!",
-   "id" : "131897136864",
-   "quote-source" : "<p><a href=\"http://gawker.com/chris-christie-sipping-a-smoothie-was-kicked-off-an-a-1738543549\">Chris Christie, Sipping a Smoothie, Was Kicked Off an Amtrak Car For Screaming on His Phone</a></p><p>Somehow Iâm not surprised my governor would get kicked off the quiet car for a loud phone conversation.</p><p>Also, good for the conductors for not letting him do what he wanted just because heâs a governor/presidential candidate.<br/></p><p>(via <a href=\"http://dendroica.tumblr.com/\" class=\"tumblr_blog\">dendroica</a>)</p>"
+   "type" : "quote"
 }
 

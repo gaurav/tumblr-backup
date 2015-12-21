@@ -1,15 +1,19 @@
 {
-   "bookmarklet" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/87055651089",
-   "date" : "Tue, 27 May 2014 19:15:04",
    "unix-timestamp" : 1401239704,
+   "feed-item" : "",
+   "date" : "Tue, 27 May 2014 19:15:04",
+   "mobile" : 0,
+   "id" : "87055651089",
+   "quote-text" : "All societies that maintain armies maintain the belief that some things are more valuable than life itself. Just what is so valued varies.",
+   "url" : "http://tumblr.ggvaidya.com/post/87055651089",
+   "quote-source" : "Michael Billig, <em><a href=\"http://www.goodreads.com/book/show/1601570.Banal_Nationalism\">Banal Nationalism</a></em>, page 1.",
+   "bookmarklet" : 0,
+   "type" : "quote",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/87055651089/all-societies-that-maintain-armies-maintain-the",
    "slug" : "all-societies-that-maintain-armies-maintain-the",
-   "quote-text" : "All societies that maintain armies maintain the belief that some things are more valuable than life itself. Just what is so valued varies.",
-   "type" : "quote",
    "from-feed-id" : 0,
-   "feed-item" : "",
-   "quote-source" : "Michael Billig, <em><a href=\"http://www.goodreads.com/book/show/1601570.Banal_Nationalism\">Banal Nationalism</a></em>, page 1.",
+   "format" : "html",
+   "date-gmt" : "2014-05-28 01:15:04 GMT",
    "tags" : [
       "memorial day",
       "a day late",
@@ -17,10 +21,6 @@
       "nationalism",
       "army"
    ],
-   "id" : "87055651089",
-   "reblog-key" : "kAWOlYKC",
-   "format" : "html",
-   "mobile" : 0,
-   "date-gmt" : "2014-05-28 01:15:04 GMT"
+   "reblog-key" : "kAWOlYKC"
 }
 

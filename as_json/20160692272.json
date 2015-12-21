@@ -1,43 +1,30 @@
 {
-   "reblog-key" : "ZJ2k2SGK",
    "format" : "html",
-   "mobile" : 0,
-   "date-gmt" : "2012-03-30 06:15:40 GMT",
-   "feed-item" : "",
-   "conversation-title" : "Persistence",
-   "tags" : [
-      "persistence",
-      "endgame",
-      "television",
-      "quotes"
-   ],
-   "id" : "20160692272",
-   "slug" : "persistence",
    "conversation" : [
       {
-         "name" : "Delia Chase",
          "label" : "Delia Chase:",
+         "name" : "Delia Chase",
          "phrase" : "Oleg. I am sorry. I am so sorry. I wouldn't be your alibi but I can, now.\r"
-      },
-      {
-         "phrase" : "Now it's too late.\r",
-         "name" : "Arkady Balagan",
-         "label" : "Arkady Balagan:"
-      },
-      {
-         "phrase" : "No, no.\r",
-         "label" : "Oleg Olesky:",
-         "name" : "Oleg Olesky"
       },
       {
          "name" : "Arkady Balagan",
          "label" : "Arkady Balagan:",
+         "phrase" : "Now it's too late.\r"
+      },
+      {
+         "name" : "Oleg Olesky",
+         "label" : "Oleg Olesky:",
+         "phrase" : "No, no.\r"
+      },
+      {
+         "label" : "Arkady Balagan:",
+         "name" : "Arkady Balagan",
          "phrase" : "Yes, yes.\r"
       },
       {
          "phrase" : "It's not too late.\r",
-         "label" : "Oleg Olesky:",
-         "name" : "Oleg Olesky"
+         "name" : "Oleg Olesky",
+         "label" : "Oleg Olesky:"
       },
       {
          "phrase" : "Yes. \r",
@@ -45,23 +32,36 @@
          "label" : "Arkady Balagan:"
       },
       {
-         "phrase" : "It's never too late.\r",
+         "name" : "Oleg Olesky",
          "label" : "Oleg Olesky:",
-         "name" : "Oleg Olesky"
+         "phrase" : "It's never too late.\r"
       },
       {
-         "phrase" : "Yes.",
          "name" : "Arkady Balagan",
-         "label" : "Arkady Balagan:"
+         "label" : "Arkady Balagan:",
+         "phrase" : "Yes."
       }
    ],
+   "tags" : [
+      "persistence",
+      "endgame",
+      "television",
+      "quotes"
+   ],
+   "date-gmt" : "2012-03-30 06:15:40 GMT",
+   "reblog-key" : "ZJ2k2SGK",
    "type" : "conversation",
-   "from-feed-id" : 0,
-   "conversation-text" : "Delia Chase: Oleg. I am sorry. I am so sorry. I wouldn't be your alibi but I can, now.\r\nArkady Balagan: Now it's too late.\r\nOleg Olesky: No, no.\r\nArkady Balagan: Yes, yes.\r\nOleg Olesky: It's not too late.\r\nArkady Balagan: Yes. \r\nOleg Olesky: It's never too late.\r\nArkady Balagan: Yes. ",
-   "url" : "http://tumblr.ggvaidya.com/post/20160692272",
-   "bookmarklet" : 0,
-   "date" : "Fri, 30 Mar 2012 00:15:40",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/20160692272/persistence",
-   "unix-timestamp" : 1333088140
+   "slug" : "persistence",
+   "from-feed-id" : 0,
+   "bookmarklet" : 0,
+   "conversation-text" : "Delia Chase: Oleg. I am sorry. I am so sorry. I wouldn't be your alibi but I can, now.\r\nArkady Balagan: Now it's too late.\r\nOleg Olesky: No, no.\r\nArkady Balagan: Yes, yes.\r\nOleg Olesky: It's not too late.\r\nArkady Balagan: Yes. \r\nOleg Olesky: It's never too late.\r\nArkady Balagan: Yes. ",
+   "id" : "20160692272",
+   "conversation-title" : "Persistence",
+   "url" : "http://tumblr.ggvaidya.com/post/20160692272",
+   "mobile" : 0,
+   "date" : "Fri, 30 Mar 2012 00:15:40",
+   "unix-timestamp" : 1333088140,
+   "feed-item" : ""
 }
 

@@ -1,27 +1,27 @@
 {
-   "slug" : "",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/112634275692",
-   "video-source" : "https://vine.co/v/hB7Q9OEAaXl",
-   "date-gmt" : "2015-03-03 21:40:28 GMT",
-   "format" : "html",
-   "mobile" : 0,
-   "id" : "112634275692",
-   "unix-timestamp" : 1425418828,
    "date" : "Tue, 03 Mar 2015 14:40:28",
+   "video-source" : "https://vine.co/v/hB7Q9OEAaXl",
    "feed-item" : "",
-   "video-player" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/hB7Q9OEAaXl/embed/simple\" width=\"400\" height=\"400\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
    "video-caption" : "",
+   "unix-timestamp" : 1425418828,
    "url" : "http://tumblr.ggvaidya.com/post/112634275692",
-   "type" : "video",
-   "video-player-250" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/hB7Q9OEAaXl/embed/simple\" width=\"250\" height=\"250\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
-   "from-feed-id" : 0,
-   "video-player-500" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/hB7Q9OEAaXl/embed/simple\" width=\"500\" height=\"500\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
+   "id" : "112634275692",
+   "mobile" : 0,
+   "video-player" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/hB7Q9OEAaXl/embed/simple\" width=\"400\" height=\"400\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
    "bookmarklet" : 0,
+   "reblog-key" : "XyLQ0r6Z",
+   "format" : "html",
    "tags" : [
       "aww",
       "cat",
       "rabbit"
    ],
-   "reblog-key" : "XyLQ0r6Z"
+   "date-gmt" : "2015-03-03 21:40:28 GMT",
+   "slug" : "",
+   "video-player-500" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/hB7Q9OEAaXl/embed/simple\" width=\"500\" height=\"500\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
+   "from-feed-id" : 0,
+   "video-player-250" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/hB7Q9OEAaXl/embed/simple\" width=\"250\" height=\"250\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
+   "type" : "video",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/112634275692"
 }
 

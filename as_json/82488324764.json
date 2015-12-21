@@ -1,24 +1,24 @@
 {
-   "format" : "html",
+   "from-feed-id" : 0,
+   "slug" : "art-tips",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/82488324764/art-tips",
+   "type" : "regular",
    "reblog-key" : "fTuOevqk",
-   "mobile" : 0,
-   "date-gmt" : "2014-04-12 16:10:33 GMT",
-   "feed-item" : "",
    "tags" : [
       "advice",
       "life",
       "drawing"
    ],
-   "id" : "82488324764",
-   "slug" : "art-tips",
-   "type" : "regular",
-   "from-feed-id" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/82488324764",
+   "date-gmt" : "2014-04-12 16:10:33 GMT",
+   "format" : "html",
    "bookmarklet" : 0,
-   "regular-title" : "Art tips:",
-   "date" : "Sat, 12 Apr 2014 10:10:33",
    "regular-body" : "<p><a class=\"tumblr_blog\" href=\"http://robotsandfrippary.tumblr.com/post/82308624712/art-tips\">robotsandfrippary</a>:</p>\n<blockquote>\n<p>Just draw the damn hands.Â  Stop ending them at stumps at the wrist. Stop hiding them behind someoneâs back.Â  Draw them.Â  Yeah, youâre probably bad at them, guess what? Everyone is.Â  And youâre not going to get better by not drawing them.</p>\n<p>So draw the damn hands.</p>\n</blockquote>",
+   "mobile" : 0,
+   "regular-title" : "Art tips:",
+   "url" : "http://tumblr.ggvaidya.com/post/82488324764",
+   "id" : "82488324764",
+   "feed-item" : "",
    "unix-timestamp" : 1397319033,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/82488324764/art-tips"
+   "date" : "Sat, 12 Apr 2014 10:10:33"
 }
 

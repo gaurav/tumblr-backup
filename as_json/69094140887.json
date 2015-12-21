@@ -1,17 +1,19 @@
 {
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/69094140887/dumbledore-the-dark-forest-is-strictly-forbidden",
-   "unix-timestamp" : 1386272527,
    "conversation-text" : "Dumbledore: The dark forest is strictly forbidden to all students\r\nDumbledore: Except for detention\r\nDumbledore: Where you will be forced to wander around when it's darkest and scariest\r\nDumbledore: Doesn't that make so much sense\r\nDumbledore: I'm so good at rules\r\nDumbledore: Ten points to Dumbledore",
-   "url" : "http://tumblr.ggvaidya.com/post/69094140887",
    "bookmarklet" : 0,
-   "date" : "Thu, 05 Dec 2013 12:42:07",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/69094140887/dumbledore-the-dark-forest-is-strictly-forbidden",
+   "type" : "conversation",
    "from-feed-id" : 0,
    "slug" : "dumbledore-the-dark-forest-is-strictly-forbidden",
+   "tags" : [
+      "harry potter",
+      "that was not an entirely well run school"
+   ],
    "conversation" : [
       {
-         "phrase" : "The dark forest is strictly forbidden to all students\r",
          "label" : "Dumbledore:",
-         "name" : "Dumbledore"
+         "name" : "Dumbledore",
+         "phrase" : "The dark forest is strictly forbidden to all students\r"
       },
       {
          "phrase" : "Except for detention\r",
@@ -20,36 +22,34 @@
       },
       {
          "phrase" : "Where you will be forced to wander around when it's darkest and scariest\r",
-         "label" : "Dumbledore:",
-         "name" : "Dumbledore"
+         "name" : "Dumbledore",
+         "label" : "Dumbledore:"
       },
       {
          "phrase" : "Doesn't that make so much sense\r",
-         "name" : "Dumbledore",
-         "label" : "Dumbledore:"
-      },
-      {
-         "phrase" : "I'm so good at rules\r",
          "label" : "Dumbledore:",
          "name" : "Dumbledore"
       },
       {
-         "phrase" : "Ten points to Dumbledore",
+         "phrase" : "I'm so good at rules\r",
          "name" : "Dumbledore",
          "label" : "Dumbledore:"
+      },
+      {
+         "name" : "Dumbledore",
+         "label" : "Dumbledore:",
+         "phrase" : "Ten points to Dumbledore"
       }
    ],
-   "type" : "conversation",
-   "id" : "69094140887",
-   "feed-item" : "",
-   "conversation-title" : null,
-   "tags" : [
-      "harry potter",
-      "that was not an entirely well run school"
-   ],
    "date-gmt" : "2013-12-05 19:42:07 GMT",
-   "reblog-key" : "d64iQeKB",
    "format" : "html",
-   "mobile" : 0
+   "reblog-key" : "d64iQeKB",
+   "unix-timestamp" : 1386272527,
+   "feed-item" : "",
+   "date" : "Thu, 05 Dec 2013 12:42:07",
+   "mobile" : 0,
+   "id" : "69094140887",
+   "url" : "http://tumblr.ggvaidya.com/post/69094140887",
+   "conversation-title" : null
 }
 

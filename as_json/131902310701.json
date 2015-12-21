@@ -1,19 +1,19 @@
 {
-   "from-feed-id" : 0,
-   "type" : "quote",
+   "id" : "131902310701",
    "url" : "http://tumblr.ggvaidya.com/post/131902310701",
-   "feed-item" : "",
-   "date" : "Sun, 25 Oct 2015 14:40:17",
-   "reblog-key" : "a0GiOXtf",
-   "bookmarklet" : 0,
+   "quote-text" : "This is a true dilemma. People want both perfect privacy and all the benefits of openness. But they cannot have both. The stripping of a few details as the only means of assuring anonymity, in a world choked with data exhaust, cannot work. Poorly anonymised data are only part of the problem. What may be worse is that there is no standard for anonymisation. Every American state, for example, has its own prescription for what constitutes an adequate standard. Worse still, devising a comprehensive standard may be impossible. Paul Ohm of Georgetown University, in Washington, DC, thinks that this is partly because the availability of new data constantly shifts the goalposts. âIf we could pick an industry standard today, it would be obsolete in short order,â he says. Some data, such as those about medical conditions, are more sensitive than others. Some data sets provide great precision in time or place, others merely a year or a postcode. Each set presents its own dangers and requirements.",
    "mobile" : 0,
+   "date" : "Sun, 25 Oct 2015 14:40:17",
+   "unix-timestamp" : 1445805617,
+   "feed-item" : "",
    "date-gmt" : "2015-10-25 20:40:17 GMT",
    "format" : "html",
+   "reblog-key" : "a0GiOXtf",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/131902310701/this-is-a-true-dilemma-people-want-both-perfect",
+   "type" : "quote",
+   "from-feed-id" : 0,
    "slug" : "this-is-a-true-dilemma-people-want-both-perfect",
-   "unix-timestamp" : 1445805617,
-   "id" : "131902310701",
-   "quote-text" : "This is a true dilemma. People want both perfect privacy and all the benefits of openness. But they cannot have both. The stripping of a few details as the only means of assuring anonymity, in a world choked with data exhaust, cannot work. Poorly anonymised data are only part of the problem. What may be worse is that there is no standard for anonymisation. Every American state, for example, has its own prescription for what constitutes an adequate standard. Worse still, devising a comprehensive standard may be impossible. Paul Ohm of Georgetown University, in Washington, DC, thinks that this is partly because the availability of new data constantly shifts the goalposts. âIf we could pick an industry standard today, it would be obsolete in short order,â he says. Some data, such as those about medical conditions, are more sensitive than others. Some data sets provide great precision in time or place, others merely a year or a postcode. Each set presents its own dangers and requirements.",
+   "bookmarklet" : 0,
    "quote-source" : "The Economist, <a href=\"http://www.economist.com/news/science-and-technology/21660966-can-big-databases-be-kept-both-anonymous-and-useful-well-see-you-anon\"><em>We&rsquo;ll see you, anon</em></a>, August 15, 2015."
 }
 

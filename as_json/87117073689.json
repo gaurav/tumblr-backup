@@ -1,26 +1,26 @@
 {
+   "bookmarklet" : 0,
+   "reblog-key" : "Lbvzoupv",
+   "date-gmt" : "2014-05-28 17:53:49 GMT",
    "tags" : [
       "Maya Angelou",
       "poetry"
    ],
-   "video-source" : "https://www.youtube.com/watch?v=JqOqo50LSZ0",
-   "feed-item" : "",
-   "id" : "87117073689",
-   "video-player" : "<iframe width=\"400\" height=\"300\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/JqOqo50LSZ0?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "video-player-250" : "<iframe width=\"250\" height=\"187\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/JqOqo50LSZ0?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "mobile" : 0,
-   "reblog-key" : "Lbvzoupv",
    "format" : "html",
-   "date-gmt" : "2014-05-28 17:53:49 GMT",
-   "date" : "Wed, 28 May 2014 11:53:49",
-   "bookmarklet" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/87117073689",
-   "unix-timestamp" : 1401299629,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/87117073689/maya-angelou-reciting-her-poem-still-i-rise",
-   "video-caption" : "<p>Maya Angelou reciting her poem, <a href=\"http://www.poets.org/poetsorg/poem/still-i-rise\"><em>Still I Rise</em></a>.</p>",
+   "video-player-250" : "<iframe width=\"250\" height=\"187\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/JqOqo50LSZ0?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "from-feed-id" : 0,
    "video-player-500" : "<iframe width=\"500\" height=\"375\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/JqOqo50LSZ0?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "type" : "video",
    "slug" : "maya-angelou-reciting-her-poem-still-i-rise",
-   "from-feed-id" : 0
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/87117073689/maya-angelou-reciting-her-poem-still-i-rise",
+   "type" : "video",
+   "video-source" : "https://www.youtube.com/watch?v=JqOqo50LSZ0",
+   "date" : "Wed, 28 May 2014 11:53:49",
+   "feed-item" : "",
+   "video-caption" : "<p>Maya Angelou reciting her poem, <a href=\"http://www.poets.org/poetsorg/poem/still-i-rise\"><em>Still I Rise</em></a>.</p>",
+   "unix-timestamp" : 1401299629,
+   "url" : "http://tumblr.ggvaidya.com/post/87117073689",
+   "id" : "87117073689",
+   "mobile" : 0,
+   "video-player" : "<iframe width=\"400\" height=\"300\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/JqOqo50LSZ0?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>"
 }
 

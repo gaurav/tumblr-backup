@@ -1,24 +1,24 @@
 {
-   "from-feed-id" : 0,
-   "type" : "quote",
+   "mobile" : 0,
+   "id" : "104690017669",
+   "url" : "http://tumblr.ggvaidya.com/post/104690017669",
+   "quote-text" : "<p>&ldquo;Marching down the highway in the dark isn&rsquo;t safe,&rdquo; [Boulder County Sheriff Joe Pelle] said. &ldquo;We want people to be able to exercise their rights, but we realize at some point this becomes an unlawful assembly.&rdquo;</p>\n\n<p>[&hellip;]</p>\n\n<p>&ldquo;The thing is, I&rsquo;m not sure, exactly, what they are trying to accomplish,&rdquo; Pelle said. &ldquo;At some point, the community will become intolerant to this and put pressure on the police to do something about it. I would think they would want to build community support and not antagonize the entire community.&rdquo;</p>",
+   "unix-timestamp" : 1418065894,
    "feed-item" : "",
    "date" : "Mon, 08 Dec 2014 12:11:34",
-   "url" : "http://tumblr.ggvaidya.com/post/104690017669",
-   "reblog-key" : "s0QurDmJ",
-   "bookmarklet" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/104690017669/marching-down-the-highway-in-the-dark-isnt",
+   "type" : "quote",
+   "from-feed-id" : 0,
+   "slug" : "marching-down-the-highway-in-the-dark-isnt",
+   "date-gmt" : "2014-12-08 19:11:34 GMT",
    "tags" : [
       "boulder colorado",
       "police",
       "protest"
    ],
    "format" : "html",
-   "date-gmt" : "2014-12-08 19:11:34 GMT",
-   "mobile" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/104690017669/marching-down-the-highway-in-the-dark-isnt",
-   "slug" : "marching-down-the-highway-in-the-dark-isnt",
-   "id" : "104690017669",
-   "quote-text" : "<p>&ldquo;Marching down the highway in the dark isn&rsquo;t safe,&rdquo; [Boulder County Sheriff Joe Pelle] said. &ldquo;We want people to be able to exercise their rights, but we realize at some point this becomes an unlawful assembly.&rdquo;</p>\n\n<p>[&hellip;]</p>\n\n<p>&ldquo;The thing is, I&rsquo;m not sure, exactly, what they are trying to accomplish,&rdquo; Pelle said. &ldquo;At some point, the community will become intolerant to this and put pressure on the police to do something about it. I would think they would want to build community support and not antagonize the entire community.&rdquo;</p>",
-   "unix-timestamp" : 1418065894,
-   "quote-source" : "Mitchell Byars, <em><a href=\"http://www.dailycamera.com/news/boulder/ci_27090627\">Boulder sheriff: Planned protest to shut down U.S. 36 today a &lsquo;no-win situation&rsquo;</a></em>, <em>Daily Camera</em>, December 8, 2014."
+   "reblog-key" : "s0QurDmJ",
+   "quote-source" : "Mitchell Byars, <em><a href=\"http://www.dailycamera.com/news/boulder/ci_27090627\">Boulder sheriff: Planned protest to shut down U.S. 36 today a &lsquo;no-win situation&rsquo;</a></em>, <em>Daily Camera</em>, December 8, 2014.",
+   "bookmarklet" : 0
 }
 
