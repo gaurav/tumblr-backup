@@ -1,13 +1,5 @@
 {
-   "conversation-title" : "The only friend I've ever had",
-   "url" : "http://tumblr.ggvaidya.com/post/122614884446",
-   "id" : "122614884446",
-   "mobile" : 0,
-   "date" : "Sat, 27 Jun 2015 14:20:17",
-   "feed-item" : "",
-   "unix-timestamp" : 1435436417,
-   "reblog-key" : "qlDKE9zO",
-   "format" : "html",
+   "bookmarklet" : 0,
    "conversation" : [
       {
          "label" : "Becca Moody:",
@@ -15,13 +7,13 @@
          "phrase" : "We don't have to do what she says, you know."
       },
       {
-         "phrase" : "What who says?",
          "label" : "Hank Moody:",
-         "name" : "Hank Moody"
+         "name" : "Hank Moody",
+         "phrase" : "What who says?"
       },
       {
-         "name" : "Becca",
          "label" : "Becca:",
+         "name" : "Becca",
          "phrase" : "Her. The Enemy."
       },
       {
@@ -30,8 +22,8 @@
          "phrase" : "Your mom is not the Enemy. She loves you. She wants what's best for you."
       },
       {
-         "name" : "Becca",
          "label" : "Becca:",
+         "name" : "Becca",
          "phrase" : "Mom doesn't understand, she never will. This is it, okay? I'm not just going to wake up one day and be like her. Six feet tall and beautiful."
       },
       {
@@ -40,8 +32,8 @@
          "phrase" : "You already are beautiful."
       },
       {
-         "name" : "Becca",
          "label" : "Becca:",
+         "name" : "Becca",
          "phrase" : "Chelsea is the only friend I've ever had. The only one who accepts me for who I really am."
       },
       {
@@ -50,8 +42,8 @@
          "phrase" : "That is not true."
       },
       {
-         "name" : "Becca",
          "label" : "Becca:",
+         "name" : "Becca",
          "phrase" : "It is. Do you know what it's like to have no one and nothing? How totally awful that feels?"
       },
       {
@@ -65,6 +57,17 @@
          "phrase" : "Yet, somehow, I still have nothing."
       }
    ],
+   "conversation-text" : "Becca Moody: We don't have to do what she says, you know.\nHank Moody: What who says?\nBecca: Her. The Enemy.\nHank: Your mom is not the Enemy. She loves you. She wants what's best for you.\nBecca: Mom doesn't understand, she never will. This is it, okay? I'm not just going to wake up one day and be like her. Six feet tall and beautiful.\nHank: You already are beautiful.\nBecca: Chelsea is the only friend I've ever had. The only one who accepts me for who I really am.\nHank: That is not true.\nBecca: It is. Do you know what it's like to have no one and nothing? How totally awful that feels?\nHank: Yes, I think I do, once upon a time, I felt like that. Now I have you.\nBecca: Yet, somehow, I still have nothing.",
+   "conversation-title" : "The only friend I've ever had",
+   "date" : "Sat, 27 Jun 2015 14:20:17",
+   "date-gmt" : "2015-06-27 20:20:17 GMT",
+   "feed-item" : "",
+   "format" : "html",
+   "from-feed-id" : 0,
+   "id" : "122614884446",
+   "mobile" : 0,
+   "reblog-key" : "qlDKE9zO",
+   "slug" : "the-only-friend-ive-ever-had",
    "tags" : [
       "californication",
       "S3E6",
@@ -72,12 +75,9 @@
       "relationships",
       "friends"
    ],
-   "date-gmt" : "2015-06-27 20:20:17 GMT",
-   "slug" : "the-only-friend-ive-ever-had",
-   "from-feed-id" : 0,
    "type" : "conversation",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/122614884446/the-only-friend-ive-ever-had",
-   "bookmarklet" : 0,
-   "conversation-text" : "Becca Moody: We don't have to do what she says, you know.\nHank Moody: What who says?\nBecca: Her. The Enemy.\nHank: Your mom is not the Enemy. She loves you. She wants what's best for you.\nBecca: Mom doesn't understand, she never will. This is it, okay? I'm not just going to wake up one day and be like her. Six feet tall and beautiful.\nHank: You already are beautiful.\nBecca: Chelsea is the only friend I've ever had. The only one who accepts me for who I really am.\nHank: That is not true.\nBecca: It is. Do you know what it's like to have no one and nothing? How totally awful that feels?\nHank: Yes, I think I do, once upon a time, I felt like that. Now I have you.\nBecca: Yet, somehow, I still have nothing."
+   "unix-timestamp" : 1435436417,
+   "url" : "http://tumblr.ggvaidya.com/post/122614884446",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/122614884446/the-only-friend-ive-ever-had"
 }
 

@@ -76,7 +76,10 @@ while(1) {
         open(my $postfile, ">:utf8", "$JSON_DIR/$post_id.json")
             or die "Could not open '$JSON_DIR/$post_id.json': $!";
 
-        my $json_content = to_json($post, { utf8 => 1, pretty => 1 });
+        # utf8: utf-8
+        # pretty: readable
+        # canonical: sorted
+        my $json_content = to_json($post, { utf8 => 1, pretty => 1, canonical => 1 });
         say $postfile $json_content;
 
         close($postfile);

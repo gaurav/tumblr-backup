@@ -1,23 +1,5 @@
 {
-   "feed-item" : "",
-   "unix-timestamp" : 1356237595,
-   "date" : "Sat, 22 Dec 2012 21:39:55",
-   "mobile" : 0,
-   "conversation-title" : "A feel good story for Christmas",
-   "url" : "http://tumblr.ggvaidya.com/post/38601642904",
-   "id" : "38601642904",
-   "conversation-text" : "(I am working the register over Christmas.)\r\n\r\nMe: âFind everything today?â\r\n\r\nCustomer: âYup.â\r\n\r\n(Note: she is silent through the transaction, which includes a gift card.)\r\n\r\nMe: âHow much would you like on this?â\r\n\r\nCustomer: âOh, sorry. Can I have $150?â\r\n\r\nMe: âNo problem.â\r\n\r\nCustomer: *after paying* âCan you do me a favor?â *she hands me the gift card* âThe next customer you see that you think could use this, could you give it to them?â\r\n\r\nMe: *stunned* ââ¦Of course!â\r\n\r\n(After a minute another customer comes up, a visibly upset young woman.)\r\n\r\nMe: âHi! How are you?â\r\n\r\nCustomer #2: âIâm okay, thanks.â\r\n\r\n(Clearly she is not ok, but she is trying very hard to be pleasant. She is getting very basic items: milk, bread, eggs, etc. Nothing very festive.)\r\n\r\nMe: âSo your total comes out to $0.00.â\r\n\r\nCustomer: âWhat?â\r\n\r\nMe: âThe person before you gave me a $150 gift card to use for the next person I thought could use it. You look like youâre having a rough day, so here are your groceries, and thereâs about $130 left on this card.â\r\n\r\n(The customer just started crying. Once she could, she thanked me about 100 times. Made my whole Christmas season.)\r\n",
    "bookmarklet" : 0,
-   "slug" : "a-feel-good-story-for-christmas",
-   "from-feed-id" : 0,
-   "type" : "conversation",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/38601642904/a-feel-good-story-for-christmas",
-   "reblog-key" : "nqi6LUdA",
-   "format" : "html",
-   "date-gmt" : "2012-12-23 04:39:55 GMT",
-   "tags" : [
-      "christmas"
-   ],
    "conversation" : [
       {
          "label" : "",
@@ -30,8 +12,8 @@
          "phrase" : "âFind everything today?â\r"
       },
       {
-         "name" : "Customer",
          "label" : "Customer:",
+         "name" : "Customer",
          "phrase" : "âYup.â\r"
       },
       {
@@ -40,18 +22,18 @@
          "phrase" : "she is silent through the transaction, which includes a gift card.)\r"
       },
       {
-         "phrase" : "âHow much would you like on this?â\r",
          "label" : "Me:",
-         "name" : "Me"
+         "name" : "Me",
+         "phrase" : "âHow much would you like on this?â\r"
       },
       {
-         "name" : "Customer",
          "label" : "Customer:",
+         "name" : "Customer",
          "phrase" : "âOh, sorry. Can I have $150?â\r"
       },
       {
-         "name" : "Me",
          "label" : "Me:",
+         "name" : "Me",
          "phrase" : "âNo problem.â\r"
       },
       {
@@ -60,9 +42,9 @@
          "phrase" : "*after paying* âCan you do me a favor?â *she hands me the gift card* âThe next customer you see that you think could use this, could you give it to them?â\r"
       },
       {
-         "phrase" : "*stunned* ââ¦Of course!â\r",
          "label" : "Me:",
-         "name" : "Me"
+         "name" : "Me",
+         "phrase" : "*stunned* ââ¦Of course!â\r"
       },
       {
          "label" : "",
@@ -70,8 +52,8 @@
          "phrase" : "(After a minute another customer comes up, a visibly upset young woman.)\r"
       },
       {
-         "name" : "Me",
          "label" : "Me:",
+         "name" : "Me",
          "phrase" : "âHi! How are you?â\r"
       },
       {
@@ -90,20 +72,38 @@
          "phrase" : "âSo your total comes out to $0.00.â\r"
       },
       {
-         "phrase" : "âWhat?â\r",
          "label" : "Customer:",
-         "name" : "Customer"
+         "name" : "Customer",
+         "phrase" : "âWhat?â\r"
       },
       {
-         "phrase" : "âThe person before you gave me a $150 gift card to use for the next person I thought could use it. You look like youâre having a rough day, so here are your groceries, and thereâs about $130 left on this card.â\r",
+         "label" : "Me:",
          "name" : "Me",
-         "label" : "Me:"
+         "phrase" : "âThe person before you gave me a $150 gift card to use for the next person I thought could use it. You look like youâre having a rough day, so here are your groceries, and thereâs about $130 left on this card.â\r"
       },
       {
-         "phrase" : "(The customer just started crying. Once she could, she thanked me about 100 times. Made my whole Christmas season.)",
          "label" : "",
-         "name" : ""
+         "name" : "",
+         "phrase" : "(The customer just started crying. Once she could, she thanked me about 100 times. Made my whole Christmas season.)"
       }
-   ]
+   ],
+   "conversation-text" : "(I am working the register over Christmas.)\r\n\r\nMe: âFind everything today?â\r\n\r\nCustomer: âYup.â\r\n\r\n(Note: she is silent through the transaction, which includes a gift card.)\r\n\r\nMe: âHow much would you like on this?â\r\n\r\nCustomer: âOh, sorry. Can I have $150?â\r\n\r\nMe: âNo problem.â\r\n\r\nCustomer: *after paying* âCan you do me a favor?â *she hands me the gift card* âThe next customer you see that you think could use this, could you give it to them?â\r\n\r\nMe: *stunned* ââ¦Of course!â\r\n\r\n(After a minute another customer comes up, a visibly upset young woman.)\r\n\r\nMe: âHi! How are you?â\r\n\r\nCustomer #2: âIâm okay, thanks.â\r\n\r\n(Clearly she is not ok, but she is trying very hard to be pleasant. She is getting very basic items: milk, bread, eggs, etc. Nothing very festive.)\r\n\r\nMe: âSo your total comes out to $0.00.â\r\n\r\nCustomer: âWhat?â\r\n\r\nMe: âThe person before you gave me a $150 gift card to use for the next person I thought could use it. You look like youâre having a rough day, so here are your groceries, and thereâs about $130 left on this card.â\r\n\r\n(The customer just started crying. Once she could, she thanked me about 100 times. Made my whole Christmas season.)\r\n",
+   "conversation-title" : "A feel good story for Christmas",
+   "date" : "Sat, 22 Dec 2012 21:39:55",
+   "date-gmt" : "2012-12-23 04:39:55 GMT",
+   "feed-item" : "",
+   "format" : "html",
+   "from-feed-id" : 0,
+   "id" : "38601642904",
+   "mobile" : 0,
+   "reblog-key" : "nqi6LUdA",
+   "slug" : "a-feel-good-story-for-christmas",
+   "tags" : [
+      "christmas"
+   ],
+   "type" : "conversation",
+   "unix-timestamp" : 1356237595,
+   "url" : "http://tumblr.ggvaidya.com/post/38601642904",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/38601642904/a-feel-good-story-for-christmas"
 }
 

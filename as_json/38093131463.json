@@ -1,33 +1,29 @@
 {
-   "from-feed-id" : 0,
-   "slug" : "ayn-rand-vs-jim-henson-part-3-oscar-the-grouch",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/38093131463/ayn-rand-vs-jim-henson-part-3-oscar-the-grouch",
-   "type" : "conversation",
-   "reblog-key" : "LoVb8m2Z",
+   "bookmarklet" : 0,
    "conversation" : [
       {
-         "phrase" : "I think Ms. Rand and my character Oscar the Grouch would have a lot to talk about actually. I am laughing out loud at this idea. \r",
          "label" : "Jim Henson:",
-         "name" : "Jim Henson"
-      },
-      {
-         "phrase" : "Why would I want to talk to him. What has he achieved or trying to achieve. \r",
-         "label" : "Ayn Rand:",
-         "name" : "Ayn Rand"
-      },
-      {
          "name" : "Jim Henson",
+         "phrase" : "I think Ms. Rand and my character Oscar the Grouch would have a lot to talk about actually. I am laughing out loud at this idea. \r"
+      },
+      {
+         "label" : "Ayn Rand:",
+         "name" : "Ayn Rand",
+         "phrase" : "Why would I want to talk to him. What has he achieved or trying to achieve. \r"
+      },
+      {
          "label" : "Jim Henson:",
+         "name" : "Jim Henson",
          "phrase" : "He has achieved what I think is the ultimate goal of your way of thinking.\r"
       },
       {
-         "name" : "",
          "label" : "",
+         "name" : "",
          "phrase" : "[...]\r"
       },
       {
-         "name" : "Jim Henson",
          "label" : "Jim Henson:",
+         "name" : "Jim Henson",
          "phrase" : "Isolation. Contempt for others. A hard heart. Yet even he can muster a bit of empathy every now and then.\r"
       },
       {
@@ -36,26 +32,30 @@
          "phrase" : "When Ms. Rands idea of individualism is amplified to the extreme things like Vietnam happen. \r"
       },
       {
-         "phrase" : "I am not isolated. I have no contempt for others. Millions of people read my books and find my thoughts inspirational. I hardly spend my time on the sidelines in a trash can grumping. \r",
          "label" : "Ayn Rand:",
-         "name" : "Ayn Rand"
+         "name" : "Ayn Rand",
+         "phrase" : "I am not isolated. I have no contempt for others. Millions of people read my books and find my thoughts inspirational. I hardly spend my time on the sidelines in a trash can grumping. \r"
       },
       {
-         "name" : "Jim Henson",
          "label" : "Jim Henson:",
+         "name" : "Jim Henson",
          "phrase" : "Not yet anyway."
       }
    ],
-   "date-gmt" : "2012-12-16 21:40:28 GMT",
-   "format" : "html",
    "conversation-text" : "Jim Henson: I think Ms. Rand and my character Oscar the Grouch would have a lot to talk about actually. I am laughing out loud at this idea. \r\nAyn Rand: Why would I want to talk to him. What has he achieved or trying to achieve. \r\nJim Henson: He has achieved what I think is the ultimate goal of your way of thinking.\r\n[...]\r\nJim Henson: Isolation. Contempt for others. A hard heart. Yet even he can muster a bit of empathy every now and then.\r\nSidney Nolan: When Ms. Rands idea of individualism is amplified to the extreme things like Vietnam happen. \r\nAyn Rand: I am not isolated. I have no contempt for others. Millions of people read my books and find my thoughts inspirational. I hardly spend my time on the sidelines in a trash can grumping. \r\nJim Henson: Not yet anyway.",
-   "bookmarklet" : 0,
-   "mobile" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/38093131463",
    "conversation-title" : "Ayn Rand vs Jim Henson, part 3: \"Oscar the Grouch\"",
-   "id" : "38093131463",
+   "date" : "Sun, 16 Dec 2012 14:40:28",
+   "date-gmt" : "2012-12-16 21:40:28 GMT",
    "feed-item" : "",
+   "format" : "html",
+   "from-feed-id" : 0,
+   "id" : "38093131463",
+   "mobile" : 0,
+   "reblog-key" : "LoVb8m2Z",
+   "slug" : "ayn-rand-vs-jim-henson-part-3-oscar-the-grouch",
+   "type" : "conversation",
    "unix-timestamp" : 1355694028,
-   "date" : "Sun, 16 Dec 2012 14:40:28"
+   "url" : "http://tumblr.ggvaidya.com/post/38093131463",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/38093131463/ayn-rand-vs-jim-henson-part-3-oscar-the-grouch"
 }
 

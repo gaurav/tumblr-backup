@@ -1,37 +1,20 @@
 {
-   "unix-timestamp" : 1367801590,
-   "feed-item" : "",
-   "date" : "Sun, 05 May 2013 18:53:10",
-   "mobile" : 0,
-   "id" : "49735082494",
-   "url" : "http://tumblr.ggvaidya.com/post/49735082494",
-   "conversation-title" : null,
-   "conversation-text" : "person: she--\r\nme: it's he.\r\nperson: *condescending smile* well, on your birth certificate--\r\nme: yeah, it also says ' 8lbs, 6 oz ' -- a lot has changed over the years",
    "bookmarklet" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/49735082494/person-she-me-its-he-person",
-   "type" : "conversation",
-   "from-feed-id" : 0,
-   "slug" : "person-she-me-its-he-person",
-   "date-gmt" : "2013-05-06 00:53:10 GMT",
-   "tags" : [
-      "haha",
-      "lgbt"
-   ],
    "conversation" : [
       {
-         "phrase" : "she--\r",
          "label" : "person:",
-         "name" : "person"
+         "name" : "person",
+         "phrase" : "she--\r"
       },
       {
-         "phrase" : "it's he.\r",
          "label" : "me:",
-         "name" : "me"
+         "name" : "me",
+         "phrase" : "it's he.\r"
       },
       {
-         "phrase" : "*condescending smile* well, on your birth certificate--\r",
          "label" : "person:",
-         "name" : "person"
+         "name" : "person",
+         "phrase" : "*condescending smile* well, on your birth certificate--\r"
       },
       {
          "label" : "me:",
@@ -39,7 +22,24 @@
          "phrase" : "yeah, it also says ' 8lbs, 6 oz ' -- a lot has changed over the years"
       }
    ],
+   "conversation-text" : "person: she--\r\nme: it's he.\r\nperson: *condescending smile* well, on your birth certificate--\r\nme: yeah, it also says ' 8lbs, 6 oz ' -- a lot has changed over the years",
+   "conversation-title" : null,
+   "date" : "Sun, 05 May 2013 18:53:10",
+   "date-gmt" : "2013-05-06 00:53:10 GMT",
+   "feed-item" : "",
    "format" : "html",
-   "reblog-key" : "GyUCUNvR"
+   "from-feed-id" : 0,
+   "id" : "49735082494",
+   "mobile" : 0,
+   "reblog-key" : "GyUCUNvR",
+   "slug" : "person-she-me-its-he-person",
+   "tags" : [
+      "haha",
+      "lgbt"
+   ],
+   "type" : "conversation",
+   "unix-timestamp" : 1367801590,
+   "url" : "http://tumblr.ggvaidya.com/post/49735082494",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/49735082494/person-she-me-its-he-person"
 }
 

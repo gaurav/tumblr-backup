@@ -1,24 +1,14 @@
 {
-   "date" : "Fri, 17 May 2013 11:41:00",
-   "feed-item" : "",
-   "unix-timestamp" : 1368812460,
-   "conversation-title" : "Word play",
-   "url" : "http://tumblr.ggvaidya.com/post/50662690822",
-   "id" : "50662690822",
-   "mobile" : 0,
    "bookmarklet" : 0,
-   "conversation-text" : "Robin: That was not cool, Ted.\r\nLily: [in labour] Contraction.\r\nRobin: [confused] That ... wasn't cool, Ted?",
-   "reblog-key" : "zorl8hGE",
-   "format" : "html",
    "conversation" : [
       {
-         "phrase" : "That was not cool, Ted.\r",
          "label" : "Robin:",
-         "name" : "Robin"
+         "name" : "Robin",
+         "phrase" : "That was not cool, Ted.\r"
       },
       {
-         "name" : "Lily",
          "label" : "Lily:",
+         "name" : "Lily",
          "phrase" : "[in labour] Contraction.\r"
       },
       {
@@ -27,16 +17,26 @@
          "phrase" : "[confused] That ... wasn't cool, Ted?"
       }
    ],
+   "conversation-text" : "Robin: That was not cool, Ted.\r\nLily: [in labour] Contraction.\r\nRobin: [confused] That ... wasn't cool, Ted?",
+   "conversation-title" : "Word play",
+   "date" : "Fri, 17 May 2013 11:41:00",
+   "date-gmt" : "2013-05-17 17:41:00 GMT",
+   "feed-item" : "",
+   "format" : "html",
+   "from-feed-id" : 0,
+   "id" : "50662690822",
+   "mobile" : 0,
+   "reblog-key" : "zorl8hGE",
+   "slug" : "word-play",
    "tags" : [
       "himym",
       "S7E23",
       "wordplay",
       "contraction"
    ],
-   "date-gmt" : "2013-05-17 17:41:00 GMT",
-   "slug" : "word-play",
-   "from-feed-id" : 0,
    "type" : "conversation",
+   "unix-timestamp" : 1368812460,
+   "url" : "http://tumblr.ggvaidya.com/post/50662690822",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/50662690822/word-play"
 }
 

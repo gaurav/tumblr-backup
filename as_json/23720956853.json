@@ -1,26 +1,26 @@
 {
    "bookmarklet" : 0,
-   "type" : "video",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/23720956853/love-voice-acting-love-star-wars-here-is-a",
-   "video-player-500" : false,
-   "slug" : "love-voice-acting-love-star-wars-here-is-a",
-   "from-feed-id" : 0,
-   "video-player-250" : false,
-   "format" : "html",
+   "date" : "Thu, 24 May 2012 23:45:45",
    "date-gmt" : "2012-05-25 05:45:45 GMT",
+   "feed-item" : "",
+   "format" : "html",
+   "from-feed-id" : 0,
+   "id" : "23720956853",
+   "mobile" : 0,
+   "reblog-key" : "fgIAwQjK",
+   "slug" : "love-voice-acting-love-star-wars-here-is-a",
    "tags" : [
       "comedy",
       "voice acting"
    ],
-   "reblog-key" : "fgIAwQjK",
-   "video-caption" : "<p>Love voice acting? Love Star Wars? Here is a script reading of SW:ANH by some of the best voice actors in the business. Pure, distilled joy.</p>",
+   "type" : "video",
    "unix-timestamp" : 1337924745,
-   "feed-item" : "",
-   "date" : "Thu, 24 May 2012 23:45:45",
-   "video-source" : "http://www.youtube.com/watch?v=SBzRmWeC6D",
+   "url" : "http://tumblr.ggvaidya.com/post/23720956853",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/23720956853/love-voice-acting-love-star-wars-here-is-a",
+   "video-caption" : "<p>Love voice acting? Love Star Wars? Here is a script reading of SW:ANH by some of the best voice actors in the business. Pure, distilled joy.</p>",
    "video-player" : false,
-   "mobile" : 0,
-   "id" : "23720956853",
-   "url" : "http://tumblr.ggvaidya.com/post/23720956853"
+   "video-player-250" : false,
+   "video-player-500" : false,
+   "video-source" : "http://www.youtube.com/watch?v=SBzRmWeC6D"
 }
 

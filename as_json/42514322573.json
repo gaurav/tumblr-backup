@@ -1,22 +1,22 @@
 {
+   "bookmarklet" : 0,
    "date" : "Thu, 07 Feb 2013 11:13:13",
+   "date-gmt" : "2013-02-07 18:13:13 GMT",
    "feed-item" : "",
-   "unix-timestamp" : 1360260793,
-   "quote-text" : "In the next decade, I believe that archives and science-computing facilities must merge. The international radio-astronomy community is doing so in preparation for the Square Kilometre Array radio telescope, due to see first light in 2020. The enormous volume of data that the array will produce &ndash; 700 terabytes each second &ndash; will, after just a few days, eclipse the current size of the Internet. Archives in the United States such as those at the National Radio Astronomy Observatory&rsquo;s Expanded Very Large Array and the Atacama Large Millimeter/submillimeter Array are developing software to handle that deluge.",
-   "url" : "http://tumblr.ggvaidya.com/post/42514322573",
+   "format" : "html",
+   "from-feed-id" : 0,
    "id" : "42514322573",
    "mobile" : 0,
-   "bookmarklet" : 0,
    "quote-source" : "Chris A. Mattmann, <em><a href=\"http://www.nature.com/nature/journal/v493/n7433/full/493473a.html?WT.ec_id=NATURE-20130124\">Computing: A vision for data science</a></em>, Nature <strong>493</strong>:473&ndash;475 (24 January 2013)",
+   "quote-text" : "In the next decade, I believe that archives and science-computing facilities must merge. The international radio-astronomy community is doing so in preparation for the Square Kilometre Array radio telescope, due to see first light in 2020. The enormous volume of data that the array will produce &ndash; 700 terabytes each second &ndash; will, after just a few days, eclipse the current size of the Internet. Archives in the United States such as those at the National Radio Astronomy Observatory&rsquo;s Expanded Very Large Array and the Atacama Large Millimeter/submillimeter Array are developing software to handle that deluge.",
    "reblog-key" : "yX3JZ21I",
-   "format" : "html",
+   "slug" : "in-the-next-decade-i-believe-that-archives-and",
    "tags" : [
       "data"
    ],
-   "date-gmt" : "2013-02-07 18:13:13 GMT",
-   "slug" : "in-the-next-decade-i-believe-that-archives-and",
-   "from-feed-id" : 0,
    "type" : "quote",
+   "unix-timestamp" : 1360260793,
+   "url" : "http://tumblr.ggvaidya.com/post/42514322573",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/42514322573/in-the-next-decade-i-believe-that-archives-and"
 }
 

@@ -1,22 +1,9 @@
 {
-   "url" : "http://tumblr.ggvaidya.com/post/63957955596",
-   "conversation-title" : "My class today",
-   "id" : "63957955596",
-   "mobile" : 0,
-   "date" : "Sun, 13 Oct 2013 15:24:21",
-   "feed-item" : "",
-   "unix-timestamp" : 1381699461,
-   "reblog-key" : "bq7VwufA",
-   "date-gmt" : "2013-10-13 21:24:21 GMT",
-   "tags" : [
-      "damn",
-      "truth",
-      "feminism"
-   ],
+   "bookmarklet" : 0,
    "conversation" : [
       {
-         "name" : "Me",
          "label" : "Me:",
+         "name" : "Me",
          "phrase" : "So when you see the 4 year old boy pull the little girl's hair...\r"
       },
       {
@@ -35,23 +22,23 @@
          "phrase" : "That is just how boys are.  \r"
       },
       {
-         "phrase" : "Now they are 18 and he grabs her arm and--\r",
          "label" : "Me:",
-         "name" : "Me"
+         "name" : "Me",
+         "phrase" : "Now they are 18 and he grabs her arm and--\r"
       },
       {
-         "name" : "Students",
          "label" : "Students:",
+         "name" : "Students",
          "phrase" : "Oh, that's not okay.\r"
       },
       {
-         "phrase" : "Really?   How would he know?  How would she know?  How would you know?  You just told me that for the first 17 years of these children's lives that you thought it was cute, sweet, and natural for a boy to grab a girl and be rough with her. \r",
+         "label" : "Me:",
          "name" : "Me",
-         "label" : "Me:"
+         "phrase" : "Really?   How would he know?  How would she know?  How would you know?  You just told me that for the first 17 years of these children's lives that you thought it was cute, sweet, and natural for a boy to grab a girl and be rough with her. \r"
       },
       {
-         "name" : "Students",
          "label" : "Students:",
+         "name" : "Students",
          "phrase" : "Oh.\r"
       },
       {
@@ -60,12 +47,25 @@
          "phrase" : "Oh, is right."
       }
    ],
+   "conversation-text" : "Me:  So when you see the 4 year old boy pull the little girl's hair...\r\nStudents:  He likes her!\r\nMe:  Now they are around 11 or 12 and he grabs her arm and wrestles her to the ground even though she calls him a jerk and yells at him to leave her alone.\r\nStudents:  That is just how boys are.  \r\nMe:  Now they are 18 and he grabs her arm and--\r\nStudents:  Oh, that's not okay.\r\nMe:   Really?   How would he know?  How would she know?  How would you know?  You just told me that for the first 17 years of these children's lives that you thought it was cute, sweet, and natural for a boy to grab a girl and be rough with her. \r\nStudents:  Oh.\r\nMe:   Oh, is right.  \r\n",
+   "conversation-title" : "My class today",
+   "date" : "Sun, 13 Oct 2013 15:24:21",
+   "date-gmt" : "2013-10-13 21:24:21 GMT",
+   "feed-item" : "",
    "format" : "html",
    "from-feed-id" : 0,
+   "id" : "63957955596",
+   "mobile" : 0,
+   "reblog-key" : "bq7VwufA",
    "slug" : "my-class-today",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/63957955596/my-class-today",
+   "tags" : [
+      "damn",
+      "truth",
+      "feminism"
+   ],
    "type" : "conversation",
-   "bookmarklet" : 0,
-   "conversation-text" : "Me:  So when you see the 4 year old boy pull the little girl's hair...\r\nStudents:  He likes her!\r\nMe:  Now they are around 11 or 12 and he grabs her arm and wrestles her to the ground even though she calls him a jerk and yells at him to leave her alone.\r\nStudents:  That is just how boys are.  \r\nMe:  Now they are 18 and he grabs her arm and--\r\nStudents:  Oh, that's not okay.\r\nMe:   Really?   How would he know?  How would she know?  How would you know?  You just told me that for the first 17 years of these children's lives that you thought it was cute, sweet, and natural for a boy to grab a girl and be rough with her. \r\nStudents:  Oh.\r\nMe:   Oh, is right.  \r\n"
+   "unix-timestamp" : 1381699461,
+   "url" : "http://tumblr.ggvaidya.com/post/63957955596",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/63957955596/my-class-today"
 }
 
