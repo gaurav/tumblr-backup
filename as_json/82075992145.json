@@ -1,25 +1,25 @@
 {
-   "format" : "html",
-   "mobile" : 0,
-   "unix-timestamp" : 1396942752,
-   "bookmarklet" : 0,
-   "date" : "Tue, 08 Apr 2014 01:39:12",
-   "from-feed-id" : 0,
-   "date-gmt" : "2014-04-08 07:39:12 GMT",
-   "feed-item" : "",
-   "url" : "http://tumblr.ggvaidya.com/post/82075992145",
    "type" : "quote",
+   "slug" : "but-this-is-bigger-than-one-script-i-have-a-long",
+   "quote-text" : "But this is bigger than one script. I have a long history with Flickr. I served as an advisor to Stewart Butterfield and Caterina Fake when they were working on a game called Game Neverending, and Stewart offered to prioritize GNE&rsquo;s photo-sharing feature to help me court a woman I&rsquo;d started dating overseas. The feature was so successful they folded up GNE and renamed it Flickr, and now I am married to that woman. I owe my marriage to Flickr, and Flickr exists in part because of my marriage.",
+   "from-feed-id" : 0,
+   "date" : "Tue, 08 Apr 2014 01:39:12",
+   "bookmarklet" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/82075992145",
+   "unix-timestamp" : 1396942752,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/82075992145/but-this-is-bigger-than-one-script-i-have-a-long",
+   "mobile" : 0,
+   "reblog-key" : "SJ4dtYby",
+   "format" : "html",
+   "date-gmt" : "2014-04-08 07:39:12 GMT",
    "tags" : [
       "cory doctorow",
       "flickr",
       "relationships",
       "life"
    ],
-   "id" : "82075992145",
-   "quote-text" : "But this is bigger than one script. I have a long history with Flickr. I served as an advisor to Stewart Butterfield and Caterina Fake when they were working on a game called Game Neverending, and Stewart offered to prioritize GNE&rsquo;s photo-sharing feature to help me court a woman I&rsquo;d started dating overseas. The feature was so successful they folded up GNE and renamed it Flickr, and now I am married to that woman. I owe my marriage to Flickr, and Flickr exists in part because of my marriage.",
-   "slug" : "but-this-is-bigger-than-one-script-i-have-a-long",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/82075992145/but-this-is-bigger-than-one-script-i-have-a-long",
    "quote-source" : "Cory Doctorow, <a href=\"http://boingboing.net/2014/04/07/restoring-cc-attribution-to-fl.html\"><em>Restoring CC attribution to Flickr, because Yahoo broke it</em></a>, Boing Boing, April 7, 2014.",
-   "reblog-key" : "SJ4dtYby"
+   "feed-item" : "",
+   "id" : "82075992145"
 }
 

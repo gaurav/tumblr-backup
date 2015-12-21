@@ -1,23 +1,23 @@
 {
-   "format" : "html",
-   "unix-timestamp" : 1424633428,
-   "mobile" : 0,
-   "bookmarklet" : 0,
-   "date" : "Sun, 22 Feb 2015 12:30:28",
-   "from-feed-id" : 0,
-   "date-gmt" : "2015-02-22 19:30:28 GMT",
-   "feed-item" : "",
-   "url" : "http://tumblr.ggvaidya.com/post/111782942939",
-   "type" : "quote",
    "tags" : [
       "nice",
       "advice"
    ],
-   "quote-text" : "In the end, only three things matter: how much you loved, how gently you lived, and how gracefully you let go of things not meant for you.",
+   "quote-source" : "Â Buddha (via <a href=\"http://sexual-feelings.tumblr.com/\" class=\"tumblr_blog\">sexual-feelings</a>)",
+   "feed-item" : "",
    "id" : "111782942939",
-   "slug" : "in-the-end-only-three-things-matter-how-much-you",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/111782942939/in-the-end-only-three-things-matter-how-much-you",
+   "mobile" : 0,
    "reblog-key" : "DoTmNyF9",
-   "quote-source" : "Â Buddha (via <a href=\"http://sexual-feelings.tumblr.com/\" class=\"tumblr_blog\">sexual-feelings</a>)"
+   "format" : "html",
+   "date-gmt" : "2015-02-22 19:30:28 GMT",
+   "date" : "Sun, 22 Feb 2015 12:30:28",
+   "bookmarklet" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/111782942939",
+   "unix-timestamp" : 1424633428,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/111782942939/in-the-end-only-three-things-matter-how-much-you",
+   "type" : "quote",
+   "slug" : "in-the-end-only-three-things-matter-how-much-you",
+   "quote-text" : "In the end, only three things matter: how much you loved, how gently you lived, and how gracefully you let go of things not meant for you.",
+   "from-feed-id" : 0
 }
 

@@ -1,23 +1,23 @@
 {
-   "from-feed-id" : 0,
-   "feed-item" : "",
    "date-gmt" : "2014-07-23 00:14:12 GMT",
-   "url" : "http://tumblr.ggvaidya.com/post/92580081654",
-   "format" : "html",
-   "unix-timestamp" : 1406074452,
    "mobile" : 0,
-   "bookmarklet" : 0,
-   "date" : "Tue, 22 Jul 2014 18:14:12",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/92580081654/in-the-open-west-you-learn-to-live-closely-with",
-   "quote-source" : "Lyndon Johnson, as quoted in <a href=\"http://history.nasa.gov/monograph10/onesmlbl.html\"><em>Monographs in Aerospace History #10</em></a>",
    "reblog-key" : "97LzB3vL",
-   "type" : "quote",
+   "format" : "html",
+   "id" : "92580081654",
+   "quote-source" : "Lyndon Johnson, as quoted in <a href=\"http://history.nasa.gov/monograph10/onesmlbl.html\"><em>Monographs in Aerospace History #10</em></a>",
    "tags" : [
       "space",
       "lyndon johnson"
    ],
+   "feed-item" : "",
+   "from-feed-id" : 0,
+   "type" : "quote",
+   "slug" : "in-the-open-west-you-learn-to-live-closely-with",
    "quote-text" : "In the Open West you learn to live closely with the sky. It is part of your life. But now, somehow, in some new way, the sky seemed almost alien.",
-   "id" : "92580081654",
-   "slug" : "in-the-open-west-you-learn-to-live-closely-with"
+   "unix-timestamp" : 1406074452,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/92580081654/in-the-open-west-you-learn-to-live-closely-with",
+   "date" : "Tue, 22 Jul 2014 18:14:12",
+   "url" : "http://tumblr.ggvaidya.com/post/92580081654",
+   "bookmarklet" : 0
 }
 

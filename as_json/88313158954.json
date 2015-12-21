@@ -1,23 +1,23 @@
 {
-   "type" : "quote",
+   "id" : "88313158954",
+   "feed-item" : "",
    "tags" : [
       "Shakespeare",
       "julius caesar"
    ],
-   "quote-text" : "&hellip; what! know you not,<br/>\nBeing mechanical, you ought not walk<br/>\nUpon a labouring day without the sign<br/>\nOf your profession? &hellip;",
-   "id" : "88313158954",
-   "slug" : "what-know-you-not-being-mechanical-you-ought",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/88313158954/what-know-you-not-being-mechanical-you-ought",
-   "reblog-key" : "3vxEmIy7",
    "quote-source" : "William Shakespeare, <a href=\"http://shakespeare.mit.edu/julius_caesar/julius_caesar.1.1.html\"><em>Julius Caesar</em></a>, Act I, Scene 1",
+   "date-gmt" : "2014-06-09 22:15:30 GMT",
+   "reblog-key" : "3vxEmIy7",
    "format" : "html",
    "mobile" : 0,
    "unix-timestamp" : 1402352130,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/88313158954/what-know-you-not-being-mechanical-you-ought",
    "bookmarklet" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/88313158954",
    "date" : "Mon, 09 Jun 2014 16:15:30",
    "from-feed-id" : 0,
-   "feed-item" : "",
-   "date-gmt" : "2014-06-09 22:15:30 GMT",
-   "url" : "http://tumblr.ggvaidya.com/post/88313158954"
+   "quote-text" : "&hellip; what! know you not,<br/>\nBeing mechanical, you ought not walk<br/>\nUpon a labouring day without the sign<br/>\nOf your profession? &hellip;",
+   "slug" : "what-know-you-not-being-mechanical-you-ought",
+   "type" : "quote"
 }
 

@@ -1,23 +1,23 @@
 {
-   "mobile" : 0,
-   "unix-timestamp" : 1415569218,
-   "format" : "html",
    "date" : "Sun, 09 Nov 2014 14:40:18",
-   "bookmarklet" : 0,
-   "date-gmt" : "2014-11-09 21:40:18 GMT",
-   "feed-item" : "",
-   "from-feed-id" : 0,
    "url" : "http://tumblr.ggvaidya.com/post/102216090346",
+   "bookmarklet" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/102216090346/irked-fans-produce-fanfic-like-irritated-oysters",
+   "unix-timestamp" : 1415569218,
+   "type" : "quote",
+   "quote-text" : "Irked fans produce fanfic like irritated oysters produce pearls.",
+   "slug" : "irked-fans-produce-fanfic-like-irritated-oysters",
+   "from-feed-id" : 0,
    "tags" : [
       "so true",
       "fan fiction"
    ],
-   "type" : "quote",
-   "slug" : "irked-fans-produce-fanfic-like-irritated-oysters",
-   "quote-text" : "Irked fans produce fanfic like irritated oysters produce pearls.",
+   "quote-source" : "Jacqueline Lichtenberg in <em>Fic</em> by Anne Jamison (via <a href=\"http://treizquatorz.tumblr.com/\" class=\"tumblr_blog\">treizquatorz</a>)",
+   "feed-item" : "",
    "id" : "102216090346",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/102216090346/irked-fans-produce-fanfic-like-irritated-oysters",
+   "mobile" : 0,
    "reblog-key" : "cdHRa372",
-   "quote-source" : "Jacqueline Lichtenberg in <em>Fic</em> by Anne Jamison (via <a href=\"http://treizquatorz.tumblr.com/\" class=\"tumblr_blog\">treizquatorz</a>)"
+   "format" : "html",
+   "date-gmt" : "2014-11-09 21:40:18 GMT"
 }
 

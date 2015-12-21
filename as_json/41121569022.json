@@ -1,23 +1,15 @@
 {
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/41121569022/don-and-robin-how-i-met-your-mother-s5e24",
-   "conversation-title" : "Don and Robin, How I Met Your Mother, S5E24",
+   "mobile" : 0,
+   "format" : "html",
    "reblog-key" : "6hwsMTrS",
-   "type" : "conversation",
+   "date-gmt" : "2013-01-21 18:57:00 GMT",
    "tags" : [
       "how i met your mother"
    ],
-   "id" : "41121569022",
-   "slug" : "don-and-robin-how-i-met-your-mother-s5e24",
-   "from-feed-id" : 0,
    "feed-item" : "",
-   "date-gmt" : "2013-01-21 18:57:00 GMT",
-   "url" : "http://tumblr.ggvaidya.com/post/41121569022",
-   "format" : "html",
-   "mobile" : 0,
-   "unix-timestamp" : 1358794620,
-   "conversation-text" : "Moo-moo (Don): So, that's why Monty and I vowed never to do drugs, because drugs are bad. Right, Monty?\r\nMonty (Robin): Well, sure. Man-made chemical stuff. But, things that grow in nature, they're okay to try, like, once or twice.\r\n[beat]\r\nMoo-moo (Don): Not looking for grey areas here, Monty.",
-   "bookmarklet" : 0,
-   "date" : "Mon, 21 Jan 2013 11:57:00",
+   "conversation-title" : "Don and Robin, How I Met Your Mother, S5E24",
+   "id" : "41121569022",
+   "type" : "conversation",
    "conversation" : [
       {
          "name" : "Moo-moo (Don)",
@@ -26,19 +18,27 @@
       },
       {
          "label" : "Monty (Robin):",
-         "phrase" : "Well, sure. Man-made chemical stuff. But, things that grow in nature, they're okay to try, like, once or twice.\r",
-         "name" : "Monty (Robin)"
+         "name" : "Monty (Robin)",
+         "phrase" : "Well, sure. Man-made chemical stuff. But, things that grow in nature, they're okay to try, like, once or twice.\r"
       },
       {
-         "phrase" : "[beat]\r",
+         "name" : "",
          "label" : "",
-         "name" : ""
+         "phrase" : "[beat]\r"
       },
       {
+         "phrase" : "Not looking for grey areas here, Monty.",
          "name" : "Moo-moo (Don)",
-         "label" : "Moo-moo (Don):",
-         "phrase" : "Not looking for grey areas here, Monty."
+         "label" : "Moo-moo (Don):"
       }
-   ]
+   ],
+   "slug" : "don-and-robin-how-i-met-your-mother-s5e24",
+   "from-feed-id" : 0,
+   "date" : "Mon, 21 Jan 2013 11:57:00",
+   "bookmarklet" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/41121569022",
+   "conversation-text" : "Moo-moo (Don): So, that's why Monty and I vowed never to do drugs, because drugs are bad. Right, Monty?\r\nMonty (Robin): Well, sure. Man-made chemical stuff. But, things that grow in nature, they're okay to try, like, once or twice.\r\n[beat]\r\nMoo-moo (Don): Not looking for grey areas here, Monty.",
+   "unix-timestamp" : 1358794620,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/41121569022/don-and-robin-how-i-met-your-mother-s5e24"
 }
 

@@ -1,24 +1,24 @@
 {
    "from-feed-id" : 0,
-   "feed-item" : "",
-   "date-gmt" : "2013-10-11 17:45:04 GMT",
-   "url" : "http://tumblr.ggvaidya.com/post/63744843945",
-   "format" : "html",
-   "mobile" : 0,
+   "slug" : "for-you-i-was-a-chapter-for-me-you-were-the",
+   "quote-text" : "For you, I was a chapter. For me, you were the book.",
+   "type" : "quote",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/63744843945/for-you-i-was-a-chapter-for-me-you-were-the",
    "unix-timestamp" : 1381513504,
+   "url" : "http://tumblr.ggvaidya.com/post/63744843945",
    "bookmarklet" : 0,
    "date" : "Fri, 11 Oct 2013 11:45:04",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/63744843945/for-you-i-was-a-chapter-for-me-you-were-the",
+   "date-gmt" : "2013-10-11 17:45:04 GMT",
+   "format" : "html",
    "reblog-key" : "hn9EHR9w",
-   "quote-source" : "Tom McnealÂ  (via <a class=\"tumblr_blog\" href=\"http://moonchiilld.tumblr.com/\">moonchiilld</a>)",
-   "type" : "quote",
+   "mobile" : 0,
+   "id" : "63744843945",
+   "feed-item" : "",
    "tags" : [
       "sigh",
       "life",
       "relationships"
    ],
-   "id" : "63744843945",
-   "quote-text" : "For you, I was a chapter. For me, you were the book.",
-   "slug" : "for-you-i-was-a-chapter-for-me-you-were-the"
+   "quote-source" : "Tom McnealÂ  (via <a class=\"tumblr_blog\" href=\"http://moonchiilld.tumblr.com/\">moonchiilld</a>)"
 }
 

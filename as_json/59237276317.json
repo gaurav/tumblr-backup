@@ -1,17 +1,9 @@
 {
-   "bookmarklet" : 0,
-   "date" : "Sat, 24 Aug 2013 16:57:44",
-   "format" : "html",
-   "unix-timestamp" : 1377385064,
-   "mobile" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/59237276317",
-   "from-feed-id" : 0,
-   "feed-item" : "",
    "date-gmt" : "2013-08-24 22:57:44 GMT",
+   "mobile" : 0,
+   "format" : "html",
+   "reblog-key" : "wRgdzydV",
    "id" : "59237276317",
-   "quote-text" : "For every scientist, whether researcher, technologist, or teacher, of whatever competence in mathematics, there exists a discipline in science for which that level of mathematical competence is enough to achieve excellence.",
-   "slug" : "for-every-scientist-whether-researcher",
-   "type" : "quote",
    "tags" : [
       "biology",
       "maths",
@@ -19,7 +11,15 @@
       "e o wilson"
    ],
    "quote-source" : "Edward O. Wilson, <em>Letters to a Young Scientist</em>, as quoted by Daniel Simberloff, <em><a href=\"http://www.plosbiology.org/article/info:doi/10.1371/journal.pbio.1001629\">Book Review/Science in the Media: The Passion Principle</a></em>, PLoS Biology, August 13, 2013.",
-   "reblog-key" : "wRgdzydV",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/59237276317/for-every-scientist-whether-researcher"
+   "feed-item" : "",
+   "from-feed-id" : 0,
+   "type" : "quote",
+   "quote-text" : "For every scientist, whether researcher, technologist, or teacher, of whatever competence in mathematics, there exists a discipline in science for which that level of mathematical competence is enough to achieve excellence.",
+   "slug" : "for-every-scientist-whether-researcher",
+   "unix-timestamp" : 1377385064,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/59237276317/for-every-scientist-whether-researcher",
+   "date" : "Sat, 24 Aug 2013 16:57:44",
+   "url" : "http://tumblr.ggvaidya.com/post/59237276317",
+   "bookmarklet" : 0
 }
 

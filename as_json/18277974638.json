@@ -1,22 +1,22 @@
 {
-   "slug" : "as-always-on-wikipedia-theres-a-big-dust-up",
-   "id" : "18277974638",
-   "quote-text" : "<p>As always, on Wikipedia thereâs a big dust up going on about new page patrolling or NPP. Basically, the issue is something like this: when you create a page on Wikipedia, it gets listed on a page called <a href=\"http://en.wikipedia.org/wiki/Special:NewPages\">Special:NewPages</a>. If you are a logged in user and are confirmed, you can click on pages in that queue and mark them as patrolled. New page patrollers check through that list, usually from either the beginning or end of the queue, and make sure that new pages coming in are of decent enough quality.</p>\n\n<p>Only thereâs loads of work and not really enough people to do that work. Itâs rather taxing work too: if you mark it as patrolled, you have to potentially live with the possibility that you might be the last person to look at that page. It might have a massive copyright violation, it might contain some subtle vandalism, whatever. You have to intuitively tell in about a minute or less if it needs further attention, and if it does, tag it as such, fix it, or nominate it for deletion (or perhaps delete it outright if you are an admin).</p>",
+   "feed-item" : "",
    "tags" : [
       "wikipedia"
    ],
-   "type" : "quote",
    "quote-source" : "Tom Morris, <em><a href=\"http://blog.tommorris.org/post/18271663638/wikipedia-and-teaching-game-rules\">Wikipedia and teaching game rules</a></em>",
-   "reblog-key" : "XopYqpsb",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/18277974638/as-always-on-wikipedia-theres-a-big-dust-up",
-   "date" : "Sat, 25 Feb 2012 16:24:30",
-   "bookmarklet" : 0,
-   "mobile" : 0,
-   "unix-timestamp" : 1330212270,
+   "id" : "18277974638",
    "format" : "html",
-   "url" : "http://tumblr.ggvaidya.com/post/18277974638",
-   "feed-item" : "",
+   "reblog-key" : "XopYqpsb",
+   "mobile" : 0,
    "date-gmt" : "2012-02-25 23:24:30 GMT",
+   "url" : "http://tumblr.ggvaidya.com/post/18277974638",
+   "bookmarklet" : 0,
+   "date" : "Sat, 25 Feb 2012 16:24:30",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/18277974638/as-always-on-wikipedia-theres-a-big-dust-up",
+   "unix-timestamp" : 1330212270,
+   "quote-text" : "<p>As always, on Wikipedia thereâs a big dust up going on about new page patrolling or NPP. Basically, the issue is something like this: when you create a page on Wikipedia, it gets listed on a page called <a href=\"http://en.wikipedia.org/wiki/Special:NewPages\">Special:NewPages</a>. If you are a logged in user and are confirmed, you can click on pages in that queue and mark them as patrolled. New page patrollers check through that list, usually from either the beginning or end of the queue, and make sure that new pages coming in are of decent enough quality.</p>\n\n<p>Only thereâs loads of work and not really enough people to do that work. Itâs rather taxing work too: if you mark it as patrolled, you have to potentially live with the possibility that you might be the last person to look at that page. It might have a massive copyright violation, it might contain some subtle vandalism, whatever. You have to intuitively tell in about a minute or less if it needs further attention, and if it does, tag it as such, fix it, or nominate it for deletion (or perhaps delete it outright if you are an admin).</p>",
+   "slug" : "as-always-on-wikipedia-theres-a-big-dust-up",
+   "type" : "quote",
    "from-feed-id" : 0
 }
 

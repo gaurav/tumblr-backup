@@ -1,8 +1,6 @@
 {
    "id" : "69021271376",
-   "quote-text" : "1. All fungi are edible.<br/>\n2. Some fungi are not edible more than once.",
-   "slug" : "1-all-fungi-are-edible-2-some-fungi-are-not",
-   "type" : "quote",
+   "quote-source" : "Terry Pratchett, Discworld (via <a class=\"tumblr_blog\" href=\"http://johanirae.tumblr.com/\">johanirae</a>)",
    "tags" : [
       "hmm",
       "advice",
@@ -10,17 +8,19 @@
       "discworld",
       "fungi"
    ],
-   "reblog-key" : "tFccktF8",
-   "quote-source" : "Terry Pratchett, Discworld (via <a class=\"tumblr_blog\" href=\"http://johanirae.tumblr.com/\">johanirae</a>)",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/69021271376/1-all-fungi-are-edible-2-some-fungi-are-not",
-   "bookmarklet" : 0,
-   "date" : "Wed, 04 Dec 2013 16:53:37",
-   "format" : "html",
-   "unix-timestamp" : 1386201217,
+   "feed-item" : "",
+   "date-gmt" : "2013-12-04 23:53:37 GMT",
    "mobile" : 0,
+   "format" : "html",
+   "reblog-key" : "tFccktF8",
+   "unix-timestamp" : 1386201217,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/69021271376/1-all-fungi-are-edible-2-some-fungi-are-not",
+   "date" : "Wed, 04 Dec 2013 16:53:37",
+   "bookmarklet" : 0,
    "url" : "http://tumblr.ggvaidya.com/post/69021271376",
    "from-feed-id" : 0,
-   "feed-item" : "",
-   "date-gmt" : "2013-12-04 23:53:37 GMT"
+   "type" : "quote",
+   "quote-text" : "1. All fungi are edible.<br/>\n2. Some fungi are not edible more than once.",
+   "slug" : "1-all-fungi-are-edible-2-some-fungi-are-not"
 }
 

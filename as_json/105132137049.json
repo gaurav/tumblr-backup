@@ -1,23 +1,23 @@
 {
-   "date-gmt" : "2014-12-14 01:02:23 GMT",
-   "feed-item" : "",
-   "from-feed-id" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/105132137049",
    "mobile" : 0,
-   "unix-timestamp" : 1418518943,
    "format" : "html",
-   "date" : "Sat, 13 Dec 2014 18:02:23",
-   "bookmarklet" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/105132137049/vertical-text-with-css-3-writing-modes",
    "reblog-key" : "GtzLwYYx",
+   "date-gmt" : "2014-12-14 01:02:23 GMT",
    "tags" : [
       "huh",
       "top-to-bottom text"
    ],
-   "type" : "regular",
-   "regular-body" : "<p><a href=\"http://generatedcontent.org/post/45384206019/writing-modes\" class=\"tumblr_blog\">dstorey</a>:</p>\n\n<blockquote>\n<p>Languages with latin-based writing systems such as English are typically written left to right, and from top to bottom. However, there is a whole different world of writing modes out there. <a href=\"http://www.w3.org/TR/css3-writing-modes/\" target=\"_blank\">CSS3 Writing Modes</a> allows you to use these in your web sites. Read on to find out what you can, and can not use right now.</p>\n\n<p><a href=\"http://generatedcontent.org/post/45384206019/writing-modes\">Read More</a></p></blockquote>",
-   "slug" : "vertical-text-with-css-3-writing-modes",
+   "feed-item" : "",
    "id" : "105132137049",
-   "regular-title" : "Vertical text with CSS 3 Writing Modes "
+   "type" : "regular",
+   "slug" : "vertical-text-with-css-3-writing-modes",
+   "from-feed-id" : 0,
+   "date" : "Sat, 13 Dec 2014 18:02:23",
+   "url" : "http://tumblr.ggvaidya.com/post/105132137049",
+   "regular-title" : "Vertical text with CSS 3 Writing Modes ",
+   "bookmarklet" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/105132137049/vertical-text-with-css-3-writing-modes",
+   "unix-timestamp" : 1418518943,
+   "regular-body" : "<p><a href=\"http://generatedcontent.org/post/45384206019/writing-modes\" class=\"tumblr_blog\">dstorey</a>:</p>\n\n<blockquote>\n<p>Languages with latin-based writing systems such as English are typically written left to right, and from top to bottom. However, there is a whole different world of writing modes out there. <a href=\"http://www.w3.org/TR/css3-writing-modes/\" target=\"_blank\">CSS3 Writing Modes</a> allows you to use these in your web sites. Read on to find out what you can, and can not use right now.</p>\n\n<p><a href=\"http://generatedcontent.org/post/45384206019/writing-modes\">Read More</a></p></blockquote>"
 }
 

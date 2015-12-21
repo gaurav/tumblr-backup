@@ -1,50 +1,51 @@
 {
-   "url" : "http://tumblr.ggvaidya.com/post/131174137255",
-   "from-feed-id" : 0,
-   "feed-item" : "",
-   "date-gmt" : "2015-10-14 20:20:08 GMT",
-   "bookmarklet" : 0,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/131174137255/python-what-if-everything-was-a-dict-java-what",
+   "unix-timestamp" : 1444854008,
    "conversation-text" : "Python: What if everything was a dict?\nJava: What if everything was an object?\nJavaScript: What if everything was a dict *and* an object?\nC: What if everything was a pointer?\nAPL: What if everything was an array?\nTcl: What if everything was a string?\nProlog: What if everything was a term?\nLISP: What if everything was a pair?\nScheme: What if everything was a function?\nHaskell: What if everything was a monad?\nAssembly: What if everything was a register?\nCoq: What if everything was a type/proposition?\nCOBOL: WHAT IF EVERYTHING WAS UPPERCASE?\nC#: What if everything was like Java, but different?\nRuby: What if everything was monkey patched?\nPascal: BEGIN What if everything was structured? END\nC++: What if we added everything to the language?\nC++11: What if we forgot to stop adding stuff?\nRust: What if garbage collection didn't exist?\nGo: What if we tried designing C a second time?\nPerl: What if shell, sed, and awk were one language?\nPerl6: What if we took the joke too far?\nPHP: What if we wanted to make SQL injection easier?\nVB: What if we wanted to allow anyone to program?\nVB.NET: What if we wanted to stop them again?\nForth: What if everything was a stack?\nColorForth: What if the stack was green?\nPostScript: What if everything was printed at 600dpi?\nXSLT: What if everything was an XML element?\nMake: What if everything was a dependency?\nm4: What if everything was incomprehensibly quoted?\nScala: What if Haskell ran on the JVM?\nClojure: What if LISP ran on the JVM?\nLua: What if game developers got tired of C++?\nMathematica: What if Stephen Wolfram invented everything?\nMalbolge: What if there is no god?",
+   "url" : "http://tumblr.ggvaidya.com/post/131174137255",
+   "bookmarklet" : 0,
    "date" : "Wed, 14 Oct 2015 14:20:08",
+   "from-feed-id" : 0,
+   "slug" : "python-what-if-everything-was-a-dict-java-what",
    "conversation" : [
       {
-         "name" : "Python",
          "label" : "Python:",
+         "name" : "Python",
          "phrase" : "What if everything was a dict?"
       },
       {
-         "phrase" : "What if everything was an object?",
          "label" : "Java:",
-         "name" : "Java"
+         "name" : "Java",
+         "phrase" : "What if everything was an object?"
       },
       {
-         "name" : "JavaScript",
          "phrase" : "What if everything was a dict *and* an object?",
-         "label" : "JavaScript:"
+         "label" : "JavaScript:",
+         "name" : "JavaScript"
       },
       {
-         "name" : "C",
          "label" : "C:",
+         "name" : "C",
          "phrase" : "What if everything was a pointer?"
       },
       {
+         "phrase" : "What if everything was an array?",
          "name" : "APL",
-         "label" : "APL:",
-         "phrase" : "What if everything was an array?"
+         "label" : "APL:"
       },
       {
-         "label" : "Tcl:",
          "phrase" : "What if everything was a string?",
+         "label" : "Tcl:",
          "name" : "Tcl"
       },
       {
-         "name" : "Prolog",
+         "phrase" : "What if everything was a term?",
          "label" : "Prolog:",
-         "phrase" : "What if everything was a term?"
+         "name" : "Prolog"
       },
       {
-         "name" : "LISP",
          "label" : "LISP:",
+         "name" : "LISP",
          "phrase" : "What if everything was a pair?"
       },
       {
@@ -53,19 +54,19 @@
          "name" : "Scheme"
       },
       {
-         "phrase" : "What if everything was a monad?",
          "label" : "Haskell:",
-         "name" : "Haskell"
+         "name" : "Haskell",
+         "phrase" : "What if everything was a monad?"
       },
       {
-         "label" : "Assembly:",
          "phrase" : "What if everything was a register?",
+         "label" : "Assembly:",
          "name" : "Assembly"
       },
       {
-         "name" : "Coq",
+         "phrase" : "What if everything was a type/proposition?",
          "label" : "Coq:",
-         "phrase" : "What if everything was a type/proposition?"
+         "name" : "Coq"
       },
       {
          "name" : "COBOL",
@@ -73,135 +74,134 @@
          "phrase" : "WHAT IF EVERYTHING WAS UPPERCASE?"
       },
       {
+         "phrase" : "What if everything was like Java, but different?",
          "name" : "C#",
-         "label" : "C#:",
-         "phrase" : "What if everything was like Java, but different?"
+         "label" : "C#:"
       },
       {
-         "phrase" : "What if everything was monkey patched?",
+         "name" : "Ruby",
          "label" : "Ruby:",
-         "name" : "Ruby"
+         "phrase" : "What if everything was monkey patched?"
       },
       {
-         "name" : "Pascal",
          "label" : "Pascal:",
+         "name" : "Pascal",
          "phrase" : "BEGIN What if everything was structured? END"
       },
       {
-         "name" : "C++",
          "phrase" : "What if we added everything to the language?",
-         "label" : "C++:"
+         "label" : "C++:",
+         "name" : "C++"
       },
       {
+         "name" : "C++11",
          "label" : "C++11:",
-         "phrase" : "What if we forgot to stop adding stuff?",
-         "name" : "C++11"
+         "phrase" : "What if we forgot to stop adding stuff?"
       },
       {
-         "label" : "Rust:",
          "phrase" : "What if garbage collection didn't exist?",
+         "label" : "Rust:",
          "name" : "Rust"
       },
       {
+         "phrase" : "What if we tried designing C a second time?",
          "name" : "Go",
-         "label" : "Go:",
-         "phrase" : "What if we tried designing C a second time?"
+         "label" : "Go:"
       },
       {
-         "name" : "Perl",
          "phrase" : "What if shell, sed, and awk were one language?",
+         "name" : "Perl",
          "label" : "Perl:"
       },
       {
-         "name" : "Perl6",
          "phrase" : "What if we took the joke too far?",
+         "name" : "Perl6",
          "label" : "Perl6:"
       },
       {
-         "name" : "PHP",
          "phrase" : "What if we wanted to make SQL injection easier?",
+         "name" : "PHP",
          "label" : "PHP:"
       },
       {
+         "name" : "VB",
          "label" : "VB:",
-         "phrase" : "What if we wanted to allow anyone to program?",
-         "name" : "VB"
+         "phrase" : "What if we wanted to allow anyone to program?"
       },
       {
+         "name" : "VB.NET",
          "label" : "VB.NET:",
-         "phrase" : "What if we wanted to stop them again?",
-         "name" : "VB.NET"
+         "phrase" : "What if we wanted to stop them again?"
       },
       {
+         "name" : "Forth",
          "label" : "Forth:",
-         "phrase" : "What if everything was a stack?",
-         "name" : "Forth"
+         "phrase" : "What if everything was a stack?"
       },
       {
+         "phrase" : "What if the stack was green?",
          "name" : "ColorForth",
-         "label" : "ColorForth:",
-         "phrase" : "What if the stack was green?"
+         "label" : "ColorForth:"
       },
       {
-         "name" : "PostScript",
          "label" : "PostScript:",
+         "name" : "PostScript",
          "phrase" : "What if everything was printed at 600dpi?"
       },
       {
-         "phrase" : "What if everything was an XML element?",
+         "name" : "XSLT",
          "label" : "XSLT:",
-         "name" : "XSLT"
+         "phrase" : "What if everything was an XML element?"
       },
       {
+         "label" : "Make:",
          "name" : "Make",
-         "phrase" : "What if everything was a dependency?",
-         "label" : "Make:"
+         "phrase" : "What if everything was a dependency?"
       },
       {
-         "phrase" : "What if everything was incomprehensibly quoted?",
+         "name" : "m4",
          "label" : "m4:",
-         "name" : "m4"
+         "phrase" : "What if everything was incomprehensibly quoted?"
       },
       {
-         "name" : "Scala",
          "phrase" : "What if Haskell ran on the JVM?",
-         "label" : "Scala:"
+         "label" : "Scala:",
+         "name" : "Scala"
       },
       {
          "label" : "Clojure:",
-         "phrase" : "What if LISP ran on the JVM?",
-         "name" : "Clojure"
+         "name" : "Clojure",
+         "phrase" : "What if LISP ran on the JVM?"
       },
       {
-         "label" : "Lua:",
          "phrase" : "What if game developers got tired of C++?",
+         "label" : "Lua:",
          "name" : "Lua"
       },
       {
+         "phrase" : "What if Stephen Wolfram invented everything?",
          "name" : "Mathematica",
-         "label" : "Mathematica:",
-         "phrase" : "What if Stephen Wolfram invented everything?"
+         "label" : "Mathematica:"
       },
       {
-         "phrase" : "What if there is no god?",
          "label" : "Malbolge:",
-         "name" : "Malbolge"
+         "name" : "Malbolge",
+         "phrase" : "What if there is no god?"
       }
    ],
-   "format" : "html",
-   "unix-timestamp" : 1444854008,
-   "mobile" : 0,
-   "conversation-title" : null,
-   "reblog-key" : "y44U01W4",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/131174137255/python-what-if-everything-was-a-dict-java-what",
-   "id" : "131174137255",
-   "slug" : "python-what-if-everything-was-a-dict-java-what",
    "type" : "conversation",
+   "id" : "131174137255",
+   "conversation-title" : null,
+   "feed-item" : "",
    "tags" : [
       "programming",
       "not true about perl6",
       "but pretty true about perl",
       "and what if everything was three data types?"
-   ]
+   ],
+   "date-gmt" : "2015-10-14 20:20:08 GMT",
+   "format" : "html",
+   "reblog-key" : "y44U01W4",
+   "mobile" : 0
 }
 

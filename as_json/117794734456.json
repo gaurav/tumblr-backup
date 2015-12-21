@@ -1,23 +1,23 @@
 {
-   "bookmarklet" : 0,
-   "date" : "Thu, 30 Apr 2015 14:20:06",
    "format" : "html",
-   "unix-timestamp" : 1430425206,
+   "reblog-key" : "mRqTEjma",
    "mobile" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/117794734456",
-   "from-feed-id" : 0,
    "date-gmt" : "2015-04-30 20:20:06 GMT",
    "feed-item" : "",
-   "id" : "117794734456",
-   "quote-text" : "Inverse bus factor: how many developers have to be hit by a bus before a project starts to proceed smoothly?",
-   "slug" : "inverse-bus-factor-how-many-developers-have-to-be",
-   "type" : "quote",
+   "quote-source" : "Michael Foord <em><a href=\"https://twitter.com/voidspace/status/435449949342679040\">on Twitter</a></em>, February 17, 2014.",
    "tags" : [
       "programming",
       "software engineering"
    ],
-   "reblog-key" : "mRqTEjma",
-   "quote-source" : "Michael Foord <em><a href=\"https://twitter.com/voidspace/status/435449949342679040\">on Twitter</a></em>, February 17, 2014.",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/117794734456/inverse-bus-factor-how-many-developers-have-to-be"
+   "id" : "117794734456",
+   "slug" : "inverse-bus-factor-how-many-developers-have-to-be",
+   "quote-text" : "Inverse bus factor: how many developers have to be hit by a bus before a project starts to proceed smoothly?",
+   "type" : "quote",
+   "from-feed-id" : 0,
+   "bookmarklet" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/117794734456",
+   "date" : "Thu, 30 Apr 2015 14:20:06",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/117794734456/inverse-bus-factor-how-many-developers-have-to-be",
+   "unix-timestamp" : 1430425206
 }
 

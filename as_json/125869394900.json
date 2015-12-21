@@ -1,23 +1,23 @@
 {
-   "type" : "quote",
+   "feed-item" : "",
    "tags" : [
       "poetry",
       "pork"
    ],
-   "id" : "125869394900",
-   "quote-text" : "Pretty Ricky urges<br/>\nme to swear off pork, but itâs lunchtime and my<br/>\nstomach wanders off to a foot-long or a brat with<br/>\n&lsquo;kraut. I think twice, three times, waffle back<br/>\nand forth between meat and a veggie wrap, as,<br/>\nin front of me, many meals stretch out, dozing.",
-   "slug" : "pretty-ricky-urges-me-to-swear-off-pork-but-its",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/125869394900/pretty-ricky-urges-me-to-swear-off-pork-but-its",
-   "reblog-key" : "3bZg218b",
    "quote-source" : "<em><a href=\"http://www.poetryfoundation.org/poem/250170\">Pretty Ricky</a></em> by Jill Breckenridge",
+   "id" : "125869394900",
+   "reblog-key" : "3bZg218b",
    "format" : "html",
    "mobile" : 0,
-   "unix-timestamp" : 1438720814,
+   "date-gmt" : "2015-08-04 20:40:14 GMT",
+   "url" : "http://tumblr.ggvaidya.com/post/125869394900",
    "bookmarklet" : 0,
    "date" : "Tue, 04 Aug 2015 14:40:14",
-   "from-feed-id" : 0,
-   "feed-item" : "",
-   "date-gmt" : "2015-08-04 20:40:14 GMT",
-   "url" : "http://tumblr.ggvaidya.com/post/125869394900"
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/125869394900/pretty-ricky-urges-me-to-swear-off-pork-but-its",
+   "unix-timestamp" : 1438720814,
+   "slug" : "pretty-ricky-urges-me-to-swear-off-pork-but-its",
+   "quote-text" : "Pretty Ricky urges<br/>\nme to swear off pork, but itâs lunchtime and my<br/>\nstomach wanders off to a foot-long or a brat with<br/>\n&lsquo;kraut. I think twice, three times, waffle back<br/>\nand forth between meat and a veggie wrap, as,<br/>\nin front of me, many meals stretch out, dozing.",
+   "type" : "quote",
+   "from-feed-id" : 0
 }
 

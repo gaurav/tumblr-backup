@@ -1,23 +1,23 @@
 {
-   "feed-item" : "",
-   "date-gmt" : "2014-04-29 07:02:48 GMT",
-   "from-feed-id" : 0,
    "url" : "http://tumblr.ggvaidya.com/post/84206637204",
-   "unix-timestamp" : 1398754968,
-   "mobile" : 0,
-   "format" : "html",
-   "date" : "Tue, 29 Apr 2014 01:02:48",
    "bookmarklet" : 0,
+   "date" : "Tue, 29 Apr 2014 01:02:48",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/84206637204/we-have-got-to-stop-relating-tough-life-stuff",
-   "reblog-key" : "UIq16B4m",
-   "quote-source" : "Dorothy, <em><a href=\"http://www.dumbingofage.com/2014/comic/book-4/02-i-was-a-teenage-churchmouse/andalso/\">And also</a></em>, <em>Dumbing of Age</em>, April 25, 2014.",
+   "unix-timestamp" : 1398754968,
+   "slug" : "we-have-got-to-stop-relating-tough-life-stuff",
+   "quote-text" : "We have <em>got</em> to stop relating tough life stuff through a cartoon about an alien and a robot gorilla.",
+   "type" : "quote",
+   "from-feed-id" : 0,
+   "feed-item" : "",
    "tags" : [
       "dumbing of age",
       "cartoons"
    ],
-   "type" : "quote",
-   "slug" : "we-have-got-to-stop-relating-tough-life-stuff",
+   "quote-source" : "Dorothy, <em><a href=\"http://www.dumbingofage.com/2014/comic/book-4/02-i-was-a-teenage-churchmouse/andalso/\">And also</a></em>, <em>Dumbing of Age</em>, April 25, 2014.",
    "id" : "84206637204",
-   "quote-text" : "We have <em>got</em> to stop relating tough life stuff through a cartoon about an alien and a robot gorilla."
+   "format" : "html",
+   "reblog-key" : "UIq16B4m",
+   "mobile" : 0,
+   "date-gmt" : "2014-04-29 07:02:48 GMT"
 }
 

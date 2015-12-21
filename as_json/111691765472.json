@@ -1,23 +1,23 @@
 {
-   "bookmarklet" : 0,
-   "date" : "Sat, 21 Feb 2015 14:40:10",
-   "format" : "html",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/111691765472/its-a-sad-state-of-affairs-when-you-find-yourself",
    "unix-timestamp" : 1424554810,
-   "mobile" : 0,
+   "date" : "Sat, 21 Feb 2015 14:40:10",
    "url" : "http://tumblr.ggvaidya.com/post/111691765472",
+   "bookmarklet" : 0,
    "from-feed-id" : 0,
-   "feed-item" : "",
-   "date-gmt" : "2015-02-21 21:40:10 GMT",
-   "quote-text" : "It&rsquo;s a sad state of affairs when you find yourself trading glances with with the only other reasonable person in the room &ndash; and she&rsquo;s a lunatic.",
-   "id" : "111691765472",
-   "slug" : "its-a-sad-state-of-affairs-when-you-find-yourself",
    "type" : "quote",
+   "quote-text" : "It&rsquo;s a sad state of affairs when you find yourself trading glances with with the only other reasonable person in the room &ndash; and she&rsquo;s a lunatic.",
+   "slug" : "its-a-sad-state-of-affairs-when-you-find-yourself",
+   "id" : "111691765472",
    "tags" : [
       "digger",
       "madness"
    ],
-   "reblog-key" : "tQBRyalj",
    "quote-source" : "<em>Digger</em>, <a href=\"http://diggercomic.com/blog/2007/08/29/digger-179/\">August 29, 2007</a>.",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/111691765472/its-a-sad-state-of-affairs-when-you-find-yourself"
+   "feed-item" : "",
+   "date-gmt" : "2015-02-21 21:40:10 GMT",
+   "mobile" : 0,
+   "format" : "html",
+   "reblog-key" : "tQBRyalj"
 }
 

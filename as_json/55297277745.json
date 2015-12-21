@@ -1,23 +1,23 @@
 {
-   "mobile" : 0,
-   "unix-timestamp" : 1373673404,
-   "format" : "html",
-   "date" : "Fri, 12 Jul 2013 17:56:44",
-   "bookmarklet" : 0,
-   "date-gmt" : "2013-07-12 23:56:44 GMT",
    "feed-item" : "",
-   "from-feed-id" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/55297277745",
    "tags" : [
       "introvert",
       "awkwardness"
    ],
-   "type" : "quote",
-   "slug" : "why-do-we-throw-around-the-phrase-she-really",
+   "quote-source" : "Daniel O'Brien, <em><a href=\"http://www.cracked.com/blog/4-things-movies-always-get-wrong-about-awkward-people_p2\"></a></em>, Cracked, July 12, 2013.",
    "id" : "55297277745",
-   "quote-text" : "Why do we throw around the phrase &ldquo;She really helped him break out of his shell&rdquo; as if that&rsquo;s a good thing? If a turtle breaks out of his shell, <em>he will die</em>.",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/55297277745/why-do-we-throw-around-the-phrase-she-really",
    "reblog-key" : "hT0w05jd",
-   "quote-source" : "Daniel O'Brien, <em><a href=\"http://www.cracked.com/blog/4-things-movies-always-get-wrong-about-awkward-people_p2\"></a></em>, Cracked, July 12, 2013."
+   "format" : "html",
+   "mobile" : 0,
+   "date-gmt" : "2013-07-12 23:56:44 GMT",
+   "bookmarklet" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/55297277745",
+   "date" : "Fri, 12 Jul 2013 17:56:44",
+   "unix-timestamp" : 1373673404,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/55297277745/why-do-we-throw-around-the-phrase-she-really",
+   "slug" : "why-do-we-throw-around-the-phrase-she-really",
+   "quote-text" : "Why do we throw around the phrase &ldquo;She really helped him break out of his shell&rdquo; as if that&rsquo;s a good thing? If a turtle breaks out of his shell, <em>he will die</em>.",
+   "type" : "quote",
+   "from-feed-id" : 0
 }
 

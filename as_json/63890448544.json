@@ -1,34 +1,34 @@
 {
-   "unix-timestamp" : 1381639486,
-   "mobile" : 0,
-   "format" : "html",
-   "date" : "Sat, 12 Oct 2013 22:44:46",
-   "conversation" : [
-      {
-         "phrase" : "Laziness is one of the three virtues of a programmer.\r",
-         "label" : "Me:",
-         "name" : "Me"
-      },
-      {
-         "name" : "Isarra",
-         "phrase" : "Laziness is good, but it needs sensibility and brilliance to back it up, and some semblance of perfectionism to counter it.",
-         "label" : "Isarra:"
-      }
-   ],
-   "conversation-text" : "Me: Laziness is one of the three virtues of a programmer.\r\nIsarra: Laziness is good, but it needs sensibility and brilliance to back it up, and some semblance of perfectionism to counter it.",
-   "bookmarklet" : 0,
-   "date-gmt" : "2013-10-13 04:44:46 GMT",
+   "conversation-title" : "Programming virtues",
    "feed-item" : "",
-   "from-feed-id" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/63890448544",
    "tags" : [
       "programming"
    ],
-   "type" : "conversation",
-   "slug" : "programming-virtues",
    "id" : "63890448544",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/63890448544/programming-virtues",
+   "format" : "html",
    "reblog-key" : "isA0q88p",
-   "conversation-title" : "Programming virtues"
+   "mobile" : 0,
+   "date-gmt" : "2013-10-13 04:44:46 GMT",
+   "url" : "http://tumblr.ggvaidya.com/post/63890448544",
+   "bookmarklet" : 0,
+   "conversation-text" : "Me: Laziness is one of the three virtues of a programmer.\r\nIsarra: Laziness is good, but it needs sensibility and brilliance to back it up, and some semblance of perfectionism to counter it.",
+   "date" : "Sat, 12 Oct 2013 22:44:46",
+   "unix-timestamp" : 1381639486,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/63890448544/programming-virtues",
+   "slug" : "programming-virtues",
+   "type" : "conversation",
+   "conversation" : [
+      {
+         "phrase" : "Laziness is one of the three virtues of a programmer.\r",
+         "name" : "Me",
+         "label" : "Me:"
+      },
+      {
+         "name" : "Isarra",
+         "label" : "Isarra:",
+         "phrase" : "Laziness is good, but it needs sensibility and brilliance to back it up, and some semblance of perfectionism to counter it."
+      }
+   ],
+   "from-feed-id" : 0
 }
 

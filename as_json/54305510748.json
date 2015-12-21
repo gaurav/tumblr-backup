@@ -1,14 +1,18 @@
 {
-   "format" : "html",
-   "unix-timestamp" : 1372643100,
-   "mobile" : 0,
-   "bookmarklet" : 0,
-   "date" : "Sun, 30 Jun 2013 19:45:00",
-   "from-feed-id" : 0,
-   "feed-item" : "",
-   "date-gmt" : "2013-07-01 01:45:00 GMT",
-   "url" : "http://tumblr.ggvaidya.com/post/54305510748",
    "type" : "quote",
+   "quote-text" : "I only know as much about myself as my mind can work out under itâs current conditions. And itâs current conditions are not good.",
+   "slug" : "i-only-know-as-much-about-myself-as-my-mind-can",
+   "from-feed-id" : 0,
+   "date" : "Sun, 30 Jun 2013 19:45:00",
+   "bookmarklet" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/54305510748",
+   "unix-timestamp" : 1372643100,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/54305510748/i-only-know-as-much-about-myself-as-my-mind-can",
+   "mobile" : 0,
+   "format" : "html",
+   "reblog-key" : "VKRdJYpi",
+   "date-gmt" : "2013-07-01 01:45:00 GMT",
+   "quote-source" : "Zaphod Beeblebrox from The Hitchhikerâs Guide to the Galaxy by Douglas Adams (via <a class=\"tumblr_blog\" href=\"http://yesmilkhotel.tumblr.com/\">yesmilkhotel</a>)",
    "tags" : [
       "zaphod beeblebrox",
       "why isn't there more beeblebox stuff on Tumblr?",
@@ -16,11 +20,7 @@
       "make him president even",
       "hmm"
    ],
-   "quote-text" : "I only know as much about myself as my mind can work out under itâs current conditions. And itâs current conditions are not good.",
-   "id" : "54305510748",
-   "slug" : "i-only-know-as-much-about-myself-as-my-mind-can",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/54305510748/i-only-know-as-much-about-myself-as-my-mind-can",
-   "quote-source" : "Zaphod Beeblebrox from The Hitchhikerâs Guide to the Galaxy by Douglas Adams (via <a class=\"tumblr_blog\" href=\"http://yesmilkhotel.tumblr.com/\">yesmilkhotel</a>)",
-   "reblog-key" : "VKRdJYpi"
+   "feed-item" : "",
+   "id" : "54305510748"
 }
 

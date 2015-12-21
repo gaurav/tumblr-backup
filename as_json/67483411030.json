@@ -1,26 +1,26 @@
 {
-   "link-url" : "https://github.com/dghost/Quake2VR/releases/tag/v1.3",
-   "url" : "http://tumblr.ggvaidya.com/post/67483411030",
-   "from-feed-id" : 0,
-   "feed-item" : "",
    "date-gmt" : "2013-11-19 19:04:08 GMT",
-   "bookmarklet" : 0,
-   "date" : "Tue, 19 Nov 2013 12:04:08",
-   "format" : "html",
-   "link-text" : "Quake2VR Version 1.3",
-   "unix-timestamp" : 1384887848,
    "mobile" : 0,
    "reblog-key" : "e0Bu2v3r",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/67483411030/quake2vr-version-13",
-   "link-description" : "<p><a href=\"http://2ometimes.tumblr.com/post/67478201858/quake2vr-version-1-3\" class=\"tumblr_blog\">2ometimes</a>:</p>\n\n<blockquote><p><a class=\"tumblr_blog\" href=\"http://dghost.tumblr.com/post/67476877655/quake2vr-version-1-3\">dghost</a>:</p>\n<blockquote>\n<p>After a protracted development period, I finally got version 1.3 of Q2VR out. Full release notes behind the link, but the short version is it adds menu support for configuring all VR properties, native support for Xbox 360 and compatible gamepads (not limited to VR mode either!), and support for a handful of features that improve visual quality with the Rift.</p>\n<p>Huge thanks go to <a href=\"http://satisfunctory.tumblr.com\">satisfunctory</a>Â for testing and finding bugs in the pre-release builds, and also for patiently dealing with my madness during the process.</p>\n</blockquote>\n<p><strong>BEHOLD, CITIZENS! VIRTUAL REALITY QUAKE 2!</strong></p>\n<p><img alt=\"\" src=\"http://33.media.tumblr.com/tumblr_m3onhjQzN61qc34ga.gif\"/></p></blockquote>",
+   "format" : "html",
    "id" : "67483411030",
-   "slug" : "quake2vr-version-13",
-   "type" : "link",
+   "link-description" : "<p><a href=\"http://2ometimes.tumblr.com/post/67478201858/quake2vr-version-1-3\" class=\"tumblr_blog\">2ometimes</a>:</p>\n\n<blockquote><p><a class=\"tumblr_blog\" href=\"http://dghost.tumblr.com/post/67476877655/quake2vr-version-1-3\">dghost</a>:</p>\n<blockquote>\n<p>After a protracted development period, I finally got version 1.3 of Q2VR out. Full release notes behind the link, but the short version is it adds menu support for configuring all VR properties, native support for Xbox 360 and compatible gamepads (not limited to VR mode either!), and support for a handful of features that improve visual quality with the Rift.</p>\n<p>Huge thanks go to <a href=\"http://satisfunctory.tumblr.com\">satisfunctory</a>Â for testing and finding bugs in the pre-release builds, and also for patiently dealing with my madness during the process.</p>\n</blockquote>\n<p><strong>BEHOLD, CITIZENS! VIRTUAL REALITY QUAKE 2!</strong></p>\n<p><img alt=\"\" src=\"http://33.media.tumblr.com/tumblr_m3onhjQzN61qc34ga.gif\"/></p></blockquote>",
    "tags" : [
       "yay!",
       "congratulations",
       "and may i just say",
       "what a ridiculously awesome gif"
-   ]
+   ],
+   "feed-item" : "",
+   "from-feed-id" : 0,
+   "type" : "link",
+   "slug" : "quake2vr-version-13",
+   "unix-timestamp" : 1384887848,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/67483411030/quake2vr-version-13",
+   "date" : "Tue, 19 Nov 2013 12:04:08",
+   "link-text" : "Quake2VR Version 1.3",
+   "bookmarklet" : 0,
+   "url" : "http://tumblr.ggvaidya.com/post/67483411030",
+   "link-url" : "https://github.com/dghost/Quake2VR/releases/tag/v1.3"
 }
 

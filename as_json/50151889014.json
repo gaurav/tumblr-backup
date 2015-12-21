@@ -1,22 +1,22 @@
 {
-   "feed-item" : "",
    "date-gmt" : "2013-05-11 07:54:32 GMT",
-   "from-feed-id" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/50151889014",
-   "mobile" : 0,
-   "unix-timestamp" : 1368258872,
    "format" : "html",
-   "date" : "Sat, 11 May 2013 01:54:32",
-   "bookmarklet" : 0,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/50151889014/that-wouldnt-be-as-delightfully-scatty-as-some-of",
-   "quote-source" : "Mark Steel, <a href=\"http://www.independent.co.uk/voices/comment/have-you-heard-the-immigrants-ruined-britain-8609394.html\"><em>Have you heard? The immigrants ruined Britain</em></a>, The Independent, May 9, 2013.",
    "reblog-key" : "79jp5BsP",
+   "mobile" : 0,
+   "id" : "50151889014",
+   "feed-item" : "",
+   "quote-source" : "Mark Steel, <a href=\"http://www.independent.co.uk/voices/comment/have-you-heard-the-immigrants-ruined-britain-8609394.html\"><em>Have you heard? The immigrants ruined Britain</em></a>, The Independent, May 9, 2013.",
    "tags" : [
       "mark steel"
    ],
-   "type" : "quote",
+   "from-feed-id" : 0,
    "slug" : "that-wouldnt-be-as-delightfully-scatty-as-some-of",
    "quote-text" : "That wouldnât be as delightfully scatty as some of the immigration laws that already exist. For example, there was a rule that if an immigrant living here had an elderly relative abroad who was entirely dependent, with no one to look after them, that family member was entitled to join them in Britain. That rule has been tightened, so now anyone capable of making the journey is deemed too healthy to qualify as dependent. This not only cuts down on immigration, but solves the dependent family memberâs loneliness by leaving them all day pondering such a tricky philosophical puzzle.",
-   "id" : "50151889014"
+   "type" : "quote",
+   "unix-timestamp" : 1368258872,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/50151889014/that-wouldnt-be-as-delightfully-scatty-as-some-of",
+   "url" : "http://tumblr.ggvaidya.com/post/50151889014",
+   "bookmarklet" : 0,
+   "date" : "Sat, 11 May 2013 01:54:32"
 }
 

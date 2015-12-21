@@ -1,23 +1,23 @@
 {
-   "feed-item" : "",
-   "date-gmt" : "2013-07-28 23:50:50 GMT",
    "from-feed-id" : 0,
-   "url" : "http://tumblr.ggvaidya.com/post/56732232167",
+   "slug" : "as-adults-we-try-to-develop-the-character-traits",
+   "quote-text" : "As adults, we try to develop the character traits that would have rescued our parents.",
+   "type" : "quote",
    "unix-timestamp" : 1375055450,
-   "mobile" : 0,
-   "format" : "html",
-   "date" : "Sun, 28 Jul 2013 17:50:50",
-   "bookmarklet" : 0,
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/56732232167/as-adults-we-try-to-develop-the-character-traits",
-   "quote-source" : "Alain de Botton (via <a class=\"tumblr_blog\" href=\"http://fablenation.tumblr.com/\">fablenation</a>)",
+   "url" : "http://tumblr.ggvaidya.com/post/56732232167",
+   "bookmarklet" : 0,
+   "date" : "Sun, 28 Jul 2013 17:50:50",
+   "date-gmt" : "2013-07-28 23:50:50 GMT",
    "reblog-key" : "q44FAZ1B",
+   "format" : "html",
+   "mobile" : 0,
+   "id" : "56732232167",
+   "feed-item" : "",
    "tags" : [
       "eeks",
       "so true"
    ],
-   "type" : "quote",
-   "slug" : "as-adults-we-try-to-develop-the-character-traits",
-   "quote-text" : "As adults, we try to develop the character traits that would have rescued our parents.",
-   "id" : "56732232167"
+   "quote-source" : "Alain de Botton (via <a class=\"tumblr_blog\" href=\"http://fablenation.tumblr.com/\">fablenation</a>)"
 }
 
