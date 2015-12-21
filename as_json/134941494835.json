@@ -1,23 +1,23 @@
 {
-   "from-feed-id" : 0,
-   "type" : "quote",
-   "slug" : "drink-a-large-glass-of-water-in-the-morning-your",
+   "quote-source" : "James Clear, <a href=\"http://www.entrepreneur.com/article/235626\"><em>The Beginner&rsquo;s Guide to Getting Better Sleep</em></a>, July 21, 2014.",
    "quote-text" : "Drink a large glass of water in the morning. Your body just went 6 to 8 hours without any liquid. If you are feeling lethargic and groggy in the morning, you may often be slightly dehydrated. The first thing I do when I wake up is drink a large, cold glass of water. Start the day in the sunlight. Sunshine is the new coffee. Getting sunlight in your morning routine is critical for establishing your circadian rhythm and waking your brain and body for the day. This is why, in the words of my friend Ben Greenfield, âYou may find you need none or very little coffee in the summer or in times of high sun exposure, but youâre a complete monster if you donât get your morning cup of coffee in the grey winter months.",
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/134941494835/drink-a-large-glass-of-water-in-the-morning-your",
+   "id" : "134941494835",
    "unix-timestamp" : 1449783619,
-   "date" : "Thu, 10 Dec 2015 14:40:19",
-   "url" : "http://tumblr.ggvaidya.com/post/134941494835",
-   "bookmarklet" : 0,
+   "slug" : "drink-a-large-glass-of-water-in-the-morning-your",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/134941494835/drink-a-large-glass-of-water-in-the-morning-your",
+   "format" : "html",
    "date-gmt" : "2015-12-10 21:40:19 GMT",
    "mobile" : 0,
-   "format" : "html",
-   "reblog-key" : "85YaG9Bp",
-   "id" : "134941494835",
+   "bookmarklet" : 0,
    "tags" : [
       "sleep",
       "advice"
    ],
-   "quote-source" : "James Clear, <a href=\"http://www.entrepreneur.com/article/235626\"><em>The Beginner&rsquo;s Guide to Getting Better Sleep</em></a>, July 21, 2014.",
-   "feed-item" : ""
+   "reblog-key" : "85YaG9Bp",
+   "date" : "Thu, 10 Dec 2015 14:40:19",
+   "feed-item" : "",
+   "url" : "http://tumblr.ggvaidya.com/post/134941494835",
+   "from-feed-id" : 0,
+   "type" : "quote"
 }
 

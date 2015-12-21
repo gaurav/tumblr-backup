@@ -1,41 +1,41 @@
 {
-   "type" : "conversation",
+   "conversation-text" : "Dumbledore: Ah, yes, I see Harry Potter's eleventh birthday is coming up. Since his relatives are Muggles, should we do the customary house visit a week before his birthday?\nMinerva: No, Albus, I think I'm just going to fuck that Vernon Dursley up with 500000000 owl letters. *puts on shades and ollies out*\nDumbledore: I'm so glad I hired that woman.",
+   "id" : "135273057216",
+   "unix-timestamp" : 1450214429,
+   "format" : "html",
+   "date-gmt" : "2015-12-15 21:20:29 GMT",
+   "mobile" : 0,
+   "slug" : "dumbledore-ah-yes-i-see-harry-potters-eleventh",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/135273057216/dumbledore-ah-yes-i-see-harry-potters-eleventh",
+   "reblog-key" : "Hsi4lSHX",
    "conversation" : [
       {
          "name" : "Dumbledore",
-         "label" : "Dumbledore:",
-         "phrase" : "Ah, yes, I see Harry Potter's eleventh birthday is coming up. Since his relatives are Muggles, should we do the customary house visit a week before his birthday?"
+         "phrase" : "Ah, yes, I see Harry Potter's eleventh birthday is coming up. Since his relatives are Muggles, should we do the customary house visit a week before his birthday?",
+         "label" : "Dumbledore:"
       },
       {
+         "phrase" : "No, Albus, I think I'm just going to fuck that Vernon Dursley up with 500000000 owl letters. *puts on shades and ollies out*",
          "name" : "Minerva",
-         "label" : "Minerva:",
-         "phrase" : "No, Albus, I think I'm just going to fuck that Vernon Dursley up with 500000000 owl letters. *puts on shades and ollies out*"
+         "label" : "Minerva:"
       },
       {
          "phrase" : "I'm so glad I hired that woman.",
-         "label" : "Dumbledore:",
-         "name" : "Dumbledore"
+         "name" : "Dumbledore",
+         "label" : "Dumbledore:"
       }
    ],
-   "slug" : "dumbledore-ah-yes-i-see-harry-potters-eleventh",
-   "from-feed-id" : 0,
-   "date" : "Tue, 15 Dec 2015 14:20:29",
-   "url" : "http://tumblr.ggvaidya.com/post/135273057216",
    "bookmarklet" : 0,
-   "conversation-text" : "Dumbledore: Ah, yes, I see Harry Potter's eleventh birthday is coming up. Since his relatives are Muggles, should we do the customary house visit a week before his birthday?\nMinerva: No, Albus, I think I'm just going to fuck that Vernon Dursley up with 500000000 owl letters. *puts on shades and ollies out*\nDumbledore: I'm so glad I hired that woman.",
-   "unix-timestamp" : 1450214429,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/135273057216/dumbledore-ah-yes-i-see-harry-potters-eleventh",
-   "mobile" : 0,
-   "reblog-key" : "Hsi4lSHX",
-   "format" : "html",
-   "date-gmt" : "2015-12-15 21:20:29 GMT",
    "tags" : [
       "heh",
       "good point",
       "harry potter"
    ],
-   "feed-item" : "",
+   "type" : "conversation",
+   "from-feed-id" : 0,
    "conversation-title" : null,
-   "id" : "135273057216"
+   "date" : "Tue, 15 Dec 2015 14:20:29",
+   "feed-item" : "",
+   "url" : "http://tumblr.ggvaidya.com/post/135273057216"
 }
 

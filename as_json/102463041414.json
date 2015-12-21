@@ -1,24 +1,24 @@
 {
-   "from-feed-id" : 0,
    "type" : "answer",
-   "slug" : "i-know-its-kind-of-a-big-question-but-have-you",
-   "unix-timestamp" : 1415818027,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/102463041414/i-know-its-kind-of-a-big-question-but-have-you",
-   "date" : "Wed, 12 Nov 2014 11:47:07",
-   "bookmarklet" : 0,
+   "from-feed-id" : 0,
    "url" : "http://tumblr.ggvaidya.com/post/102463041414",
-   "date-gmt" : "2014-11-12 18:47:07 GMT",
-   "mobile" : 0,
+   "date" : "Wed, 12 Nov 2014 11:47:07",
+   "feed-item" : "",
    "reblog-key" : "UtA4zwDt",
-   "format" : "html",
-   "question" : "I know it&#039;s kind of a big question, but have you got any tips on how I should go about trying to break into the Comics industry?",
-   "id" : "102463041414",
    "tags" : [
       "also true for almost anything",
       "life",
       "advice"
    ],
+   "bookmarklet" : 0,
+   "question" : "I know it&#039;s kind of a big question, but have you got any tips on how I should go about trying to break into the Comics industry?",
+   "mobile" : 0,
+   "format" : "html",
+   "date-gmt" : "2014-11-12 18:47:07 GMT",
+   "slug" : "i-know-its-kind-of-a-big-question-but-have-you",
    "answer" : "<p>Make comics. Make friends who make comics. Talk about your comics. Follow people online who make comics. Make friends with them. Be genuine. Read comics. Love comics. Make comics your whole life. Want it bad enough and work your ass off and never be ashamed to promote your work.</p>",
-   "feed-item" : ""
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/102463041414/i-know-its-kind-of-a-big-question-but-have-you",
+   "unix-timestamp" : 1415818027,
+   "id" : "102463041414"
 }
 

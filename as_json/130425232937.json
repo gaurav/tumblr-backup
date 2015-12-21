@@ -1,39 +1,38 @@
 {
+   "unix-timestamp" : 1443904805,
+   "conversation-text" : "Christopher Foyle: (barging in on a closed meeting) Good morning.\nJames Wintringham: Mr. Foyle. I'm afraid this isn't a very good moment.\nFoyle: Well, not for you, perhaps. Perfectly good one for me. \nWintringham: What can I do for you?\nFoyle: You can start by apologizing for wasting my time and <em>perhaps</em> explain how you manage to achieve the, uh, levels of incompetence you regularly do.",
+   "id" : "130425232937",
+   "mobile" : 0,
    "date-gmt" : "2015-10-03 20:40:05 GMT",
    "format" : "html",
+   "slug" : "foyles-war-season-3-episode-1-the-french",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/130425232937/foyles-war-season-3-episode-1-the-french",
    "reblog-key" : "A1rzvBO8",
-   "mobile" : 0,
-   "id" : "130425232937",
-   "conversation-title" : "\"Foyle's War\", Season 3, Episode 1. \"The French Drop\"",
-   "feed-item" : "",
    "tags" : [
       "foyles war",
       "s3e1",
       "oh dear"
    ],
-   "from-feed-id" : 0,
-   "slug" : "foyles-war-season-3-episode-1-the-french",
-   "type" : "conversation",
    "conversation" : [
       {
-         "phrase" : "(barging in on a closed meeting) Good morning.",
          "label" : "Christopher Foyle:",
-         "name" : "Christopher Foyle"
+         "name" : "Christopher Foyle",
+         "phrase" : "(barging in on a closed meeting) Good morning."
       },
       {
          "phrase" : "Mr. Foyle. I'm afraid this isn't a very good moment.",
-         "label" : "James Wintringham:",
-         "name" : "James Wintringham"
+         "name" : "James Wintringham",
+         "label" : "James Wintringham:"
       },
       {
-         "phrase" : "Well, not for you, perhaps. Perfectly good one for me. ",
+         "label" : "Foyle:",
          "name" : "Foyle",
-         "label" : "Foyle:"
+         "phrase" : "Well, not for you, perhaps. Perfectly good one for me. "
       },
       {
          "phrase" : "What can I do for you?",
-         "label" : "Wintringham:",
-         "name" : "Wintringham"
+         "name" : "Wintringham",
+         "label" : "Wintringham:"
       },
       {
          "label" : "Foyle:",
@@ -41,11 +40,12 @@
          "phrase" : "You can start by apologizing for wasting my time and <em>perhaps</em> explain how you manage to achieve the, uh, levels of incompetence you regularly do."
       }
    ],
-   "unix-timestamp" : 1443904805,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/130425232937/foyles-war-season-3-episode-1-the-french",
-   "url" : "http://tumblr.ggvaidya.com/post/130425232937",
    "bookmarklet" : 0,
-   "conversation-text" : "Christopher Foyle: (barging in on a closed meeting) Good morning.\nJames Wintringham: Mr. Foyle. I'm afraid this isn't a very good moment.\nFoyle: Well, not for you, perhaps. Perfectly good one for me. \nWintringham: What can I do for you?\nFoyle: You can start by apologizing for wasting my time and <em>perhaps</em> explain how you manage to achieve the, uh, levels of incompetence you regularly do.",
-   "date" : "Sat, 03 Oct 2015 14:40:05"
+   "conversation-title" : "\"Foyle's War\", Season 3, Episode 1. \"The French Drop\"",
+   "from-feed-id" : 0,
+   "type" : "conversation",
+   "url" : "http://tumblr.ggvaidya.com/post/130425232937",
+   "date" : "Sat, 03 Oct 2015 14:40:05",
+   "feed-item" : ""
 }
 

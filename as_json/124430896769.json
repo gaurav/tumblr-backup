@@ -1,26 +1,26 @@
 {
-   "mobile" : 0,
-   "video-player" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/OluBKxYOP5J/embed/simple\" width=\"400\" height=\"400\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
-   "video-player-250" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/OluBKxYOP5J/embed/simple\" width=\"250\" height=\"250\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
-   "reblog-key" : "g2iGkLpv",
+   "id" : "124430896769",
+   "unix-timestamp" : 1437252032,
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/124430896769/mymompickedthisurl-not-an-easy-cuddle-buddy",
+   "slug" : "mymompickedthisurl-not-an-easy-cuddle-buddy",
+   "video-source" : "<iframe src=\"https://vine.co/v/OluBKxYOP5J/embed/simple\" width=\"600\" height=\"600\" frameborder=\"0\"></iframe><script src=\"https://platform.vine.co/static/scripts/embed.js\"></script>",
    "format" : "html",
    "date-gmt" : "2015-07-18 20:40:32 GMT",
+   "mobile" : 0,
+   "bookmarklet" : 0,
    "tags" : [
       "gotta find the right spot!",
       "dog"
    ],
-   "video-source" : "<iframe src=\"https://vine.co/v/OluBKxYOP5J/embed/simple\" width=\"600\" height=\"600\" frameborder=\"0\"></iframe><script src=\"https://platform.vine.co/static/scripts/embed.js\"></script>",
+   "reblog-key" : "g2iGkLpv",
    "feed-item" : "",
-   "id" : "124430896769",
-   "type" : "video",
-   "video-player-500" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/OluBKxYOP5J/embed/simple\" width=\"500\" height=\"500\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
-   "video-caption" : "<p><a href=\"http://mymompickedthisurl.tumblr.com/post/115324895705/not-an-easy-cuddle-buddy\" class=\"tumblr_blog\">mymompickedthisurl</a>:</p>\n\n<blockquote><p>not an easy cuddle buddy</p></blockquote>",
-   "slug" : "mymompickedthisurl-not-an-easy-cuddle-buddy",
-   "from-feed-id" : 0,
    "date" : "Sat, 18 Jul 2015 14:40:32",
    "url" : "http://tumblr.ggvaidya.com/post/124430896769",
-   "bookmarklet" : 0,
-   "unix-timestamp" : 1437252032,
-   "url-with-slug" : "http://tumblr.ggvaidya.com/post/124430896769/mymompickedthisurl-not-an-easy-cuddle-buddy"
+   "video-player" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/OluBKxYOP5J/embed/simple\" width=\"400\" height=\"400\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
+   "video-caption" : "<p><a href=\"http://mymompickedthisurl.tumblr.com/post/115324895705/not-an-easy-cuddle-buddy\" class=\"tumblr_blog\">mymompickedthisurl</a>:</p>\n\n<blockquote><p>not an easy cuddle buddy</p></blockquote>",
+   "type" : "video",
+   "video-player-250" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/OluBKxYOP5J/embed/simple\" width=\"250\" height=\"250\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
+   "from-feed-id" : 0,
+   "video-player-500" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/OluBKxYOP5J/embed/simple\" width=\"500\" height=\"500\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>"
 }
 
