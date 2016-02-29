@@ -13,9 +13,9 @@
    "photo-url-100" : "http://41.media.tumblr.com/tumblr_mdv7g1FHVW1qjotulo1_100.jpg",
    "photo-url-1280" : "http://40.media.tumblr.com/tumblr_mdv7g1FHVW1qjotulo1_1280.jpg",
    "photo-url-250" : "http://40.media.tumblr.com/tumblr_mdv7g1FHVW1qjotulo1_250.jpg",
-   "photo-url-400" : "http://41.media.tumblr.com/tumblr_mdv7g1FHVW1qjotulo1_400.jpg",
-   "photo-url-500" : "http://36.media.tumblr.com/tumblr_mdv7g1FHVW1qjotulo1_500.jpg",
-   "photo-url-75" : "http://40.media.tumblr.com/tumblr_mdv7g1FHVW1qjotulo1_75sq.jpg",
+   "photo-url-400" : "http://56.media.tumblr.com/tumblr_mdv7g1FHVW1qjotulo1_400.jpg",
+   "photo-url-500" : "http://56.media.tumblr.com/tumblr_mdv7g1FHVW1qjotulo1_500.jpg",
+   "photo-url-75" : "http://56.media.tumblr.com/tumblr_mdv7g1FHVW1qjotulo1_75sq.jpg",
    "photos" : [
       {
          "caption" : "",
@@ -24,7 +24,7 @@
          "photo-url-100" : "http://41.media.tumblr.com/tumblr_mdv7g1FHVW1qjotulo1_100.jpg",
          "photo-url-1280" : "http://40.media.tumblr.com/tumblr_mdv7g1FHVW1qjotulo1_1280.jpg",
          "photo-url-250" : "http://40.media.tumblr.com/tumblr_mdv7g1FHVW1qjotulo1_250.jpg",
-         "photo-url-400" : "http://41.media.tumblr.com/tumblr_mdv7g1FHVW1qjotulo1_400.jpg",
+         "photo-url-400" : "http://56.media.tumblr.com/tumblr_mdv7g1FHVW1qjotulo1_400.jpg",
          "photo-url-500" : "http://36.media.tumblr.com/tumblr_mdv7g1FHVW1qjotulo1_500.jpg",
          "photo-url-75" : "http://40.media.tumblr.com/tumblr_mdv7g1FHVW1qjotulo1_75sq.jpg",
          "width" : 700
@@ -35,7 +35,7 @@
          "offset" : "o2",
          "photo-url-100" : "http://41.media.tumblr.com/tumblr_mdv7g1FHVW1qjotulo2_100.jpg",
          "photo-url-1280" : "http://40.media.tumblr.com/tumblr_mdv7g1FHVW1qjotulo2_1280.jpg",
-         "photo-url-250" : "http://40.media.tumblr.com/tumblr_mdv7g1FHVW1qjotulo2_250.jpg",
+         "photo-url-250" : "http://56.media.tumblr.com/tumblr_mdv7g1FHVW1qjotulo2_250.jpg",
          "photo-url-400" : "http://41.media.tumblr.com/tumblr_mdv7g1FHVW1qjotulo2_400.jpg",
          "photo-url-500" : "http://41.media.tumblr.com/tumblr_mdv7g1FHVW1qjotulo2_500.jpg",
          "photo-url-75" : "http://41.media.tumblr.com/tumblr_mdv7g1FHVW1qjotulo2_75sq.jpg",
@@ -45,8 +45,8 @@
          "caption" : "",
          "height" : 669,
          "offset" : "o3",
-         "photo-url-100" : "http://41.media.tumblr.com/tumblr_mdv7g1FHVW1qjotulo3_100.jpg",
-         "photo-url-1280" : "http://41.media.tumblr.com/tumblr_mdv7g1FHVW1qjotulo3_1280.jpg",
+         "photo-url-100" : "http://56.media.tumblr.com/tumblr_mdv7g1FHVW1qjotulo3_100.jpg",
+         "photo-url-1280" : "http://56.media.tumblr.com/tumblr_mdv7g1FHVW1qjotulo3_1280.jpg",
          "photo-url-250" : "http://40.media.tumblr.com/tumblr_mdv7g1FHVW1qjotulo3_250.jpg",
          "photo-url-400" : "http://36.media.tumblr.com/tumblr_mdv7g1FHVW1qjotulo3_400.jpg",
          "photo-url-500" : "http://41.media.tumblr.com/tumblr_mdv7g1FHVW1qjotulo3_500.jpg",
@@ -73,7 +73,7 @@
          "photo-url-1280" : "http://36.media.tumblr.com/tumblr_mdv7g1FHVW1qjotulo5_1280.jpg",
          "photo-url-250" : "http://36.media.tumblr.com/tumblr_mdv7g1FHVW1qjotulo5_250.jpg",
          "photo-url-400" : "http://40.media.tumblr.com/tumblr_mdv7g1FHVW1qjotulo5_400.jpg",
-         "photo-url-500" : "http://40.media.tumblr.com/tumblr_mdv7g1FHVW1qjotulo5_500.jpg",
+         "photo-url-500" : "http://56.media.tumblr.com/tumblr_mdv7g1FHVW1qjotulo5_500.jpg",
          "photo-url-75" : "http://41.media.tumblr.com/tumblr_mdv7g1FHVW1qjotulo5_75sq.jpg",
          "width" : 900
       }
