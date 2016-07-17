@@ -1,0 +1,44 @@
+{
+   "bookmarklet" : 0,
+   "conversation" : [
+      {
+         "label" : "me:",
+         "name" : "me",
+         "phrase" : "*is faced with a distressing situation*"
+      },
+      {
+         "label" : "brain:",
+         "name" : "brain",
+         "phrase" : "*shuts down*"
+      },
+      {
+         "label" : "me:",
+         "name" : "me",
+         "phrase" : "no maybe we should actually deal with this"
+      },
+      {
+         "label" : "brain:",
+         "name" : "brain",
+         "phrase" : "âï¸read 7:26pm"
+      }
+   ],
+   "conversation-text" : "me: *is faced with a distressing situation*\nbrain: *shuts down*\nme: no maybe we should actually deal with this\nbrain: âï¸read 7:26pm",
+   "conversation-title" : null,
+   "date" : "Fri, 15 Jul 2016 21:39:33",
+   "date-gmt" : "2016-07-16 03:39:33 GMT",
+   "feed-item" : "",
+   "format" : "html",
+   "from-feed-id" : 0,
+   "id" : "147476533859",
+   "mobile" : 0,
+   "reblog-key" : "vMPN5jTb",
+   "slug" : "me-is-faced-with-a-distressing-situation-brain",
+   "tags" : [
+      "yes"
+   ],
+   "type" : "conversation",
+   "unix-timestamp" : 1468640373,
+   "url" : "http://tumblr.ggvaidya.com/post/147476533859",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/147476533859/me-is-faced-with-a-distressing-situation-brain"
+}
+
