@@ -14,9 +14,9 @@
    "url" : "http://tumblr.ggvaidya.com/post/17690661241",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/17690661241/one-of-my-favourite-scenes-from-one-of-my",
    "video-caption" : "<p>One of my favourite scenes from one of my favourite movies (featuring one of my favourite songs, natch).</p>",
-   "video-player" : "<iframe width=\"400\" height=\"225\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/SZZ1RQrKkwM?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "video-player-250" : "<iframe width=\"250\" height=\"141\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/SZZ1RQrKkwM?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "video-player-500" : "<iframe width=\"500\" height=\"281\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/SZZ1RQrKkwM?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-player" : false,
+   "video-player-250" : false,
+   "video-player-500" : false,
    "video-source" : "http://www.youtube.com/watch?v=SZZ1RQrKkwM"
 }
 
