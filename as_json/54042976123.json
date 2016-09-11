@@ -1,11 +1,12 @@
 {
    "bookmarklet" : 0,
-   "date" : "Thu, 27 Jun 2013 15:12:22",
+   "date" : "Thu, 27 Jun 2013 17:12:22",
    "date-gmt" : "2013-06-27 21:12:22 GMT",
    "feed-item" : "",
    "format" : "html",
    "from-feed-id" : 0,
    "id" : "54042976123",
+   "is-submission" : false,
    "mobile" : 0,
    "quote-source" : "Patrick, <a href=\"http://stackoverflow.com/a/53522\">in an answer on StackOverflow</a>, September 10, 2008",
    "quote-text" : "Using the implicit booleanness of the empty list is quite pythonic.",

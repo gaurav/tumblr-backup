@@ -1,11 +1,12 @@
 {
    "bookmarklet" : 0,
-   "date" : "Thu, 12 May 2016 02:40:49",
+   "date" : "Thu, 12 May 2016 04:40:49",
    "date-gmt" : "2016-05-12 08:40:49 GMT",
    "feed-item" : "",
    "format" : "html",
    "from-feed-id" : 0,
    "id" : "144240977179",
+   "is-submission" : false,
    "mobile" : 0,
    "quote-source" : "<a href=\"https://en.wikipedia.org/w/index.php?title=TRS-80&amp;oldid=717819030#BASIC\">TRS-80</a> on Wikipedia, retrieve May 12, 2016",
    "quote-text" : "The only error messages were: &ldquo;<tt>WHAT?</tt>&rdquo; for syntax errors, &ldquo;<tt>HOW?</tt>&rdquo; for arithmetic errors such as division by zero, and &ldquo;<tt>SORRY</tt>&rdquo; for out of memory errors.",

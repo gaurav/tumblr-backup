@@ -1,11 +1,12 @@
 {
    "bookmarklet" : 0,
-   "date" : "Mon, 30 Sep 2013 14:57:22",
+   "date" : "Mon, 30 Sep 2013 16:57:22",
    "date-gmt" : "2013-09-30 20:57:22 GMT",
    "feed-item" : "",
    "format" : "html",
    "from-feed-id" : 0,
    "id" : "62745376463",
+   "is-submission" : false,
    "mobile" : 0,
    "quote-source" : "<a href=\"http://rubygems.org/gems/nokogiri\">nokogiri</a> documentation, September 30, 2013",
    "quote-text" : "XML is like violence - if it doesn&rsquo;t solve your problems, you are not using enough of it.",
