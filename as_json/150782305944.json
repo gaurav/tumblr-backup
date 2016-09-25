@@ -1,0 +1,24 @@
+{
+   "bookmarklet" : 0,
+   "date" : "Thu, 22 Sep 2016 14:40:32",
+   "date-gmt" : "2016-09-22 18:40:32 GMT",
+   "feed-item" : "",
+   "format" : "html",
+   "from-feed-id" : 0,
+   "id" : "150782305944",
+   "is-submission" : false,
+   "mobile" : 0,
+   "quote-source" : "Jonathan Blow, <a href=\"http://number-none.com/blow/blog/programming/2016/07/16/braid_code_cleanup_1.html\"><em>Braid Code Cleanup (part 1)</em></a>, July 16, 2016",
+   "quote-text" : "On Windows, because the scheduler is coarse and not meant for what we would today consider solid multimedia applications, it is pretty hard to page-flip your game at exactly 60Hz unless you are synced to a 60Hz display signal. Because Braid uses DirectX9, syncing the display at 60Hz meant going into fullscreen exclusive mode (because you couldnât vsync in windowed mode). And the problem there is that fullscreen exclusive mode in Windows has always, always been a complete disaster, and very high up the list of support issues. It triggers driver bugs, it makes your game look distorted and ugly (because for some reason monitor and TV vendors decided that if you switch to an aspect ratio different than the one supported by the display, the right thing to do is to STRETCH THE IMAGE NON-PROPORTIONALLY TO FILL EVERY PIXEL OF THE DISPLAY, <s>FFFFFUUUUUUUUUCK YOOUUUUUUUUUUUU you assholes</s>). It causes Windows to lock up sometimes. It makes your monitor go black and flail for an awkward few seconds. Whatever happens, it is almost never good.",
+   "reblog-key" : "qBy4BdhJ",
+   "slug" : "on-windows-because-the-scheduler-is-coarse-and",
+   "tags" : [
+      "oh dear",
+      "hardware"
+   ],
+   "type" : "quote",
+   "unix-timestamp" : 1474569632,
+   "url" : "http://tumblr.ggvaidya.com/post/150782305944",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/150782305944/on-windows-because-the-scheduler-is-coarse-and"
+}
+
