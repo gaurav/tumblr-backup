@@ -21,9 +21,9 @@
    "url" : "http://tumblr.ggvaidya.com/post/19879439184",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/19879439184/when-they-wake-up-they-will-find-all-their",
    "video-caption" : "<p>&ldquo;When they wake up they will find / All their personal belongings / Have intertwined.&rdquo;</p>",
-   "video-player" : false,
-   "video-player-250" : false,
-   "video-player-500" : false,
+   "video-player" : "<iframe width=\"400\" height=\"300\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/iFnNbPePS1k?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-player-250" : "<iframe width=\"250\" height=\"187\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/iFnNbPePS1k?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-player-500" : "<iframe width=\"500\" height=\"375\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/iFnNbPePS1k?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
    "video-source" : "http://www.youtube.com/watch?v=iFnNbPePS1k"
 }
 
