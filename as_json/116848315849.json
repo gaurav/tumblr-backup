@@ -21,9 +21,9 @@
    "url" : "http://tumblr.ggvaidya.com/post/116848315849",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/116848315849",
    "video-caption" : "",
-   "video-player" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/MTKP1qYxbtK/embed/simple\" width=\"400\" height=\"400\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
-   "video-player-250" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/MTKP1qYxbtK/embed/simple\" width=\"250\" height=\"250\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
-   "video-player-500" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/MTKP1qYxbtK/embed/simple\" width=\"500\" height=\"500\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
+   "video-player" : false,
+   "video-player-250" : false,
+   "video-player-500" : false,
    "video-source" : "https://vine.co/v/MTKP1qYxbtK"
 }
 

@@ -21,9 +21,9 @@
    "url" : "http://tumblr.ggvaidya.com/post/116322158166",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/116322158166/ciarachimera-chisaiyokai-cat-activation-sound",
    "video-caption" : "<p><a href=\"http://ciarachimera.tumblr.com/post/112507713540/chisaiyokai-cat-activation-sound-this-is-my\" class=\"tumblr_blog\">ciarachimera</a>:</p><blockquote><p><a href=\"http://chisaiyokai.tumblr.com/post/112487579574\" class=\"tumblr_blog\">chisaiyokai</a>:</p><blockquote><p>cat activation sound</p></blockquote><p>THIS IS MY FAVORITE THING CATS DO.</p></blockquote>",
-   "video-player" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/O07tBFxuEUH/embed/simple\" width=\"400\" height=\"400\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
-   "video-player-250" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/O07tBFxuEUH/embed/simple\" width=\"250\" height=\"250\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
-   "video-player-500" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/O07tBFxuEUH/embed/simple\" width=\"500\" height=\"500\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
+   "video-player" : false,
+   "video-player-250" : false,
+   "video-player-500" : false,
    "video-source" : "https://vine.co/v/O07tBFxuEUH"
 }
 

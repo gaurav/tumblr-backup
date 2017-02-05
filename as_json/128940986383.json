@@ -21,9 +21,9 @@
    "url" : "http://tumblr.ggvaidya.com/post/128940986383",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/128940986383/hansarai-burgerwizard-this-is-making-me-cry",
    "video-caption" : "<p><a href=\"http://hansarai.tumblr.com/post/123530970881/burgerwizard-this-is-making-me-cry-why-wont-the\" class=\"tumblr_blog\">hansarai</a>:</p>\n\n<blockquote><p><a href=\"http://burgerwizard.tumblr.com/post/123530938104/this-is-making-me-cry-why-wont-the-animal-just\" class=\"tumblr_blog\">burgerwizard</a>:</p>\n\n<blockquote><p>this is making me cry why wont the animal just move its head the water is right there<br/></p></blockquote>\n\n<p>hes doing the best he can</p></blockquote>",
-   "video-player" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/enHz7bxEtXx/embed/simple\" width=\"400\" height=\"400\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
-   "video-player-250" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/enHz7bxEtXx/embed/simple\" width=\"250\" height=\"250\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
-   "video-player-500" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/enHz7bxEtXx/embed/simple\" width=\"500\" height=\"500\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
+   "video-player" : false,
+   "video-player-250" : false,
+   "video-player-500" : false,
    "video-source" : "https://vine.co/v/enHz7bxEtXx"
 }
 

@@ -21,9 +21,9 @@
    "url" : "http://tumblr.ggvaidya.com/post/124430896769",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/124430896769/mymompickedthisurl-not-an-easy-cuddle-buddy",
    "video-caption" : "<p><a href=\"http://mymompickedthisurl.tumblr.com/post/115324895705/not-an-easy-cuddle-buddy\" class=\"tumblr_blog\">mymompickedthisurl</a>:</p>\n\n<blockquote><p>not an easy cuddle buddy</p></blockquote>",
-   "video-player" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/OluBKxYOP5J/embed/simple\" width=\"400\" height=\"400\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
-   "video-player-250" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/OluBKxYOP5J/embed/simple\" width=\"250\" height=\"250\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
-   "video-player-500" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/OluBKxYOP5J/embed/simple\" width=\"500\" height=\"500\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
+   "video-player" : "<iframe src=\"https://vine.co/v/OluBKxYOP5J/embed/simple\" width=\"400\" height=\"400\" frameborder=\"0\"></iframe><script src=\"https://platform.vine.co/static/scripts/embed.js\"></script>",
+   "video-player-250" : "<iframe src=\"https://vine.co/v/OluBKxYOP5J/embed/simple\" width=\"250\" height=\"250\" frameborder=\"0\"></iframe><script src=\"https://platform.vine.co/static/scripts/embed.js\"></script>",
+   "video-player-500" : "<iframe src=\"https://vine.co/v/OluBKxYOP5J/embed/simple\" width=\"500\" height=\"500\" frameborder=\"0\"></iframe><script src=\"https://platform.vine.co/static/scripts/embed.js\"></script>",
    "video-source" : "<iframe src=\"https://vine.co/v/OluBKxYOP5J/embed/simple\" width=\"600\" height=\"600\" frameborder=\"0\"></iframe><script src=\"https://platform.vine.co/static/scripts/embed.js\"></script>"
 }
 
