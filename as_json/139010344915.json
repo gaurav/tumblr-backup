@@ -22,9 +22,9 @@
    "url" : "http://tumblr.ggvaidya.com/post/139010344915",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/139010344915/pencandy-redapeguy-are-you-ready-for-an",
    "video-caption" : "<p><a class=\"tumblr_blog\" href=\"http://pencandy.tumblr.com/post/137043123712\">pencandy</a>:</p>\n<blockquote>\n<p><a class=\"tumblr_blog\" href=\"http://redapeguy.tumblr.com/post/123785437730\">redapeguy</a>:</p>\n<blockquote>\n<p>Are you ready for an adventure?</p>\n</blockquote>\n<p>infinite dogs</p>\n</blockquote>",
-   "video-player" : false,
-   "video-player-250" : false,
-   "video-player-500" : false,
+   "video-player" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/evmPWBPljYw/embed/simple\" width=\"400\" height=\"400\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
+   "video-player-250" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/evmPWBPljYw/embed/simple\" width=\"250\" height=\"250\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
+   "video-player-500" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/evmPWBPljYw/embed/simple\" width=\"500\" height=\"500\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
    "video-source" : "https://vine.co/v/evmPWBPljYw"
 }
 

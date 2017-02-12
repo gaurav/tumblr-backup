@@ -22,9 +22,9 @@
    "url" : "http://tumblr.ggvaidya.com/post/120465709915",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/120465709915/chickenstab-shit-son-i-feel-this-cat-cause-even",
    "video-caption" : "<p><a href=\"http://chickenstab.tumblr.com/post/115479493444/shit-son-i-feel-this-cat-cause-even-im-confused\" class=\"tumblr_blog\">chickenstab</a>:</p><blockquote><p>shit son i feel this cat cause even iâm confused</p></blockquote>",
-   "video-player" : false,
-   "video-player-250" : false,
-   "video-player-500" : false,
+   "video-player" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/MmwZFZ70mzb/embed/simple\" width=\"400\" height=\"400\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
+   "video-player-250" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/MmwZFZ70mzb/embed/simple\" width=\"250\" height=\"250\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
+   "video-player-500" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/MmwZFZ70mzb/embed/simple\" width=\"500\" height=\"500\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
    "video-source" : "https://vine.co/v/MmwZFZ70mzb"
 }
 

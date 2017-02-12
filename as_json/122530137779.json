@@ -20,9 +20,9 @@
    "url" : "http://tumblr.ggvaidya.com/post/122530137779",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/122530137779/buzzfeed-a-special-celebration-from-sir-ian",
    "video-caption" : "<p><a href=\"http://buzzfeed.tumblr.com/post/122507936602/a-special-celebration-from-sir-ian-mckellen-and\" class=\"tumblr_blog\">buzzfeed</a>:</p>\n\n<blockquote><p>A special celebration from Sir Ian McKellen and Sir Derek Jacobiâ¤ï¸âðððð<br/></p></blockquote>",
-   "video-player" : false,
-   "video-player-250" : false,
-   "video-player-500" : false,
+   "video-player" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/eJuAqVHgXKd/embed/simple\" width=\"400\" height=\"400\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
+   "video-player-250" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/eJuAqVHgXKd/embed/simple\" width=\"250\" height=\"250\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
+   "video-player-500" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/eJuAqVHgXKd/embed/simple\" width=\"500\" height=\"500\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
    "video-source" : "https://vine.co/v/eJuAqVHgXKd"
 }
 

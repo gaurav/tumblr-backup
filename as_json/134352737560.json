@@ -23,9 +23,9 @@
    "url" : "http://tumblr.ggvaidya.com/post/134352737560",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/134352737560/unsounded-when-you-got-a-little-health-in-a",
    "video-caption" : "<p><a class=\"tumblr_blog\" href=\"http://unsounded.tumblr.com/post/130291422700\">unsounded</a>:</p>\n<blockquote>\n<p>\n\nWhen you got a little health in a video game and some bullsh*t kills you<br/></p>\n</blockquote>",
-   "video-player" : false,
-   "video-player-250" : false,
-   "video-player-500" : false,
+   "video-player" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/eQvExPv2rmr/embed/simple\" width=\"400\" height=\"400\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
+   "video-player-250" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/eQvExPv2rmr/embed/simple\" width=\"250\" height=\"250\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
+   "video-player-500" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/eQvExPv2rmr/embed/simple\" width=\"500\" height=\"500\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
    "video-source" : "https://vine.co/v/eQvExPv2rmr/"
 }
 
