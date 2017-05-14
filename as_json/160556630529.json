@@ -1,0 +1,43 @@
+{
+   "bookmarklet" : 0,
+   "date" : "Thu, 11 May 2017 14:20:27",
+   "date-gmt" : "2017-05-11 18:20:27 GMT",
+   "feed-item" : "",
+   "format" : "html",
+   "from-feed-id" : 0,
+   "id" : "160556630529",
+   "is-submission" : false,
+   "like-button" : "<div class=\"like_button\" data-post-id=\"160556630529\" data-blog-name=\"mrvaidya\" id=\"like_button_160556630529\"><iframe id=\"like_iframe_160556630529\" src=\"http://assets.tumblr.com/assets/html/like_iframe.html?_v=5716f9145cbbcc5e21aa13229de5d4ed#name=mrvaidya&amp;post_id=160556630529&amp;color=black&amp;rk=TzPIX4St\" scrolling=\"no\" width=\"20\" height=\"20\" frameborder=\"0\" class=\"like_toggle\" allowTransparency=\"true\" name=\"like_iframe_160556630529\"></iframe></div>",
+   "mobile" : 0,
+   "note-count" : "0",
+   "quote-source" : "The Economist, <em><a href=\"http://www.economist.com/news/technology-quarterly/21578513-space-technology-fixing-unmanned-spacecraft-thousands-or-millions\">In praise of celestial mechanics</a></em>, June 1, 2013.",
+   "quote-text" : "<p>The various rovers that NASA has sent to the surface of Mars operate in a very different environment, and they too have been kept going using some clever tinkering. In 2004 two identical rovers, Spirit and Opportunity, landed on opposite sides of the red planet. Their mission was intended to last 90 days, but this was soon extended to eight months, and in the event the solar-powered, six-wheeled rovers continued to operate for several years, covering long distances on the Martian surface, examining minerals and rock formations and looking for evidence of water in Marsâs distant past.</p>\n\n<p>In 2006 the gearbox for Spiritâs right front wheel experienced a current spike and stopped working. Its controllers kept it going by driving it backwards instead. (It eventually became mired in a region of flour-like Martian soil in 2009, and performed stationary science until it stopped working in 2010.) When Opportunity began to experience a similar problem in its left front wheel in 2008, its controllers gently reversed it out of the crater it was exploring. As with Spirit, running the wheel backwards seemed to loosen it up and may have spread lubrication around. In 2009 a second current spike led to an important decision: Opportunity would also drive backwards from then on, rather than risk the loss of a wheel.</p>\n\n<p>The rover is nearly as nimble going backwards as it was going forwardsâbut driving backwards it could not initially cover as much distance each day. When moving forwards, Opportunity sends images of the ground in front of it, allowing controllers to devise a route for it. The rover follows that route and then switches to driving autonomously until it receives further instructions. When driving backwards, however, an antenna blocks part of the view of the camera that is used to spot obstacles. This limited Opportunityâs ability to drive backwards autonomously.</p>\n\n<p>But Scott Maxwell, the roverâs driver, devised a clever workaround. He realised that if Opportunity rotated itself 17.5Â° clockwise to the drive direction and its camera mast then turned anticlockwise by the same amount, its rear view was unimpeded. This dramatically increased the distance Opportunity could cover autonomously, despite having to repeat the manoeuvre every 1.2 metres. There have been no problems since, despite the awkwardness of the rover looking over its shoulder for obstacles.</p>\n\n<p>Jon Callas, the mission leader, says Opportunity has continued to perform well, despite a few ailments. Because of âarthritisâ in its robot arm, it now drives with the arm extended, to avoid the risk that it will become stuck in its retracted position. And a ribbon cable (a set of wires arrayed side by side like a ribbon) began to fray on one side. After testing duplicate gear on Earth, Dr Callas says the team reprogrammed the roverâs computer to use different measurements of signals from the ribbon cable to avoid problems. Opportunity has now travelled more than 35km and continues to perform useful science, nine years after landing.</p>",
+   "reblog-button" : "<a href=\"https://www.tumblr.com/reblog/160556630529/TzPIX4St\" class=\"reblog_button\"style=\"display: block;width:20px;height:20px;\"><svg width=\"100%\" height=\"100%\" viewBox=\"0 0 21 21\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" fill=\"#000\"><path d=\"M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z\"></path><path d=\"M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203\"></path></svg></a>",
+   "reblog-key" : "TzPIX4St",
+   "slug" : "the-various-rovers-that-nasa-has-sent-to-the",
+   "tags" : [
+      "engineering",
+      "space"
+   ],
+   "tumblelog" : {
+      "avatar_url_128" : "http://68.media.tumblr.com/avatar_d75db498370e_128.png",
+      "avatar_url_16" : "http://68.media.tumblr.com/avatar_d75db498370e_16.png",
+      "avatar_url_24" : "http://68.media.tumblr.com/avatar_d75db498370e_24.png",
+      "avatar_url_30" : "http://68.media.tumblr.com/avatar_d75db498370e_30.png",
+      "avatar_url_40" : "http://68.media.tumblr.com/avatar_d75db498370e_40.png",
+      "avatar_url_48" : "http://68.media.tumblr.com/avatar_d75db498370e_48.png",
+      "avatar_url_512" : "http://68.media.tumblr.com/avatar_d75db498370e_512.png",
+      "avatar_url_64" : "http://68.media.tumblr.com/avatar_d75db498370e_64.png",
+      "avatar_url_96" : "http://68.media.tumblr.com/avatar_d75db498370e_96.png",
+      "cname" : "tumblr.ggvaidya.com",
+      "name" : "mrvaidya",
+      "timezone" : "US/Eastern",
+      "title" : "Gaurav's Tumblr",
+      "url" : "http://tumblr.ggvaidya.com/"
+   },
+   "type" : "quote",
+   "unix-timestamp" : 1494526827,
+   "url" : "http://tumblr.ggvaidya.com/post/160556630529",
+   "url-with-slug" : "http://tumblr.ggvaidya.com/post/160556630529/the-various-rovers-that-nasa-has-sent-to-the"
+}
+
