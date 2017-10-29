@@ -38,9 +38,9 @@
    "url" : "http://tumblr.ggvaidya.com/post/44154808968",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/44154808968/its-more-than-he-can-take-and-the-stars",
    "video-caption" : "<p>&ldquo;It&rsquo;s more than he can take / and the star&rsquo;s reflection breaks / &lsquo;cos you can lead a horse to water / but you can&rsquo;t make it enjoy the view&rdquo;</p>",
-   "video-player" : "<iframe width=\"400\" height=\"300\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/ShQfeDjmcZY?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "video-player-250" : "<iframe width=\"250\" height=\"187\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/ShQfeDjmcZY?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
-   "video-player-500" : "<iframe width=\"500\" height=\"375\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/ShQfeDjmcZY?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-player" : false,
+   "video-player-250" : false,
+   "video-player-500" : false,
    "video-source" : "https://www.youtube.com/watch?v=ShQfeDjmcZY"
 }
 
