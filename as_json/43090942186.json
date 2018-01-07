@@ -58,9 +58,9 @@
    "url" : "http://tumblr.ggvaidya.com/post/43090942186",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/43090942186/2omtimes-sean-mackey-sundown-pretty-it-is",
    "video-caption" : "<p><a href=\"http://2omtimes.tumblr.com/post/41084270487/sean-mackey-sundown\" class=\"tumblr_blog\">2omtimes</a>:</p>\n\n<blockquote><p>Sean Mackey - Sundown</p></blockquote>\n\n<p>Pretty! It is also so rare that 2omtimes and my music tastes intersect that I feel these moments should be treasured/thrown across the internet for reposts and such.</p>",
-   "video-player" : "<iframe width=\"400\" height=\"225\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/fF34bmsiEzU?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" gesture=\"media\" allow=\"encrypted-media\" allowfullscreen></iframe>",
-   "video-player-250" : "<iframe width=\"250\" height=\"141\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/fF34bmsiEzU?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" gesture=\"media\" allow=\"encrypted-media\" allowfullscreen></iframe>",
-   "video-player-500" : "<iframe width=\"500\" height=\"281\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/fF34bmsiEzU?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" gesture=\"media\" allow=\"encrypted-media\" allowfullscreen></iframe>",
+   "video-player" : "<iframe width=\"400\" height=\"225\" src=\"http://www.youtube.com/embed/fF34bmsiEzU\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-player-250" : "<iframe width=\"250\" height=\"141\" src=\"http://www.youtube.com/embed/fF34bmsiEzU\" frameborder=\"0\" allowfullscreen></iframe>",
+   "video-player-500" : "<iframe width=\"500\" height=\"281\" src=\"http://www.youtube.com/embed/fF34bmsiEzU\" frameborder=\"0\" allowfullscreen></iframe>",
    "video-source" : "<iframe width=\"560\" height=\"315\" src=\"http://www.youtube.com/embed/fF34bmsiEzU\" frameborder=\"0\" allowfullscreen></iframe>"
 }
 
