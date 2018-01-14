@@ -58,9 +58,9 @@
    "url" : "http://tumblr.ggvaidya.com/post/43555557371",
    "url-with-slug" : "http://tumblr.ggvaidya.com/post/43555557371/kamidoodles-david-so-talks-about-that-racist",
    "video-caption" : "<p><a class=\"tumblr_blog\" href=\"http://kamidoodles.tumblr.com/post/43548080335/david-so-talks-about-that-racist-asian-party-at\">kamidoodles</a>:</p>\n<blockquote>\n<p>David So talks about that racist âasianâ party at Duke.<br/>Hilarious, but so fucking to the point. Christ.</p>\n</blockquote>",
-   "video-player" : "<iframe width=\"400\" height=\"225\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/lzUQOtyQ7Ts?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" gesture=\"media\" allow=\"encrypted-media\" allowfullscreen></iframe>",
-   "video-player-250" : "<iframe width=\"250\" height=\"141\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/lzUQOtyQ7Ts?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" gesture=\"media\" allow=\"encrypted-media\" allowfullscreen></iframe>",
-   "video-player-500" : "<iframe width=\"500\" height=\"281\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/lzUQOtyQ7Ts?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" gesture=\"media\" allow=\"encrypted-media\" allowfullscreen></iframe>",
+   "video-player" : "<iframe width=\"400\" height=\"225\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/lzUQOtyQ7Ts?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
+   "video-player-250" : "<iframe width=\"250\" height=\"141\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/lzUQOtyQ7Ts?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
+   "video-player-500" : "<iframe width=\"500\" height=\"281\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/lzUQOtyQ7Ts?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
    "video-source" : "http://youtu.be/lzUQOtyQ7Ts"
 }
 
