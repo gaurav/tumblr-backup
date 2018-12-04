@@ -1,0 +1,43 @@
+{
+   "bookmarklet" : 0,
+   "date" : "Thu, 15 Nov 2018 10:42:21",
+   "date-gmt" : "2018-11-15 15:42:21 GMT",
+   "feed-item" : "",
+   "format" : "html",
+   "from-feed-id" : 0,
+   "id" : "180140302899",
+   "is-submission" : false,
+   "like-button" : "<div class=\"like_button\" data-post-id=\"180140302899\" data-blog-name=\"mrvaidya\" id=\"like_button_180140302899\"><iframe id=\"like_iframe_180140302899\" src=\"https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=mrvaidya&amp;post_id=180140302899&amp;color=black&amp;rk=6NZUIXFt\" scrolling=\"no\" width=\"20\" height=\"20\" frameborder=\"0\" class=\"like_toggle\" allowTransparency=\"true\" name=\"like_iframe_180140302899\"></iframe></div>",
+   "mobile" : 0,
+   "note-count" : "0",
+   "reblog-button" : "<a href=\"https://www.tumblr.com/reblog/180140302899/6NZUIXFt\" class=\"reblog_button\"style=\"display: block;width:20px;height:20px;\"><svg width=\"100%\" height=\"100%\" viewBox=\"0 0 21 21\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" fill=\"#000\"><path d=\"M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z\"></path><path d=\"M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203\"></path></svg></a>",
+   "reblog-key" : "6NZUIXFt",
+   "regular-body" : "<p>Since <a href=\"https://github.com/wikimedia/wikidata-query-rdf/blob/184ced153580fdd34a84be97bba318a4d89a63f3/docs/getting-started.md\">Wikidata has detailed instructions for downloading a local copy</a>, I decided to give it a whirl and see how much work it was to set one up.</p>\n\n<p>I started by downloading <a href=\"https://dumps.wikimedia.org/wikidatawiki/entities/20181105/\">the Nov 5, 2018 <code>all-BETA.ttl.gz</code> dump</a> (46G) and then &ldquo;munging&rdquo; it 538 files with a total of between 53,760,000 and 53,770,000 entries (44G). This took up most of my laptop disk space, so I deleted the original (un-munged) download and continued with using <code>loadRestAPI.sh</code>.</p>\n\n<p>My laptop ran out of battery halfway through that (because hibernation randomly wouldn&rsquo;t work and suspend has &hellip; problems on this Linux laptop, alas). When I restarted my laptop and restarted <code>loadRestAPI.sh</code>, it initially failed because <code>wikidump-000000001.ttl.gz</code> had been renamed to <code>wikidump-000000001.ttl.gz.fail.fail</code> (probably because I started it, then killed it and restarted it with a lower priority). This appears to have worked, and I think the ~38 million statements previously imported were quickly reloaded/ignored without a fuss. I should retry the load once everythig is done, just to see how it reacts to that. However, Blazegraph now says <code>{failSet=1,goodSet=2}</code>, so I&rsquo;ll have to look into what that means.</p>\n\n<p>And then I realized that ~360M of <code>ttl.gz</code> file takes 5G to store in Blazegraph and that Wikidata was just not going to fit in my dinky little laptop. Next, please.</p>\n\n<p><strong>Update</strong> (Nov 19, 2018): I switched over to working on the <a href=\"https://www.wikidata.org/wiki/Wikidata:Database_download\">JSON dump file</a> instead. That&rsquo;s a ~31GB bzip2-ed file that has a JSON object on each line. Without actually loading the JSON, it took my laptop around 3.5 hours to count the lines on this file using Apache Spark: for the Nov 12, 2018 dump, that came to 51,959,894 lines, including the starting and ending line that just has the &rsquo;[&rsquo; and &rsquo;]&rsquo; for the JSON file. That&rsquo;s a while, but not insanely long, and well within a reasonable amount to run some interesting queries. So I&rsquo;ll keep playing with that, I think.</p>",
+   "regular-title" : "Being a record of a local installation of Wikidata",
+   "slug" : "being-a-record-of-a-local-installation-of-wikidata",
+   "tags" : [
+      "personal",
+      "wikidata"
+   ],
+   "tumblelog" : {
+      "avatar_url_128" : "https://66.media.tumblr.com/avatar_d75db498370e_128.png",
+      "avatar_url_16" : "https://66.media.tumblr.com/avatar_d75db498370e_16.png",
+      "avatar_url_24" : "https://66.media.tumblr.com/avatar_d75db498370e_24.png",
+      "avatar_url_30" : "https://66.media.tumblr.com/avatar_d75db498370e_30.png",
+      "avatar_url_40" : "https://66.media.tumblr.com/avatar_d75db498370e_40.png",
+      "avatar_url_48" : "https://66.media.tumblr.com/avatar_d75db498370e_48.png",
+      "avatar_url_512" : "https://66.media.tumblr.com/avatar_d75db498370e_512.png",
+      "avatar_url_64" : "https://66.media.tumblr.com/avatar_d75db498370e_64.png",
+      "avatar_url_96" : "https://66.media.tumblr.com/avatar_d75db498370e_96.png",
+      "cname" : "tumblr.ggvaidya.com",
+      "name" : "mrvaidya",
+      "timezone" : "US/Eastern",
+      "title" : "Gaurav's Tumblr",
+      "url" : "https://tumblr.ggvaidya.com/"
+   },
+   "type" : "regular",
+   "unix-timestamp" : 1542296541,
+   "url" : "https://tumblr.ggvaidya.com/post/180140302899",
+   "url-with-slug" : "https://tumblr.ggvaidya.com/post/180140302899/being-a-record-of-a-local-installation-of-wikidata"
+}
+
