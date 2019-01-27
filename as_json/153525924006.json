@@ -19,14 +19,10 @@
    "reblogged-root-title" : "Flandelle",
    "reblogged-root-url" : "http://flandelle-deactivated20180712.tumblr.com/post/151402090219/lol",
    "reblogged_from_avatar_url_128" : "https://66.media.tumblr.com/avatar_3ff4f15897f8_128.png",
-   "reblogged_from_avatar_url_40" : "https://66.media.tumblr.com/avatar_3ff4f15897f8_40.png",
-   "reblogged_from_avatar_url_48" : "https://66.media.tumblr.com/avatar_3ff4f15897f8_48.png",
    "reblogged_from_avatar_url_512" : "https://66.media.tumblr.com/avatar_3ff4f15897f8_512.png",
    "reblogged_from_avatar_url_64" : "https://66.media.tumblr.com/avatar_3ff4f15897f8_64.png",
    "reblogged_from_avatar_url_96" : "https://66.media.tumblr.com/avatar_3ff4f15897f8_96.png",
    "reblogged_root_avatar_url_128" : "https://66.media.tumblr.com/avatar_a4cb9815b0ec_128.png",
-   "reblogged_root_avatar_url_40" : "https://66.media.tumblr.com/avatar_a4cb9815b0ec_40.png",
-   "reblogged_root_avatar_url_48" : "https://66.media.tumblr.com/avatar_a4cb9815b0ec_48.png",
    "reblogged_root_avatar_url_512" : "https://66.media.tumblr.com/avatar_a4cb9815b0ec_512.png",
    "reblogged_root_avatar_url_64" : "https://66.media.tumblr.com/avatar_a4cb9815b0ec_64.png",
    "reblogged_root_avatar_url_96" : "https://66.media.tumblr.com/avatar_a4cb9815b0ec_96.png",
@@ -39,8 +35,6 @@
    ],
    "tumblelog" : {
       "avatar_url_128" : "https://66.media.tumblr.com/avatar_d75db498370e_128.png",
-      "avatar_url_40" : "https://66.media.tumblr.com/avatar_d75db498370e_40.png",
-      "avatar_url_48" : "https://66.media.tumblr.com/avatar_d75db498370e_48.png",
       "avatar_url_512" : "https://66.media.tumblr.com/avatar_d75db498370e_512.png",
       "avatar_url_64" : "https://66.media.tumblr.com/avatar_d75db498370e_64.png",
       "avatar_url_96" : "https://66.media.tumblr.com/avatar_d75db498370e_96.png",
@@ -55,9 +49,9 @@
    "url" : "https://tumblr.ggvaidya.com/post/153525924006",
    "url-with-slug" : "https://tumblr.ggvaidya.com/post/153525924006",
    "video-caption" : "",
-   "video-player" : false,
-   "video-player-250" : false,
-   "video-player-500" : false,
+   "video-player" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/h2vdAXiWv5j/embed/simple\" width=\"400\" height=\"400\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
+   "video-player-250" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/h2vdAXiWv5j/embed/simple\" width=\"250\" height=\"250\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
+   "video-player-500" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/h2vdAXiWv5j/embed/simple\" width=\"500\" height=\"500\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
    "video-source" : "https://vine.co/v/h2vdAXiWv5j"
 }
 

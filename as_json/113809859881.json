@@ -19,14 +19,10 @@
    "reblogged-root-title" : "Canadian Space Agency",
    "reblogged-root-url" : "http://canadian-space-agency.tumblr.com/post/110201777124/nasa-astronaut-terry-w-virts-aboard-the-iss-our",
    "reblogged_from_avatar_url_128" : "https://66.media.tumblr.com/avatar_5abf0d378a03_128.png",
-   "reblogged_from_avatar_url_40" : "https://66.media.tumblr.com/avatar_5abf0d378a03_40.png",
-   "reblogged_from_avatar_url_48" : "https://66.media.tumblr.com/avatar_5abf0d378a03_48.png",
    "reblogged_from_avatar_url_512" : "https://66.media.tumblr.com/avatar_5abf0d378a03_512.png",
    "reblogged_from_avatar_url_64" : "https://66.media.tumblr.com/avatar_5abf0d378a03_64.png",
    "reblogged_from_avatar_url_96" : "https://66.media.tumblr.com/avatar_5abf0d378a03_96.png",
    "reblogged_root_avatar_url_128" : "https://66.media.tumblr.com/avatar_99dc549c36b0_128.png",
-   "reblogged_root_avatar_url_40" : "https://66.media.tumblr.com/avatar_99dc549c36b0_40.png",
-   "reblogged_root_avatar_url_48" : "https://66.media.tumblr.com/avatar_99dc549c36b0_48.png",
    "reblogged_root_avatar_url_512" : "https://66.media.tumblr.com/avatar_99dc549c36b0_512.png",
    "reblogged_root_avatar_url_64" : "https://66.media.tumblr.com/avatar_99dc549c36b0_64.png",
    "reblogged_root_avatar_url_96" : "https://66.media.tumblr.com/avatar_99dc549c36b0_96.png",
@@ -38,8 +34,6 @@
    ],
    "tumblelog" : {
       "avatar_url_128" : "https://66.media.tumblr.com/avatar_d75db498370e_128.png",
-      "avatar_url_40" : "https://66.media.tumblr.com/avatar_d75db498370e_40.png",
-      "avatar_url_48" : "https://66.media.tumblr.com/avatar_d75db498370e_48.png",
       "avatar_url_512" : "https://66.media.tumblr.com/avatar_d75db498370e_512.png",
       "avatar_url_64" : "https://66.media.tumblr.com/avatar_d75db498370e_64.png",
       "avatar_url_96" : "https://66.media.tumblr.com/avatar_d75db498370e_96.png",
@@ -54,9 +48,9 @@
    "url" : "https://tumblr.ggvaidya.com/post/113809859881",
    "url-with-slug" : "https://tumblr.ggvaidya.com/post/113809859881/canadian-space-agency-nasa-astronaut-terry-w",
    "video-caption" : "<p><a href=\"http://canadian-space-agency.tumblr.com/post/110201777124/nasa-astronaut-terry-w-virts-aboard-the-iss-our\" class=\"tumblr_blog\">canadian-space-agency</a>:</p><blockquote><p>NASA\nAstronaut Terry W. Virts aboard the ISS: âOur solar panels chase the sun as we\npaddle through the universe.â January 24<sup>th</sup>, 2015.</p><p>Source:\nTerry W. Virts/NASA</p></blockquote>",
-   "video-player" : false,
-   "video-player-250" : false,
-   "video-player-500" : false,
+   "video-player" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/OILgwYDUqtP/embed/simple\" width=\"400\" height=\"400\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
+   "video-player-250" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/OILgwYDUqtP/embed/simple\" width=\"250\" height=\"250\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
+   "video-player-500" : "<iframe class=\"vine-embed\" src=\"https://vine.co/v/OILgwYDUqtP/embed/simple\" width=\"500\" height=\"500\" frameborder=\"0\"></iframe><script async src=\"//platform.vine.co/static/scripts/embed.js\"></script>",
    "video-source" : "https://vine.co/v/OILgwYDUqtP"
 }
 
