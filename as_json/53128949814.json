@@ -39,9 +39,9 @@
    "url" : "https://tumblr.ggvaidya.com/post/53128949814",
    "url-with-slug" : "https://tumblr.ggvaidya.com/post/53128949814/in-my-head-for-some-reason-well-the-much-better",
    "video-caption" : "<p>In my head for some reason (well, the much better studio version anyway), so I thought I&rsquo;d put it up here.</p>",
-   "video-player" : false,
-   "video-player-250" : false,
-   "video-player-500" : false,
+   "video-player" : "<iframe width=\"400\" height=\"300\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/iOua4sKqXEQ?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+   "video-player-250" : "<iframe width=\"250\" height=\"187\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/iOua4sKqXEQ?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+   "video-player-500" : "<iframe width=\"500\" height=\"375\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/iOua4sKqXEQ?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
    "video-source" : "https://www.youtube.com/watch?v=iOua4sKqXEQ"
 }
 

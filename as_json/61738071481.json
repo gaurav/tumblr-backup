@@ -14,7 +14,7 @@
    "reblog-key" : "262T1JA3",
    "reblogged-from-name" : "dghost-deactivated20140725",
    "reblogged-from-title" : "ghostworks",
-   "reblogged-from-url" : "http://dghost-deactivated20140725.tumblr.com/post/61732747770/whyifail-i-am-very-very-proud-of-you-disney",
+   "reblogged-from-url" : "https://dghost-deactivated20140725.tumblr.com/post/61732747770/whyifail-i-am-very-very-proud-of-you-disney",
    "reblogged-root-name" : "whyifail",
    "reblogged-root-title" : "Learning the Hard Way",
    "reblogged-root-url" : "http://whyifail.tumblr.com/post/61720740217/i-am-very-very-proud-of-you-disney",
@@ -63,9 +63,9 @@
    "url" : "https://tumblr.ggvaidya.com/post/61738071481",
    "url-with-slug" : "https://tumblr.ggvaidya.com/post/61738071481/dghost-whyifail-i-am-very-very-proud-of-you",
    "video-caption" : "<p><a href=\"http://dghost.tumblr.com/post/61732747770/whyifail-i-am-very-very-proud-of-you-disney\" class=\"tumblr_blog\">dghost</a>:</p>\n\n<blockquote><p><a class=\"tumblr_blog\" href=\"http://whyifail.tumblr.com/post/61720740217/i-am-very-very-proud-of-you-disney\">whyifail</a>:</p>\n<blockquote>\n<p>I am very, VERY proud of you Disney.</p>\n</blockquote>\n<p>Pfffttt. That hot dog was still totally good.</p></blockquote>",
-   "video-player" : "<iframe width=\"400\" height=\"225\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/-q39cIdslzQ?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-   "video-player-250" : "<iframe width=\"250\" height=\"141\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/-q39cIdslzQ?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-   "video-player-500" : "<iframe width=\"500\" height=\"281\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/-q39cIdslzQ?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+   "video-player" : false,
+   "video-player-250" : false,
+   "video-player-500" : false,
    "video-source" : "http://www.youtube.com/watch?v=-q39cIdslzQ&list=UU5K8SEF_7GQBedXIjtXLCRg"
 }
 
