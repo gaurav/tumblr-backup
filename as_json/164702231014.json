@@ -39,9 +39,9 @@
    "url" : "https://tumblr.ggvaidya.com/post/164702231014",
    "url-with-slug" : "https://tumblr.ggvaidya.com/post/164702231014/i-had-to-listen-to-this-to-confirm-that-the",
    "video-caption" : "<p>I had to listen to this to confirm that the opening notes repeat twice (once for each person walking down the stairs!), so I figure you should too. The bit with the cherubs and the moment at the end when Lumiere turns the lights down so the stars show up. Some day I will figure out if this is the greatest song in the Disney or if it&rsquo;s &ldquo;Free the birds (Tuppence a bag)&rdquo;. Probably the latter, but damn if this isn&rsquo;t a fine song for love.</p>",
-   "video-player" : "<iframe width=\"400\" height=\"225\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/uQ0ODCMC6xs?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-   "video-player-250" : "<iframe width=\"250\" height=\"141\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/uQ0ODCMC6xs?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-   "video-player-500" : "<iframe width=\"500\" height=\"281\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/uQ0ODCMC6xs?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+   "video-player" : false,
+   "video-player-250" : false,
+   "video-player-500" : false,
    "video-source" : "https://m.youtube.com/watch?v=uQ0ODCMC6xs"
 }
 
