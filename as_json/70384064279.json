@@ -40,9 +40,9 @@
    "url" : "https://tumblr.ggvaidya.com/post/70384064279",
    "url-with-slug" : "https://tumblr.ggvaidya.com/post/70384064279/carol-of-the-bells-or-that-song-from-home-alone",
    "video-caption" : "<p><a href=\"https://en.wikipedia.org/wiki/Carol_of_the_Bells\">Carol of the Bells</a>, or &ldquo;that song from Home Alone&rdquo; as I knew it for ages.</p>",
-   "video-player" : "<iframe width=\"400\" height=\"225\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/3x_qMcIRbdU?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-   "video-player-250" : "<iframe width=\"250\" height=\"141\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/3x_qMcIRbdU?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-   "video-player-500" : "<iframe width=\"500\" height=\"281\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/3x_qMcIRbdU?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+   "video-player" : false,
+   "video-player-250" : false,
+   "video-player-500" : false,
    "video-source" : "http://www.youtube.com/watch?v=3x_qMcIRbdU"
 }
 

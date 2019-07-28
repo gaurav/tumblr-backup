@@ -39,9 +39,9 @@
    "url" : "https://tumblr.ggvaidya.com/post/139283347574",
    "url-with-slug" : "https://tumblr.ggvaidya.com/post/139283347574/your-name-please-garland-briggs-garland",
    "video-caption" : "<p>&ldquo;Your name please?&rdquo; &ldquo;Garland. Briggs.&rdquo; &ldquo;Garland. What do you fear most in the world?&rdquo; &ldquo;The possibility that love is not enough.&rdquo;</p>",
-   "video-player" : false,
-   "video-player-250" : false,
-   "video-player-500" : false,
+   "video-player" : "<iframe width=\"400\" height=\"300\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/Yx9GnKwC8Ew?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+   "video-player-250" : "<iframe width=\"250\" height=\"187\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/Yx9GnKwC8Ew?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+   "video-player-500" : "<iframe width=\"500\" height=\"375\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/Yx9GnKwC8Ew?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
    "video-source" : "https://www.youtube.com/watch?v=Yx9GnKwC8Ew"
 }
 

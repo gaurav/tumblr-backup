@@ -34,9 +34,9 @@
    "url" : "https://tumblr.ggvaidya.com/post/42213027167",
    "url-with-slug" : "https://tumblr.ggvaidya.com/post/42213027167/a-fascinating-history-of-the-iconic-keep-calm-and",
    "video-caption" : "<p>A fascinating history of the iconic <a href=\"http://en.wikipedia.org/wiki/Keep_Calm_and_Carry_On\"><em>Keep Calm and Carry On</em></a> poster. Via Abhilash Nambiar.</p>",
-   "video-player" : false,
-   "video-player-250" : false,
-   "video-player-500" : false,
+   "video-player" : "<iframe width=\"400\" height=\"225\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/FrHkKXFRbCI?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+   "video-player-250" : "<iframe width=\"250\" height=\"141\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/FrHkKXFRbCI?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+   "video-player-500" : "<iframe width=\"500\" height=\"281\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/FrHkKXFRbCI?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
    "video-source" : "https://www.youtube.com/watch?v=FrHkKXFRbCI"
 }
 
