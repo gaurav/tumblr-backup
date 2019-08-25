@@ -40,9 +40,9 @@
    "url" : "https://tumblr.ggvaidya.com/post/151855443954",
    "url-with-slug" : "https://tumblr.ggvaidya.com/post/151855443954",
    "video-caption" : "",
-   "video-player" : "<iframe src=\"https://player.vimeo.com/video/166319350?title=0&byline=0&portrait=0&app_id=122963\" width=\"400\" height=\"225\" frameborder=\"0\" title=\"How Does an Editor Think and Feel?\" allow=\"autoplay; fullscreen\" allowfullscreen></iframe>",
-   "video-player-250" : "<iframe src=\"https://player.vimeo.com/video/166319350?title=0&byline=0&portrait=0&app_id=122963\" width=\"250\" height=\"141\" frameborder=\"0\" title=\"How Does an Editor Think and Feel?\" allow=\"autoplay; fullscreen\" allowfullscreen></iframe>",
-   "video-player-500" : "<iframe src=\"https://player.vimeo.com/video/166319350?title=0&byline=0&portrait=0&app_id=122963\" width=\"500\" height=\"281\" frameborder=\"0\" title=\"How Does an Editor Think and Feel?\" allow=\"autoplay; fullscreen\" allowfullscreen></iframe>",
+   "video-player" : "<iframe src=\"https://player.vimeo.com/video/166319350?title=0&amp;byline=0&amp;portrait=0&amp;app_id=122963\" width=\"400\" height=\"225\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen title=\"How Does an Editor Think and Feel?\"></iframe>",
+   "video-player-250" : "<iframe src=\"https://player.vimeo.com/video/166319350?title=0&amp;byline=0&amp;portrait=0&amp;app_id=122963\" width=\"250\" height=\"141\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen title=\"How Does an Editor Think and Feel?\"></iframe>",
+   "video-player-500" : "<iframe src=\"https://player.vimeo.com/video/166319350?title=0&amp;byline=0&amp;portrait=0&amp;app_id=122963\" width=\"500\" height=\"281\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen title=\"How Does an Editor Think and Feel?\"></iframe>",
    "video-source" : "https://vimeo.com/166319350"
 }
 
