@@ -63,9 +63,9 @@
    "url" : "https://tumblr.ggvaidya.com/post/63669450462",
    "url-with-slug" : "https://tumblr.ggvaidya.com/post/63669450462/lobsterjohnsonjr-guillermo-del-toros-treehouse",
    "video-caption" : "<p><a class=\"tumblr_blog\" href=\"http://lobsterjohnsonjr.tumblr.com/post/63303050722/guillermo-del-toros-treehouse-of-horrors-opening\">lobsterjohnsonjr</a>:</p>\n<blockquote>\n<p>Guillermo Del Toroâs Treehouse of Horrorâs opening for The Simpsons.</p>\n</blockquote>",
-   "video-player" : false,
-   "video-player-250" : false,
-   "video-player-500" : false,
+   "video-player" : "<iframe width=\"400\" height=\"225\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/CtgYY7dhTyE?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+   "video-player-250" : "<iframe width=\"250\" height=\"141\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/CtgYY7dhTyE?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+   "video-player-500" : "<iframe width=\"500\" height=\"281\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/CtgYY7dhTyE?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
    "video-source" : "http://www.youtube.com/watch?feature=player_embedded&v=CtgYY7dhTyE"
 }
 
