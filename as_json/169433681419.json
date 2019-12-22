@@ -64,9 +64,9 @@
    "url" : "https://tumblr.ggvaidya.com/post/169433681419",
    "url-with-slug" : "https://tumblr.ggvaidya.com/post/169433681419/1000-directions-ihave-probably-never-related-to",
    "video-caption" : "<p><a href=\"http://1000-directions.tumblr.com/post/165172675149/ihave-probably-never-related-to-a-scene-of\" class=\"tumblr_blog\">1000-directions</a>:</p><blockquote>\n<p>iâ¦have probably never related to a scene of television more than this one that forces you to listen to the inescapable onslaught of self-loathing that is bojackâs internal monologue.</p>\n<p>this one is pretty gut-punching, too.</p>\n<figure class=\"tmblr-embed tmblr-full\" data-provider=\"youtube\" data-orig-width=\"540\" data-orig-height=\"304\" data-url=\"https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxXQ0kkVIM0Q\"><iframe width=\"540\" height=\"304\" id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/xXQ0kkVIM0Q?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allowfullscreen=\"\"></iframe></figure></blockquote>",
-   "video-player" : "<iframe width=\"400\" height=\"225\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/dGalix-sVXs?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-   "video-player-250" : "<iframe width=\"250\" height=\"141\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/dGalix-sVXs?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-   "video-player-500" : "<iframe width=\"500\" height=\"281\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/dGalix-sVXs?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+   "video-player" : false,
+   "video-player-250" : false,
+   "video-player-500" : false,
    "video-source" : "https://www.youtube.com/watch?v=dGalix-sVXs"
 }
 
